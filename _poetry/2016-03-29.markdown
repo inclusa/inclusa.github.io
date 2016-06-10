@@ -1,0 +1,11 @@
+---
+layout: post
+title: Acció
+date: 2016-03-29 10:00:00
+---
+
+El gran objectiu de l'educació<br />
+no és el coneixement,<br />
+sino l'acció.<br />
+
+<small>Herbert Spencer</small>

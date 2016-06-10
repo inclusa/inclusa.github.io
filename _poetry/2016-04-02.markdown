@@ -1,0 +1,12 @@
+---
+layout: post
+title: Començar
+date: 2016-04-02 10:00:00
+---
+
+Soles hi ha dos errades que podem cometre<br />
+en el camí cap a la veritat;<br />
+no recórrer tot el camí i no començar.<br />
+
+<small>Buda</small>
+

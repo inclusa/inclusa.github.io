@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Bonding, ethernet 2 Gigabits</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/inclusa/css/main.css">
+    <link rel="canonical" href="/inclusa/2016/04/18/Bonding,-duplicant-la-velocitat-ethernet-en-server.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/inclusa/">blog</a>
+
+        
+          
+          <a class="page-link" href="/inclusa/about/">identitat</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/inclusa/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/inclusa/portfolio/">portfoli</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Bonding, ethernet 2 Gigabits</h1>
+    <p class="post-meta">April 18, 2016 — 02:00</p>
+  </header>
+
+  <article class="post-content">
+    <h1 id="definici">Definició</h1>
+
+<p><strong>Channel bonding</strong> és una tècnica que consisteix en la utilització de dues targetes d’ethernet amb la finalitat de duplicar i balancejar la velocitat d’ethernet en servidors.</p>
+
+<h1 id="avantatges">Avantatges:</h1>
+
+<ul>
+  <li>Si una de les dues targetes es trenca, sempre queda l’altra.</li>
+  <li>Es duplica l’ample de banda, així que duplicarem la velocitat.</li>
+</ul>
+
+<h1 id="passos">Passos</h1>
+
+<p>Instal·lem software per assignar interfaces de xarxa al mòdul que les enllaça</p>
+
+<pre><code>$ sudo apt-get install ifenslave
+</code></pre>
+
+<p>Creem un arxu de configuració de l’enllaç</p>
+
+<pre><code>$ sudo vim /etc/modprove.d/bondig.conf
+</code></pre>
+
+<p>Li afegim aquestes línies</p>
+
+<pre><code>alias bond0 bonding
+optins bonding mode=0 miimon=100
+</code></pre>
+
+<p>El <code>mode=0</code> permeteix balancejar la càrrega i tolerància a errades, es poden utilitzar altres mòduls. L’altre paràmetre és el temps entre comprovacions de l’estat de la interface.</p>
+
+<p>Seria bo desinstal·lar assistents com <strong>Network Manager</strong>.</p>
+
+<p>Editem l’arxiu d’interfaces de xarxa</p>
+
+<pre><code>sudo vim /etc/network/interfaces
+</code></pre>
+
+<p>Comentem les línies de les interfaces amb un # a principi de línia, hauria de quedar així:</p>
+
+<pre><code>auto lo
+iface lo inet loopback
+
+auto bond0
+iface bond0 inet static
+address 192.168.1.240
+gateway 192.168.1.1
+netmask 255.255.255.0
+slaves eth0 eth1
+bond-mode 0
+bond-miimon 100
+</code></pre>
+
+<p>Cal posar en <code>address</code> la nostra direcció i en <code>gateway</code> l’adreça del router.</p>
+
+<p>Les dos últimes línies sols les posem en cas que no hagem creat l’arxiu /etc/modprobe.d/bonding.conf</p>
+
+<p>Arramquem el servei</p>
+
+<pre><code>$ sudo modprobe bonding
+$ sudo /etc/init.d/networking restart
+</code></pre>
+
+<h1 id="fonts">Fonts</h1>
+
+<ul>
+  <li><a href="http://el64.blogspot.com.es/2010/01/enlazar-dos-tarjetas-de-red-bonding.html">El 64</a></li>
+  <li><a href="https://help.ubuntu.com/community/UbuntuBonding">Ubuntu Bonding</a></li>
+</ul>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

@@ -1,0 +1,78 @@
+<h1 id="iniciar-un-repositori-git">1. Iniciar un repositori git</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git init
+</code></pre>
+</div>
+
+<h1 id="configurar-lo">2. Configurar-lo</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global user.name "John Doe"
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global user.email johndoe@example.com
+</code></pre>
+</div>
+
+<h1 id="afegir-arxius-de-rastreig">3. Afegir arxius de rastreig</h1>
+
+<p>Cada vegada que modifiquem alguna cosa cal dir-li a GIT que ho tinga en compte.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git add .
+</code></pre>
+</div>
+
+<h1 id="crear-branca">4. Crear branca</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git checkout -b gh-pages
+</code></pre>
+</div>
+
+<h1 id="canviar-de-branca">5. Canviar de branca</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git checkout master
+</code></pre>
+</div>
+
+<h1 id="mirar-en-quina-branca-estem">6. Mirar en quina branca estem</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git branch
+</code></pre>
+</div>
+
+<h1 id="desfer-ltim-commit">7. Desfer últim commit</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git reset --hard HEAD~1
+</code></pre>
+</div>
+
+<h1 id="desfer-fins-arribar-a-5-commits-abans">8. Desfer fins arribar a 5 commits abans</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git reset --hard HEAD~5
+</code></pre>
+</div>
+
+<h1 id="desfer-el-que-tenim-al-git-local-i-baixar-el-que-hi-ha-al-server">9. Desfer el que tenim al GIT local i baixar el que hi ha al server</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git fetch
+</code></pre>
+</div>
+
+<h1 id="clonar-repositori-remot">10. Clonar repositori remot</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git clone https://github.com/inclusa/inclusa
+</code></pre>
+</div>
+
+<h1 id="sincronitzar-des-del-repositori-remot-al-local">11. Sincronitzar des del repositori remot al local</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git pull
+</code></pre>
+</div>
+
+<h1 id="sincronitzar-des-del-repositori-local-al-remot">12. Sincronitzar des del repositori local al remot</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git push
+</code></pre>
+</div>
+

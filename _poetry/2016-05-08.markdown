@@ -1,0 +1,12 @@
+---
+layout: post
+title: Paciència
+date:  2016-05-08 00:00:00
+---
+
+Espera fins que el fang s'assente<br />
+i l'aigua estiga clara.<br />
+Roman immòvil fins que l'acció<br />
+sorgisca per sí mateixa.<br />
+
+<small>Lao Tzu</small>

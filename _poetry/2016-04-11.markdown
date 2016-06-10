@@ -1,0 +1,11 @@
+---
+layout: post
+title: Importància
+date: 2016-04-11 10:00:00
+---
+
+Les coses que importen més mai han de dependre<br />
+de les coses que importen menys.<br />
+
+<small>Goethe</small>
+

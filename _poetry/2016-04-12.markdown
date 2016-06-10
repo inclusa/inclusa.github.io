@@ -1,0 +1,11 @@
+---
+layout: post
+title: Lentitut
+date: 2016-04-12 10:00:00
+---
+
+No importa com de lent vages<br />
+sempre que no et detingues.<br />
+
+<small>Confucio</small>
+

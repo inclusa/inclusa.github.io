@@ -1,0 +1,13 @@
+---
+layout: post
+title: Guanyar
+date: 2016-04-14 10:00:00
+---
+
+Primer t'ignoren<br />
+després es riuen de tu<br />
+finalment d'ataquen<br />
+llavors guanyes.<br />
+
+<small>Mahadma Gandhi</small>
+

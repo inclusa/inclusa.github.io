@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Sintaxis en Markdown</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/inclusa/css/main.css">
+    <link rel="canonical" href="/inclusa/2016/04/15/Vim-sintaxis-en-markdown.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/inclusa/">blog</a>
+
+        
+          
+          <a class="page-link" href="/inclusa/about/">identitat</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/inclusa/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/inclusa/portfolio/">portfoli</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Sintaxis en Markdown</h1>
+    <p class="post-meta">April 15, 2016 — 02:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Treballar amb l’editor <a href="http://www.vim.org/">Vim</a> suposa aprendre a escriure en aquets entorn.</p>
+
+<p>No és fàcil, al principi superar el temps i la paciència que hem d’invertir per tal d’aconseguir crear un entorn propici per treballar. Una de les característiques que em molestava molt és que canviara de color les llebres quan utilitzava cometes.</p>
+
+<p>Per resoldre aquest problema vaig recòrrer a instal·lar les sintaxis que més sovint utilitzava, en el meu cas, <strong>markdown</strong>, <strong>html</strong>, <strong>bash</strong> i <strong>python</strong>.</p>
+
+<p>Per tal que <strong>Vim</strong> colorejara els continguts escrits en markdown cal seguir aquests senzills passos:</p>
+
+<ol>
+  <li>Localitzem les instruccions i el codi font en la mateixa plana de <a href="http://www.vim.org/scripts/script.php?script_id=1242">Vim</a> el repositori de <a href="https://github.com/plasticboy/vim-markdown">plasticboy</a>.</li>
+  <li>Cal tenir instal·lat el plugin <a href="https://github.com/tpope/vim-pathogen">Patogen</a>.</li>
+  <li>Clonem o descarreguem el repositori <a href="https://github.com/plasticboy/vim-markdowni">plasticboy</a>.</li>
+  <li>Ara descareguem el codi:</li>
+</ol>
+
+<pre><code>cd ~/.vim/bundle
+git clone https://github.com/plasticboy/vim-markdown.git
+</code></pre>
+
+<p>Finalment activem el codi a l’arxiu <code>.vimrc</code></p>
+
+<pre><code>autocmd BufNewFile,BufReadPost *.md set filetype=markdown
+</code></pre>
+<p>Tamquem totes les terminals i les tornem a obrir.</p>
+
+<p>Així ja ens reconeixerà la sintaxi de <strong>Markdown</strong> de forma correcta.</p>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

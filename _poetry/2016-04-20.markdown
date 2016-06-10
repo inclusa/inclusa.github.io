@@ -1,0 +1,10 @@
+---
+layout: post
+title: Futur
+date: 2016-04-20 10:00:00
+---
+
+El futur depén<br />
+del que faces en el present.<br />
+
+<small>Mahatma Gandhi</small>

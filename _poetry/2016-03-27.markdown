@@ -1,0 +1,10 @@
+---
+layout: post
+title: Usuaris
+date: 2016-03-27 10:00:00
+---
+
+Si penses que els usuaris del teu programari són idiotes<br />
+sols els idiotes usaran el teus programari.
+
+<small>Linus Torvalds</small>

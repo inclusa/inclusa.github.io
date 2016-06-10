@@ -1,0 +1,11 @@
+---
+layout: post
+title: Reacionar
+date: 2016-04-05 10:00:00
+---
+
+No és el que et passa,<br />
+sinó com reacciones al que importa.<br />
+
+<small>Epíteto</small>
+

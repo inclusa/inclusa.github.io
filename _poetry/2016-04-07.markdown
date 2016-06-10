@@ -1,0 +1,12 @@
+---
+layout: post
+title: Petjada
+date: 2016-04-07 10:00:00
+---
+
+Tota errada deixa una ensenyança<br />
+tota ensenyança deixa una experiència<br />
+tota experiència deixa una petjada.
+
+<small>Anònim</small>
+

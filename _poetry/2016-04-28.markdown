@@ -1,0 +1,10 @@
+---
+layout: post
+title: Pensaments
+date: 2016-04-28 00:00:00
+---
+
+Deixa anar els pensaments
+que no et fan fort.
+
+<small>Anònim</small>

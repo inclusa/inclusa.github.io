@@ -1,0 +1,11 @@
+---
+layout: post
+title: Enganyar
+date: 2016-04-16 10:00:00
+---
+
+És més fàcil enganyar a la gent<br />
+que convercer-los de que han estat enganyats.<br />
+
+<small>Mark Twain</small>
+

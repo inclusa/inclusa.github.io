@@ -1,0 +1,11 @@
+---
+layout: post
+title: Pas
+date: 2016-04-18 10:00:00
+---
+
+Un viatge de mil Li<br />
+comença amb un primer pas.<br />
+
+<small>Lao Tsé</small>
+

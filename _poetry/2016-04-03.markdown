@@ -1,0 +1,10 @@
+---
+layout: post
+title: Menys
+date: 2016-04-03 10:00:00
+---
+
+Té més el que està content amb menys.
+
+<small>Diògenes</small>
+

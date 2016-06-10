@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>GIT - Princials comandaments</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/inclusa/css/main.css">
+    <link rel="canonical" href="/inclusa/2016/03/30/GIT-Principals-comandaments-que-utilitze.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/inclusa/">blog</a>
+
+        
+          
+          <a class="page-link" href="/inclusa/about/">identitat</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/inclusa/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/inclusa/portfolio/">portfoli</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">GIT - Princials comandaments</h1>
+    <p class="post-meta">March 30, 2016 — 02:00</p>
+  </header>
+
+  <article class="post-content">
+    <h1 id="iniciar-un-repositori-git">1. Iniciar un repositori git</h1>
+
+<pre><code>$ git init
+</code></pre>
+
+<h1 id="configurar-lo">2. Configurar-lo</h1>
+
+<pre><code>$ git config --global user.name "John Doe"
+</code></pre>
+
+<pre><code>$ git config --global user.email johndoe@example.com
+</code></pre>
+
+<h1 id="afegir-arxius-de-rastreig">3. Afegir arxius de rastreig</h1>
+
+<p>Cada vegada que modifiquem alguna cosa cal dir-li a GIT que ho tinga en compte.</p>
+
+<pre><code>$ git add .
+</code></pre>
+
+<h1 id="crear-branca">4. Crear branca</h1>
+
+<pre><code>$ git checkout -b gh-pages
+</code></pre>
+
+<h1 id="canviar-de-branca">5. Canviar de branca</h1>
+
+<pre><code>$ git checkout master
+</code></pre>
+
+<h1 id="mirar-en-quina-branca-estem">6. Mirar en quina branca estem</h1>
+
+<pre><code>$ git branch
+</code></pre>
+
+<h1 id="desfer-ltim-commit">7. Desfer últim commit</h1>
+
+<pre><code>$ git reset --hard HEAD~1
+</code></pre>
+
+<h1 id="desfer-fins-arribar-a-5-commits-abans">8. Desfer fins arribar a 5 commits abans</h1>
+
+<pre><code>$ git reset --hard HEAD~5
+</code></pre>
+
+<h1 id="desfer-el-que-tenim-al-git-local-i-baixar-el-que-hi-ha-al-server">9. Desfer el que tenim al GIT local i baixar el que hi ha al server</h1>
+
+<pre><code>$ git fetch
+</code></pre>
+
+<h1 id="clonar-repositori-remot">10. Clonar repositori remot</h1>
+
+<pre><code>$ git clone https://github.com/inclusa/inclusa
+</code></pre>
+
+<h1 id="sincronitzar-des-del-repositori-remot-al-local">11. Sincronitzar des del repositori remot al local</h1>
+
+<pre><code>$ git pull
+</code></pre>
+
+<h1 id="sincronitzar-des-del-repositori-local-al-remot">12. Sincronitzar des del repositori local al remot</h1>
+
+<pre><code>$ git push
+</code></pre>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
