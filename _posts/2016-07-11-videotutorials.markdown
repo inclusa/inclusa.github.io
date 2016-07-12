@@ -14,5 +14,5 @@ Recopilació d'alguns videotutorials que mereixen ser estudiats:
 6. [Curso de CSS3](https://www.youtube.com/playlist?list=PL5mZlJHWhPyxCif2OzY0DZKad0byKFq85) - Johan Ricardo
 7. [GULP](https://www.youtube.com/playlist?list=PL5mZlJHWhPyzNl8W_B33FaQT1RnH9GRsR) Automatització de tasques web - Johan Ricardo
 8. [Creating your firts Ubuntu App](https://www.youtube.com/watch?v=sO8hiPreNBg) - Jono Bacon
-9. [UjiLliureX 2016](http://ujilliurex.uji.es/videos.php)
-10. [GitHUB](https://vimeo.com/39829002)
+9. [UjiLliureX 2016](http://ujilliurex.uji.es/videos.php) - Julio Pacheco
+10. [GitHUB](https://vimeo.com/39829002) - Fran Moreno
