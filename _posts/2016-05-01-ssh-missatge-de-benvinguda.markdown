@@ -7,7 +7,7 @@ description: Missatge de benvinguda quan et connectes a ssh
 
 Quan et connectes per `ssh` a moltes màquines cal identificar-les per tal d'estar segur què fas en cada màquina. Per fer-ho una manera efectiva caldrà posar un arxiu en aquest lloc:
 
-```
+```bash
 /etc/update-motd/
 ```
 
@@ -15,7 +15,7 @@ Aquests arxius que romanen ací porten numeració davant, doncs cal respectar-la
 
 Com a model agafem aquest arxiu de **LliureX 15.05** `/etc/update-motd/61-lliurex`
 
-```
+```bash
 #!/bin/bash
 LANG=es_ES.UTF-8
 TERM=xterm
