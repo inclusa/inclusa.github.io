@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Iniciant el blog
+title:  01 Iniciant el blog
 date:   2016-03-25 09:15:00
 description: Arramquem el blog amb tres objectius
 ---

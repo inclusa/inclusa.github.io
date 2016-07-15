@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snippets for Vim
+title: 04 Snippets for Vim
 date: 2016-04-03 00:00:00
 description: Automatització de text, insertar automàtica contextualitzada
 ---

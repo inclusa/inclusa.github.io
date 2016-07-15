@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GIT - Princials comandaments
+title: 03 GIT - Princials comandaments
 date: 2016-03-30 00:00:00
 description: Descripció de comandaments de GIT
 ---

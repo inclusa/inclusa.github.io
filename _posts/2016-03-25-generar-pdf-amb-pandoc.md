@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generar PDF amb Pandoc
+title: 02 Generar PDF amb Pandoc
 date: 2016-03-25 16:00:00
 description: Procediment per generar PDF des de Markdown
 ---
