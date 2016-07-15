@@ -16,3 +16,7 @@ Recopilació d'alguns videotutorials que mereixen ser estudiats:
 8. [Creating your firts Ubuntu App](https://www.youtube.com/watch?v=sO8hiPreNBg) - Jono Bacon
 9. [UjiLliureX 2016](http://ujilliurex.uji.es/videos.php) - Julio Pacheco
 10. [GitHUB](https://vimeo.com/39829002) - Fran Moreno
+11. [Videotutorial de Python](https://www.youtube.com/playlist?list=PLE549A038CF82905F) - Código Facilito
+12. [Curso Ruby on Rails 4 desde cero](https://www.youtube.com/playlist?list=PLpOqH6AE0tNiQ-ofrDlbAUSc1r67r_AWv) - Código Facilito
+13. [Curso de Java](https://www.youtube.com/playlist?list=PL602060AB32FC864B) - Código facilito
+14. [Curso de C](https://www.youtube.com/playlist?list=PLpOqH6AE0tNhmU9OUbm5FIJtnHAbJ4dKd) - Código Facilito
