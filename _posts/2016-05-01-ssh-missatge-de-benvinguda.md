@@ -2,7 +2,7 @@
 layout: post
 title: 07 SSH missatge de benvinguda
 date:  2016-05-01 00:00:00
-description: Missatge de benvinguda quan et connectes a ssh
+description: Missatge de benvinguda quan et connectes a ssh.
 ---
 
 Quan et connectes per `ssh` a moltes màquines cal identificar-les per tal d'estar segur què fas en cada màquina. Per fer-ho una manera efectiva caldrà posar un arxiu en aquest lloc:

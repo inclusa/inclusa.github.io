@@ -2,6 +2,7 @@
 layout: post
 title: 09 Renomenar arxius
 date:  2016-07-16 00:00:00
+description: Procediment per renomenar de forma massiva arxius des del terminal.
 ---
 
 Per tal de renomenar els arxius a sistemes operatius **GNU/Linux**.

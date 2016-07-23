@@ -2,6 +2,7 @@
 layout: post
 title: 06 Bonding, ethernet 2 Gigabits 
 date: 2016-04-18 00:00:00
+description: Utilització de dues targetes ethernet com una sola de forma que podem duplicar l'ample de banda en un server
 ---
 
 # Definició

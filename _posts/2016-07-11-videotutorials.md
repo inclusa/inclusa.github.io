@@ -2,6 +2,7 @@
 layout: post
 title: 08 Videotutorials
 date:  2016-07-11 00:00:00
+description: Recopilació de videotutorials ben interessants per introduir-se en diverses tecnologies.
 ---
 
 Recopilació d'alguns videotutorials que mereixen ser estudiats:
