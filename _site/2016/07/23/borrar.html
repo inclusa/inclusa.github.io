@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Llagostina</title>
+    <title>10 Borrar arxius excepte patró</title>
     <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/portfolio/3_project/">
+    <link rel="canonical" href="/2016/07/23/borrar.html">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -61,24 +61,38 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Llagostina</h1>
-    <p class="post-meta">July 23, 2016 — 17:18</p>
+    <h1 class="post-title">10 Borrar arxius excepte patró</h1>
+    <p class="post-meta">July 23, 2016 — 02:00</p>
   </header>
 
   <article class="post-content">
-    <p>ELlagostína és un <a href="http://llagostina.wordpress.com">blog</a> d’acompanyament escolar des d’una perspectiva no professional. És un suport obert per tal d’ajudar a arribar, de mostrar altres formes de construir el coneixement.</p>
+    <p>De vegades cal borrar tots els arxius menys alguns en un directori. Deixem el patró de com fer-ho per tal d’accedir al procediment de forma fàcil. Es tracta d’un script escrit en bash.</p>
 
-<p>Aquest blog va arrancar al novembre de 2014 amb un objectiu fonamental: <em>construir un camí metodològic alternatiu per l’educació obligatòria</em>.</p>
+<pre><code class="language-bash">for a in `ls | grep -v .md`; do rm -fr $a; done
+</code></pre>
 
-<div class="img_row">
-	<img class="col one" src="/img/llagosti-avatar.png" alt="" title="example image" />
-	<img class="col one" src="/img/llagosti.png" alt="" title="example image" />
-	<img class="col one" src="/img/llagostina-avatar.png" alt="" title="example image" />
-</div>
-<div class="col three caption">
-	Logo identificatiu dels dos blogs d'acompanyament educatiu
-</div>
+<h3 id="explicaci">Explicació</h3>
 
+<ul>
+  <li><code>for</code>: per a.</li>
+  <li><code>a</code>: variable.</li>
+  <li><code>in</code>: en.</li>
+  <li><code>\</code>`: accent greu</li>
+  <li><code>|</code>: de forma paral·lela filtra.</li>
+  <li><code>grep</code>: filtra.</li>
+  <li><code>-v</code>: inverteix les coincidències, els paràmetres que no coincidisquen amb.</li>
+  <li><code>.md</code>: extensió dels arxius que no es vol borrar.</li>
+  <li><code>\</code>`: accent greu.</li>
+  <li><code>;</code>: executa.</li>
+  <li><code>do</code>: fes.</li>
+  <li><code>rm</code>: borra.</li>
+  <li><code>-fr</code>: forçat i de forma recursiva.</li>
+  <li><code>$a</code>: variable a.</li>
+  <li><code>;</code>: executa.</li>
+  <li><code>done</code> fet, para l’execució.</li>
+</ul>
+
+<p>Font: <a href="http://www.juanjoconti.com.ar/2010/05/10/borrar-todos-los-archivos-de-un-directorio-menos-los-que/">El borrador permanente</a></p>
 
   </article>
 
