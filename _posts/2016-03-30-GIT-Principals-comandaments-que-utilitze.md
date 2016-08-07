@@ -101,4 +101,13 @@ $ git config --global credential.helper 'cache --timeout=3600'
 
 Transcorreguda un hora tornarà a demanar la contrasenya.
 
+# 15. Borrar branca i borrar-la del server
 
+Objectiu: volem borrar la branca gh-pages
+
+```
+$ git branch -d gh-pages           # elimina branca local
+
+$ git push origin :gh-pages        # elimina branca remota
+
+```
