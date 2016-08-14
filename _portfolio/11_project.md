@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lectura
-description: recurs
+title: PADIE
+description: Document de treball
 img: ..//img/2.jpg
-redirect: http://inclusa.github.io/lectura
+redirect: http://inclusa.github.io/padie
 ---
 
