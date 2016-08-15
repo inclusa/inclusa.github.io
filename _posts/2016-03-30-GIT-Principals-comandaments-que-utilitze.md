@@ -112,6 +112,31 @@ $ git push origin :gh-pages        # elimina branca remota
 
 ```
 
+# Iniciar repositori en GITHub des de terminal
+
+```
+touch README.md
+git init
+git add README.md
+git commit -m "comentari"
+git remote add origin https://github.com/usuario/repositori.git
+git push -u origin master
+```
+
+## Explicació
+
+`touch`: Crea un arxiu buit
+
+`git init`: Inicia el repositori creant els arxius de rastreig a .git
+
+`git add README.md`: Afegig l'arxiu README.md per tal que es rastrege
+
+`git commit -m "comentari": Crea el punt d'emmagatzemmament del contigut actual, emmgatzema el contingut de del projecte establint fixant un punt, també afegeix un comentar
+
+`git add remote add origin https://`: Afegeig repositori remot
+
+`git push -u origin master`: publica el repositori local a la branca `master` remota
+
 # Fonts
 
 - [git - la guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
