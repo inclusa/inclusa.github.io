@@ -112,7 +112,7 @@ $ git push origin :gh-pages        # elimina branca remota
 
 ```
 
-# Iniciar repositori en GITHub des de terminal
+# 16. Iniciar repositori en GITHub des de terminal
 
 ```
 touch README.md
@@ -123,7 +123,7 @@ git remote add origin https://github.com/usuario/repositori.git
 git push -u origin master
 ```
 
-## Explicació
+# 17. Explicació
 
 `touch`: Crea un arxiu buit
 
@@ -136,6 +136,7 @@ git push -u origin master
 `git add remote add origin https://`: Afegeig repositori remot
 
 `git push -u origin master`: publica el repositori local a la branca `master` remota
+
 
 # Fonts
 
