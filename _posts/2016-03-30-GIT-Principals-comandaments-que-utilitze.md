@@ -111,3 +111,16 @@ $ git branch -d gh-pages           # elimina branca local
 $ git push origin :gh-pages        # elimina branca remota
 
 ```
+
+# Fonts
+
+- [git - la guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
+- [Become a git guru](https://www.atlassian.com/git/tutorials/)
+- [Pro Git](https://git-scm.com/book/es/v1)
+- [Cheat Sheets](http://cheat.errtheblog.com/s/git)
+- [GIT - Tutorials Point](http://www.tutorialspoint.com/git/)
+
+# GITHub
+
+- [Iniciar repositori](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux)
+
