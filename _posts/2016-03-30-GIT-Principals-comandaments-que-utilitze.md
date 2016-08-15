@@ -131,14 +131,14 @@ git push -u origin master
 
 `git add README.md`: Afegig l'arxiu README.md per tal que es rastrege
 
-`git commit -m "comentari": Crea el punt d'emmagatzemmament del contigut actual, emmgatzema el contingut de del projecte establint fixant un punt, també afegeix un comentar
+`git commit -m "comentari"`: Crea el punt d'emmagatzemmament del contigut actual, emmgatzema el contingut de del projecte establint fixant un punt, també afegeix un comentar
 
 `git add remote add origin https://`: Afegeig repositori remot
 
 `git push -u origin master`: publica el repositori local a la branca `master` remota
 
 
-# Fonts
+# 18. Fonts
 
 - [git - la guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 - [Become a git guru](https://www.atlassian.com/git/tutorials/)
@@ -146,7 +146,7 @@ git push -u origin master
 - [Cheat Sheets](http://cheat.errtheblog.com/s/git)
 - [GIT - Tutorials Point](http://www.tutorialspoint.com/git/)
 
-# GITHub
+# 19. GITHub
 
 - [Iniciar repositori](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux)
 
