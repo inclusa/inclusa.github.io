@@ -20,6 +20,13 @@ Passos per tindre-ho disponible:
 
 Per utiltizar-los cal posar l'extensió correcta al document que editem i escriure el `nom del snippet + TAB`.
 
+Per instal·lar els snippets es form fer des de diversoa mètodes: VAM, Pathogen, Vundle, etc.
+
+Per aconseguir engegar cal seguir aquestes instruccions:
+
+- [https://github.com/garbas/vim-snipmate](https://github.com/garbas/vim-snipmate)
+- [https://github.com/VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+
 
 
 [snippets]:	https://en.wikipedia.org/wiki/Snippet_%28programming%29
