@@ -2,6 +2,7 @@
 layout: post
 title: 11 Terminator
 date:  2016-08-31 00:00:00
+description: Multiterminal
 ---
 
 **Terminator** és un programari que té com a objectiu córrer una terminal, més bé una multiterminal. Es tracta de córrer de manera simultània diferents terminals per tal de respondre a diverses necessitats que es puguen donar de forma paral·lela.
