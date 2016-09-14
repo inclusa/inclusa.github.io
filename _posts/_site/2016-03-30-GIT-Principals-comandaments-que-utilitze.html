@@ -76,3 +76,71 @@
 </code></pre>
 </div>
 
+<h1 id="evitar-que-git-demane-usuari-i-contrasenya">13. Evitar que GIT demane usuari i contrasenya</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global credential.helper. store
+</code></pre>
+</div>
+
+<p>La contrasenya del repositori remot queda magatzemada al fitxer <code class="highlighter-rouge">.git-credentials</code></p>
+
+<h1 id="no-guardar-la-contrasenya-en-disc">14. No guardar la contrasenya en disc</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global credential.helper 'cache --timeout=3600'
+</code></pre>
+</div>
+
+<p>Transcorreguda un hora tornarà a demanar la contrasenya.</p>
+
+<h1 id="borrar-branca-i-borrar-la-del-server">15. Borrar branca i borrar-la del server</h1>
+
+<p>Objectiu: volem borrar la branca gh-pages</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git branch -d gh-pages           # elimina branca local
+
+$ git push origin :gh-pages        # elimina branca remota
+
+</code></pre>
+</div>
+
+<h1 id="iniciar-repositori-en-github-des-de-terminal">16. Iniciar repositori en GITHub des de terminal</h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>touch README.md
+git init
+git add README.md
+git commit -m "comentari"
+git remote add origin https://github.com/usuario/repositori.git
+git push -u origin master
+</code></pre>
+</div>
+
+<h1 id="explicaci">17. Explicació</h1>
+
+<p><code class="highlighter-rouge">touch</code>: Crea un arxiu buit</p>
+
+<p><code class="highlighter-rouge">git init</code>: Inicia el repositori creant els arxius de rastreig a .git</p>
+
+<p><code class="highlighter-rouge">git add README.md</code>: Afegig l’arxiu README.md per tal que es rastrege</p>
+
+<p><code class="highlighter-rouge">git commit -m "comentari"</code>: Crea el punt d’emmagatzemmament del contigut actual, emmgatzema el contingut de del projecte establint fixant un punt, també afegeix un comentar</p>
+
+<p><code class="highlighter-rouge">git add remote add origin https://</code>: Afegeig repositori remot</p>
+
+<p><code class="highlighter-rouge">git push -u origin master</code>: publica el repositori local a la branca <code class="highlighter-rouge">master</code> remota</p>
+
+<h1 id="fonts">18. Fonts</h1>
+
+<ul>
+  <li><a href="http://rogerdudler.github.io/git-guide/index.es.html">git - la guia sencilla</a></li>
+  <li><a href="https://www.atlassian.com/git/tutorials/">Become a git guru</a></li>
+  <li><a href="https://git-scm.com/book/es/v1">Pro Git</a></li>
+  <li><a href="http://cheat.errtheblog.com/s/git">Cheat Sheets</a></li>
+  <li><a href="http://www.tutorialspoint.com/git/">GIT - Tutorials Point</a></li>
+</ul>
+
+<h1 id="github">19. GITHub</h1>
+
+<ul>
+  <li><a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux">Iniciar repositori</a></li>
+</ul>
+
