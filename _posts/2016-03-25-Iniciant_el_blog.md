@@ -12,4 +12,5 @@ Comence aquest blog amb tres objectius:
 - Analitzar retrospectivament els avanços
 - Compartir el coneixement
 
+
 Sols tres objectius per aquesta [raó](http://homominimus.com/2010/04/30/regla-del-tres-de-la-accion/).

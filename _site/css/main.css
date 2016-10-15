@@ -427,6 +427,29 @@ pre {
   vertical-align: middle;
   font-size: 12px; }
 
+/** 
+ * Afegit  *****************************************************************
+*/
+/* browser reset */
+/* list styles */
+ol {
+  list-style: none;
+  color: #ccc; }
+
+ol li {
+  font: bold 24pt helvetica, arial, sans-serif;
+  position: relative;
+  margin-bottom: 20px; }
+
+li p {
+  font: 12pt helvetica, arial, sans-serif;
+  color: #555;
+  padding-left: 60px; }
+
+span {
+  position: absolute;
+  line-height: 25px; }
+
 /**
  * Syntax highlighting styles
  */
