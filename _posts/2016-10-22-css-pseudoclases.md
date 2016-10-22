@@ -2,6 +2,7 @@
 layout: post
 title: 13 Cascading Style Sheets - CSS
 date:  2016-10-22 00:00:00
+description: Codi per modificar les classes CSS utilitzant pseudoclasses
 ---
 
 Cascading Style Sheets (CSS) és un full d'estil que descriu els estils de text que utilitza el llenguatge html per renderitzar una pàgina web.
