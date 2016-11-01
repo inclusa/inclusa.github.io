@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LaTeX
-description: Optimitzant l'escriptura<br />
+title: 5PRI - Anglés
+description: English Enviroment Learning<br />
 img: ..//img/2.jpg
-redirect: https://github.com/inclusa/latex
+redirect: https://inclusa.github.io/5pri/02_angles/md/reveal.js/index.html#/
 ---
 
