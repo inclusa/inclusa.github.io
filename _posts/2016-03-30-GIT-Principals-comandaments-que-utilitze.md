@@ -112,20 +112,20 @@ $ git push origin :gh-pages        # elimina branca remota
 
 ```
 
-# 16. Iniciar repositori en GITHub des de terminal
+# 16. Iniciar repositori en GITHub des de terminal amb el protocol `https://`
 
 ```
-touch README.md
+echo "# repositori" >> README.md
 git init
 git add README.md
 git commit -m "comentari"
-git remote add origin https://github.com/usuario/repositori.git
+git remote add origin https://github.com/usuari/repositori.git
 git push -u origin master
 ```
 
 # 17. Explicació
 
-`touch`: Crea un arxiu buit
+`echo`: Afegix la informació al fitxer, si no existeix el crea
 
 `git init`: Inicia el repositori creant els arxius de rastreig a .git
 
@@ -137,8 +137,33 @@ git push -u origin master
 
 `git push -u origin master`: publica el repositori local a la branca `master` remota
 
+# 18. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol `https://`
 
-# 18. Fonts
+```
+git remote add origin https://github.com/usuari/repositori.git
+git push -u origin master
+```
+
+# 19. Iniciar repositori en GITHub des de terminal amb el protocol `ssh`
+
+```
+echo "# repositori" >> README.md
+git init
+git add README.md
+git commit -m "comentari"
+git remote add origin git@github.com:usuari/repositori.git
+git push -u origin master
+```
+
+# 20. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol `ssh`
+
+```
+git remote add origin git@github.com:usuari/repositori.git
+git push -u origin master
+```
+
+
+# 21. Fonts
 
 - [git - la guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 - [Become a git guru](https://www.atlassian.com/git/tutorials/)
@@ -146,7 +171,7 @@ git push -u origin master
 - [Cheat Sheets](http://cheat.errtheblog.com/s/git)
 - [GIT - Tutorials Point](http://www.tutorialspoint.com/git/)
 
-# 19. GITHub
+# 22. GITHub
 
 - [Iniciar repositori](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux)
 
