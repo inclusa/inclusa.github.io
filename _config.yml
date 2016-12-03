@@ -25,6 +25,9 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+  productivity:
+    output: true
+    permalink: /productivity/:path/
 
 # Gems
 gems: [jekyll-paginate]
