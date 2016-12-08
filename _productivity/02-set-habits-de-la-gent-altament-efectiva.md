@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 02 7 hàbis de la gent altament efectiva
+title: 02 Set hàbits de la gent altament efectiva
 date:  2016-12-08 00:00:00
 ---
 
@@ -15,6 +15,7 @@ A. Victoria Privada (individual): hàbit 1, 2, 3.
     - Diferenciar les coses importants de les urgents.
 
 B. Victoria pública (col·lectiva): hàbit 4, 5, 6.
+
 - **Hàbit 4**: Pensa en guanyar-guanyar
 - **Hàbit 5**: Procura comprendre i després ésser comprés
 - **Hàbit 6**: Sinergiza
