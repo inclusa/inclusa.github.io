@@ -2,6 +2,7 @@
 layout: post
 title: 01 Lideratge
 date:  2016-12-01 00:00:00
+description: Punts aportats per Steave Jobs al voltant el tema del lideratge
 ---
 
 Claus d'Steave Jobs respecte al lideratge:

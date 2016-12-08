@@ -2,6 +2,7 @@
 layout: post
 title: 02 Set hàbits de la gent altament efectiva
 date:  2016-12-08 00:00:00
+description: Resum de les idees principals del llibre de Steaphen Covey
 ---
 
 
