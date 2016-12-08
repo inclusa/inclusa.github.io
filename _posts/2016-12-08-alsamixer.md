@@ -2,6 +2,7 @@
 layout: post
 title: 16 AlsaMixer
 date:  2016-12-08 00:00:00
+description: Controlador d'audio des del terminal
 ---
 
 AlsaMixer és ua utilitat per gestinar el mesclador de sons des del terminal.
