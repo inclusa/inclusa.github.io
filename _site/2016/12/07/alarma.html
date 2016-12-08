@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>15 Alarma</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2016/12/07/alarma.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">identitat</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfoli</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">productivitat</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">15 Alarma</h1>
+    <p class="post-meta">December 7, 2016 — 01:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Programar una alarma de forma automàtica fa que la màquina controle el temps, un temps limitat, clau per iniciar un moment d’alt rendiment amb concentració plena.</p>
+
+<p>Iniciarem el procés de treball amb aquests passos:</p>
+
+<ol>
+  <li><strong>Atenció</strong>: llegir la marca del llapis que sostinguem.</li>
+  <li><strong>Concentració</strong>: atenció sostinguda durant un període de temps.</li>
+  <li><strong>Enfoc</strong>: atenció sostinguda buscant activament un objectiu.</li>
+  <li><strong>Fluir</strong>: accions que sorgeixen d’accions anteriors.</li>
+</ol>
+
+<p>Per tal d’alcançar el nivell més alt caldrà controlar el temps per augmenar la intensitat. Aquest control del temps el farem amb un script.</p>
+
+<p>Cal posar una cançò o un so a aquesta adreça <code>/opt/so/alarma.mp3</code></p>
+
+<p>Nom del fitxer: <code>alarm.sh</code></p>
+
+<pre><code class="language-bash">#!/bin/bash
+sleep 25 m &amp;&amp; mplayer /opt/so/alarma.mp3
+</code></pre>
+
+<p>Tecles per controlar la reproducció:</p>
+
+<ul>
+  <li><strong>espai</strong>: pausa - reanudar la reproducció</li>
+  <li><strong>flexa →</strong>: avança 5% la reproducció</li>
+  <li><strong>flexa ←</strong>: recula 5% la reproducció</li>
+  <li><strong>flexa ↑</strong>: avança 20% la reproducció</li>
+  <li><strong>flexa ↓</strong>: recula 20% la reproducció</li>
+</ul>
+
+<p>Si volem que l’arxiu s’execute des del terminal caldrà posar aquest script <code>alarma.sh</code> al directori <code>/usr/local/bin/</code>.</p>
+
+<p>Podem automatitzar el procés posant un <code>cron</code> el qual executarà l’arxiu cada dia a la mataixa hora.</p>
+
+<p>Podria ser que no funcionar <code>mplayer</code> perquè ens donara una errada en la implementació <code>lirc</code>. En cas de que isca aquesta errada cal puntualitzar que <code>mplayer</code> no utilitze aquesta tecnologia.</p>
+
+<p>S’especifica al fitxer <code>.mplayer/config</code> afegint una línia amb aquesta informació <code>lirc=no</code>.</p>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

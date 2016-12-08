@@ -103,20 +103,20 @@ $ git push origin :gh-pages        # elimina branca remota
 </code></pre>
 </div>
 
-<h1 id="iniciar-repositori-en-github-des-de-terminal">16. Iniciar repositori en GITHub des de terminal</h1>
+<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-https">16. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">https://</code></h1>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>touch README.md
+<div class="highlighter-rouge"><pre class="highlight"><code>echo "# repositori" &gt;&gt; README.md
 git init
 git add README.md
 git commit -m "comentari"
-git remote add origin https://github.com/usuario/repositori.git
+git remote add origin https://github.com/usuari/repositori.git
 git push -u origin master
 </code></pre>
 </div>
 
 <h1 id="explicaci">17. Explicació</h1>
 
-<p><code class="highlighter-rouge">touch</code>: Crea un arxiu buit</p>
+<p><code class="highlighter-rouge">echo</code>: Afegix la informació al fitxer, si no existeix el crea</p>
 
 <p><code class="highlighter-rouge">git init</code>: Inicia el repositori creant els arxius de rastreig a .git</p>
 
@@ -128,7 +128,32 @@ git push -u origin master
 
 <p><code class="highlighter-rouge">git push -u origin master</code>: publica el repositori local a la branca <code class="highlighter-rouge">master</code> remota</p>
 
-<h1 id="fonts">18. Fonts</h1>
+<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-https">18. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">https://</code></h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>git remote add origin https://github.com/usuari/repositori.git
+git push -u origin master
+</code></pre>
+</div>
+
+<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-ssh">19. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">ssh</code></h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>echo "# repositori" &gt;&gt; README.md
+git init
+git add README.md
+git commit -m "comentari"
+git remote add origin git@github.com:usuari/repositori.git
+git push -u origin master
+</code></pre>
+</div>
+
+<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-ssh">20. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">ssh</code></h1>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>git remote add origin git@github.com:usuari/repositori.git
+git push -u origin master
+</code></pre>
+</div>
+
+<h1 id="fonts">21. Fonts</h1>
 
 <ul>
   <li><a href="http://rogerdudler.github.io/git-guide/index.es.html">git - la guia sencilla</a></li>
@@ -138,7 +163,7 @@ git push -u origin master
   <li><a href="http://www.tutorialspoint.com/git/">GIT - Tutorials Point</a></li>
 </ul>
 
-<h1 id="github">19. GITHub</h1>
+<h1 id="github">22. GITHub</h1>
 
 <ul>
   <li><a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux">Iniciar repositori</a></li>
