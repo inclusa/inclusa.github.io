@@ -27,4 +27,6 @@ C. Hàbit independent
     - Cuida el teu descans.
 
 
+<small>Steaphen Covey. Siete hábitos de las personas altamente efectivas. Paidos Ibérica. 2011.</small>
+
 
