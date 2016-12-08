@@ -21,6 +21,8 @@ B. Victoria pública (col·lectiva): hàbit 4, 5, 6.
 - **Hàbit 6**: Sinergiza
     - Comparteix el coneixement.
 
+C. Hàbit independent
+
 - **Hàbit 7**: Afila la serra
     - Cuida el teu descans.
 
