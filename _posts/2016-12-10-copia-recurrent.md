@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 17 Copiar el mateix arxiu de forma recurrent
+title: 17 Copiar amb recurrencia
 date:  2016-12-10 00:00:00
 description: Copiem un arxiu diverses vegades en una mateixa línia
 ---
