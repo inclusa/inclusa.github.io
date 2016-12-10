@@ -2,6 +2,7 @@
 layout: post
 title: 17 Copiar el mateix arxiu de forma recurrent
 date:  2016-12-10 00:00:00
+description: Copiem un arxiu diverses vegades en una mateixa línia
 ---
 
 Per copiar el mateix arxiu de forma recurrent, és a dir, diverses vegades, cal definir la variable `d` i exercutar-la.
