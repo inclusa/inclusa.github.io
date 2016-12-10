@@ -27,15 +27,15 @@ Tampoc ho és la memòria. La memòria tampoc està relacionada amb alt acomplim
 
 L'aspecte que sí té a veure en l'adquisició d'habilitats és el que es denomina PRÀCTICA DELIBERADA.
 
-PRACTICA DELIBERADA: sèrie d'habilits disenyades específicament per a millorar el nostre acompliment. És molt exigent a nivell mental. No es caracteritza per ser agradable, en ocasions pot resultar desagradable o tediosa.
+PRACTICA DELIBERADA: sèrie d'habilits disenyades específicament per a millorar el nostre acompliment. Pot repetir-se moltes vegades. L'opinició externa sobre els resultats està disponible contínuamet. És molt exigent a nivell mental. No es caracteritza per ser agradable, en ocasions pot resultar desagradable o tediosa.
 
 Cadascú, segons les seues necessitats ha de dissenyar la seua pròpia pràctica.
 
 Cal identificar:
 
-1. Zona de confort
-2. Zona d'aprenentatge
-3. Zona de pànic
+1. Zona de confort: accessible.
+2. Zona d'aprenentatge: exigent.
+3. Zona de pànic: frustrant.
 
 Cal identificar les teues pròpies zones i disenyar activitats, que, encara que resulten frustrants són les que ajuden a millorar les nostres habilitats.
 
@@ -43,4 +43,4 @@ Això és la PRÀCTICA DELIBERADA, en lloc de cercar les coses on realment som b
 
 Poques persones estan disposades a arribar al límit, això suposaria un avantatge competitiu.
 
-<small>Geoff Colvin. La verdadera clave del éxito personal.</small>
+<small>Geoff Colvin. 2009. El talento está sobrevalorado. Gestión 2000.</small>
