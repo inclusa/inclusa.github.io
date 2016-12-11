@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>18 Funcions en Vim</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2016/12/11/comandaments-vim.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">identitat</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfoli</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">productivitat</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">18 Funcions en Vim</h1>
+    <p class="post-meta">December 11, 2016 — 01:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>A vim es ponden assignar tecles per a funcions.</p>
+
+<p>Es tracta d’atorgar funcions per tal de no estar escrivint sempre el mateix.</p>
+
+<p>La diferència amb un <code>snippe</code> és que les <code>funcions</code> introdueixen un nombre variable, com ara la data.</p>
+
+<p>Assignarem la funció de <em>data</em> i <em>hora</em> a la tecla <code>&lt;F5&gt;</code>.</p>
+
+<p>En un primer pas podem exercutar de forma independen, sense assignar la tecla des del mode de comandaments de Vim:</p>
+
+<pre><code>:put =strftime(\"%c\")
+</code></pre>
+
+<p>També es pot fer així:</p>
+
+<pre><code>:put =strftime('%c')
+</code></pre>
+
+<p>O simplement així:</p>
+
+<pre><code>:pu=strftime('%c')
+</code></pre>
+
+<p>Ara assignarem la tecla <code>&lt;F5&gt;</code> per tal d’introduir la data i l’hora pulsant aquesta tecla:</p>
+
+<pre><code>:nnoremap &lt;F5&gt; "=strftime("%c")&lt;CR&gt;P
+</code></pre>
+
+<p>Eixida:</p>
+
+<pre><code>dg 11 des 2016 09:49:21 CET
+</code></pre>
+
+<p>Es poden utilizar aquest codi segons la necessitat:</p>
+
+<pre><code>Format String              Example output
+-------------              --------------
+%c                         Thu 27 Sep 2007 07:37:42 AM EDT (depends on locale)
+%a %d %b %Y                Thu 27 Sep 2007
+%b %d, %Y                  Sep 27, 2007
+%d/%m/%y %H:%M:%S          27/09/07 07:36:32
+%H:%M:%S                   07:36:44
+%T                         07:38:09
+%m/%d/%y                   09/27/07
+%y%m%d                     070927
+%x %X (%Z)                 09/27/2007 08:00:59 AM (EDT)
+%Y-%m-%d                   2016-11-23
+%F                         2016-11-23 (works on some systems)
+
+RFC822 format:
+%a, %d %b %Y %H:%M:%S %z   Wed, 29 Aug 2007 02:37:15 -0400
+
+ISO8601/W3C format (http://www.w3.org/TR/NOTE-datetime):
+%FT%T%z                    2007-08-29T02:37:13-0400
+
+</code></pre>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
