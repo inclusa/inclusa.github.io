@@ -2,6 +2,7 @@
 layout: post
 title: 18 Funcions en Vim
 date:  2016-12-11 00:00:00
+description: Assignació de funcions a tecles
 ---
 
 A vim es ponden assignar tecles per a funcions.
