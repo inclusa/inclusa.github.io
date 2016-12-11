@@ -67,3 +67,5 @@ ISO8601/W3C format (http://www.w3.org/TR/NOTE-datetime):
 %FT%T%z                    2007-08-29T02:37:13-0400
 
 ```
+
+Font: [http://vim.wikia.com/wiki/Insert_current_date_or_time](http://vim.wikia.com/wiki/Insert_current_date_or_time)
