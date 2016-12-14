@@ -12,7 +12,7 @@ date:  2016-12-12 00:00:00
 6. Centra't en les àrees clau de resultats
 7. Concentra't
 8. Prepara't a consciència abans de començar
-9. Has els deures
+9. Fes els deures
 10. Reforça els teus talents especials
 11. Identifica els teus obstacles
 12. Posa un ladrilla després d'un altre
