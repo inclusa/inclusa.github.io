@@ -10,13 +10,18 @@ Metes
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-z_RQ7yyq40?list=PLi_s9U287nBB7Ie5B63YMP7IvrSSaioQ2" frameborder="0" allowfullscreen></iframe>
 
-### Idea 1: Efecte dòmino.
+### Idea 1: Efecte dòmino
+
 
 Cada fitxa pot derribar una altra fitxa 50% més gran. Una xicoteta acció té el potencial de desencadenar grans efectes. Xicotetes accions portardes a terme de manera conscient poden generar bons resultats. L'èxit es construeix seqüencialment, no realitzant tot a la vegada.
 
-### Idea 2: Si vols ésser exitós has de dedicar-te a una sola cosa.
 
-### Idea 3: Sis mites que impedeixen obtenir bons resultats.
+### Idea 2: Dedicar-te a una sola cosa
+
+
+
+### Idea 3: Mites que impedeixen obtenir bons resultats
+
 
 1. Creure que totes les tasques importen igual. Cal enforcar-se en eixa activitat que al fer-la tot el demés seria més fàcil.
 2. Multicasca. El 28% del nostre temps es perd quan fem diverses coses simulàniament. Establri franges de temps on la concentració siga dirigida a una única tasca.
@@ -25,7 +30,9 @@ Cada fitxa pot derribar una altra fitxa 50% més gran. Una xicoteta acció té e
 5. Podem tenir una vida més equilibrada. En ocasions ens enfoquem en una de les dimensions perosnals (treball, familia, cos), la clau estaria en no descuidar les nostres altres dimensions, encara que siga dedicant poc temps a elles.
 6. Tenir un èxit molt gran potser roïn. Augmentaran responsabilitats i tindrem menys temps, però podrem delegar i enfocar-nos en activitats que aporten més valor. No tingues por d'aportar alguna cosa gran en la teua vida, tin por a la mediocritat.
 
+
 ### Idea 4: Lladres de temps
+
 
 - Crea una meta de gran magnitud.
 - Estableix un objectiu alcanzable en els pròxims 5 anys.
@@ -35,7 +42,7 @@ Cada fitxa pot derribar una altra fitxa 50% més gran. Una xicoteta acció té e
 - Satisfacció hedónica: una vegada saciat el desitg, altra necessitat ocupa el seu lloc i tornarem al nivell d'insatisfacció inicial.
 - El nivell de satisfacció augmenta sol quan li dones sentit i propòsic a cada acció.
 
-Aspectes dels lladres de temps:
+### Aspectes dels lladres de temps:
 
 1. Inhabilitat per a dir NO.
 2. Por al caos. Van a quedar coses sense fer. Gastar energia en activitats menors fa que no arribem metes majors.
