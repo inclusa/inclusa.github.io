@@ -21,7 +21,14 @@ Això ens crearà 12 arxius buits així:
 Per copiar el mateix arxiu de forma recurrent, és a dir, diverses vegades, cal definir la variable `d` i exercutar-la.
 
 ```bash
-$ for d in 01.md 02.md 03.md 04.md 05.md 06.md 07.md 08.md 09.md 10.md 11.md 12.md; do cp ini.md $d; done
+for d in 01.md 02.md 03.md 04.md 05.md 06.md 07.md 08.md 09.md 10.md 11.md 12.md; do cp ini.md $d; done
+
+```
+
+O bé d'aquesta manera més senzilla:
+
+```
+for d in {01..07}.md; do cp ini.md $d; done
 
 ```
 
