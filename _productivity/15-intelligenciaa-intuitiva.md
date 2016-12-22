@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 14 Intel·ligència intuitiva
+title: 14 Intel·ligència intuïtiva
 date:  2016-12-23 00:00:00
 ---
 
-La idea de la **intel·ligència intuitiva** prové del sociòleg canadenc Malcolm Gladwell, el qual va partir del concepte *thin-slicing*. Aquest sociòleg sosté que com capaços de conferir-li un sentit a les situacions basant-nos en experiències efímeres. Tenim la capacitat de determinal què és el més important en poc temps.
+La idea de la **intel·ligència intuïtiva** prové del sociòleg canadenc Malcolm Gladwell, el qual va partir del concepte *thin-slicing*. Aquest sociòleg sosté que com capaços de conferir-li un sentit a les situacions basant-nos en experiències efímeres. Tenim la capacitat de determinal què és el més important en poc temps.
 
 Però per prendre bones decisions és necessari pensar detingudament, no apresurar-se i analitzar els pros i els contres d'una situació.
 
-La intel·ligència intuitiva no seria res més que deixar alorar a la conciència de tot allò que ja sabem, quan anem a resoldre un problema i prendre decisions amb extraordinària rapidesa. **No es tracta de raonar, sino de saber escoltar al nostre inconscient i a les nostres emocions**.
+La intel·ligència intuïtiva no seria res més que deixar alorar a la conciència de tot allò que ja sabem, quan anem a resoldre un problema i prendre decisions amb extraordinària rapidesa. **No es tracta de raonar, sino de saber escoltar al nostre inconscient i a les nostres emocions**.
 
-Mentre la intel·ligència tradicional implica cert grau de reflexió i processament, la intel·ligència intuitiva es basa en el **coneixement que hem atesorat al llarg dels anys i que està ben guardat en l'inconscient**.
+Mentre la intel·ligència tradicional implica cert grau de reflexió i processament, la intel·ligència intuïtiva es basa en el **coneixement que hem atesorat al llarg dels anys i que està ben guardat en l'inconscient**.
 
-El procés de prendre decisions basant-nos en la **intel·ligència intuitiva** és conscient, generalment som capaços d'explicar les raons de la nostra decisió. Però també es pot donar de forma inconscient.
+El procés de prendre decisions basant-nos en la **intel·ligència intuïtiva** és conscient, generalment som capaços d'explicar les raons de la nostra decisió. Però també es pot donar de forma inconscient.
 
 Així, el nostre cervell racional no es veu ofuscat amb massa alternatives, amb un nombre excessiu d'opcions que no es poden fer servir.
 
-La **intel·ligència intuitiva** no és una ferramenta infal·lible. És una estratègia útil quan hem de prendre decisions en les quals la informació és particularment caòtica o que no tenim forma de valorar amb objectivitat els pros i els contres de les diferents opcions.
+La **intel·ligència intuïtiva** no és una ferramenta infal·lible. És una estratègia útil quan hem de prendre decisions en les quals la informació és particularment caòtica o que no tenim forma de valorar amb objectivitat els pros i els contres de les diferents opcions.
 
 # Avantatges
 
@@ -35,6 +35,6 @@ La **intel·ligència intuitiva** no és una ferramenta infal·lible. És una es
 
 # Fonts:
 
-1. [Rincón de psicologia](http://www.rinconpsicologia.com/2015/04/inteligencia-intuitiva-decidir-pensar.html)
-2. [Universistat Internacional de València](http://www.viu.es/que-se-entiende-por-inteligencia-intuitiva/)
+1. [Rincón de psicologia](http://www.rinconpsicologia.com/2015/04/inteligencia-intuïtiva-decidir-pensar.html)
+2. [Universistat Internacional de València](http://www.viu.es/que-se-entiende-por-inteligencia-intuïtiva/)
 
