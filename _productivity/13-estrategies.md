@@ -6,6 +6,8 @@ date:  2016-12-21 00:00:00
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LHjUeQbqbIM?list=PLi_s9U287nBB7Ie5B63YMP7IvrSSaioQ2" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="https://embed.ted.com/talks/lang/es/malcolm_gladwell_the_unheard_story_of_david_and_goliath" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 1. En ocasions el que aparenteser una extrema fortalesa, també és una enorme debilitat. Tenir més recursos no significa necessàriament tenir millors resultats. Certes desavantatges poden convertir-se en avantatges, si aprens a aplicar les estratègies correctes.
 
 2. Entendre les nostres pròpies debilitats ens porta a ser més creatius i a buscar noves maners de fer les coses. La qual cosa pot donar-nos avantatges.
