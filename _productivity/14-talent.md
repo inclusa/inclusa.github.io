@@ -1,3 +1,8 @@
+---
+layout: post
+title: 14 Talent
+date:  2016-12-22
+---
 
 1. L'entorn i les circumstàncies són importants per al desenvolupametn d'habilitats (Malcolm Gladwell. 2009. Fuera de serie: Por qué unas personas tienen éxito y otras no. Taurus).
 2. És necessari dedicar 10.000 hores de pràctica en una disciplina per a ser realment bo.
@@ -6,4 +11,4 @@
 
 **Conclusió**: les persones no naixen amb talent. L'habilitat es pot adquirir a través de diversos anys de pràctica.
 
-
+-- Daniel Coyle. Las claves del talento.

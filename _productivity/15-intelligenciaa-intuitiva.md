@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 14 Intel·ligència intuïtiva
+title: 15 Intel·ligència intuïtiva
 date:  2016-12-23 00:00:00
 ---
 
