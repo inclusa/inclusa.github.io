@@ -4,11 +4,11 @@ title: 15 Intel·ligència intuïtiva
 date:  2016-12-23 00:00:00
 ---
 
-La idea de la **intel·ligència intuïtiva** prové del sociòleg canadenc Malcolm Gladwell, el qual va partir del concepte *thin-slicing*. Aquest sociòleg sosté que com capaços de conferir-li un sentit a les situacions basant-nos en experiències efímeres. Tenim la capacitat de determinal què és el més important en poc temps.
+La idea de la **intel·ligència intuïtiva** prové del sociòleg canadenc Malcolm Gladwell, el qual va partir del concepte *thin-slicing*. Aquest sociòleg sosté que com capaços de conferir-li un sentit a les situacions basant-nos en experiències efímeres. Tenim la capacitat de determinar què és el més important en poc temps.
 
 Però per prendre bones decisions és necessari pensar detingudament, no apresurar-se i analitzar els pros i els contres d'una situació.
 
-La intel·ligència intuïtiva no seria res més que deixar alorar a la conciència de tot allò que ja sabem, quan anem a resoldre un problema i prendre decisions amb extraordinària rapidesa. **No es tracta de raonar, sino de saber escoltar al nostre inconscient i a les nostres emocions**.
+La intel·ligència intuïtiva no seria res més que deixar aflorar a la conciència de tot allò que ja sabem, quan anem a resoldre un problema i prendre decisions amb extraordinària rapidesa. **No es tracta de raonar, sino de saber escoltar al nostre inconscient i a les nostres emocions**.
 
 Mentre la intel·ligència tradicional implica cert grau de reflexió i processament, la intel·ligència intuïtiva es basa en el **coneixement que hem atesorat al llarg dels anys i que està ben guardat en l'inconscient**.
 
@@ -20,8 +20,8 @@ La **intel·ligència intuïtiva** no és una ferramenta infal·lible. És una e
 
 # Avantatges
 
-- És un tipus d'intel·ligència especialment poten per construir patrons lògics elaborats a partir de situacions aparentment caòtiques.
-- És la millor forma d'intel·ligència epr resoldre problemes complexes.
+- És un tipus d'intel·ligència especialment potent per construir patrons lògics elaborats a partir de situacions aparentment caòtiques.
+- És la millor forma d'intel·ligència per resoldre problemes complexes.
 - És útil per a afrontar els problemes i les circumstàncies adverses de la vida.
 
 # Fonaments
@@ -35,6 +35,6 @@ La **intel·ligència intuïtiva** no és una ferramenta infal·lible. És una e
 
 # Fonts:
 
-1. [Rincón de psicologia](http://www.rinconpsicologia.com/2015/04/inteligencia-intuïtiva-decidir-pensar.html)
-2. [Universistat Internacional de València](http://www.viu.es/que-se-entiende-por-inteligencia-intuïtiva/)
-
+1. [Malcolm Gladwell. 2006. Inteligencia intuitiva. Taurus](http://www.casadellibro.com/libro-inteligencia-intuitiva-por-que-sabemos-la-verdad-en-dos-segundo-s/9788430605910/1043384)
+2. [Rincón de psicologia](http://www.rinconpsicologia.com/2015/04/inteligencia-intuïtiva-decidir-pensar.html)
+3. [Universistat Internacional de València](http://www.viu.es/que-se-entiende-por-inteligencia-intuïtiva/)
