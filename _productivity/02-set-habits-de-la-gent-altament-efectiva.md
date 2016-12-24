@@ -6,7 +6,7 @@ description: Resum de les idees principals del llibre de Steaphen Covey
 ---
 
 
-A. Victoria Privada (individual): hàbit 1, 2, 3.
+### A. Victoria Privada (individual)
 
 - **Hàbit 1**: Sigues proactiu
     - **Persones reactives**: protesten per tot sense aportar solucions als problemes.
@@ -15,14 +15,14 @@ A. Victoria Privada (individual): hàbit 1, 2, 3.
 - **Hàbit 3**: Primer el primer
     - Diferenciar les coses importants de les urgents.
 
-B. Victoria pública (col·lectiva): hàbit 4, 5, 6.
+### B. Victoria pública (col·lectiva)
 
 - **Hàbit 4**: Pensa en guanyar-guanyar
 - **Hàbit 5**: Procura comprendre i després ésser comprés
 - **Hàbit 6**: Sinergiza
     - Comparteix el coneixement.
 
-C. Hàbit independent
+### C. Hàbit independent
 
 - **Hàbit 7**: Afila la serra
     - Cuida el teu descans.

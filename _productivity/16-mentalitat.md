@@ -10,22 +10,22 @@ date:  2016-12-24 00:00:00
 
 *Mentalitat de Creixement - MC*: Es caracteritza per prendre consciència de quins tantlents es poden desenvolupar. Amb el temps es ponden desenvolupar grans habilitats. Es valora l'error i la capacitat d'aprendre d'ell. Es centra en el creixement mental.
 
-## 1. Objectius
+### 1. Objectius
 
 - *MF*: Mir la intel·ligència a tota costa.
 - *MC*: Es centra en el creixement mental.
 
-## 2. Esforç
+### 2. Esforç
 
 - *MF*: Ha de venir de forma natural.
 - *MC*: Treballar dur, l'esforç és la clau.
 
-## 3. Retrocesos
+### 3. Retrocesos
 
 - *MF*: Amaga errades i deficiències. No proporciona manera de gestionar la dificultat.
 - *MC*: Capitalitza les errades i controla deficiències. Es centra en el rendiment, no en les capacitats personals.
 
-## Idees clau
+### Idees clau
 
 
 - L'error és la clau en el aprenentatge, en el creixement.

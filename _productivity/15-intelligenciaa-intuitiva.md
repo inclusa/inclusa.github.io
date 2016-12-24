@@ -18,13 +18,13 @@ Així, el nostre cervell racional no es veu ofuscat amb massa alternatives, amb 
 
 La **intel·ligència intuïtiva** no és una ferramenta infal·lible. És una estratègia útil quan hem de prendre decisions en les quals la informació és particularment caòtica o que no tenim forma de valorar amb objectivitat els pros i els contres de les diferents opcions.
 
-# Avantatges
+### Avantatges
 
 - És un tipus d'intel·ligència especialment potent per construir patrons lògics elaborats a partir de situacions aparentment caòtiques.
 - És la millor forma d'intel·ligència per resoldre problemes complexes.
 - És útil per a afrontar els problemes i les circumstàncies adverses de la vida.
 
-# Fonaments
+### Fonaments
 
 1. **Reflexionar de manera holística**. Capacietat de conceptualitzar les matèries i els temes d'una **forma integral**, fixant-se en el conjunt i no sols en una part.
 2. **Pensar paradògicament**. Es refereix a la capacitat de comprendre i acceptar la ruta més eficient per a resoldre un problema o aconseguir uns determinats objectius **pot no ser linial** y, en ocasions, pot donar la impressió d'ésser una cosa completament il·lògica.

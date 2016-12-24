@@ -70,9 +70,26 @@
   </header>
 
   <article class="post-content">
-    <p>Per copiar el mateix arxiu de forma recurrent, és a dir, diverses vegades, cal definir la variable <code>d</code> i exercutar-la.</p>
+    <p>En un primer moment generem 12 arxius buits d’aquesta manera:</p>
 
-<pre><code class="language-bash">$ for d in 01.md 02.md 03.md 04.md 05.md 06.md 07.md 08.md 09.md 10.md 11.md 12.md; do cp ini.md $d; done
+<pre><code class="language-bash">$ touch {01..12}.md
+</code></pre>
+<p>Això ens crearà 12 arxius buits així:</p>
+
+<pre><code class="language-bash">01.md  03.md  05.md  07.md  09.md  11.md
+02.md  04.md  06.md  08.md  10.md  12.md
+
+</code></pre>
+
+<p>Per copiar el mateix arxiu de forma recurrent, és a dir, diverses vegades, cal definir la variable <code>d</code> i exercutar-la.</p>
+
+<pre><code class="language-bash">for d in 01.md 02.md 03.md 04.md 05.md 06.md 07.md 08.md 09.md 10.md 11.md 12.md; do cp ini.md $d; done
+
+</code></pre>
+
+<p>O bé d’aquesta manera més senzilla:</p>
+
+<pre><code class="language-bash">for d in {01..07}.md; do cp ini.md $d; done
 
 </code></pre>
 

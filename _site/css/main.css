@@ -363,12 +363,16 @@ ol ol li:last-child {
     .post-content h2 {
       font-size: 28px; } }
 .post-content h3 {
-  font-size: 30px; }
+  font-size: 30px;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em; }
   @media screen and (max-width: 800px) {
     .post-content h3 {
       font-size: 22px; } }
 .post-content h4 {
-  font-size: 20px; }
+  font-size: 20px;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em; }
   @media screen and (max-width: 800px) {
     .post-content h4 {
       font-size: 18px; } }
