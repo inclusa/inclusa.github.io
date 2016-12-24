@@ -490,16 +490,15 @@ ol ol li:last-child {
 /**
 * Afegit *********************************************************************
 **/
-.table {
+.mbtablestyle {
   border-collapse: collapse;
-  border-spacing: 0;
-  border: 2px solid #ff0000; }
-
-.th {
-  border: 2px solid #000000; }
-
-.td {
-  border: 1px solid #000000; }
+  border-spacing: 2;
+  border-top: 2px solid #909090;
+  border-bottom: 2px solid #909090; }
+  .mbtablestyle > tr, .mbtablestyle th, .mbtablestyle td {
+    text-align: left;
+    padding: 4px;
+    border-bottom: 1px solid #cccccc; }
 
 /**
  * Syntax highlighting styles

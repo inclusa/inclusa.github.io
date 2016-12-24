@@ -14,7 +14,7 @@ La *perspectiva* ens dóna una visió de conjunt, ens permet adoptar una actitud
 4. Metes i Objectius           | Transformació     | Trimestral       
 5. Visió                       | Global            | Anual            
 6. Propósit i valors           | Significat        | Final            
-
+{:.mbtablestyle}
 
 ### Nivells
 
