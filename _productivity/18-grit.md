@@ -58,3 +58,7 @@ Si la resposta és «molta» i «molt provable», llavors estàs educant per a t
 
 [Angela Lee Duckworth](http://angeladuckworth.com/)
 
+[The Guardian](https://www.theguardian.com/lifeandstyle/2016/may/07/is-grit-the-true-secret-of-success)
+
+[Scholastic](http://www.scholastic.com/browse/article.jsp?id=3758297)
+
