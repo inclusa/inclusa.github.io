@@ -62,3 +62,24 @@ Si la resposta és «molta» i «molt provable», llavors estàs educant per a t
 
 [Scholastic](http://www.scholastic.com/browse/article.jsp?id=3758297)
 
+### Documentació aportada per Duckworth
+
+[Grit: Sustained Self-Regulation in the Service of Seuperordinate Goals](https://www.dropbox.com/s/pzt8pmlj7v7rk0x/Eskreis-winkler_Duckworth_inpress_Grit_self-regulation.pdf?dl=0)
+
+
+[Duckworth, A. L., Gendler, T., & Gross, J. (2016). Situational strategies for self-control. Perspectives on Psychological Science, 11(1), 35-55.](https://www.dropbox.com/s/ckwnva9091q8h7f/2016%20Duckworth%20Situational%20Strategies%20for%20Self-Control.pdf?dl=0)
+
+
+[Duckworth, A. L., & Yeager, D. S. (2015). Measurement matters: Assessing personal qualities other than cognitive ability for educational purposes. Educational Researcher, 44(4), 237-251.](https://www.dropbox.com/s/vb2ckly2l0duij0/duckworth_yeager_2015_measurement_matters.pdf?dl=0)
+
+
+[Duckworth, A.L., & Gross, J.J. (2014). Self-control and grit: Related but separable determinants of success. Current Directions in Psychological Science, 23(5), 319-325.](https://www.dropbox.com/s/cvg1mbz0xrfx25l/DuckworthGross2014.pdf?dl=0)
+
+
+[Duckworth, A. L., Quinn, P. D., Lynam, D. R., Loeber, R., & Stouthamer-Loeber, M. (2011). Role of test motivation in intelligence testing. Proceedings of the National Academy of Sciences, 108(19), 7716-7720.](https://www.dropbox.com/s/qm3du1034wq3utj/DuckworthQuinnLynamLoeberStouthamer-Lober_2011_RoleofTestMotivation.pdf?dl=0)
+
+
+[Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: Perseverance and passion for long-term goals. Journal of Personality and Social Psychology, 92(6), 1087-1101.](https://www.dropbox.com/s/0y545gn2withb5e/DuckworthPetersonMatthewsKelly_2007_PerseveranceandPassion.pdf?dl=0)
+
+Veure'n més [publicacions](http://angeladuckworth.com/publications/)
+
