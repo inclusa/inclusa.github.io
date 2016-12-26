@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 19 Conceptes
-date:  2016-10-26 00:00:00
+date:  2016-12-26 00:00:00
 ---
 
 
