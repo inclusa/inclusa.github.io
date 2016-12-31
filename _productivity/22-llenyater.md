@@ -23,7 +23,7 @@ Día       |   1 |   2 |   3 |   4 |   5
 Bartolomé |  22 |  21 |  19 |  17 |  14
 {:.tabla}
 
-
+<br />
 Després de l'última jornada, en tornar a casa, Bartolomé, picat per la curiositat, va preguntar àlvar on estava el secret de que mantinguera la seua quota de tales, mentre que les seues havien caigut enpicat.
 
 Àlvar es va explicar: «Cada matí dedique mitjahora a afilar la serra, just el temps que m'endarrerisc en arribar al bosc; d'aquesta manera mantinc la serra en condicions òptime de treballa».

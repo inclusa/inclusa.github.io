@@ -10,11 +10,9 @@ Angela Lee Duckworth volia conèixer quines qualitats predien l'èxit en una aca
 
 La clau per a tenir èxit és el cultiu de la *tenacitat*. *The New York Times* va simplificar el concpete per a la seua millor comprensió:
 
-```text
-Talent + Esforç = Habilitat
-
-Habilitat + Esforç = Assoliment
-```
+> Talent + Esforç = Habilitat
+>
+> Habilitat + Esforç = Assoliment
 
 L'esforç val per dos.
 
