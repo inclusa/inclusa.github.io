@@ -70,178 +70,180 @@
   </header>
 
   <article class="post-content">
-    <p>Quan et connectes per <code>ssh</code> a moltes màquines cal identificar-les per tal d’estar segur què fas en cada màquina. Per fer-ho una manera efectiva caldrà posar un arxiu en aquest lloc:</p>
+    <p>Quan et connectes per <code class="highlighter-rouge">ssh</code> a moltes màquines cal identificar-les per tal d’estar segur què fas en cada màquina. Per fer-ho una manera efectiva caldrà posar un arxiu en aquest lloc:</p>
 
-<pre><code class="language-bash">/etc/update-motd/
+<div class="highlighter-rouge"><pre class="highlight"><code>/etc/update-motd/
 </code></pre>
+</div>
 
 <p>Aquests arxius que romanen ací porten numeració davant, doncs cal respectar-la i afegir-ne una.</p>
 
-<p>Com a model agafem aquest arxiu de <strong>LliureX 15.05</strong> <code>/etc/update-motd/61-lliurex</code></p>
+<p>Com a model agafem aquest arxiu de <strong>LliureX 15.05</strong> <code class="highlighter-rouge">/etc/update-motd/61-lliurex</code></p>
 
-<pre><code class="language-bash">#!/bin/bash
-LANG=es_ES.UTF-8
-TERM=xterm
-export LANG 
-export TERM
-#VER=`lsb_release -ds`
-#CAL=`cal`
-HORA=`date +%r`
-UPTIME=`uptime`
-IMG=`n4d-client -c LmdImageManager -m getImageList`
-ORD=`n4d-client -c LlxBootManager -m getBootOrder`
-VER=`cat /usr/share/lliurex-cdd/version`
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<span class="nv">LANG</span><span class="o">=</span>es_ES.UTF-8
+<span class="nv">TERM</span><span class="o">=</span>xterm
+<span class="nb">export </span>LANG 
+<span class="nb">export </span>TERM
+<span class="c">#VER=`lsb_release -ds`</span>
+<span class="c">#CAL=`cal`</span>
+<span class="nv">HORA</span><span class="o">=</span><span class="sb">`</span>date +%r<span class="sb">`</span>
+<span class="nv">UPTIME</span><span class="o">=</span><span class="sb">`</span>uptime<span class="sb">`</span>
+<span class="nv">IMG</span><span class="o">=</span><span class="sb">`</span>n4d-client -c LmdImageManager -m getImageList<span class="sb">`</span>
+<span class="nv">ORD</span><span class="o">=</span><span class="sb">`</span>n4d-client -c LlxBootManager -m getBootOrder<span class="sb">`</span>
+<span class="nv">VER</span><span class="o">=</span><span class="sb">`</span>cat /usr/share/lliurex-cdd/version<span class="sb">`</span>
 
-###########################
-##DETECCION DE MEMORIA#############
-detectmem () {
-	hw_mem=0
-	free_mem=0
-	human=1024
-	mem_info=$(&lt;/proc/meminfo)
-	mem_info=$(echo $(echo $(mem_info=${mem_info// /}; echo ${mem_info//kB/})))
-	for m in $mem_info; do
-		if [[ ${m//:*} = MemTotal ]]; then
-			memtotal=${m//*:}
-		fi
+<span class="c">###########################</span>
+<span class="c">##DETECCION DE MEMORIA#############</span>
+detectmem <span class="o">()</span> <span class="o">{</span>
+	<span class="nv">hw_mem</span><span class="o">=</span>0
+	<span class="nv">free_mem</span><span class="o">=</span>0
+	<span class="nv">human</span><span class="o">=</span>1024
+	<span class="nv">mem_info</span><span class="o">=</span><span class="k">$(</span>&lt;/proc/meminfo<span class="k">)</span>
+	<span class="nv">mem_info</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span> <span class="k">$(</span><span class="nb">echo</span> <span class="k">$(</span><span class="nv">mem_info</span><span class="o">=</span><span class="k">${</span><span class="nv">mem_info</span><span class="p">// /</span><span class="k">}</span>; <span class="nb">echo</span> <span class="k">${</span><span class="nv">mem_info</span><span class="p">//kB/</span><span class="k">})))</span>
+	<span class="k">for </span>m <span class="k">in</span> <span class="nv">$mem_info</span>; <span class="k">do
+		if</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">m</span><span class="p">//</span>:<span class="p">*</span><span class="k">}</span> <span class="o">=</span> MemTotal <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">memtotal</span><span class="o">=</span><span class="k">${</span><span class="nv">m</span><span class="p">//*</span>:<span class="k">}</span>
+		<span class="k">fi
 
-		if [[ ${m//:*} = MemFree ]]; then
-			memfree=${m//*:}
-		fi
+		if</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">m</span><span class="p">//</span>:<span class="p">*</span><span class="k">}</span> <span class="o">=</span> MemFree <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">memfree</span><span class="o">=</span><span class="k">${</span><span class="nv">m</span><span class="p">//*</span>:<span class="k">}</span>
+		<span class="k">fi
 
-		if [[ ${m//:*} = Buffers ]]; then
-			membuffer=${m//*:}
-		fi
+		if</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">m</span><span class="p">//</span>:<span class="p">*</span><span class="k">}</span> <span class="o">=</span> Buffers <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">membuffer</span><span class="o">=</span><span class="k">${</span><span class="nv">m</span><span class="p">//*</span>:<span class="k">}</span>
+		<span class="k">fi
 
-		if [[ ${m//:*} = Cached ]]; then
-			memcached=${m//*:}
-		fi
+		if</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">m</span><span class="p">//</span>:<span class="p">*</span><span class="k">}</span> <span class="o">=</span> Cached <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">memcached</span><span class="o">=</span><span class="k">${</span><span class="nv">m</span><span class="p">//*</span>:<span class="k">}</span>
+		<span class="k">fi
 	done
 
-	usedmem="$(((($memtotal - $memfree) - $membuffer - $memcached) / $human))"
-	totalmem="$(($memtotal / $human))"
-	mem="${usedmem}MiB / ${totalmem}MiB"
-}
-#####FIN DETECCION DE MEMORIA
+	</span><span class="nv">usedmem</span><span class="o">=</span><span class="s2">"</span><span class="k">$((</span><span class="o">((</span><span class="nv">$memtotal</span> <span class="o">-</span> <span class="nv">$memfree</span><span class="o">)</span> <span class="o">-</span> <span class="nv">$membuffer</span> <span class="o">-</span> <span class="nv">$memcached</span><span class="o">)</span> <span class="o">/</span> <span class="nv">$human</span><span class="k">))</span><span class="s2">"</span>
+	<span class="nv">totalmem</span><span class="o">=</span><span class="s2">"</span><span class="k">$((</span><span class="nv">$memtotal</span> <span class="o">/</span> <span class="nv">$human</span><span class="k">))</span><span class="s2">"</span>
+	<span class="nv">mem</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">usedmem</span><span class="k">}</span><span class="s2">MiB / </span><span class="k">${</span><span class="nv">totalmem</span><span class="k">}</span><span class="s2">MiB"</span>
+<span class="o">}</span>
+<span class="c">#####FIN DETECCION DE MEMORIA</span>
 
-###############################
-#########DETECCION DE LA CPU#######
+<span class="c">###############################</span>
+<span class="c">#########DETECCION DE LA CPU#######</span>
 
-detectcpu () {
-	REGEXP="-r"
-	cpu=$(awk 'BEGIN{FS=":"} /model name/ { print $2; exit }' /proc/cpuinfo | sed 's/ @/\n/' | head -1)
-	cpun=$(grep "physical id" /proc/cpuinfo | sort | uniq | wc -l)
-	if [ -z "$cpu" ]; then
-		cpu=$(awk 'BEGIN{FS=":"} /Hardware/ { print $2; exit }' /proc/cpuinfo)
+detectcpu <span class="o">()</span> <span class="o">{</span>
+	<span class="nv">REGEXP</span><span class="o">=</span><span class="s2">"-r"</span>
+	<span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span>awk <span class="s1">'BEGIN{FS=":"} /model name/ { print $2; exit }'</span> /proc/cpuinfo | sed <span class="s1">'s/ @/\n/'</span> | head -1<span class="k">)</span>
+	<span class="nv">cpun</span><span class="o">=</span><span class="k">$(</span>grep <span class="s2">"physical id"</span> /proc/cpuinfo | sort | uniq | wc -l<span class="k">)</span>
+	<span class="k">if</span> <span class="o">[</span> -z <span class="s2">"</span><span class="nv">$cpu</span><span class="s2">"</span> <span class="o">]</span>; <span class="k">then
+		</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span>awk <span class="s1">'BEGIN{FS=":"} /Hardware/ { print $2; exit }'</span> /proc/cpuinfo<span class="k">)</span>
+	<span class="k">fi
+	if</span> <span class="o">[</span> -z <span class="s2">"</span><span class="nv">$cpu</span><span class="s2">"</span> <span class="o">]</span>; <span class="k">then
+		</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span>awk <span class="s1">'BEGIN{FS=":"} /^cpu/ { gsub(/  +/," ",$2); print $2; exit}'</span> /proc/cpuinfo | sed <span class="s1">'s/, altivec supported//;s/^ //'</span><span class="k">)</span>
+		<span class="k">if</span> <span class="o">[[</span> <span class="nv">$cpu</span> <span class="o">=</span>~ ^<span class="o">(</span>PPC<span class="o">)</span><span class="k">*</span>9.+ <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"IBM PowerPC G5 "</span>
+		<span class="k">elif</span> <span class="o">[[</span> <span class="nv">$cpu</span> <span class="o">=</span>~ 740/750 <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"IBM PowerPC G3 "</span>
+		<span class="k">elif</span> <span class="o">[[</span> <span class="nv">$cpu</span> <span class="o">=</span>~ ^74.+ <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"Motorola PowerPC G4 "</span>
+		<span class="k">elif</span> <span class="o">[[</span> <span class="s2">"</span><span class="k">$(</span>cat /proc/cpuinfo<span class="k">)</span><span class="s2">"</span> <span class="o">=</span>~ <span class="s2">"BCM2708"</span> <span class="o">]]</span>; <span class="k">then
+			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"Broadcom BCM2835 ARM1176JZF-S"</span>
+		<span class="k">else
+			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"IBM PowerPC G3 "</span>
+		<span class="k">fi
+		</span><span class="nv">cpu</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">model</span><span class="k">}${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span>
+	<span class="k">fi
+	</span><span class="nv">loc</span><span class="o">=</span><span class="s2">"/sys/devices/system/cpu/cpu0/cpufreq"</span>
+	<span class="k">if</span> <span class="o">[</span> -f <span class="k">${</span><span class="nv">loc</span><span class="k">}</span>/bios_limit <span class="o">]</span>;<span class="k">then
+		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="k">$(</span>awk <span class="s1">'{print $1/1000}'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">loc</span><span class="k">}</span><span class="s2">/bios_limit"</span><span class="k">)</span>
+	<span class="k">elif</span> <span class="o">[</span> -f <span class="nv">$loc</span>/scaling_max_freq <span class="o">]</span>;<span class="k">then
+		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="k">$(</span>awk <span class="s1">'{print $1/1000}'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">loc</span><span class="k">}</span><span class="s2">/scaling_max_freq"</span><span class="k">)</span>
+	<span class="k">else
+		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="k">$(</span>awk -F<span class="s1">':'</span> <span class="s1">'/cpu MHz/{ print int($2+.5) }'</span> /proc/cpuinfo | head -n 1<span class="k">)</span>
+	<span class="k">fi
+	if</span> <span class="o">[</span> -n <span class="s2">"</span><span class="nv">$cpu_mhz</span><span class="s2">"</span> <span class="o">]</span>;<span class="k">then
+		if</span> <span class="o">[</span> <span class="k">$(</span><span class="nb">echo</span> <span class="nv">$cpu_mhz</span> | cut -d. -f1<span class="k">)</span> -gt 999 <span class="o">]</span>;<span class="k">then
+			</span><span class="nv">cpu_ghz</span><span class="o">=</span><span class="k">$(</span>awk <span class="s1">'{print $1/1000}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpu_mhz</span><span class="k">}</span><span class="s2">"</span><span class="k">)</span>
+			<span class="nv">cpu</span><span class="o">=</span><span class="s2">"</span><span class="nv">$cpu</span><span class="s2"> @ </span><span class="k">${</span><span class="nv">cpu_ghz</span><span class="k">}</span><span class="s2">GHz"</span>
+		<span class="k">else
+			</span><span class="nv">cpu</span><span class="o">=</span><span class="s2">"</span><span class="nv">$cpu</span><span class="s2"> @ </span><span class="k">${</span><span class="nv">cpu_mhz</span><span class="k">}</span><span class="s2">MHz"</span>
+		<span class="k">fi
 	fi
-	if [ -z "$cpu" ]; then
-		cpu=$(awk 'BEGIN{FS=":"} /^cpu/ { gsub(/  +/," ",$2); print $2; exit}' /proc/cpuinfo | sed 's/, altivec supported//;s/^ //')
-		if [[ $cpu =~ ^(PPC)*9.+ ]]; then
-			model="IBM PowerPC G5 "
-		elif [[ $cpu =~ 740/750 ]]; then
-			model="IBM PowerPC G3 "
-		elif [[ $cpu =~ ^74.+ ]]; then
-			model="Motorola PowerPC G4 "
-		elif [[ "$(cat /proc/cpuinfo)" =~ "BCM2708" ]]; then
-			model="Broadcom BCM2835 ARM1176JZF-S"
-		else
-			model="IBM PowerPC G3 "
-		fi
-		cpu="${model}${cpu}"
-	fi
-	loc="/sys/devices/system/cpu/cpu0/cpufreq"
-	if [ -f ${loc}/bios_limit ];then
-		cpu_mhz=$(awk '{print $1/1000}' "${loc}/bios_limit")
-	elif [ -f $loc/scaling_max_freq ];then
-		cpu_mhz=$(awk '{print $1/1000}' "${loc}/scaling_max_freq")
-	else
-		cpu_mhz=$(awk -F':' '/cpu MHz/{ print int($2+.5) }' /proc/cpuinfo | head -n 1)
-	fi
-	if [ -n "$cpu_mhz" ];then
-		if [ $(echo $cpu_mhz | cut -d. -f1) -gt 999 ];then
-			cpu_ghz=$(awk '{print $1/1000}' &lt;&lt;&lt; "${cpu_mhz}")
-			cpu="$cpu @ ${cpu_ghz}GHz"
-		else
-			cpu="$cpu @ ${cpu_mhz}MHz"
-		fi
-	fi
-        if [[ "${cpun}" -gt "1" ]]; then
-               	cpu=$(sed $REGEXP 's/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g' &lt;&lt;&lt; "${cpun}x ${cpu}" | xargs)
-        else
-               	cpu=$(sed $REGEXP 's/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g' &lt;&lt;&lt; "${cpu}" | xargs)
-        fi
-}
-############### CPU DETECCION FIN
+        if</span> <span class="o">[[</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpun</span><span class="k">}</span><span class="s2">"</span> -gt <span class="s2">"1"</span> <span class="o">]]</span>; <span class="k">then
+               	</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span>sed <span class="nv">$REGEXP</span> <span class="s1">'s/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpun</span><span class="k">}</span><span class="s2">x </span><span class="k">${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span> | xargs<span class="k">)</span>
+        <span class="k">else
+               	</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span>sed <span class="nv">$REGEXP</span> <span class="s1">'s/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span> | xargs<span class="k">)</span>
+        <span class="k">fi</span>
+<span class="o">}</span>
+<span class="c">############### CPU DETECCION FIN</span>
 
 
-####AVERIGUAMOS EL TIPO DE CLIENTE LLIUREX
+<span class="c">####AVERIGUAMOS EL TIPO DE CLIENTE LLIUREX</span>
 lliurex-version &gt; /tmp/test-mod.txt
-echo $LTSP_FATCLIENT &gt; /tmp/test-mod-fat.txt
-if [ `grep server /tmp/test-mod.txt -c` != 0 ]; then
-	if [ `echo x$DISPLAY | cut -d : -f 1` = 'x' ]; then
-		SOY=Servidor
-	else
-		SOY=Ligero
-	fi
+<span class="nb">echo</span> <span class="nv">$LTSP_FATCLIENT</span> &gt; /tmp/test-mod-fat.txt
+<span class="k">if</span> <span class="o">[</span> <span class="sb">`</span>grep server /tmp/test-mod.txt -c<span class="sb">`</span> !<span class="o">=</span> 0 <span class="o">]</span>; <span class="k">then
+	if</span> <span class="o">[</span> <span class="sb">`</span><span class="nb">echo </span>x<span class="nv">$DISPLAY</span> | cut -d : -f 1<span class="sb">`</span> <span class="o">=</span> <span class="s1">'x'</span> <span class="o">]</span>; <span class="k">then
+		</span><span class="nv">SOY</span><span class="o">=</span>Servidor
+	<span class="k">else
+		</span><span class="nv">SOY</span><span class="o">=</span>Ligero
+	<span class="k">fi
 else
-	if [ `grep client /tmp/test-mod.txt -c ` != 0 ]; then
-		#EJECUTA=`echo $LTSP_FATCLIENT | grep true| wc -l`
-		EJECUTA=$(grep "true" /tmp/test-mod-fat.txt -c)
-		if [ "$EJECUTA" != "0" ];then
-			SOY=Semiligero
-		else
-			SOY=Pesado
-		fi
+	if</span> <span class="o">[</span> <span class="sb">`</span>grep client /tmp/test-mod.txt -c <span class="sb">`</span> !<span class="o">=</span> 0 <span class="o">]</span>; <span class="k">then</span>
+		<span class="c">#EJECUTA=`echo $LTSP_FATCLIENT | grep true| wc -l`</span>
+		<span class="nv">EJECUTA</span><span class="o">=</span><span class="k">$(</span>grep <span class="s2">"true"</span> /tmp/test-mod-fat.txt -c<span class="k">)</span>
+		<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$EJECUTA</span><span class="s2">"</span> !<span class="o">=</span> <span class="s2">"0"</span> <span class="o">]</span>;<span class="k">then
+			</span><span class="nv">SOY</span><span class="o">=</span>Semiligero
+		<span class="k">else
+			</span><span class="nv">SOY</span><span class="o">=</span>Pesado
+		<span class="k">fi
 	else
-		SOY=Desktop
-	fi
-fi
+		</span><span class="nv">SOY</span><span class="o">=</span>Desktop
+	<span class="k">fi
+fi</span>
 
-############################
-#####AVERIGUAMOS LA ARQUITECTURA
-############################
+<span class="c">############################</span>
+<span class="c">#####AVERIGUAMOS LA ARQUITECTURA</span>
+<span class="c">############################</span>
 
-if [ `uname -m | grep "x86_64" -c` == 0 ]; then
-	ARQ="32 Bits"
-else
-	ARQ="64 Bits"
-fi
+<span class="k">if</span> <span class="o">[</span> <span class="sb">`</span>uname -m | grep <span class="s2">"x86_64"</span> -c<span class="sb">`</span> <span class="o">==</span> 0 <span class="o">]</span>; <span class="k">then
+	</span><span class="nv">ARQ</span><span class="o">=</span><span class="s2">"32 Bits"</span>
+<span class="k">else
+	</span><span class="nv">ARQ</span><span class="o">=</span><span class="s2">"64 Bits"</span>
+<span class="k">fi</span>
 
 
-############################
-###DATOS DE MAQUINA ORIGEN
-############################
-IMG2=`echo $IMG|sed 's/\[\|\]//g'|sed 's/"//g'|sed 's/,/ /g'|sed 's/.json//g'`
-ORD2=`echo $ORD|sed 's/\[\|\]//g'|sed 's/"//g'|sed 's/,/ /g'|sed "s/'//g"`
+<span class="c">############################</span>
+<span class="c">###DATOS DE MAQUINA ORIGEN</span>
+<span class="c">############################</span>
+<span class="nv">IMG2</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$IMG</span>|sed <span class="s1">'s/\[\|\]//g'</span>|sed <span class="s1">'s/"//g'</span>|sed <span class="s1">'s/,/ /g'</span>|sed <span class="s1">'s/.json//g'</span><span class="sb">`</span>
+<span class="nv">ORD2</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$ORD</span>|sed <span class="s1">'s/\[\|\]//g'</span>|sed <span class="s1">'s/"//g'</span>|sed <span class="s1">'s/,/ /g'</span>|sed <span class="s2">"s/'//g"</span><span class="sb">`</span>
 
-#CPU=`cat /proc/cpuinfo | grep 'model name' | cut -c 14-42 | uniq `
+<span class="c">#CPU=`cat /proc/cpuinfo | grep 'model name' | cut -c 14-42 | uniq `</span>
 
-#MEM=`grep MemTotal /proc/meminfo | awk '{$1=$2/(1024); print $1,"MB";}'`
+<span class="c">#MEM=`grep MemTotal /proc/meminfo | awk '{$1=$2/(1024); print $1,"MB";}'`</span>
 
-####DETECTAMOS LA MEMORIA FISICA Y USADA, ASI COMO LA CPU######
+<span class="c">####DETECTAMOS LA MEMORIA FISICA Y USADA, ASI COMO LA CPU######</span>
 detectmem
 detectcpu
 
 
-echo 
-echo "	-CLIENTE: $SOY"
-echo "	-VERSION: $VER"
-echo "	-ARQUITECTURA: $ARQ"
-echo "	-CPU: $cpu"
-echo "	-RAM: $mem"
-if [ "$SOY" = "Server" ]; then
-	DF=`df -h /net|tail -1|awk '{print $5}'`
-	echo "	-Espacio ocupado en /net: $DF"
-	echo "	-Imagenes LTSP disponibles: $IMG2"
-	echo "	-Orden de arranque menu pxe: $ORD2"
-	echo 
-fi
-echo 
-echo Hora actual: $UPTIME
+<span class="nb">echo 
+echo</span> <span class="s2">"	-CLIENTE: </span><span class="nv">$SOY</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"	-VERSION: </span><span class="nv">$VER</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"	-ARQUITECTURA: </span><span class="nv">$ARQ</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"	-CPU: </span><span class="nv">$cpu</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"	-RAM: </span><span class="nv">$mem</span><span class="s2">"</span>
+<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$SOY</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"Server"</span> <span class="o">]</span>; <span class="k">then
+	</span><span class="nv">DF</span><span class="o">=</span><span class="sb">`</span>df -h /net|tail -1|awk <span class="s1">'{print $5}'</span><span class="sb">`</span>
+	<span class="nb">echo</span> <span class="s2">"	-Espacio ocupado en /net: </span><span class="nv">$DF</span><span class="s2">"</span>
+	<span class="nb">echo</span> <span class="s2">"	-Imagenes LTSP disponibles: </span><span class="nv">$IMG2</span><span class="s2">"</span>
+	<span class="nb">echo</span> <span class="s2">"	-Orden de arranque menu pxe: </span><span class="nv">$ORD2</span><span class="s2">"</span>
+	<span class="nb">echo 
+</span><span class="k">fi
+</span><span class="nb">echo 
+echo </span>Hora actual: <span class="nv">$UPTIME</span>
 
-echo SERVER AULA LLIUREX 01
+<span class="nb">echo </span>SERVER AULA LLIUREX 01
 
 </code></pre>
+</div>
 
   </article>
 

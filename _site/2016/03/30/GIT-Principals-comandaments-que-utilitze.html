@@ -72,80 +72,95 @@
   <article class="post-content">
     <h1 id="iniciar-un-repositori-git">1. Iniciar un repositori git</h1>
 
-<pre><code>$ git init
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git init
 </code></pre>
+</div>
 
 <h1 id="configurar-lo">2. Configurar-lo</h1>
 
-<pre><code>$ git config --global user.name "John Doe"
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global user.name "John Doe"
 </code></pre>
+</div>
 
-<pre><code>$ git config --global user.email johndoe@example.com
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global user.email johndoe@example.com
 </code></pre>
+</div>
 
 <h1 id="afegir-arxius-de-rastreig">3. Afegir arxius de rastreig</h1>
 
 <p>Cada vegada que modifiquem alguna cosa cal dir-li a GIT que ho tinga en compte.</p>
 
-<pre><code>$ git add .
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git add .
 </code></pre>
+</div>
 
 <h1 id="crear-branca">4. Crear branca</h1>
 
-<pre><code>$ git checkout -b gh-pages
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git checkout -b gh-pages
 </code></pre>
+</div>
 
 <h1 id="canviar-de-branca">5. Canviar de branca</h1>
 
-<pre><code>$ git checkout master
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git checkout master
 </code></pre>
+</div>
 
 <h1 id="mirar-en-quina-branca-estem">6. Mirar en quina branca estem</h1>
 
-<pre><code>$ git branch
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git branch
 </code></pre>
+</div>
 
 <h1 id="desfer-ltim-commit">7. Desfer últim commit</h1>
 
-<pre><code>$ git reset --hard HEAD~1
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git reset --hard HEAD~1
 </code></pre>
+</div>
 
 <h1 id="desfer-fins-arribar-a-5-commits-abans">8. Desfer fins arribar a 5 commits abans</h1>
 
-<pre><code>$ git reset --hard HEAD~5
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git reset --hard HEAD~5
 </code></pre>
+</div>
 
 <h1 id="desfer-el-que-tenim-al-git-local-i-baixar-el-que-hi-ha-al-server">9. Desfer el que tenim al GIT local i baixar el que hi ha al server</h1>
 
-<pre><code>$ git fetch
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git fetch
 </code></pre>
+</div>
 
 <h1 id="clonar-repositori-remot">10. Clonar repositori remot</h1>
 
-<pre><code>$ git clone https://github.com/inclusa/inclusa
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git clone https://github.com/inclusa/inclusa
 </code></pre>
+</div>
 
 <h1 id="sincronitzar-des-del-repositori-remot-al-local">11. Sincronitzar des del repositori remot al local</h1>
 
-<pre><code>$ git pull
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git pull
 </code></pre>
+</div>
 
 <h1 id="sincronitzar-des-del-repositori-local-al-remot">12. Sincronitzar des del repositori local al remot</h1>
 
-<pre><code>$ git push
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git push
 </code></pre>
+</div>
 
 <h1 id="evitar-que-git-demane-usuari-i-contrasenya">13. Evitar que GIT demane usuari i contrasenya</h1>
 
-<pre><code>$ git config --global credential.helper. store
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global credential.helper. store
 </code></pre>
+</div>
 
-<p>La contrasenya del repositori remot queda magatzemada al fitxer <code>.git-credentials</code></p>
+<p>La contrasenya del repositori remot queda magatzemada al fitxer <code class="highlighter-rouge">.git-credentials</code></p>
 
 <h1 id="no-guardar-la-contrasenya-en-disc">14. No guardar la contrasenya en disc</h1>
 
-<pre><code>$ git config --global credential.helper 'cache --timeout=3600'
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git config --global credential.helper 'cache --timeout=3600'
 </code></pre>
+</div>
 
 <p>Transcorreguda un hora tornarà a demanar la contrasenya.</p>
 
@@ -153,57 +168,62 @@
 
 <p>Objectiu: volem borrar la branca gh-pages</p>
 
-<pre><code>$ git branch -d gh-pages           # elimina branca local
+<div class="highlighter-rouge"><pre class="highlight"><code>$ git branch -d gh-pages           # elimina branca local
 
 $ git push origin :gh-pages        # elimina branca remota
 
 </code></pre>
+</div>
 
-<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-https">16. Iniciar repositori en GITHub des de terminal amb el protocol <code>https://</code></h1>
+<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-https">16. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">https://</code></h1>
 
-<pre><code>echo "# repositori" &gt;&gt; README.md
+<div class="highlighter-rouge"><pre class="highlight"><code>echo "# repositori" &gt;&gt; README.md
 git init
 git add README.md
 git commit -m "comentari"
 git remote add origin https://github.com/usuari/repositori.git
 git push -u origin master
 </code></pre>
+</div>
 
 <h1 id="explicaci">17. Explicació</h1>
 
-<p><code>echo</code>: Afegix la informació al fitxer, si no existeix el crea</p>
+<p><code class="highlighter-rouge">echo</code>: Afegix la informació al fitxer, si no existeix el crea</p>
 
-<p><code>git init</code>: Inicia el repositori creant els arxius de rastreig a .git</p>
+<p><code class="highlighter-rouge">git init</code>: Inicia el repositori creant els arxius de rastreig a .git</p>
 
-<p><code>git add README.md</code>: Afegig l’arxiu README.md per tal que es rastrege</p>
+<p><code class="highlighter-rouge">git add README.md</code>: Afegig l’arxiu README.md per tal que es rastrege</p>
 
-<p><code>git commit -m "comentari"</code>: Crea el punt d’emmagatzemmament del contigut actual, emmgatzema el contingut de del projecte establint fixant un punt, també afegeix un comentar</p>
+<p><code class="highlighter-rouge">git commit -m "comentari"</code>: Crea el punt d’emmagatzemmament del contigut actual, emmgatzema el contingut de del projecte establint fixant un punt, també afegeix un comentar</p>
 
-<p><code>git add remote add origin https://</code>: Afegeig repositori remot</p>
+<p><code class="highlighter-rouge">git add remote add origin https://</code>: Afegeig repositori remot</p>
 
-<p><code>git push -u origin master</code>: publica el repositori local a la branca <code>master</code> remota</p>
+<p><code class="highlighter-rouge">git push -u origin master</code>: publica el repositori local a la branca <code class="highlighter-rouge">master</code> remota</p>
 
-<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-https">18. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code>https://</code></h1>
+<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-https">18. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">https://</code></h1>
 
-<pre><code>git remote add origin https://github.com/usuari/repositori.git
+<div class="highlighter-rouge"><pre class="highlight"><code>git remote add origin https://github.com/usuari/repositori.git
 git push -u origin master
 </code></pre>
+</div>
 
-<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-ssh">19. Iniciar repositori en GITHub des de terminal amb el protocol <code>ssh</code></h1>
+<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-ssh">19. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">ssh</code></h1>
 
-<pre><code>echo "# repositori" &gt;&gt; README.md
+<div class="highlighter-rouge"><pre class="highlight"><code>echo "# repositori" &gt;&gt; README.md
 git init
 git add README.md
 git commit -m "comentari"
 git remote add origin git@github.com:usuari/repositori.git
 git push -u origin master
 </code></pre>
+</div>
 
-<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-ssh">20. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code>ssh</code></h1>
+<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-ssh">20. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">ssh</code></h1>
 
-<pre><code>git remote add origin git@github.com:usuari/repositori.git
+<div class="highlighter-rouge"><pre class="highlight"><code>git remote add origin git@github.com:usuari/repositori.git
 git push -u origin master
 </code></pre>
+</div>
 
 <h1 id="fonts">21. Fonts</h1>
 

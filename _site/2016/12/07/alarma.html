@@ -83,13 +83,14 @@
 
 <p>Per tal d’alcançar el nivell més alt caldrà controlar el temps per augmenar la intensitat. Aquest control del temps el farem amb un script.</p>
 
-<p>Cal posar una cançò o un so a aquesta adreça <code>/opt/so/alarma.mp3</code></p>
+<p>Cal posar una cançò o un so a aquesta adreça <code class="highlighter-rouge">/opt/so/alarma.mp3</code></p>
 
-<p>Nom del fitxer: <code>alarm.sh</code></p>
+<p>Nom del fitxer: <code class="highlighter-rouge">alarm.sh</code></p>
 
-<pre><code class="language-bash">#!/bin/bash
-sleep 25 m &amp;&amp; mplayer /opt/so/alarma.mp3
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+sleep 25 m <span class="o">&amp;&amp;</span> mplayer /opt/so/alarma.mp3
 </code></pre>
+</div>
 
 <p>Tecles per controlar la reproducció:</p>
 
@@ -101,13 +102,13 @@ sleep 25 m &amp;&amp; mplayer /opt/so/alarma.mp3
   <li><strong>flexa ↓</strong>: recula 20% la reproducció</li>
 </ul>
 
-<p>Si volem que l’arxiu s’execute des del terminal caldrà posar aquest script <code>alarma.sh</code> al directori <code>/usr/local/bin/</code>.</p>
+<p>Si volem que l’arxiu s’execute des del terminal caldrà posar aquest script <code class="highlighter-rouge">alarma.sh</code> al directori <code class="highlighter-rouge">/usr/local/bin/</code>.</p>
 
-<p>Podem automatitzar el procés posant un <code>cron</code> el qual executarà l’arxiu cada dia a la mataixa hora.</p>
+<p>Podem automatitzar el procés posant un <code class="highlighter-rouge">cron</code> el qual executarà l’arxiu cada dia a la mataixa hora.</p>
 
-<p>Podria ser que no funcionar <code>mplayer</code> perquè ens donara una errada en la implementació <code>lirc</code>. En cas de que isca aquesta errada cal puntualitzar que <code>mplayer</code> no utilitze aquesta tecnologia.</p>
+<p>Podria ser que no funcionar <code class="highlighter-rouge">mplayer</code> perquè ens donara una errada en la implementació <code class="highlighter-rouge">lirc</code>. En cas de que isca aquesta errada cal puntualitzar que <code class="highlighter-rouge">mplayer</code> no utilitze aquesta tecnologia.</p>
 
-<p>S’especifica al fitxer <code>.mplayer/config</code> afegint una línia amb aquesta informació <code>lirc=no</code>.</p>
+<p>S’especifica al fitxer <code class="highlighter-rouge">.mplayer/config</code> afegint una línia amb aquesta informació <code class="highlighter-rouge">lirc=no</code>.</p>
 
 
   </article>

@@ -74,38 +74,43 @@
 
 <p>Es tracta d’atorgar funcions per tal de no estar escrivint sempre el mateix.</p>
 
-<p>La diferència amb un <code>snippe</code> és que les <code>funcions</code> introdueixen un nombre variable, com ara la data.</p>
+<p>La diferència amb un <code class="highlighter-rouge">snippe</code> és que les <code class="highlighter-rouge">funcions</code> introdueixen un nombre variable, com ara la data.</p>
 
-<p>Assignarem la funció de <em>data</em> i <em>hora</em> a la tecla <code>&lt;F5&gt;</code>.</p>
+<p>Assignarem la funció de <em>data</em> i <em>hora</em> a la tecla <code class="highlighter-rouge">&lt;F5&gt;</code>.</p>
 
 <p>En un primer pas podem exercutar de forma independen, sense assignar la tecla des del mode de comandaments de Vim:</p>
 
-<pre><code>:put =strftime(\"%c\")
+<div class="highlighter-rouge"><pre class="highlight"><code>:put =strftime(\"%c\")
 </code></pre>
+</div>
 
 <p>També es pot fer així:</p>
 
-<pre><code>:put =strftime('%c')
+<div class="highlighter-rouge"><pre class="highlight"><code>:put =strftime('%c')
 </code></pre>
+</div>
 
 <p>O simplement així:</p>
 
-<pre><code>:pu=strftime('%c')
+<div class="highlighter-rouge"><pre class="highlight"><code>:pu=strftime('%c')
 </code></pre>
+</div>
 
-<p>Ara assignarem la tecla <code>&lt;F5&gt;</code> per tal d’introduir la data i l’hora pulsant aquesta tecla:</p>
+<p>Ara assignarem la tecla <code class="highlighter-rouge">&lt;F5&gt;</code> per tal d’introduir la data i l’hora pulsant aquesta tecla:</p>
 
-<pre><code>:nnoremap &lt;F5&gt; "=strftime("%c")&lt;CR&gt;P
+<div class="highlighter-rouge"><pre class="highlight"><code>:nnoremap &lt;F5&gt; "=strftime("%c")&lt;CR&gt;P
 </code></pre>
+</div>
 
 <p>Eixida:</p>
 
-<pre><code>dg 11 des 2016 09:49:21 CET
+<div class="highlighter-rouge"><pre class="highlight"><code>dg 11 des 2016 09:49:21 CET
 </code></pre>
+</div>
 
 <p>Es poden utilizar aquest codi segons la necessitat:</p>
 
-<pre><code>Format String              Example output
+<div class="highlighter-rouge"><pre class="highlight"><code>Format String              Example output
 -------------              --------------
 %c                         Thu 27 Sep 2007 07:37:42 AM EDT (depends on locale)
 %a %d %b %Y                Thu 27 Sep 2007
@@ -126,6 +131,7 @@ ISO8601/W3C format (http://www.w3.org/TR/NOTE-datetime):
 %FT%T%z                    2007-08-29T02:37:13-0400
 
 </code></pre>
+</div>
 
 <p>Font: <a href="http://vim.wikia.com/wiki/Insert_current_date_or_time">http://vim.wikia.com/wiki/Insert_current_date_or_time</a></p>
 

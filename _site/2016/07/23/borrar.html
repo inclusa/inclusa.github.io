@@ -72,28 +72,29 @@
   <article class="post-content">
     <p>De vegades cal borrar tots els arxius menys alguns en un directori. Deixem el patró de com fer-ho per tal d’accedir al procediment de forma fàcil. Es tracta d’un script escrit en bash.</p>
 
-<pre><code class="language-bash">for a in `ls | grep -v .md`; do rm -fr $a; done
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>a <span class="k">in</span> <span class="sb">`</span>ls | grep -v .md<span class="sb">`</span>; <span class="k">do </span>rm -fr <span class="nv">$a</span>; <span class="k">done</span>
 </code></pre>
+</div>
 
 <h3 id="explicaci">Explicació</h3>
 
 <ul>
-  <li><code>for</code>: per a.</li>
-  <li><code>a</code>: variable.</li>
-  <li><code>in</code>: en.</li>
-  <li><code>\</code>`: accent greu</li>
-  <li><code>|</code>: de forma paral·lela filtra.</li>
-  <li><code>grep</code>: filtra.</li>
-  <li><code>-v</code>: inverteix les coincidències, els paràmetres que no coincidisquen amb.</li>
-  <li><code>.md</code>: extensió dels arxius que no es vol borrar.</li>
-  <li><code>\</code>`: accent greu.</li>
-  <li><code>;</code>: executa.</li>
-  <li><code>do</code>: fes.</li>
-  <li><code>rm</code>: borra.</li>
-  <li><code>-fr</code>: forçat i de forma recursiva.</li>
-  <li><code>$a</code>: variable a.</li>
-  <li><code>;</code>: executa.</li>
-  <li><code>done</code> fet, para l’execució.</li>
+  <li><code class="highlighter-rouge">for</code>: per a.</li>
+  <li><code class="highlighter-rouge">a</code>: variable.</li>
+  <li><code class="highlighter-rouge">in</code>: en.</li>
+  <li><code class="highlighter-rouge">\</code>`: accent greu</li>
+  <li><code class="highlighter-rouge">|</code>: de forma paral·lela filtra.</li>
+  <li><code class="highlighter-rouge">grep</code>: filtra.</li>
+  <li><code class="highlighter-rouge">-v</code>: inverteix les coincidències, els paràmetres que no coincidisquen amb.</li>
+  <li><code class="highlighter-rouge">.md</code>: extensió dels arxius que no es vol borrar.</li>
+  <li><code class="highlighter-rouge">\</code>`: accent greu.</li>
+  <li><code class="highlighter-rouge">;</code>: executa.</li>
+  <li><code class="highlighter-rouge">do</code>: fes.</li>
+  <li><code class="highlighter-rouge">rm</code>: borra.</li>
+  <li><code class="highlighter-rouge">-fr</code>: forçat i de forma recursiva.</li>
+  <li><code class="highlighter-rouge">$a</code>: variable a.</li>
+  <li><code class="highlighter-rouge">;</code>: executa.</li>
+  <li><code class="highlighter-rouge">done</code> fet, para l’execució.</li>
 </ul>
 
 <p>Font: <a href="http://www.juanjoconti.com.ar/2010/05/10/borrar-todos-los-archivos-de-un-directorio-menos-los-que/">El borrador permanente</a></p>

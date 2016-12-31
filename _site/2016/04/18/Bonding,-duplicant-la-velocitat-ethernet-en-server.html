@@ -85,32 +85,36 @@
 
 <p>Instal·lem software per assignar interfaces de xarxa al mòdul que les enllaça</p>
 
-<pre><code>$ sudo apt-get install ifenslave
+<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt-get install ifenslave
 </code></pre>
+</div>
 
 <p>Creem un arxu de configuració de l’enllaç</p>
 
-<pre><code>$ sudo vim /etc/modprove.d/bondig.conf
+<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo vim /etc/modprove.d/bondig.conf
 </code></pre>
+</div>
 
 <p>Li afegim aquestes línies</p>
 
-<pre><code>alias bond0 bonding
+<div class="highlighter-rouge"><pre class="highlight"><code>alias bond0 bonding
 optins bonding mode=0 miimon=100
 </code></pre>
+</div>
 
-<p>El <code>mode=0</code> permeteix balancejar la càrrega i tolerància a errades, es poden utilitzar altres mòduls. L’altre paràmetre és el temps entre comprovacions de l’estat de la interface.</p>
+<p>El <code class="highlighter-rouge">mode=0</code> permeteix balancejar la càrrega i tolerància a errades, es poden utilitzar altres mòduls. L’altre paràmetre és el temps entre comprovacions de l’estat de la interface.</p>
 
 <p>Seria bo desinstal·lar assistents com <strong>Network Manager</strong>.</p>
 
 <p>Editem l’arxiu d’interfaces de xarxa</p>
 
-<pre><code>sudo vim /etc/network/interfaces
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo vim /etc/network/interfaces
 </code></pre>
+</div>
 
 <p>Comentem les línies de les interfaces amb un # a principi de línia, hauria de quedar així:</p>
 
-<pre><code>auto lo
+<div class="highlighter-rouge"><pre class="highlight"><code>auto lo
 iface lo inet loopback
 
 auto bond0
@@ -122,16 +126,18 @@ slaves eth0 eth1
 bond-mode 0
 bond-miimon 100
 </code></pre>
+</div>
 
-<p>Cal posar en <code>address</code> la nostra direcció i en <code>gateway</code> l’adreça del router.</p>
+<p>Cal posar en <code class="highlighter-rouge">address</code> la nostra direcció i en <code class="highlighter-rouge">gateway</code> l’adreça del router.</p>
 
 <p>Les dos últimes línies sols les posem en cas que no hagem creat l’arxiu /etc/modprobe.d/bonding.conf</p>
 
 <p>Arramquem el servei</p>
 
-<pre><code>$ sudo modprobe bonding
+<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo modprobe bonding
 $ sudo /etc/init.d/networking restart
 </code></pre>
+</div>
 
 <h1 id="fonts">Fonts</h1>
 

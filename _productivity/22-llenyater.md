@@ -1,0 +1,39 @@
+---
+layout: post
+title: 22 - Conte del llenyater
+date:  2016-12-31 00:00:00
+---
+
+
+Hi havia una vegada un llenyater, Àlvar, que es guanyava la vida tallant arbres. Un dia, va conèiser un altre llenyater, Bartolomé, i acordaren anar junts al treball al dia següent.
+
+Tots dos començaren la mateixa hora i tallaren arbres durant 8 hores en el bosc.
+
+Els llenyaters eren joves i forts, el primer dia tallaren 22 arbres.
+
+El segon dia, Àlvar va arribar mija hora més tard que Bartolomé, així que sols va treballar 7 hores i mitja, mentre que Bartolomé va fer les seues 8 hores.
+
+Bartolomé no es va atrevir a preguntar per l'extrany endarreriment d'Àlvar.
+
+Així seguiren duarant 5 dies. Els resultats els posem en aquesta tabla:
+
+Día       |   1 |   2 |   3 |   4 |   5
+---       | --- | --- | --- | --- | ---
+Àlvar     |  22 |  20 |  20 |  20 |  20
+Bartolomé |  22 |  21 |  19 |  17 |  14
+{:.tabla}
+
+
+Després de l'última jornada, en tornar a casa, Bartolomé, picat per la curiositat, va preguntar àlvar on estava el secret de que mantinguera la seua quota de tales, mentre que les seues havien caigut enpicat.
+
+Àlvar es va explicar: «Cada matí dedique mitjahora a afilar la serra, just el temps que m'endarrerisc en arribar al bosc; d'aquesta manera mantinc la serra en condicions òptime de treballa».
+
+«El primer dia vàrem fer el mateix treball».
+
+«El segon dia vaig tenir menys temps que tu, així que tu vares tallar més arbres».
+
+«Però, a partir del tercer dia, vaig mantenir la meua quota mentre que la teua baixava cada dia perquè, la teua seerra mellada, tallava pitjor».
+
+Talar sense descans ens porta fins al màxim nivell d'imcompetència.
+
+-- Autor desconegut

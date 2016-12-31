@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>14 Instal·lar Java 1.8 sobre Ubuntu</title>
+    <title>19 Android</title>
     <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/2016/11/06/java.html">
+    <link rel="canonical" href="/2016/12/27/Android.html">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -65,44 +65,62 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">14 Instal·lar Java 1.8 sobre Ubuntu</h1>
-    <p class="post-meta">November 6, 2016 — 01:00</p>
+    <h1 class="post-title">19 Android</h1>
+    <p class="post-meta">December 27, 2016 — 01:00</p>
   </header>
 
   <article class="post-content">
-    <ol>
-  <li>Afegim repositori</li>
-</ol>
+    <p>Utilitats per accedir de forma remota a sistemes Android. Aquesta utilitat ve a ser una menera d’implementació per accedir a un altre sistema com accedim mitjançant el protocol <em>ssh</em>.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo add-apt-repository ppa:webupd8team/java
+<div class="highlighter-rouge"><pre class="highlight"><code>android-tools-adb - Android Debug Bridge CLI tool
+android-tools-fastboot - Android Fastboot protocol CLI tool
 </code></pre>
 </div>
+
+<p>Per accedir al telèfon cal punxar-lo a l’ordinador via USB, però la cosa no funciona perquè cal desinstal·lar aquesta utilitat:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>modemmanager - D-Bus service for managing modems
+</code></pre>
+</div>
+
+<p>Desinstal·la a nivell de kernel.</p>
+
+<p>Podria ser que <code class="highlighter-rouge">cdc_acm</code> deixara de funcionar…</p>
+
+<p>Per assegurar-nos:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>lsmod | grep cdc_acm
+</code></pre>
+</div>
+
+<p>Si ho torna buit, caldrà posar-ho en marxa:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo modprobe cdc_acm
+</code></pre>
+</div>
+
+<p>Així, cal desinstal·lar aquesta utilitat per poder accedir d’aquesta manera:</p>
 
 <ol>
-  <li>Actualitzem</li>
+  <li>
+    <p>Confirmem que el sistema el reconeix:</p>
+
+    <p>$ adb devices
+ List of devices attached
+ device_ip_address:5555 device</p>
+  </li>
+  <li>
+    <p>Accedim</p>
+
+    <p>$ adb connect device_ip_address</p>
+  </li>
 </ol>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt-get update
-</code></pre>
-</div>
+<h3 id="fonts">Fonts</h3>
 
-<ol>
-  <li>Instal·lem</li>
-</ol>
+<p><a href="http://www.mibqyyo.com/articulos/2015/05/28/instalacion-android-ubuntu/#/vanilla/discussion/embed/?vanilla_discussion_id=0">Foros de bq</a></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt-get install oracle-java8-installer
-</code></pre>
-</div>
-
-<ol>
-  <li>Comprovem versió de Java</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>$ java -version
-</code></pre>
-</div>
-
-<p>Font: <a href="http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/#">http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/#</a></p>
+<p><a href="https://developer.android.com/studio/command-line/adb.html">https://developer.android.com/studio/command-line/adb.html</a></p>
 
 
   </article>
