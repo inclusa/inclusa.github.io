@@ -14,13 +14,13 @@ La millor manera de millorar en la nostra vida és començar a ésser *conscient
 2. L'efecte de prendre o no una decisió pot tenir un *impacte* molt significatiu.
 3. *Mai és tard* per començar a canviar.
 4. El *temps* ha d'actuar al teu favor, decidir millorar una activitat, n'és un exemple.
-5. Les `simples decisions` importen molt.
+5. Les *simples decisions* importen molt.
 
 La societat està orientada 100% a resultats a curt temini.
 
 La clau està en començar a actuar.
 
-El camí de l'èxit `no té dreceres` és el resultat d'una sèrie de decisions portades a terme conscientment.
+> El camí de l'èxit no té dreceres és el resultat d'una sèrie de decisions portades a terme conscientment.
 
 -- Jeff Olson. La ligera ventaja.
 
