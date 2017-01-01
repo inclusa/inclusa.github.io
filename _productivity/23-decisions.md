@@ -24,3 +24,5 @@ La clau està en començar a actuar.
 
 -- Jeff Olson. La ligera ventaja.
 
+
+ <img src="http://obtengaresultadosreales.com/wp-content/uploads/2013/08/LA-LIGERA-VENTAJA-DIAGRAMO1.jpg"> 
