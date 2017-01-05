@@ -19,6 +19,7 @@ Inclús, habrien períodes en els quals perdam un poc d'habilitat, així que no 
 
 Per aquesta raó, si et trobes en una meseta on hi ha hores de pactica però no n'hi ha resultat, has de continuar practicant, el resultat del teu esforç serà visible a llarg termini.
 
+```
 > |
 > |              ----
 > |             /
@@ -31,6 +32,7 @@ Per aquesta raó, si et trobes en una meseta on hi ha hores de pactica però no 
 > |/
 > ____________________
 
+```
 
 En la cultura de món occidental es valoren més els resultats immediats. Això ha format una mentalitat completament oposada a la maestria.
 
