@@ -52,13 +52,18 @@ Mentalitat orientada al procés, a aprendre, a no perseguir els resultats. No é
 
 Per això haurem de quantificar l'energia (menys hores diàries i més consistència). Dedicar poques hores diàries serà menys productiu però el procés tindrà més consistència.
 
-Claves para estar motivado
---George Leonard
+Mastery
+<small>George Leonard</small>
 
 En anglés
 
 [Mastery](https://www.amazon.es/Mastery-Success-Long-Term-Fulfillment-Plume/dp/0452267560/ref=sr_1_1?ie=UTF8&qid=1483600217&sr=8-1&keywords=george+leonard)
--- George Leonard
+<small>George Leonard</small>
+
+
+[Idees](https://www.thecorporaterookie.com/wp-content/uploads/2014/03/Mastery.pdf)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jWxts-QMuXA" frameborder="0" allowfullscreen></iframe>
 
 [Videos](https://wn.com/jeff_watts'_book_review_of_mastery_by_george_leonard,_part_3)
 
