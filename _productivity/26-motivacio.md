@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 26 Motivació
+title: 26 Maestria
 date:  2017-01-04 00:00:00
 ---
 
@@ -18,6 +18,20 @@ La nostra millora en habilitats no és contínua, sinó que hem de posar una cer
 Inclús, habrien períodes en els quals perdam un poc d'habilitat, així que no hi ha que esperar veure resultats cada vegada que posem un poc d'esforç, això seria crear falses expectatives.
 
 Per aquesta raó, si et trobes en una meseta on hi ha hores de pactica però no n'hi ha resultat, has de continuar practicant, el resultat del teu esforç serà visible a llarg termini.
+
+```
+|
+|              ----
+|             /
+|            /
+|        ----
+|       /
+|      /
+|  ----
+| /
+|/
+____________________
+```
 
 En la cultura de món occidental es valoren més els resultats immediats. Això ha format una mentalitat completament oposada a la maestria.
 
@@ -39,3 +53,34 @@ Per això haurem de quantificar l'energia (menys hores diàries i més consistè
 
 Claves para estar motivado
 --George Leonard
+
+En anglés
+
+[Mastery](https://www.amazon.es/Mastery-Success-Long-Term-Fulfillment-Plume/dp/0452267560/ref=sr_1_1?ie=UTF8&qid=1483600217&sr=8-1&keywords=george+leonard)
+-- George Leonard
+
+[Videos](https://wn.com/jeff_watts'_book_review_of_mastery_by_george_leonard,_part_3)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wCtaRkSXh0o" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MNTEvqgT0b8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Tv9Inby5Ehg" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YXN9HdFbxqM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1Bibvx3TsLU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5G4hzcIwGqo" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/idJ3jllkb40" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3smVtF5AzaU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ac4q9hInt5o" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/G4dNBxDWyDU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ZNwhwhkZuus" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/yCj8v-dXdl8" frameborder="0" allowfullscreen></iframe>
