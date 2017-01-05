@@ -63,6 +63,49 @@ En anglés
 
 [Idees](https://www.thecorporaterookie.com/wp-content/uploads/2014/03/Mastery.pdf)
 
+### 5 Claus
+
+1. Key #1: Instruction - Instrucció
+2. Key #2: Practica - Pràctica
+3. Key #3: Surrender - Rendició al professor, rol d'aprenent
+4. Key #4: Intencionality - Intencionalitat
+5. Key #5: Edge - Límits
+
+#### Key #1 Instruccion
+
+- Un bon instructor serà el punt de partida bo i roïn.
+- Els millors instructors no són perfectes.
+- Pensa quan és temps de deixar l'instructor.
+- El millor sobre la no instrucció és que tu tens ilimitat el teu potencial, nintú et dirà com treballar.
+- El pitjor és que no tens molt de temps per aprendre, si no tens ningú, ningú t'ajudarà en el camí.
+
+#### Key #2 Practica
+
+- Larry Bird va començar a practicar basquet als 4 anys i mai ha deixat de fer-ho.
+- Bill Gates als 13 anys ja tenia 10.000 hores de pràctica de programació.
+
+
+#### Key #3 Surrender
+
+- Rendeixe al teu professor i a les demandes de la teua disciplina.
+- Estar disposat a semblar un ximple.
+- Hi ha moments en què perdem el dret guanyat amb dificultat a la competència per tal d'avançar a la següent etapa. (Igual que quan un jugador decideix canviar la seva o seva oscil·lació).
+- Per als masters, el «surrender» significa *no hi ha experts, sols aprenents*.
+
+#### Key #4 Intencionality
+
+- Cerca imatges i sentiments per fer que succeixca.
+- La intencionalitat alimenta el viatge del mestre.
+- Cada mestre té una visió.
+
+#### Key #5 Edge
+
+- Espenta els límits de major rendiment, de vegades fins al punt de l'estupidesa.
+- Has de ser capaç de jugar al límit respectant la pràctica.
+
+
+
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/jWxts-QMuXA" frameborder="0" allowfullscreen></iframe>
 
 [Videos](https://wn.com/jeff_watts'_book_review_of_mastery_by_george_leonard,_part_3)
