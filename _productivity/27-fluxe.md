@@ -136,3 +136,8 @@ Al *visualitzar* el resultat es pren *consciència del procés*. «Et sents perf
 En una carrera de tanques, la final olímplica, el que guanya la carrera és el que, en aquell moment té més *confiança* i està *millor preparat psicològicament*.
 
 -- Redes. Eduard Punset i Mihail Csikszenmihályi.
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0yBjhNeKUrU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bnwhxbpTM-Q" frameborder="0" allowfullscreen></iframe>
