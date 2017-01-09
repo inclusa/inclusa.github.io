@@ -14,74 +14,14 @@ Redes #130
 > <small>Richard Davidson</small>
 
 
-# Les emocions en l'escuela
+# Les emocions a l'escola
 
 La ciència està corroborant ara que la gestió de les emocions básiques i universals hauria de precedir a l'ensenyament de valors, i per suposat, de continguts acadèmics.
 
 ## Richard Davison
 <small>Neuropsicòleg, Universitat de Wisconsin-Madison</small>
 
-Parlem de habilitats per controlar les emocions negatives, per a què, quan ocòrre una adversitat, estas no persistisquen més del necessari. Les persones poden disipar aquestes emocions negatives per tornar a l'estat inicial.
-
-Quan les emocions perturbadores es produeixen en la ment interfereixen en la capacitat d'aprendre dels xiquets.
-
-Quan més prompte s'intervinga millor, perquè hi haurà major probabilitat de que les seues conseqüències persisteixen durant més temps.
-
-## Daniel Goleman
-<small>Psicòleg i periodista, membre de la Mind & Life institute</small>
-
-Estem descobrint que ensenyar habilitats socials i emocionals als xiquets des de que tenen 5 anys fins a la universitat és molt eficaç, els torna molt més cívics, molt millors estudiants.
-
-És un error pensar que la cognició i les emocions són dues coses completament separades. És la mateixa àrea cerebral.
-
-Ajudar als xiquets a gestionar millor les seues àrees cerebrals significa que poden aprendre millor. Ara estem estudiant els mètodes contemplatius que s'han vingut utilitzant mitjançant segles tant en el budisme com en el catolicisme. Tota gran religió ha desenvolupat en algun moment una pràctica contemplativa de desenvolupament de la ment.
-
-Ho estem estudiant per si podem ajudar a concentrar-se als xiquets. Huí, hi ha pocs llocs on ensenyen Mindfulness, que els ensenyen a concentrar-se millor, a focalitzar, a fer introspecció i a ser més compassius.
-
-> La compasió (del latín cumpassio, calco semàntic o traducció del vocable griec συμπάθεια (sympathia), paraula composta de συν πάσχω + = συμπάσχω, literalment «sofrir junts», «tractar amb emocions ...», simpatia) és un sentimient humanà que se manifiesta a partir i comprenent el sofrimient d'altre ésser. Més intensa que l'empatía, la compasió es la percepció i comprensió del sofrimient de l'altre, i el desig d'aliviar, reduir o eliminar por complet tal sofrimient.
-
-
-### Matthieu Ricard
-
-Els orientals tenen una tradició molt antiga en la meditació, aquesta meditació és el que està redescobrint la ciència com un recolzament fornamental en l'art de gestionar les emocions.
-
-Què esperem quan eduquem als xiquets?
-
-Convertir-los en éssers humans bons, persones siguen felices en la vida, que no estiguen deprimides i es suïciden. Acàs basta plenar-los el cap d'informació sense desenvolupar cap qualitat humana. Volem persones bones i equilibrades.
-
-Però l'educació sembla estar interessada en qualsevol cosa menys això, per tant, hi ha alguna cosa que clarament falta.
-
-Un dels grans descobriments del budisme ha estat precisament perfecionar l'atenció, la primera fase del coneixement, per a concentrar-se en alguna cosa.
-
-Com millorar el procés d'atenció?
-
-Amb la ment distraguda no es podrà cultivar res.
-
-La ment es dispersa fàcilment. Necessitem una ment calmada, amb més claritat i més estabilitat, sense això no es pot fer res. Per això és necessari utilitzar un objecte de concentració per estabilitzar la ment.
-
-Pots concentrar-te amb qualsevol cosa, un objecte, una flor, però resulta prou útil concentrar-se en la respiració. Si et concentres en la respiració, no pots vore-la, és molt subtil, si deixes de concentrar-te és com si la perderes. Així que és fàcil saber si et concentres o no.
-
-Amb la respiració sols tens una lleugera sensació, unes 21 vegades, uns 10 minuts. Fer-ho permeteix calmar la ment.
-
-En principi, ens ix el rebuig a fer-ho, és perquè la ment no està entrenada, si no perseveres mai aprendràs res.
-
-En lloc de tenir remordiments o sentir-te culpable per haver-se distragut, cal pensar que no passa res, cal tornar a la respiració. Si ho fas al llarg d'un temps i ho repeteixes regularment veus que la ment es calma, es torna més clara, pots utilitzar aquesta ment un poc més flexible per cultivar l'altruïsme, la compació o el que vullgues.
-Aprendre a gestionar les emocions
-
-Redes #130
-
-> Les emocions negatives interfereixen amb l'aprenentatge dels xiquets.
-> <small>Richard Davidson</small>
-
-
-# Les emocions en l'escuela
-
-La ciència està corroborant ara que la gestió de les emocions básiques i universals hauria de precedir a l'ensenyament de valors, i per suposat, de continguts acadèmics.
-
-## Richard Davison
-<small>Neuropsicòleg, Universitat de Wisconsin-Madison</small>
-
-Parlem de habilitats per controlar les emocions negatives, per a què, quan ocòrre una adversitat, estas no persistisquen més del necessari. Les persones poden disipar aquestes emocions negatives per tornar a l'estat inicial.
+Parlem de habilitats per controlar les emocions negatives, per a què, quan ocorre una adversitat, estas no persistisquen més del necessari. Les persones poden disipar aquestes emocions negatives per tornar a l'estat inicial.
 
 Quan les emocions perturbadores es produeixen en la ment interfereixen en la capacitat d'aprendre dels xiquets.
 
@@ -164,7 +104,7 @@ No n'hi ha que dramatitzar.
 Viette Glover
 <small>Psicobiòloga, Imperial College London</small>
 
-La educación emocional comiença en l'úter matern.
+La educació emocional comença en l'úter matern.
 
 Els nivells prenatals d'ansietat en la dona embarassada afecten no sols la vida del nadó, sinó també al seu futur.
 
