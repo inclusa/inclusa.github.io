@@ -137,7 +137,7 @@ Necessitem constantment sentir-nos segurs i amparats, connectats amb els demés.
 Més enllà de la pura supervivència sols florim si les nostres necessitats emocionals, en especial les de protecció i afecte estan ateses.
 
 # Benjamin Fander
-Director de la filarmónica de Boston
+<small>Director de la filarmónica de Boston</small>
 
 El primer dia de cada curs reuneix els seus alumnes i els posa un excel·lent. Després demana que escriguen una carta explicant per què mereixen aquest excel·lent, i en què han de treballar aquest any per convertir-se en aquesta versió excel·lent de sí mateixos.
 
