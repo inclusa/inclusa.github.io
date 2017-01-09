@@ -18,7 +18,7 @@ Redes #130
 
 La ciència està corroborant ara que la gestió de les emocions básiques i universals hauria de precedir a l'ensenyament de valors, i per suposat, de continguts acadèmics.
 
-## Richard Davison
+# Richard Davison
 <small>Neuropsicòleg, Universitat de Wisconsin-Madison</small>
 
 Parlem de habilitats per controlar les emocions negatives, per a què, quan ocorre una adversitat, estas no persistisquen més del necessari. Les persones poden disipar aquestes emocions negatives per tornar a l'estat inicial.
@@ -27,7 +27,7 @@ Quan les emocions perturbadores es produeixen en la ment interfereixen en la cap
 
 Quan més prompte s'intervinga millor, perquè hi haurà major probabilitat de que les seues conseqüències persisteixen durant més temps.
 
-## Daniel Goleman
+# Daniel Goleman
 <small>Psicòleg i periodista, membre de la Mind & Life institute</small>
 
 Estem descobrint que ensenyar habilitats socials i emocionals als xiquets des de que tenen 5 anys fins a la universitat és molt eficaç, els torna molt més cívics, molt millors estudiants.
@@ -41,7 +41,7 @@ Ho estem estudiant per si podem ajudar a concentrar-se als xiquets. Huí, hi ha 
 > La compasió (del latín cumpassio, calco semàntic o traducció del vocable griec συμπάθεια (sympathia), paraula composta de συν πάσχω + = συμπάσχω, literalment «sofrir junts», «tractar amb emocions ...», simpatia) és un sentimient humanà que se manifiesta a partir i comprenent el sofrimient d'altre ésser. Més intensa que l'empatía, la compasió es la percepció i comprensió del sofrimient de l'altre, i el desig d'aliviar, reduir o eliminar por complet tal sofrimient.
 
 
-### Matthieu Ricard
+# Matthieu Ricard
 
 Els orientals tenen una tradició molt antiga en la meditació, aquesta meditació és el que està redescobrint la ciència com un recolzament fornamental en l'art de gestionar les emocions.
 
@@ -67,7 +67,7 @@ En principi, ens ix el rebuig a fer-ho, és perquè la ment no està entrenada, 
 
 En lloc de tenir remordiments o sentir-te culpable per haver-se distragut, cal pensar que no passa res, cal tornar a la respiració. Si ho fas al llarg d'un temps i ho repeteixes regularment veus que la ment es calma, es torna més clara, pots utilitzar aquesta ment un poc més flexible per cultivar l'altruïsme, la compació o el que vullgues.
 
-### Jay Belsky
+# Jay Belsky
 <small>Psicòleg</small>
 
 Les investigacions dels psicòleg Jay Belsky posen de manifest que una criança sense afecte i, sense una gestió eficient de les emocions, pot desembocar en adults amb vides més problemàtiques.
@@ -116,7 +116,7 @@ No sols d'hiperactivitat sinó també de manca d'atenció i de transtorns conduc
 
 Conclusió: hauriem de fixar-nos en la salut emocional de les dones al llarg de l'embaràs, no sols en la salut física.
 
-### Lauwrence Parsons
+# Lauwrence Parsons
 
 Cal aprendre a gestionar les emocions sense deprimir-les, però també sense deixar-nos que ens prenguen d'ostatges.
 
@@ -124,7 +124,7 @@ Podem aprendre a entrenar les emocions mentalment?
 
 En el cas de les persones que actuen no podem ser exessivament emocionals, perquè no podrien fer-ho.
 
-### Elsa Punset
+# Elsa Punset
 
 En els primers anys de vida es conformen els grans patrons emocionals, el amor i la curiositat. Aprenem si som dignes d'ésser amats i si mereix la pena amar. Si el món és un lloc que cal esplorar o si és preferible amagar-se dels demés.
 
@@ -136,7 +136,7 @@ Necessitem constantment sentir-nos segurs i amparats, connectats amb els demés.
 
 Més enllà de la pura supervivència sols florim si les nostres necessitats emocionals, en especial les de protecció i afecte estan ateses.
 
-### Benjamin Fander
+# Benjamin Fander
 Director de la filarmónica de Boston
 
 El primer dia de cada curs reuneix els seus alumnes i els posa un excel·lent. Després demana que escriguen una carta explicant per què mereixen aquest excel·lent, i en què han de treballar aquest any per convertir-se en aquesta versió excel·lent de sí mateixos.
