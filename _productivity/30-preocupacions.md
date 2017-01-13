@@ -30,3 +30,4 @@ Hi ha altres formes de generar riquesa: ingresos passius o treballar intel·lige
 
 -- Dale Carnegie. Cómo suprimir las  preocupaciones y disfritar de la vida.
 
+
