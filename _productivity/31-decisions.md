@@ -6,9 +6,9 @@ date:  2017-01-14 00:00:00
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ZxRyUFqG8zU" frameborder="0" allowfullscreen></iframe>
 
-Quan les decisions són reversibles
-acabem menys satisfets amb elles.
-<small>Barry Schwart. The Paradox of Choice</small>
+> Quan les decisions són reversibles
+> acabem menys satisfets amb elles.
+> <small>Barry Schwart. The Paradox of Choice</small>
 
 ### 1. Más és menys: la tirania de l'abundància
 
