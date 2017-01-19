@@ -1,0 +1,36 @@
+---
+layout: post
+title: 36 Rendiment
+date:  2017-01-19 00:00:00
+---
+
+#mantra_matutino
+#rendimiento
+
+Bases psicológicas para conseguir un `alto rendimiento`:
+
+1. Atención
+
+2. Concentración
+
+3. Autocontrol de la ansiedad
+
+4. Autocontrol de la aplicación o desempeño
+
+5. Pensamientos positivos
+
+El `foco atencional` va difigido a cada próximo paso para encontrar el `estado de concentración óptimo` para `ejecutarlo` de forma correcta.
+
+Habilidades:
+
+1. Motivación
+
+2. Control del pensamiento
+
+3. Pensar en positivo, en afirmativo
+
+4. Visión
+
+5. Fluir: hacer correctamente lo que se quiere hacer.
+
+-- Mihaly Csikszenmihály
