@@ -7,6 +7,8 @@ date:  2017-01-25 00:00:00
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RSUykLfEmVE" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/b2UyFJ_GMZc" frameborder="0" allowfullscreen></iframe>
+
 Motivación
 
 Forma de alcanzar tu meta:
@@ -67,3 +69,6 @@ Lo que te falta es volver a tu zona de confort a por los recursos personales, qu
 4. Sé perseverante y positivo
 
 Así podrás alcanzar tu sueño.
+
+
+-- Javier Iriondo. 2012. Donde tus sueños te lleven. ISBN 8497543064. Orino
