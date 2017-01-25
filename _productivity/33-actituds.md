@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 33 Actitud
-date:  2017-01-16
+date:  2017-01-16 00:00:00
 ---
 
 
@@ -11,26 +11,22 @@ v = ( c + h ) x a
 
 v → Valor
 
-c → Conocimiento
+c → Coneixement
 
-h → Habilidades
+h → Habilitats
 
-a → Actitudes
+a → Actituts
 
 —-
 
-1. Nos valoran por la manera de ser
+1. Ens valoren per la manera de ser
+2. Els coneixements i les habilitats en la vida sumen, les actituds multipliquen.
+3. El que diferència a la gent normal de la gent extraordinària és la seua actitud front a la vida.
 
-2. Los conocimientos y las habilidades en la vida suman, las actitudes multiplican
+### Claus:
 
-3. Lo que diferencia a la gente normal de la gente extraordinaria es su actitud frente a la vida
-
-
-Claves:
-
-1. Aprender a ser agradecido, valorar lo que se tiene
-
-2. Aprender a ponerse ilusiones, el entorno no nos las va a poner
+1. Aprendre a ser agraït, valorar el que es té.
+2. Aprendre a proposar-se il·lusions, l'entorn no ens les va a posar.
 
 — Victor Küppers
 TEDxAndorraLaVella
