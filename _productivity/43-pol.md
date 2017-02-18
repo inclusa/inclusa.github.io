@@ -1,0 +1,46 @@
+---
+layout: post
+title: 43 Pol Sud
+date:  2017-02-18 00:00:00
+---
+
+La conquesta del Pol Sud
+
+### 01 La conquista
+
+La conquesta del Pol Sud (1911)
+
+2 Expediciones simultánies:
+
+- Amundsen (norueg)
+- Scott (anglés)
+
+Tots dos intentaren arribar al mateix temps al Pol Sud.
+
+#01 Instruments
+
+- Scott es va rodejar de tecnologia, motos de neu, deixaren de funcionar de seguida.
+- Amundsen havia observat les tècniques de superfivència dels esquimals al Pol Nord. Savia com fer un abric de pell de foca, un forat podia suposar la mort.
+
+#02 Recursos
+
+- Scott va portar avena en cavalls mongols que acarrejaven els sacs. Els ponis sudaven, en pocs dies la congelació de la sudor va matar els ponis. Els hòmens varen tenir que acarrejar els seus propis aliments.
+
+- Amundsen sols va portar gossos gronlandesos, més adaptats al fred, podent dormir en ambients molt freds. Anava matant els més febles per menjar la seua carn.
+
+#03 Hàbits
+
+- Scott caminava sols quan feia bon temps.
+- Amundsen caminava tots els dies 20 milles.
+
+#04 Desenllaç
+
+- Scoot va arribar al Pol Sud després d'Amundsen i va morir en el viatge de tornada, a 17 km d'un campament d'avituallament.
+- Amundsen va completar el seu viatge abans i va tornar viu per contar-ho.
+
+#05 Conclusions
+
+1. Afila la serra, observa, pensa abans d'actuar.
+2. Un hàbit saludable et pot salvar la vida.
+3. Elegir les ferramentes adequades pot marcar una gran diferència.
+~                                                                        
