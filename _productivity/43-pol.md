@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 43 Pol Sud
-date:  2017-02-18 00:00:00
+date:  2017-02-20 00:00:00
 ---
 
 La conquesta del Pol Sud
