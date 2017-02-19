@@ -1,0 +1,56 @@
+---
+layout: post
+title: 44 Pol Sud
+date:  2017-02-19 00:00:00
+---
+
+
+<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="https://www.ivoox.com/player_ej_122877_2_1.html?data=kpefmpybcYarpJKgm4qXhZWsjoqkpZKVcYarpJKdj4qbh46kjoqkpZK0s8XXwtjhja7WtsbY1sjhy8fQqYyml5CajbishaS_rarBsbOPnYy5rZCysKm5lqLCpKqah5ynca3VjKbZxsrFb6rm08rR18jYrcPgxpKSmaiRdA..&"></iframe>
+
+
+Anteriorment varem parlar d'Amundsen i Scott, ara introduïm la figura de Shackleton.
+
+Shackleton va ser un aventure què va acompanya Scott en un viatge anterior al Pol Sud, però Scott el va enviar a casa aprofiant que va contraure l'escorbut. Ja que sovint discutia amb ell per qüestions estratègiques i sembla que no es sentia molt còmode amb ell.
+
+###01 Objectiu
+
+El Pol Sud ja estava conquistat per Amundsen. Shackleton es va plantejar travessar-lo de part a part.
+
+###02 Dificultats
+
+El vaixell va encayar en el gel i va passar un any complet fins ques es va trencar, quendat en un tempà de gel sols amb els els bots salvavides.
+
+Esperava que l'estiu millorara les coses.
+
+Shackleton va haver de treballar l'ànim de la seua tripulació per a què no es vinguera avall.
+
+#03 Decisió
+
+Així les coses va decidir portar els seus homens fins una illa congelada.
+
+#04 Confiança
+
+Allà va deixar la tripulació. Però va partir, junt a dos homens amb un pot salvavides cap a terra ferma, on savia que hi havia un destacament ballener.
+
+#05 Persistència
+
+Va organitzar fins a 4 expedicions per rescatar la seua tripulació, a la qual, finalment va salvar íntegra, després de 2 anys d'aventura.
+
+#06 Visió
+
+El mensatge d'Sackleton és:
+
+- Tin una visió
+- Agafa una meta
+- El que passe en el camí és important
+- Canvia de rumb según els acontecimients
+- Lluïta encara que no siga fàcil
+
+Así, no llegó nunca a su meta pero ganó la confianza de su tripulación y tiempo después murió de camino por un ataque al corazón, de nuevo de camino al Polo Sur.
+
+Shackleton no va arribar a la meta mai, però va guanyar la confiança de la seua tripulació. Temps després va morir d'un atac al cor, de nou de camí al Pol Sud.
+
+#07 Podcast
+
+http://podcast-irreductible.blogspot.com.es/2009/09/podcast-irreductible-26-shackleton-y-el.html
+
