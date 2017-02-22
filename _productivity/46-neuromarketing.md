@@ -63,43 +63,31 @@ Potser mitjançant l'history telling, és una visió, una història inventada qu
 
 2 Formes de parlar-li al cervell
 
-##### 6 Peces perconstruir el missatge
+### 1. Peces perconstruir el missatge
 
-a. *Captadors d'atenció*. El cervell primitiu es concentra en el principi i en el final. Cal captar l'atenció del client al principi, cal entrar amb una explosió, cal causar una impressió forta.
-
+1. *Captadors d'atenció*. El cervell primitiu es concentra en el principi i en el final. Cal captar l'atenció del client al principi, cal entrar amb una explosió, cal causar una impressió forta.
 - Minidrames: Que passaria si no tinguera el producte o servei.
 - Jocs de paraules: Jugar amb les paraules per crear missatges.
 - Preguntes retòriques: Preguntes que no necessiten respostes explícites, però sí necessiten respostes mentals. Associar imatges fent preguntes, per tal que el client es responga amb beneficis.
 - Objectes: Poden ajudar a relacionar.
 - Explicar històries.
-
-b. *Visió panoràmica*. Mostrar imàges de l'abans i el després.
-
-c. *Afirmacions*. Punts claus, valor real de la solució.
-
-d. *Llenguatge clar*. A nivell d'un xiquet de 3r de primària.
-
-e. *Proves de ganància*. Demostrar que hi ha una ganància. Cal respaldar-ho tot amb proves.
-
-f. *Objecions*. Poden ser malentesos o aclaracions. Cal entrar, de manera elegant a detallar, repetir per tal que quede clar.
-
-g. *Tancament de la venta*. Si s'ha anat construint el missatge sols cal tancar, sense agressivitat. Esperar el compromís.
+2. *Visió panoràmica*. Mostrar imàges de l'abans i el després.
+3. *Afirmacions*. Punts claus, valor real de la solució.
+4. *Llenguatge clar*. A nivell d'un xiquet de 3r de primària.
+5. *Proves de ganància*. Demostrar que hi ha una ganància. Cal respaldar-ho tot amb proves.
+6. *Objecions*. Poden ser malentesos o aclaracions. Cal entrar, de manera elegant a detallar, repetir per tal que quede clar.
+7. *Tancament de la venta*. Si s'ha anat construint el missatge sols cal tancar, sense agressivitat. Esperar el compromís.
 
 ##### 7 Claus per potenciar el missatge
 
-a. *Benefici* per al client. Utilitzar constantment la paraula *tu*, que la frase estiga centrada en el client.
-
-b. *Credibilitat*
-
+1. *Benefici* per al client. Utilitzar constantment la paraula *tu*, que la frase estiga centrada en el client.
+2. *Credibilitat*
 - Creativitat
 - Integritat
 - Similitudes con los clientes
 - Las teues paraules, la forma en que comuniques, no utilitzar paraules complexes
-
-c. *Ús de les pauses*
-
-d. *Paraules persuasives*
-
+3. *Ús de les pauses*
+4. *Paraules persuasives*
 - tu
 - diners
 - estalviar
@@ -112,11 +100,8 @@ d. *Paraules persuasives*
 - provat
 - garantitzat
 - podria por favor
-
-e. *Emoció*
-
-f. *Estils d'aprenentatge* del client
-
-g. *Menys és més*. No inundar amb missatges, centrar-nos en les afirmacions més importants.
+5. *Emoció*
+6. *Estils d'aprenentatge* del client
+7. *Menys és més*. No inundar amb missatges, centrar-nos en les afirmacions més importants.
 
 -- Patrick Renvoisé, Christophe Morin. 2007. Neuromarketing.
