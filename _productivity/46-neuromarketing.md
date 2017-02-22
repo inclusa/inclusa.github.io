@@ -78,7 +78,7 @@ Potser mitjançant l'history telling, és una visió, una història inventada qu
 6. *Objecions*. Poden ser malentesos o aclaracions. Cal entrar, de manera elegant a detallar, repetir per tal que quede clar.
 7. *Tancament de la venta*. Si s'ha anat construint el missatge sols cal tancar, sense agressivitat. Esperar el compromís.
 
-##### 7 Claus per potenciar el missatge
+## 2.Claus per potenciar el missatge
 
 1. *Benefici* per al client. Utilitzar constantment la paraula *tu*, que la frase estiga centrada en el client.
 2. *Credibilitat*
