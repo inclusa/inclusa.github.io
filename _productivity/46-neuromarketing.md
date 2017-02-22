@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 46 Neuromàrketing
+title: 46 Neuromarketing
 date:  2017-02-21 00:00:00
 ---
 
@@ -30,8 +30,11 @@ El cervell Reptilià té en compte els dos cervells anteriors i pren desicions.
 #### 1. Diagnosticar el dolor: Cal preguntar al client. Cal fer veure que el client veja el seu dolor. Això comunica al client que saps com buscar els problemes.
 
 Pregunta 1: Quin és el dolor més important?
+
 a. Financera;
+
 b. Estratègica;
+
 c. Personal.
 
 Pregunta 2: Quina és la intensidad del dolor?
@@ -64,11 +67,11 @@ Potser mitjançant l'history telling, és una visió, una història inventada qu
 
 a. *Captadors d'atenció*. El cervell primitiu es concentra en el principi i en el final. Cal captar l'atenció del client al principi, cal entrar amb una explosió, cal causar una impressió forta.
 
-	- Minidrames: Que passaria si no tinguera el producte o servei.
-	- Jocs de paraules: Jugar amb les paraules per crear missatges.
-	- Preguntes retòriques: Preguntes que no necessiten respostes explícites, però sí necessiten respostes mentals. Associar imatges fent preguntes, per tal que el client es responga amb beneficis.
-	- Objectes: Poden ajudar a relacionar.
-	- Explicar històries.
+- Minidrames: Que passaria si no tinguera el producte o servei.
+- Jocs de paraules: Jugar amb les paraules per crear missatges.
+- Preguntes retòriques: Preguntes que no necessiten respostes explícites, però sí necessiten respostes mentals. Associar imatges fent preguntes, per tal que el client es responga amb beneficis.
+- Objectes: Poden ajudar a relacionar.
+- Explicar històries.
 
 b. *Visió panoràmica*. Mostrar imàges de l'abans i el després.
 
@@ -88,27 +91,27 @@ a. *Benefici* per al client. Utilitzar constantment la paraula *tu*, que la fras
 
 b. *Credibilitat*
 
-	- Creativitat
-	- Integritat
-	- Similitudes con los clientes
-	- Las teues paraules, la forma en que comuniques, no utilitzar paraules complexes
+- Creativitat
+- Integritat
+- Similitudes con los clientes
+- Las teues paraules, la forma en que comuniques, no utilitzar paraules complexes
 
 c. *Ús de les pauses*
 
 d. *Paraules persuasives*
 
-	- tu
-	- diners
-	- estalviar
-	- salut
-	- seguretat
-	- amor
-	- nou
-	- resultat
-	- fàcil
-	- provat
-	- garantitzat
-	- podria por favor
+- tu
+- diners
+- estalviar
+- salut
+- seguretat
+- amor
+- nou
+- resultat
+- fàcil
+- provat
+- garantitzat
+- podria por favor
 
 e. *Emoció*
 
