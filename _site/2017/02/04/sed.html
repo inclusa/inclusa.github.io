@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>35 Meditar</title>
+    <title>21 Sed</title>
     <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/productivity/35-meditar/">
+    <link rel="canonical" href="/2017/02/04/sed.html">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -65,32 +65,53 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">35 Meditar</h1>
-    <p class="post-meta">January 17, 2017 — 01:01</p>
+    <h1 class="post-title">21 Sed</h1>
+    <p class="post-meta">February 4, 2017 — 01:00</p>
   </header>
 
   <article class="post-content">
-    <p>Utilitze 3 dimensions per a observar-me, meditar o contemplar:</p>
+    <p>L’objectiu d’aquest post és recopilar casos simple on puguem utilitzar el comandament <code class="highlighter-rouge">sed</code>.</p>
 
-<ol>
-  <li>
-    <p>Observe els meus sentiments, Sistema Nerviós Autònom (SNA), instints.</p>
-  </li>
-  <li>
-    <p>Observe la ment, que no és més que l’ego que s’ancora en el passat per sobreviure, que es projecta al futur, però que fuig de l’ara.</p>
-  </li>
-  <li>Al observar los dos puntos anteriores se entra en un estado de consciencia llamado iluminación. sereno, atento, en paz, centrado en el ahora</li>
-  <li>A l’observar els dos punts anteriors s’entra en un estat de consciència anomenat il·luminació. És un estat seré, atent, en pau, centrat en l’ara.</li>
-</ol>
+<h3 id="creem-un-arxiu-i-filtrem-contingut">1. Creem un arxiu i filtrem contingut</h3>
 
-<p>Per a què?</p>
+<p>Es tracta d’escriure un arxiu i filtrar les línies que continguen la paraula productivitat.</p>
+
+<p>Llistem l’arxiu de text pla cat a.md</p>
+
+<hr />
+<p>title: productivitat
+category: blog
+time: 2017/02/03
+—</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>#productivitat</td>
+      <td>linux</td>
+    </tr>
+  </tbody>
+</table>
 
 <ul>
-  <li>M’ajuda a centrar l’<code class="highlighter-rouge">atenció</code>, a centrar-me an alguna cosa.</li>
-  <li>Així passe a un estat d’atenció sostinguda anomenat <code class="highlighter-rouge">concentració</code>.</li>
-  <li>Per a passar a un estat de cerca d’objectius anomenat <code class="highlighter-rouge">enfoc</code>.</li>
-  <li>Per a, finalment <code class="highlighter-rouge">fluir</code> gaudint del que faig perquè és el que vull fer i sé que ho puc fer.</li>
+  <li>tasca 1: recopilar</li>
+  <li>tasca 2: planificar</li>
+  <li>tasca 3: productividad</li>
 </ul>
+
+<p>Filtrem sol les línies que contenen la paraula productivitat així:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sed <span class="s1">'/productividad/!d'</span> a.md
+</code></pre>
+</div>
+
+<p>Ens retorna l’output següent:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>titulo: productividad
+<span class="c">#productividad | linux</span>
+<span class="k">*</span> tarea 3: productividad
+</code></pre>
+</div>
 
 
   </article>

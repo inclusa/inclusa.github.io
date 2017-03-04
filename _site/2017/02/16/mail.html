@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>22 Mail</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2017/02/16/mail.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfoli</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">22 Mail</h1>
+    <p class="post-meta">February 16, 2017 — 01:00</p>
+  </header>
+
+  <article class="post-content">
+    <p><em>Objectiu</em>: Fer servir la utilitat <code class="highlighter-rouge">mail</code> des del terminal per enviar emails dins d’una xarxa local.</p>
+
+<p>Obrim un terminal i escrivim:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">alfons@server:~$ </span>mail -s <span class="s2">"Enviament d'un mail"</span> alfons@server
+Cc: 
+Aquest seria el contingut del correu propiament dit.
+El finalitzem amb un acomiadament.
+Salutacions
+</code></pre>
+</div>
+
+<p>Explicació:</p>
+
+<ol>
+  <li>mail -s: Invoquem l’utilitat</li>
+  <li>Escrivim el nom de l’assumpte entre cometes “Enviament d’un mail”</li>
+  <li>CC: Carbon Copy (enviar una còpia a algú). En el nostre cas el deixem en blanc, polsem INTRO i continuem</li>
+  <li>Escrivim el missatge</li>
+  <li>Finalitzem el missatge amb el posant les tecles &lt;Ctrl+D&gt;</li>
+</ol>
+
+<p>Per llegir el missatge:</p>
+
+<ol>
+  <li>Invoquem la utilitat <code class="highlighter-rouge">mail</code></li>
+  <li>Ens retorna una llista amb una lletra a l’inici, la lletra <code class="highlighter-rouge">N</code> vol dir Nou</li>
+  <li>Ens pregunta el nombre del missatge a visualitzar amb el caracter <code class="highlighter-rouge">?</code></li>
+  <li>Elegim el missatge a llegir</li>
+  <li>Visualitzem el missatge</li>
+</ol>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">alfons@server:~$ </span>mail
+<span class="s2">"/var/mail/alfons"</span>: 2 messages 1 new 1 unread
+ U   1 Alfons Rovira dj feb 16 03:21   15/472   Contingut del mail
+&gt;N   2 Alfons Rovira dj feb 16 03:28   17/531   Enviament d<span class="s1">'un mail
+? 2
+Return-Path: &lt;alfons@localhost&gt;
+X-Original-To: alfons@server
+Delivered-To: alfons@server
+Received: by localhost (Postfix, from userid 1000)
+	id 6EAC9C08C1; Thu, 16 Feb 2017 03:28:20 +0100 (CET)
+Subject: Enviament d'</span>un mail
+To: &lt;alfons@server&gt;
+X-Mailer: mail <span class="o">(</span>GNU Mailutils 2.99.99<span class="o">)</span>
+Message-Id: &lt;20170216022820.6EAC9C08C1@localhost&gt;
+Date: Thu, 16 Feb 2017 03:28:20 +0100 <span class="o">(</span>CET<span class="o">)</span>
+From: alfons@localhost <span class="o">(</span>Alfons Rovira<span class="o">)</span>
+
+Aquest seria el contingut del correu propiament dit.
+El finalitzem amb un acomiadament.
+Salutacions
+? 
+</code></pre>
+</div>
+
+<p>El missatge quedarà marcat com a llegit, ja no el tornarem a visualitzar, però romandrà dins d’un arxiu de text a <code class="highlighter-rouge">/home/alfons/mbox</code>, el qual podrem llegir listant-lo:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>cat mbox | less
+</code></pre>
+</div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
