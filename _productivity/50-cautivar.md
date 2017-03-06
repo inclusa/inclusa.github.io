@@ -13,7 +13,7 @@ Cautivar d'una manera correcta té més efecte que la persuasió tradicional, la
 
 ### 1. El per què de cautivar
 
-Cautivar és com encissar, provoca un canvi voluntari en els cors i en les ments, per tant en els actes.
+Cautivar és com encisar, provoca un canvi voluntari en els cors i en les ments, per tant en els actes.
 
 Quan cautivem a la gent, el nostre objectiu no és traure-los diners o aconseguir que facen el que volem, sinó plenar-los d'una gran satisfacció.
 
