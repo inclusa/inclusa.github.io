@@ -38,3 +38,12 @@ Tàctica #01: Escriure dos artícules sematmanls sobre productivitat.
 Tàctica #02: Resumir un llibre al trimestre sobre lideratge.
 
 Tàctica #03: Resumir un libre al trimestre sobre mentalització.
+
+
+`Persistir`: ACCIÓ. No realitzar variació, insistència, certesa, duració. Té a veure amb l'ENERGÍA per no canviar. 
+
+`Perseverar`: VOLUNTAT. Persistir amb constància i obstinació. Hàbit. Constancia en l'execució dels propòsits. Té a veure amb la RESISTÈNCIA en el temps.
+
+`Acte`: Capacitat per a portar a terme una tasca.
+
+`Acció`: Conjunt d'actos encaminats aconseguir un fin.
