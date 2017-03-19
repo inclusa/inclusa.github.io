@@ -2,7 +2,7 @@
 layout: page
 permalink: /productivitat/
 title: pro
-description: Recull de tècniques, reflexions i orientacions
+description: Productivitat
 ---
 
 <ul class="post-list">
