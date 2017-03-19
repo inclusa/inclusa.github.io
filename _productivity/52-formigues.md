@@ -27,8 +27,9 @@ Fases:
 2. Evaluació de la millor ruta
 3. Modificació de la ruta
 
-#algoritmo
+### Algoritme
 
+´´´bash
   procedure ACO_MetaHeuristic
     while(not_termination)
        generateSolutions()
@@ -36,6 +37,7 @@ Fases:
        pheromoneUpdate()
     end while
   end procedure
+```
 
 [Wikipedia](https://es.wikipedia.org/wiki/Algoritmo_de_la_colonia_de_hormigas)
 
