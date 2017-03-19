@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 52 Colònies productives: Formigues
+title: 52 Formigues
 date:  2017-03-19 00:00:00
 ---
 
