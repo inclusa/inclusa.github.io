@@ -29,7 +29,7 @@ Fases:
 
 ### Algoritme
 
-´´´bash
+```bash
   procedure ACO_MetaHeuristic
     while(not_termination)
        generateSolutions()
