@@ -19,7 +19,7 @@ Establir metes obri la nostra meta positiva, allibera idees i dóna energia per 
 
 Quan no tenim metes ens deixem arrossegar. Quan les tenim volem com una fletxa cap al nostre objectiu.
 
-### 1. Allibera el teu potencia
+### 1. Allibera el teu potencial
 
 La màxima responsabilitat cap a sí mateixa és invertir el temps que siga precís per arribar a saber, amb tota claretat, què vols i quin és el millor medi per a aconseguir-ho.
 
@@ -35,7 +35,7 @@ El nostre món exterior acaba sent un reflexe del nostre món interior, el qual 
 
 La gent que triomfa pensa la major part del temps en què vol i com aconseguir-ho.
 
-### 2. Prenga el control de la seua vida
+### 2. Pren el control de la teua vida
 
 Cal no queixar-se ni culpar als altres dels problemes.
 
@@ -53,7 +53,7 @@ El major obstacle en la fixació de metes són les creences autolimitants.
 
 Si combinem la *idealització* i *l'orientació cap al futur* cancel·lem el procés de l'autolimitació.
 
-### 4. Definisca les seues vedaderes metes
+### 4. Definix les teues vedaderes metes
 
 Per a definir les metes cal imaginar-se que no tens limitació per fer el que desesitges. Elabora una llista de somnis.
 
@@ -109,13 +109,13 @@ En qualsevol cosa que volem aconseguir sempre ens anem a trobar amb problemes i 
 
 Els principals obstacles entre nostraltres i les nostres metes solen ser sempre mentals, de caràcter psicològic i emocional.
 
-### 9. Converteix-te en un exper en el teu camp
+### 9. Converteix-te en un expert en el teu camp
 
 Una característica dels triomfadors és que en algun moment de la seua vida professional varen decidir comprometres amb l'excel·lència, varen decidir ser els millors en el que feien, varen decidir pagar qualsevol preu, fer qualsevol sacrifici, i invertir qualsevol qualsevol quantitat de temps que forma necessària per a arribar a ser molt bons en el seu camp.
 
 Com a resultat d'aquesta decisió es varen apartar de la massa, la qual tenia un rendiment mitjà i ascendiren a la categoria d'ingressos on hui guanyen fins a 10 vegades més que els companys que no varen decidir-ho.
 
-### 10. Associe's amb les persones adequades
+### 10. Associa't amb les persones adequades
 
 Tot, tant en la vida com en els negocis és relació.
 
