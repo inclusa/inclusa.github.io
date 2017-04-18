@@ -191,11 +191,24 @@ Inclús podem dir "tot el que hem fet pins ara no val per a res"
 
 > $ git fetch origin && git reset --hard origin/master
 
-# 25. GITHub
+# 25. Canviar tot el contingut d'una branca
+
+Sobreescrivim una branca a altra:
+
+```bahs
+git branch -m master old-master
+git branch -m gh-pages master
+git push -f origin master
+```
+
+`-m` renomena
+` -f` força
+
+# 26. GITHub
 
 - [Iniciar repositori](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux)
 
-# 26. Fonts
+# 27. Fonts
 
 - [git - la guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 - [Become a git guru](https://www.atlassian.com/git/tutorials/)
