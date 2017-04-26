@@ -42,6 +42,8 @@ Cada vegada que modifiquem alguna cosa cal dir-li a GIT que ho tinga en compte.
 
 > $ git reset --hard HEAD~5
 
+[Consulta la font](https://git-scm.com/book/es/v1/Fundamentos-de-Git-Deshaciendo-cosas)
+
 # 9 Editant l'últim commit l'última confirmació
 
 > $ git commit --amend
