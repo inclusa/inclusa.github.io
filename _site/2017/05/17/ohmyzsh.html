@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>26 Oh My Zsh</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2017/05/17/ohmyzsh.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfoli</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">26 Oh My Zsh</h1>
+    <p class="post-meta">May 17, 2017 — 19:37</p>
+  </header>
+
+  <article class="post-content">
+    <p>ZSH es una utilitat que incorpora molts alias de teclat per facilitar la feina en la terminal.</p>
+
+<p>Ubuntu/Debian te aquest paquet:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>zsh - shell with lots of features
+</code></pre>
+</div>
+
+<p>D’aquesta manera d’un colp podem incorporar moltes facilitats al nostre sistema.</p>
+
+<p>Una vegada instal·la aquest paquet podem incorporar <strong>themes</strong> i noves funcionalitats instal·lant-nos la utilitat <strong>ohmyzsh</strong> que no és més que seguint amb la mateixa filosofia de facilitar el fluxe de feina teclejant més incorporta no sols noves funcionalitats sinó que també un repertori de <strong>themes</strong> adaptats per diversos usuaris.</p>
+
+<p>Referència del projecte <a href="http://ohmyz.sh/">ohmyz.sh</a>.</p>
+
+<p>Per gaudir d’aquestes funcionalitats cal primer instal·lar des del repositori <code class="highlighter-rouge">zsh</code> i després executar aquesta línia:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>sh -c <span class="s2">"</span><span class="k">$(</span>curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh<span class="k">)</span><span class="s2">"</span>
+</code></pre>
+</div>
+
+<p>Com què roman a GITHub seria es pot mirar el codi abans d’executar.</p>
+
+<p>La configuració d’aquest sistema es pot customitzar al directori:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>.oh-my-zsh
+</code></pre>
+</div>
+
+<h3 id="activar-els-plugins">Activar els plugins</h3>
+
+<p>La font de la informació l’hem treta d’aquest artícle <a href="[https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins">https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins</a></p>
+
+<p>Per tal d’activar els plugins anirem a l’arxiu <code class="highlighter-rouge">.zshrc</code>. On posarem tots els plugins que volem utilitzar així:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>plugins=(git debian ruby rails)
+</code></pre>
+</div>
+
+<p>Com què el plugin <code class="highlighter-rouge">debian</code> està activat descriurem el procés d’actualització d’un sistema Debian/Ubuntu:</p>
+
+<p>Sense alies ho feiem així:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt upgrade -y
+</code></pre>
+</div>
+
+<p>Ara ho farem així:</p>
+
+<p><code class="highlighter-rouge">sudo apt update</code> → <code class="highlighter-rouge">ad</code> y me pide la contraseña de superusuario</p>
+
+<p><code class="highlighter-rouge">sudo apt upgrade</code> → <code class="highlighter-rouge">ag</code></p>
+
+<p>D’aquesta manera s’executarà així:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>ad &amp;&amp; ag
+</code></pre>
+</div>
+
+<p>Per tal de consultar els plugins i els alies caldrà anar al directori <code class="highlighter-rouge">.ohmyzsh/plugins/</code> on mirarem l’arxiu.</p>
+
+<h3 id="llistat-de-plugins">Llistat de plugins</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>adb
+ant
+apache2-macports
+arcanist
+archlinux
+asdf
+autoenv
+autojump
+autopep8
+aws
+battery
+bbedit
+bgnotify
+boot2docker
+bower
+branch
+brew
+bundler
+bwana
+cabal
+cake
+cakephp3
+capistrano
+cargo
+cask
+catimg
+celery
+chruby
+chucknorris
+cloudapp
+codeclimate
+coffee
+colemak
+colored-man-pages
+colorize
+command-not-found
+common-aliases
+compleat
+composer
+copybuffer
+copydir
+copyfile
+cp
+cpanm
+debian
+dircycle
+dirhistory
+dirpersist
+django
+dnf
+docker
+docker-compose
+dotenv
+droplr
+emacs
+ember-cli
+emoji
+emoji-clock
+emotty
+encode64
+extract
+fabric
+fancy-ctrl-z
+fasd
+fastfile
+fbterm
+fedora
+firewalld
+forklift
+fossil
+frontend-search
+gas
+gb
+geeknote
+gem
+git
+git-extras
+gitfast
+git-flow
+git-flow-avh
+github
+git-hubflow
+gitignore
+git-prompt
+git-remote-branch
+glassfish
+globalias
+gnu-utils
+go
+golang
+gpg-agent
+gradle
+grails
+grunt
+gulp
+heroku
+history
+history-substring-search
+httpie
+iwhois
+jake-node
+jhbuild
+jira
+jruby
+jsontools
+jump
+kate
+kitchen
+knife
+knife_ssh
+kubectl
+laravel
+laravel4
+laravel5
+last-working-dir
+lein
+lighthouse
+lol
+macports
+man
+marked2
+mercurial
+meteor
+mix
+mix-fast
+mosh
+mvn
+mysql-macports
+n98-magerun
+nanoc
+ng
+nmap
+node
+nomad
+npm
+nvm
+nyan
+osx
+pass
+paver
+pep8
+per-directory-history
+perl
+perms
+phing
+pip
+pj
+pod
+postgres
+pow
+powder
+powify
+profiles
+pyenv
+pylint
+python
+rails
+rake
+rake-fast
+rand-quote
+rbenv
+rbfu
+react-native
+rebar
+redis-cli
+repo
+rsync
+ruby
+rust
+rvm
+safe-paste
+sbt
+scala
+scd
+screen
+scw
+sfffe
+shrink-path
+singlechar
+spring
+sprunge
+ssh-agent
+stack
+sublime
+sudo
+supervisor
+suse
+svn
+svn-fast-info
+swiftpm
+symfony
+symfony2
+systemadmin
+systemd
+taskwarrior
+terminalapp
+terminitor
+terraform
+textastic
+textmate
+thefuck
+themes
+thor
+tig
+tmux
+tmux-cssh
+tmuxinator
+torrent
+tugboat
+ubuntu
+urltools
+vagrant
+vault
+vim-interaction
+vi-mode
+virtualenv
+virtualenvwrapper
+vundle
+wakeonlan
+wd
+web-search
+wp-cli
+xcode
+yarn
+yii
+yii2
+yum
+z
+zeus
+zsh-navigation-tools
+zsh_reload
+</code></pre>
+</div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

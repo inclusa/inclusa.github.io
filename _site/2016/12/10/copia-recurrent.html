@@ -66,18 +66,18 @@
 
   <header class="post-header">
     <h1 class="post-title">17 Copiar amb recurrència</h1>
-    <p class="post-meta">December 10, 2016 — 01:00</p>
+    <p class="post-meta">December 10, 2016 — 00:00</p>
   </header>
 
   <article class="post-content">
     <p>En un primer moment generem 12 arxius buits d’aquesta manera:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>touch <span class="o">{</span>01..12<span class="o">}</span>.md
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>touch <span class="o">{</span>01..12<span class="o">}</span>.md
 </code></pre>
 </div>
 <p>Això ens crearà 12 arxius buits així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>01.md  03.md  05.md  07.md  09.md  11.md
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>01.md  03.md  05.md  07.md  09.md  11.md
 02.md  04.md  06.md  08.md  10.md  12.md
 
 </code></pre>
@@ -85,14 +85,14 @@
 
 <p>Per copiar el mateix arxiu de forma recurrent, és a dir, diverses vegades, cal definir la variable <code class="highlighter-rouge">d</code> i exercutar-la.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>d <span class="k">in </span>01.md 02.md 03.md 04.md 05.md 06.md 07.md 08.md 09.md 10.md 11.md 12.md; <span class="k">do </span>cp ini.md <span class="nv">$d</span>; <span class="k">done</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>d <span class="k">in </span>01.md 02.md 03.md 04.md 05.md 06.md 07.md 08.md 09.md 10.md 11.md 12.md; <span class="k">do </span>cp ini.md <span class="nv">$d</span>; <span class="k">done</span>
 
 </code></pre>
 </div>
 
 <p>O bé d’aquesta manera més senzilla:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>d <span class="k">in</span> <span class="o">{</span>01..07<span class="o">}</span>.md; <span class="k">do </span>cp ini.md <span class="nv">$d</span>; <span class="k">done</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>d <span class="k">in</span> <span class="o">{</span>01..07<span class="o">}</span>.md; <span class="k">do </span>cp ini.md <span class="nv">$d</span>; <span class="k">done</span>
 
 </code></pre>
 </div>

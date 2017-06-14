@@ -66,17 +66,17 @@
 
   <header class="post-header">
     <h1 class="post-title">10 Borrar arxius excepte patró</h1>
-    <p class="post-meta">July 23, 2016 — 02:00</p>
+    <p class="post-meta">July 23, 2016 — 00:00</p>
   </header>
 
   <article class="post-content">
     <p>De vegades cal borrar tots els arxius menys alguns en un directori. Deixem el patró de com fer-ho per tal d’accedir al procediment de forma fàcil. Es tracta d’un script escrit en bash.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>a <span class="k">in</span> <span class="sb">`</span>ls | grep -v .md<span class="sb">`</span>; <span class="k">do </span>rm -fr <span class="nv">$a</span>; <span class="k">done</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="k">for </span>a <span class="k">in</span> <span class="sb">`</span>ls | grep -v .md<span class="sb">`</span>; <span class="k">do </span>rm -fr <span class="nv">$a</span>; <span class="k">done</span>
 </code></pre>
 </div>
 
-<h3 id="explicaci">Explicació</h3>
+<h3 id="explicació">Explicació</h3>
 
 <ul>
   <li><code class="highlighter-rouge">for</code>: per a.</li>
