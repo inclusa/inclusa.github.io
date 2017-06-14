@@ -1,7 +1,7 @@
 ---
 layout: post # page | post
-title: 69 Persistencia
-date: 2017-06-14 
+title: 82 Persistencia
+date: 2017-06-15 00:11
 description: Persistència  # Argument
 keywords: persistència     # Paraules clau
 coments: true    # Comentaris activats
