@@ -1,6 +1,6 @@
 ---
 layout: post # page | post
-title: 82 Persistencia
+title: 95 Persistencia
 date: 2017-06-15 00:11
 description: Persistència  # Argument
 keywords: persistència     # Paraules clau
