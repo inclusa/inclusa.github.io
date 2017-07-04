@@ -106,3 +106,15 @@ La *voluntat* és el que va dependre de que no tingues control de les coses.
 6. *Meditar sobre la teua mortalitat*. Dóna igual la cantitat d'esforç que faces, anem a morir. Ningú ens garantitza viure etenrament.
 7. *Estigues sempre preparat per començar de nou*. La vida està en constant canvi. La vida és un procés que va presentant oportunitats. La vida et presenta obstacles, cada vegada que ens enfrontem amb ells creixem. Cal enfrontar-se a al vida com un procés de creixement.
 
+
+### Entrevista ###
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6dSPJzl7ThQ" frameborder="0" allowfullscreen></iframe>
+
+### Estoicisme ###
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2Zq2VWvmW4" frameborder="0" allowfullscreen></iframe>
+
+### Explicació ###
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2rQfr7XAQi0" frameborder="0" allowfullscreen></iframe>
