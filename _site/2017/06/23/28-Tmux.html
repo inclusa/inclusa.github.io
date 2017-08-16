@@ -1,0 +1,123 @@
+<p>g—
+layout: post # page | post
+title: 28 Tmux
+date: 2017-06-23 
+description: Terminal    # Argument
+keywords: terminal, tmux # Paraules clau
+coments: true    # Comentaris activats
+—</p>
+
+<h1 id="1-què-és-tmux">1. Què és Tmux</h1>
+
+<p><em>Tmux</em> és un programa que permet utilitzar diverses consoles virtuals des d’una mateixa finestra.</p>
+
+<p><em>Tmux</em> és un multiplexor de terminals.</p>
+
+<p>Quan utilitzem Tmux amb el nostre terminal obtenim avantatges, de les quals destacarem 3:</p>
+
+<ol>
+  <li>Permet restaurar sessions que han mort accidentalment.</li>
+  <li>Ajuda a organitzarnos quan treballem amb moltes terminals al mateix temps.</li>
+  <li>Facilita canviar ràpidament d’entorn de treball.</li>
+</ol>
+
+<h1 id="2-concpetes-claus">2. Concpetes claus</h1>
+
+<ol>
+  <li><em>Sessió</em></li>
+  <li><em>Finestra</em></li>
+  <li><em>Panell</em></li>
+</ol>
+
+<p>La <em>sessió</em> és una col·lecció de consoles virtuals gestionades per Tmux. Cada sessió té una o més <em>finestres</em> associades. Les finestres ocupen tot l’espai de la pantalla, es poden dificir en regions rectangulars que s’anomenen <em>panels</em>. En cada panel s’executa una consola virtual independent.</p>
+
+<h1 id="barra-destat">Barra d’estat</h1>
+
+<ol>
+  <li>Index de la sessió entre corxets</li>
+  <li>L’índex i el nom de la finestra</li>
+  <li>La ruta relativa del panel</li>
+  <li>L’hora i la data actuals</li>
+</ol>
+
+<h1 id="arquitectura-client--servidor">Arquitectura Client / Servidor</h1>
+
+<p>Quan executem el comandament <code class="highlighter-rouge">tmux</code> en terminal es creen dos processos independents: un per al client i altre per al servidor.</p>
+
+<p>Aquests processos es comuniquen entre sí mitjançant l’enviament de comandaments.</p>
+
+<h1 id="funcions-del-client">Funcions del client</h1>
+
+<ol>
+  <li>Enviar comandaments al servidor que es vol que Tmux execute</li>
+  <li>Pintar sessions, finestres i panels en patatalla que està gestionant el servidor</li>
+</ol>
+
+<h1 id="funcions-del-servidor">Funcions del servidor</h1>
+
+<ol>
+  <li>S’encarrega d’executar els comandaments</li>
+  <li>Gestiona les sessions i consoles virtuals</li>
+</ol>
+
+<p>Gràcies a aquesta arquitectura, si el client acaba el server continuarà executant les tasques en segon pla. Això és el que ens permetrà recuperar el nostre entorn més tard.</p>
+
+<h1 id="comandaments">Comandaments</h1>
+
+<p>Es poden classificar en dos tipus depenent de com li’ls passem a Tmux.</p>
+
+<p>Elx comandaments que executem fora de la sessió de Tmux s’anomenen comandaments no interactius.</p>
+
+<p>Comandaments interactius: <code class="highlighter-rouge">prefixe + : + comandament</code></p>
+
+<p>Combinació de tecles: <code class="highlighter-rouge">prefixe + tecla</code></p>
+
+<h1 id="sessions">Sessions</h1>
+
+<p><code class="highlighter-rouge">tmux list-sessions</code>: llistat de totes les sessions</p>
+
+<p><code class="highlighter-rouge">tmux attach</code>: es connectarà a l’última sessió</p>
+
+<p><code class="highlighter-rouge">tmux attach -t 0</code>: es connectarà a la sessió 0</p>
+
+<p><code class="highlighter-rouge">^ + B</code>: desconnecta de la sessió</p>
+
+<p><code class="highlighter-rouge">^ + $</code>: canvia el nom de la sessió</p>
+
+<p><code class="highlighter-rouge">^ + s</code>: navegar entre sessions</p>
+
+<p><code class="highlighter-rouge">^ + : + kill-session</code>: matar sessió</p>
+
+<h1 id="finestres">Finestres</h1>
+
+<p><code class="highlighter-rouge">^ + ,</code>: renomena una finestra</p>
+
+<p><code class="highlighter-rouge">^ + c</code>: crear una finestra nova, un asterisc en la barra d’estat ens indica quina és la finestra activa</p>
+
+<p><code class="highlighter-rouge">^ + p</code>: finestra prèvia</p>
+
+<p><code class="highlighter-rouge">^ + n</code>: finestra següent</p>
+
+<p><code class="highlighter-rouge">^ + 0</code>: finestra 0</p>
+
+<p><code class="highlighter-rouge">^ + 2</code>: finestra següent</p>
+
+<p><code class="highlighter-rouge">^ + &amp;</code>: tanca totes les finestres</p>
+
+<h1 id="panels">Panels</h1>
+
+<p><code class="highlighter-rouge">^ + "2</code>: divideix el panell horitzontalment</p>
+
+<p><code class="highlighter-rouge">^ + %5</code>: divideix el panell actiu verticalment</p>
+
+<p><code class="highlighter-rouge">^ + →</code>: utilitzem les fletxes per menejar-nos entre panells</p>
+
+<p><code class="highlighter-rouge">^ + x</code>: tanca el panell</p>
+
+<p><code class="highlighter-rouge">^ + espai</code>: rota la configuració dels panells configurant els layouts</p>
+
+<p><code class="highlighter-rouge">^ + [</code>: mode còpia</p>
+
+<p><code class="highlighter-rouge">q</code>: eixir del mode còpia</p>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vwRxelWEuFE" frameborder="0" allowfullscreen=""></iframe>
