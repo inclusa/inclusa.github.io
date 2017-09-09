@@ -17,6 +17,10 @@ Comprimir
 tar {opcions} fitxer_comprit.tar fitxer1 fitxer2 directori1/ ...
 ```
 
+```bash
+tar cfv fitxer_comprit.tar arxiu1.txt executable.sh directori/
+```
+
 Opccions:
 
 `c`: *compress*, comprimeix.
