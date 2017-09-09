@@ -17,9 +17,9 @@ Comprimir
 tar {opcions} fitxer_comprit.tar fitxer1 fitxer2 directori1/ ...
 ```
 
-`c`: *compress*, comprimeix.
-`f`:  *file*, indica que es crearà un fitxer comprimit.
-`v`: *verbose*, mostrarà les carpetes i arxius comprimits.
+`c`: *compress*, comprimeix./
+`f`:  *file*, indica que es crearà un fitxer comprimit./
+`v`: *verbose*, mostrarà les carpetes i arxius comprimits./
 `vv`:  mostrarà informació adicional de cada arxiu.
 
 Descomprimir
