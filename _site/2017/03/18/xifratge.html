@@ -84,13 +84,29 @@
 </code></pre>
 </div>
 
-<p>Per desxifrar-lo:</p>
+<p>Per desxifrar-lo i visualitzar-lo en terminal:</p>
 
 <div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg -d a.txt.gpg
 </code></pre>
 </div>
 
 <p>En cas de voler xifrar una directori el podem comprimir primer i després el podem xifrar.</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg -c secret.zip
+</code></pre>
+</div>
+
+<p>Eixida:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>secret.zip.gpg
+</code></pre>
+</div>
+
+<p>Per desxifrar el directori comprimit:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg --output secret.zip -d secret.zip.gpg
+</code></pre>
+</div>
 
 
   </article>

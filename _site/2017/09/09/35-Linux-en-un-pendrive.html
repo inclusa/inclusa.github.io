@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>5PRI Anglés</title>
+    <title>35 Linux en un pendrive</title>
     <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/portfolio/15_project/">
+    <link rel="canonical" href="/2017/09/09/35-Linux-en-un-pendrive.html">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -65,12 +65,39 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">5PRI Anglés</h1>
-    <p class="post-meta">September 9, 2017 — 23:12</p>
+    <h1 class="post-title">35 Linux en un pendrive</h1>
+    <p class="post-meta">September 9, 2017 — 00:00</p>
   </header>
 
   <article class="post-content">
-    
+    <p>Per tal de grabar una distro Linux en un pendrive caldra seguir aquests passos:</p>
+
+<ol>
+  <li>Saber com s’anomena el dispositiu USB (pendrive) on volem instal·lar la distro.</li>
+  <li>Escriure el comandament pertinent</li>
+</ol>
+
+<p>Per esbrinar com s’anomena el pendrive al sistema:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>lsblk
+</code></pre>
+</div>
+
+<p>Aquest comandament es retonarà un llistat, caldrà esbrinar quin és el dispositiu, en aquest cas:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sdb
+</code></pre>
+</div>
+
+<p>Llavors indiquem que es copie la distro al pendrive:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo dd <span class="k">if</span><span class="o">=</span>lliurex-escriptori_64bits_16_20170731.iso <span class="nv">of</span><span class="o">=</span>/dev/sdb <span class="nv">bs</span><span class="o">=</span>4M
+</code></pre>
+</div>
+
+<p>ESPEREM TOT EL QUE CALGA, costa un poquet.</p>
+
+<p>Quan el procés acabe ja podrem arrancar des del pendrive.</p>
 
   </article>
 
