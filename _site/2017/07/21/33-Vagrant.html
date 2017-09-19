@@ -73,224 +73,95 @@
     <p>Vagrant és un software de virtualització que aprofita les diferents plataformes de virtualització millorant l’experiència d’usuari i facilitant el procés.</p>
 
 <ol>
-  <li>Instal·lar el programari</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt instal vagrant
+  <li>Instal·lar el programari
+    <div class="highlighter-rouge"><pre class="highlight"><code>sudo apt instal vagrant
 </code></pre>
-</div>
-
-<ol>
-  <li>
-    <p>Creem un directori que contindrà l’arxiu vagrant</p>
+    </div>
   </li>
-  <li>
-    <p>Inicialitzem aquest directori</p>
+  <li>Creem un directori que contindrà l’arxiu vagrant</li>
+  <li>Inicialitzem aquest directori</li>
+  <li>Cal elegir la imatge, ja preparada a la web <a href="https://app.vagrantup.com/boxes/search">vagrantcloud.com</a></li>
+  <li>Inicialitzem vagrant
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant init debian/contrib-jessie64
+</code></pre>
+    </div>
   </li>
-  <li>
-    <p>Cal elegir la imatge, ja preparada a la web <a href="https://app.vagrantup.com/boxes/search">vagrantcloud.com</a></p>
+  <li>Alcem vagrant
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant up
+</code></pre>
+    </div>
   </li>
-  <li>
-    <p>Inicialitzem vagrant</p>
+  <li>Verifiquem que el sistema s’ha alçat
+    <div class="highlighter-rouge"><pre class="highlight"><code>127.0.0.1:2200
+</code></pre>
+    </div>
   </li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant init debian/contrib-jessie64
+  <li>Tombem vagram
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant halt
 </code></pre>
-</div>
-
-<ol>
-  <li>Alcem vagrant</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant up
+    </div>
+  </li>
+  <li>Editem l’arxiu Vagrantfile i posem una IP que no estiga al nostre rang
+    <div class="highlighter-rouge"><pre class="highlight"><code>config.vm.network "private_network", ip: "10.0.0.80"
 </code></pre>
-</div>
-
-<ol>
-  <li>Verifiquem que el sistema s’ha alçat</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>127.0.0.1:2200
+    </div>
+  </li>
+  <li>Alcem vagrant
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant up
 </code></pre>
-</div>
-
-<ol>
-  <li>Tombem vagram</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant halt
+    </div>
+  </li>
+  <li>Verifiquem la IP des del navegador per veure que funciona
+    <div class="highlighter-rouge"><pre class="highlight"><code>10.0.0.8
 </code></pre>
-</div>
-
-<ol>
-  <li>Editem l’arxiu Vagrantfile i posem una IP que no estiga al nostre rang</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>config.vm.network "private_network", ip: "10.0.0.80"
+    </div>
+  </li>
+  <li>Entrem dins de la distro
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant ssh
 </code></pre>
-</div>
-
-<ol>
-  <li>Alcem vagrant</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant up
+    </div>
+  </li>
+  <li>Instal·lem un servidor
+    <div class="highlighter-rouge"><pre class="highlight"><code>sudo apt install nginx
 </code></pre>
-</div>
-
-<ol>
-  <li>Verifiquem la IP des del navegador per veure que funciona</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>10.0.0.8
+    </div>
+  </li>
+  <li>Comandaments per provisionar
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant --provision
 </code></pre>
-</div>
-
-<ol>
-  <li>Entrem dins de la distro</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant ssh
+    </div>
+  </li>
+  <li>Llistem comandaments
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant list-commands
 </code></pre>
-</div>
-
-<ol>
-  <li>Instal·lem un servidor</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt install nginx
+    </div>
+  </li>
+  <li>Distro alternatives
+    <div class="highlighter-rouge"><pre class="highlight"><code>server.vm.box ="debian/contrib-jessie64" 
 </code></pre>
-</div>
-
-<ol>
-  <li>Comandaments per provisionar</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code> vagrant --provision
-Usage: vagrant [options] &lt;command&gt; [&lt;args&gt;]
-
-    -v, --version                    Print the version and exit.
-    -h, --help                       Print this help.
-
-Common commands:
-     box             manages boxes: installation, removal, etc.
-     connect         connect to a remotely shared Vagrant environment
-     destroy         stops and deletes all traces of the vagrant machine
-     global-status   outputs status Vagrant environments for this user
-     halt            stops the vagrant machine
-     help            shows the help for a subcommand
-     init            initializes a new Vagrant environment by creating a Vagrantfile
-     login           log in to HashiCorp's Vagrant Cloud
-     package         packages a running vagrant environment into a box
-     plugin          manages plugins: install, uninstall, update, etc.
-     port            displays information about guest port mappings
-     powershell      connects to machine via powershell remoting
-     provision       provisions the vagrant machine
-     push            deploys code in this environment to a configured destination
-     rdp             connects to machine via RDP
-     reload          restarts vagrant machine, loads new Vagrantfile configuration
-     resume          resume a suspended vagrant machine
-     share           share your Vagrant environment with anyone in the world
-     snapshot        manages snapshots: saving, restoring, etc.
-     ssh             connects to machine via SSH
-     ssh-config      outputs OpenSSH valid configuration to connect to the machine
-     status          outputs status of the vagrant machine
-     suspend         suspends the machine
-     up              starts and provisions the vagrant environment
-     validate        validates the Vagrantfile
-     version         prints current and latest Vagrant version
-
-For help on any individual command run `vagrant COMMAND -h`
-
-Additional subcommands are available, but are either more advanced
-or not commonly used. To see all subcommands, run the command
-`vagrant list-commands`.
-</code></pre>
-</div>
-
-<ol>
-  <li>Llistem comandaments</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant list-commands
-Below is a listing of all available Vagrant commands and a brief
-description of what they do.
-
-box             manages boxes: installation, removal, etc.
-cap             checks and executes capability
-connect         connect to a remotely shared Vagrant environment
-destroy         stops and deletes all traces of the vagrant machine
-docker-exec     attach to an already-running docker container
-docker-logs     outputs the logs from the Docker container
-docker-run      run a one-off command in the context of a container
-global-status   outputs status Vagrant environments for this user
-halt            stops the vagrant machine
-help            shows the help for a subcommand
-init            initializes a new Vagrant environment by creating a Vagrantfile
-list-commands   outputs all available Vagrant subcommands, even non-primary ones
-login           log in to HashiCorp's Vagrant Cloud
-package         packages a running vagrant environment into a box
-plugin          manages plugins: install, uninstall, update, etc.
-port            displays information about guest port mappings
-powershell      connects to machine via powershell remoting
-provider        show provider for this environment
-provision       provisions the vagrant machine
-push            deploys code in this environment to a configured destination
-rdp             connects to machine via RDP
-reload          restarts vagrant machine, loads new Vagrantfile configuration
-resume          resume a suspended vagrant machine
-rsync           syncs rsync synced folders to remote machine
-rsync-auto      syncs rsync synced folders automatically when files change
-share           share your Vagrant environment with anyone in the world
-snapshot        manages snapshots: saving, restoring, etc.
-ssh             connects to machine via SSH
-ssh-config      outputs OpenSSH valid configuration to connect to the machine
-status          outputs status of the vagrant machine
-suspend         suspends the machine
-up              starts and provisions the vagrant environment
-validate        validates the Vagrantfile
-version         prints current and latest Vagrant version
-</code></pre>
-</div>
-
-<ol>
-  <li>Distro alternatives</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>server.vm.box ="debian/contrib-jessie64" 
-</code></pre>
-</div>
-
-<p>Té les virtualbox guest additions instalades i munta <code class="highlighter-rouge">/vagrant</code>.</p>
-
-<ol>
-  <li>Optimizando</li>
-</ol>
-
-<p>Añadir en el fichero <code class="highlighter-rouge">Vagrantfile</code> estas líneas, al final del fichero, antes de <code class="highlighter-rouge">end</code></p>
-
-<p>El final del fitxer quedaria així:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>  # Enable provisioning with a shell script. Additional provisioners such as
+    </div>
+    <p>Té les virtualbox guest additions instalades i munta <code class="highlighter-rouge">/vagrant</code>.</p>
+  </li>
+  <li>Optimizant
+Afegir en el fitxer <code class="highlighter-rouge">Vagrantfile</code> estas líneas, al final del fichero, antes de <code class="highlighter-rouge">end</code>. El final del fitxer quedaria així:
+    <div class="highlighter-rouge"><pre class="highlight"><code>  # Enable provisioning with a shell script. Additional provisioners such as
   # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
   # documentation for more information about their specific syntax and use.
    config.vm.provision "shell", inline: &lt;&lt;-SHELL
-      export DEBIAN_FRONTEND=noninteractive
-      export DEBCONF_NONINTERACTIVE_SEEN=true
-      apt-get update &amp;&amp; apt-get -y install nginx
-      systemctl enable nginx.service --now
+  export DEBIAN_FRONTEND=noninteractive
+  export DEBCONF_NONINTERACTIVE_SEEN=true
+  apt-get update &amp;&amp; apt-get -y install nginx
+  systemctl enable nginx.service --now
    SHELL
 </code></pre>
-</div>
-
-<ol>
-  <li>Alçem vagrant així</li>
-</ol>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>vagrant up; curl http://10.0.0.8
+    </div>
+  </li>
+  <li>Alçem vagrant així
+    <div class="highlighter-rouge"><pre class="highlight"><code>vagrant up; curl http://10.0.0.8
 </code></pre>
-</div>
+    </div>
+  </li>
+</ol>
 
 <h3 id="referències">Referències</h3>
 

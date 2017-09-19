@@ -98,6 +98,42 @@
 </code></pre>
 </div>
 
+<h3 id="afegir-nous-alias">Afegir nous alias</h3>
+
+<p>Per tal d’arrancar un programa com <code class="highlighter-rouge">Emacs</code> amb una funcionalita concreta com que òbriga un arxiu concret caldrà editar l’arxiu <code class="highlighter-rouge">.zshrc</code> escrivint:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>alias bujo="emacs ~/Documents/bulletjournal.org"
+</code></pre>
+</div>
+
+<h3 id="programari-que-funciona-amb-bash">Programari que funciona amb Bash</h3>
+
+<p>Hi ha certs programes que necessiten <code class="highlighter-rouge">bash</code> per arrancar.</p>
+
+<p>Quan passa això, cal executar <code class="highlighter-rouge">bash</code> en terminal, cal escriure la paraula <code class="highlighter-rouge">bash</code> i després el programa.</p>
+
+<h3 id="ruby-en-ohmyzsh">Ruby en .ohmyzsh</h3>
+
+<p>Si instal·lem <code class="highlighter-rouge">Ruby</code> des de <a href="https://rvm.io/">https://rvm.io/</a> cal incloure aquestes línies al final de l’arxiu <code class="highlighter-rouge">.zshrc</code>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code># Thanks for the awesome idea batasrki
+function gemdir {
+  if [[ -z "$1" ]] ; then
+    echo "gemdir expects a parameter, which should be a valid RVM Ruby selector"
+  else
+    rvm "$1"
+    cd $(rvm gemdir)
+    pwd
+  fi
+}
+
+# RVM
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+</code></pre>
+</div>
+
 <h3 id="activar-els-plugins">Activar els plugins</h3>
 
 <p>La font de la informació l’hem treta d’aquest artícle <a href="[https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins">https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins</a></p>
