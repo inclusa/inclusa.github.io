@@ -9,9 +9,10 @@ permalink: about/
 <br />
 Sóc l'editor d'aquest espai.
 <br /><br />
-Treballe al món de l'educació sóc mestre i pedagog. M'interessa molt investigar com adoptar noves metodologogies, analitzar el procés i veure el resultat. Camine a poc a poc, passos curts i, mire. Modifique, reformule, pense i torne a provar.
-<br /><br />
-Detaque l'aspecte líquid del camp educatiu.
+M'interessa molt investigar com adoptar noves metodologogies, altra manera de fer les coses, proposar mentes, analitzar el procés i veure el resultat.<br />
+Camine a poc a poc, passos curts i, mire.<br />
+Modifique, reformule, pense i torne a provar.<br />
+Un pas cada vegada, un sol pas.<br />
 <br />
 <br />
 <br />
