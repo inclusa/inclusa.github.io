@@ -4,6 +4,10 @@ title: 49 Focus
 date:  2017-03-04 01:00:00
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTfYv3IEOqM" frameborder="0" allowfullscreen></iframe>
+
+Font: [inteligence2](http://www.intelligencesquared.com/events/daniel-goleman-on-focus-high-performance-fulfilment/)
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-A45MuO3hJA" frameborder="0" allowfullscreen></iframe>
 
 *Focus intern* ens ajuda a connectar amb les nostres intuicions i amb els valors que ens guien, afavorint la presa de decisions.
