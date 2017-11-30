@@ -9,8 +9,10 @@ The Toyota Way
 ### Secció 1: Filosofia a llarg termini - Propòsit
 
 1. Principi 1: Basa les teues decisions en una filosofia a llarg termini, inclús a cosata de resultats financers a curt termini.
-2. Secció 2: El procés correcte donarà lloc als resultats correctos.
-3. Principi 2: Principi de fluxe. Crea processos de fluxe continu per fer que els problemes es facen evidents.
+
+### Secció 2: El procés correcte donarà lloc als resultats correctos.
+
+1. Principi 2: Principi de fluxe. Crea processos de fluxe continu per fer que els problemes es facen evidents.
 
 ### Principi 3: Principi de tracció. Aplica el pull (tracció) per evitar la sobreproducció.
 
