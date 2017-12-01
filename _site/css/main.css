@@ -115,7 +115,10 @@ blockquote {
   margin: .8rem 0;
   *  color: #666;
   background: lightgrey;
-  border-left: .25rem solid #e5e5e5; }
+  *  border-left: .25rem solid #e5e5e5;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89; }
 
 blockquote p:last-child {
   margin-bottom: 0; }
@@ -228,6 +231,13 @@ li ul {
 
 ol ol li:last-child {
   margin-bottom: 0; }
+
+/**
+ * Negreta
+ */
+strong {
+  font-weight: bold;
+  color: #424242; }
 
 /**
  * Site header   **********************************************************

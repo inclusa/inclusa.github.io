@@ -25,6 +25,7 @@ $caption_color: #aaa;
 
 /* COLORS  */
 $red:  #FF3636;
+$grey: #424242;
 $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
@@ -118,6 +119,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+
 /**
  * Links
  */
@@ -173,7 +175,11 @@ blockquote {
   margin: .8rem 0;
 *  color: $text-color;
   background: lightgrey;
-  border-left: .25rem solid #e5e5e5;
+*  border-left: .25rem solid #e5e5e5;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -299,4 +305,11 @@ li ol,
 li ul {margin-top:6px;}
 ol ol li:last-child {margin-bottom:0;}
 
+/**
+ * Negreta
+ */
 
+strong {
+    font-weight: bold;
+    color: $grey;
+}
