@@ -65,7 +65,7 @@ En el **Lean Manufacturing** es treballa com camina la tortuga: *xicotets lots s
 
 #### Principi 5: Forja un cultura de parar de resoldre problemes, per a aconseguir resultats de qualitat a la primera
 
-La **cualitat** és un dels aspectes crítics per a la satisfacció del client. Deu de proveure de processsos de sistemes que detecten errors, de forma que les instal·lacions es paren si és precís per a resoldre el problema abans de permetre que se aquest es propague **JIDOKA**.
+La **qualitat** és un dels aspectes crítics per a la satisfacció del client. Deu de proveure de processsos de sistemes que detecten errors, de forma que les instal·lacions es paren si és precís per a resoldre el problema abans de permetre que se aquest es propague **JIDOKA**.
 
 > **JIDOKA**: Principi de zero defectes
 
