@@ -89,17 +89,45 @@ Ferramentes útils: Andon, Kmishibai, OPL (One Point Lesson), Informe A3, etc.
 
 #### Principi 8: Utilitza tecnologia fiable i constrastada que dóne servei a persones i processos
 
+Toyota aboga per procediments simples i segurs.
+
 ### Secció 3: Afegeix valor a la teua organització mitjançant el desenvolupament de les persones
 
 #### Principi 9: Desenvolupa líders que comprenguen a fons el treball, visquen la filosofia i l'ensenyen als demés
+
+És millor desenvolupar a persones de l'organització que portar-los de fora, ja que l'experiència i el coneixement profund del treball que desenvolupen són molt valuosos dins de la mateixa.
+
+Aquests líders deuen tenir un comportament exemplar que inspire a la resta.
+
 #### Principi 10: Desenvolupa a persones excepcionals i equips que segueixen la filosofia de l'empresa
+
+La filosofia d'empresa ha de ser una cultura forta i estable. Ha de ser coneuda i compartida per tots.
+
 #### Principi 11: Respecta els teus socis i proveidors, rétals a millorar i ajúda'ls
+
+La companyia s'assegura de proveidors excepcioinals que acaben vivint el mateix idioma.
 
 ### Secció 4: Millora contínua
 
 #### Principi 12: Ve i observa per tu mateix per entendre profundament la situació
+
+Ves allà on està el problema per enténdre'l, localitzar la causa de l'arrel i resoldre-ho. Això és més efectiu que confiar en bases de dades u opinions d'altres.
+
+TPS (Toyota Production System) aboga pels processos transparents i proposa formes per facilitar la interpretació de cada situació.
+
+> **GENCHI GENBUTSU**: Lloc on ocòrren les coses.
+> **GO AND SEE**: Acudeix i observa.
+
 #### Principi 13: Pren decisions espai i per concens, considerant amb cura totes les posibles opcions; després, implementa la decisió amb rapidesa
+
+Per ternir èxit i estalviar esforços en accions, és precís saber bé primer què és el que es va a fer. Una vegada presa la decisió, es deu actuar amb diligència, doncs no haurà més que discutir.
+
+Si es deuen replantejar les decisions serà un altre acte de «nemawashi» en el que totes les persones afectades deuran intervindre per a aportar les seues idees, de manera que totes les alternatives possibles es consideren.
+
 #### Principi 14: Converteix-te en una organització d'aprenentatge mitjançant la reflexió (hansel) i la millora contínua (kaizen)
+
+Cal manternir una actitud de **millora contínua** mitjançant una reflexió sistemàtica o mirada crítica sobre els processos.
+
 
 JIT (Fluxe, Tracció i Cadència) i JIDOKA (Zero Defectes) són els pilars de Toyota Production System (TPS).
 
