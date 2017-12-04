@@ -137,6 +137,7 @@ JIT (Fluxe, Tracció i Cadència) i JIDOKA (Zero Defectes) són els pilars de To
 
 - [Los 14 principios de Toyota](http://www.leanroots.com/toyota-way.html)
 - Wikipedia. [Sistema de producció de Toyota](https://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota)
+- [Lean Manufacturing. Master Ingeniero Industrial. UPV.](http://leanmii.blogs.upv.es/)
 
 # Audios
 
