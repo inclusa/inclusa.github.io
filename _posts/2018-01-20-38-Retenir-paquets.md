@@ -12,7 +12,7 @@ Amb la utilitat `dpkg` podem **bloquejar** o **retenir** paquets que ens interes
 Així amb l'extensió `dpkg get-selections` podem visualitzar i canviar l'estat dels mateixos.
 
 1. Mirar l'estat dels paquets: `dpkg --get-selections`.
-2. Filtrar directament el paquet que ens interessa: `spkg --get-selections firefox`
+2. Filtrar directament el paquet que ens interessa: `dpkg --get-selections firefox`
 3. Evitar que s'actualitze el paquet, en aquest cas **Firefox**: `dpkg --get-selections firefox`. La qual cosa el marcarà com a `hold`, així, `firefox hold`.
 4. Si fem una actualització pdrem veure que el sistema ens indica que no s'actualitzarà, amb aquest missatge: `The following packages have been kept back: firefox firefox-globalmenu`.
 5. Per tornar a permetre la seua instal·lació: `echo "firefox install" | sudo dpkg --set-selections`.
