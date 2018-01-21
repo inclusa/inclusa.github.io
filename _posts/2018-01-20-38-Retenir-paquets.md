@@ -21,15 +21,14 @@ Exemple:
 
 Llistem paquets: `dpkg --get-selections`
 
-```
-xournal                     hold
-xpra                        install
-xrdp                        install
-xsane                       install
-xsane-common                install
-xscreensaver                deinstall
-xscreensaver-data           deinstall
-xsel                        install
-```
+
+    xournal                     hold
+    xpra                        install
+    xrdp                        install
+    xsane                       install
+    xsane-common                install
+    xscreensaver                deinstall
+    xscreensaver-data           deinstall
+    xsel                        install
 
 Font: [Taringa](https://www.taringa.net/posts/linux/16014894/Bloquear-la-actualizacion-de-paquetes-en-Debian-y-Ubuntu.html)

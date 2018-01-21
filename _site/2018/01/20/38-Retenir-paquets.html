@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>38 Retenir paquets</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2018/01/20/38-Retenir-paquets.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sentències</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">portfoli</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">38 Retenir paquets</h1>
+    <p class="post-meta">January 20, 2018 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Amb la utilitat <code class="highlighter-rouge">dpkg</code> podem <strong>bloquejar</strong> o <strong>retenir</strong> paquets que ens interessa, per alguna raó, mantenir una versió concreta dels mateixos.</p>
+
+<p>Així amb l’extensió <code class="highlighter-rouge">dpkg get-selections</code> podem visualitzar i canviar l’estat dels mateixos.</p>
+
+<ol>
+  <li>Mirar l’estat dels paquets: <code class="highlighter-rouge">dpkg --get-selections</code>.</li>
+  <li>Filtrar directament el paquet que ens interessa: <code class="highlighter-rouge">dpkg --get-selections firefox</code></li>
+  <li>Evitar que s’actualitze el paquet, en aquest cas <strong>Firefox</strong>: <code class="highlighter-rouge">dpkg --get-selections firefox</code>. La qual cosa el marcarà com a <code class="highlighter-rouge">hold</code>, així, <code class="highlighter-rouge">firefox hold</code>.</li>
+  <li>Si fem una actualització pdrem veure que el sistema ens indica que no s’actualitzarà, amb aquest missatge: <code class="highlighter-rouge">The following packages have been kept back: firefox firefox-globalmenu</code>.</li>
+  <li>Per tornar a permetre la seua instal·lació: <code class="highlighter-rouge">echo "firefox install" | sudo dpkg --set-selections</code>.</li>
+</ol>
+
+<p>Exemple:</p>
+
+<p>Llistem paquets: <code class="highlighter-rouge">dpkg --get-selections</code></p>
+
+<blockquote>
+  <p>xournal                     hold
+xpra                        install
+xrdp                        install
+xsane                       install
+xsane-common                install
+xscreensaver                deinstall
+xscreensaver-data           deinstall
+xsel                        install</p>
+</blockquote>
+
+<p>Font: <a href="https://www.taringa.net/posts/linux/16014894/Bloquear-la-actualizacion-de-paquetes-en-Debian-y-Ubuntu.html">Taringa</a></p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
