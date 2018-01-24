@@ -7,74 +7,72 @@ date:  2016-12-26 00:00:00
 
 ---
 **ACCIÓ**
-: Conjunt d'actes encaminats a conseguir un fi.
+: **Conjunt d'actes** encaminats a conseguir un fi.
 
 ---
 **ACTE**
-: Capacitat de portar a terme alguna cosa.
+: **Capacitat** de portar a terme alguna cosa.
 
 ---
 **ESTRATÈGIA**
-: Tècnica o conjunt d'activitats per aconseguir un fin. Planificació global. Respon a la pregunta ¿COM ho vas a aconseguir?
+: Tècnica o conjunt d'activitats per aconseguir un fin. Planificació global. Respon a la pregunta **Com** ho vas a aconseguir?
 
 ---
 **HÀBIT**
-: Destresa conscient que s'adquireix per exercici repetitiu.
+: **Destresa conscient** que s'adquireix per exercici repetitiu.
 
 ---
 **INDICADOR**
 
-: Escala numérica per a mesurar l'acompliment d'un objectiu. Mostren l'avanç numèricament, "nombre de queixes", "percentatge en la producció".
+: **Escala numérica** per a mesurar l'acompliment d'un objectiu. Mostren l'avanç numèricament, "nombre de queixes", "percentatge en la producció".
 
 ---
 **META**
 
-: És el valor numèric desitjat en l'escala d'un indicador. Seria el valor que ens agradaria assolir cada vegada que avalúe un indicador.
+: És el **valor numèric desitjat** en l'escala d'un indicador. Seria el valor que ens agradaria assolir cada vegada que avalúe un indicador.
 
 ---
 **MISIÓ**
 
-: És el motiu, propòsit, fi o raó de ser de l'existència d'una empresa u organització. Es defineix per:
+: És el **motiu**, propòsit, fi o raó de ser de l'existència d'una empresa u organització.
 
 ---
 **OBJECTIU**
-: Resultat esperat de l'execució correcta de diversos projectes. Respon a la pregunta ¿Què vols aconseguir?
-: És un propòsit sobre el qual es posen processos, les persones i els recursos. Poden ser de distints nivells d'organització, d'una unitat o gerència, o d'una persona específica. Sempre han d'estar aliniats i congruentment amb la visió i misió de l'empresa.
-
+: **Resultat esperat** de l'execució correcta de diversos projectes. Respon a la pregunta **Què** vols aconseguir?
 
 ---
 **PERSEVERAR**
-: Voluntat. Persistir amb constància i obstinació. Hàbit. Constancia en l'execució dels propòsits. Té a veure amb la *resistència* en el temps.
+: **Determinació**. Enfoc mental. Acció específica fins aconseguir uns resultats. Té a veure amb la **resistència** en el temps i amb la **voluntat**.
 
 ----
 **PERSISTIR**
-: Acció. Insistència, certesa, duració. Té a veure amb l'*energia* per no canviar.
+: Acció. Insistència, certesa, duració. Té a veure amb l'**energia** per no canviar.
 
 ---
 **PROJECTE**
-: Conjunt d'accions.
+: **Conjunt d'accions.
 
 ---
 **PROPÒSIT**
 
-: És la intenció amb què es realitza o deixa de realitzar-se una acció.
+: És la **intenció** amb què es realitza o deixa de realitzar-se una acció.
 
 ---
 **RITUAL**
-: Seqûència d'accions, paraules, gestos, realitzats principalment pel seu caràcter simbòlic.
+: **Seqûència** d'accions, paraules, gestos, realitzats principalment pel seu caràcter simbòlic.
 
 ---
 **RUTINA**
-: Costum de fer les coses sense pensar. No hi ha consciència, es tracta de seguir passos.
+: **Costum** de fer les coses **sense pensar**. *No hi ha consciència*, es tracta de seguir passos.
 
 ---
 **TÀCTICA**
-: Accions concretes i puntuals per aconseguir el dia a dia.
+: **Accions** concretes i puntuals per aconseguir el dia a dia.
 
 ---
 **VISIÓ**
 
-: Definició del que l'empresa vol ser en el futur, a on vol arribar. Recull metes i assoliments plantejat. Presenta la filosofia de com vol ser l'empresa.
+: **Definició** del que l'empresa vol ser en el futur, a on vol arribar. Recull metes i assoliments plantejat. Presenta la filosofia de com vol ser l'empresa.
 
 ### Exemples
 
