@@ -24,7 +24,7 @@ date:  2016-12-26 00:00:00
 ---
 **INDICADOR**
 
-: **Escala numérica** per a mesurar l'acompliment d'un objectiu. Mostren l'avanç numèricament, "nombre de queixes", "percentatge en la producció".
+: **Escala numérica** per a mesurar l'acompliment d'un objectiu. Mostren l'avanç numèricament, *nombre de queixe*, *percentatge en la producció.
 
 ---
 **META**
@@ -50,7 +50,7 @@ date:  2016-12-26 00:00:00
 
 ---
 **PROJECTE**
-: **Conjunt d'accions.
+: **Conjunt d'accions**.
 
 ---
 **PROPÒSIT**
@@ -104,7 +104,7 @@ Per a **definir un objectiu** cal conèixer al 100% l'organitzación sobre la qu
 ---
 **INDICADOR**
 
-: Escala numérica per a mesurar l'acompliment d'un objectiu. Mostren l'avanç numèricament, "nombre de queixes", "percentatge en la producció".
+: Escala numérica per a mesurar l'acompliment d'un objectiu. Mostren l'avanç numèricament, *nombre de queixes*, *percentatge en la producció*.
 
 **Característiques**
 
