@@ -13,7 +13,7 @@ Claus d'Steave Jobs respecte al lideratge:
 2. No descobrisques el producte fins al final
 3. Simplifica
 4. Assumeix la responsabilitat de principi a fi
-5. Si t'ha quedat enrere fes un salt
+5. Si t'has quedat enrere fes un salt
 6. Posa el producte per davant de la ganància
 7. Força la realitat
 8. Construeix opinió, atribueix
