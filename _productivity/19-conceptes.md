@@ -7,11 +7,23 @@ date:  2016-12-26 00:00:00
 
 ---
 **ACCIÓ**
-: **Conjunt d'actes** encaminats a conseguir un fi.
+: Execució d'un acte o conducta que resulta de l'elecció voluntària entre altres conductes possibles encaminats a aconseguir un fi.
 
 ---
 **ACTE**
 : **Capacitat** de portar a terme alguna cosa.
+
+---
+ACOMPLIMENT ("DESEMPEÑO")
+: Realització de les funcions pròpies d'un càrrec o treball.
+
+COMPETÈNCIA
+---
+: Pericia, aptitud o idoneitat per a fer alguna cosa o intervenir en un determinat assumpte. Capacitat de respondre a demandes complexes i portar a terme tasques diverses de foma adequada. Suposa una combinació d'habilitats pràctiques, coneixements, motivació, valors ètics, atituds, emocions, i d'altres components socials i de comportament què es mobilitzen conjutament per l'acompliment de l'acció eficaç.
+
+---
+DESTRESA
+: Habilitat amb que es fa alguna cosa.
 
 ---
 **ESTRATÈGIA**
