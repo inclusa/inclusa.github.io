@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /poetry/
-title: sentències
-description: Sentències de pensadors
+title: sen
+description: Sentències
 ---
 
 <ul class="post-list">
