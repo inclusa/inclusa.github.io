@@ -4,7 +4,64 @@ title: 47 Metes
 date:  2017-02-26 00:00:00
 ---
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4848366/height/90/width/800/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/ffbb00/" height="90" width="800" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+Llibre: Bryan Tracy. Metas. Empresa Activa.
+
+### Capítol 1. Allibera el teu potencial.
+
+> L'èxit es fonamenta en les metes; la resta són paraules.
+
+Tots els triomfadors estan intensament orientats cap a una meta. Saben el que volen i es concentren resoltament en assolir-ho, un dia rere altre.
+
+La nostra habilitat per fixar-nos metes és la clau mestra per assolir l'èxit.
+
+Amb les metes, volem com una fetxa, directes i sense errades fins al nostre objectiu.
+
+No importa d'on venim, el que importa és saber on anem.
+
+Les metes clares augmenten la seua confiança, desenvolupen la seua competència i potencien el seu nivell de motivació.
+
+*La meta és el combustible que alimenta el forn dels assoliments*. Tom Hopkins.
+
+Tot comença amb un **desig**.
+
+> El converteixes en el que penses la major part del temps.
+
+Els triomfadors, la major par del temps, penen en **el que volen** i **com aconseguir-ho**.
+
+> A la natura no l'importa el tamany de les seues metes.
+
+Si et fixes metes xicotetes, el mecanisme de consecució assolirà metes xicotetes. Si et fixes metes grans, assoliràs metes grans.
+
+El **tamany**, l'**alcanç** i el **detall** de les metes en les quals elegisques pensar la major part del temps, és algo que sols tu pots decidir.
+
+Per què no ens fixem metes?
+
+1. Pensem que les metes no són importants
+2. No sabem com fer-ho
+3. Tenim por a fracasar
+4. Tenim por a que ens deixen de banda
+
+Percentatges:
+
+- 3% tenen metes i plans escrits.
+- 13% tenen metes però no escrites.
+- 84% no tenen metes.
+
+Les persones amb metes escrites acabaren guanyant 10 vegades més que el 97 dels graduats.
+
+La diferència entre els grups és la claredat de les metes que s'havien fixat.
+
+> La felicitat exigeix metes.
+
+Les **metes** ens donen la sensació de **sentit** i **propòsit** en la vida. Victor Frankl.
+
+Els grans beneficis de la fixació de metes és que eixes metes ens permeten **controlar la direcció del canvi** en les nostres vides.
+
+> **La claredat ho és tot**.
+
+Cultiva un **desig ardent**.
+
+---
 
 > L'habilitat per fixar-se metes és la clau per alcançar l'èxit.
 
@@ -19,9 +76,9 @@ Característiques SMART:
 - T - Time: Amb un temps definit, ha de ser quantificable.
 
 
-Estratpegies
+Estrategies
 
-1. *Defineix la meta* de forma concreta. La nostra energia i passió moldeja el nostre entorn. Els triomfadors es dediquen a pensar en què volen i com ho van a aconseguir.
+1. **Defineix la meta de forma concreta**. La nostra energia i passió moldeja el nostre entorn. Els triomfadors es dediquen a pensar en què volen i com ho van a aconseguir.
 2. *Pren el control* de la teua vida. Fes-te responsable de les teues accions.
 3. *Crea el teu propi futur*. Tots els líders tenen tenen una visió. Saben on van i què han de fer per arribar-hi. Això s'anomena orientació al futur. Crea una idealització, pensa com va ser la teua vida d'ací a 5 anys. Idealitza. «Fake it until you make it», «Fake it 'til you make it» (falseja-ho fins que ho aconsegueixes).
 4. *Aclara els teus valors*. Els valors determinen les conviccions, les teues conviccions determinen la teua personalitat, la teua personalitat determina la teua actitud, la teua actitud determina els teus actes. Circle concènctrid de dins a fora: valors → conviccions → personalitat → actitud → actes.
@@ -45,3 +102,6 @@ Estratpegies
 
 
 -- Brian Tracy. 2003. Metes. Empresa activa.
+
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4848366/height/90/width/800/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/ffbb00/" height="90" width="800" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
