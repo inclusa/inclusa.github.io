@@ -8,7 +8,7 @@ coments: true    # Comentaris activats
 ---
 
 La persistència és <br />
-al caràcter de l'home <br />
+al **caràcter** de l'home <br />
 com el carbó <br />
 és a l'acer. <br />
 
