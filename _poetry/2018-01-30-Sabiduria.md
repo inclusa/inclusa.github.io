@@ -1,0 +1,14 @@
+---
+layout: post #
+title: 101 Sabiduria # Generat automàticament
+date: 2018-01-30 # Data
+description:  # Argument
+keywords:  # Paraules clau
+coments:  # Comentaris
+---
+
+La sabiduria de la vida <br />
+consisteix en **eliminar <br />
+el que no és essencial**. <br />
+
+<small>Li Yutan</small>

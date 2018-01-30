@@ -61,6 +61,62 @@ Els grans beneficis de la fixació de metes és que eixes metes ens permeten **c
 
 Cultiva un **desig ardent**.
 
+### 2. Pren el control de la teua vida
+
+> Quan acceptem la plena responsabilitat de la nostra vida, donem un pas de gigant que ens porta de la infantesa a l'edat adulta.
+
+Els pitjors enemics de l'èxit i la felicitat són les **emocions negatives** de tot tipus. Les emocions negatives ens subjecte, ens esgoten i ens lleven l'alegria de viure.
+
+Emocions negatives:
+
+  - Por
+  - Autocompasió
+  - Enveja
+  - Cels
+  - Sentiments d'inferioritat
+  - Ira
+
+Estan causades per quatre factors:
+
+  1. **Justificació**. Deixa de justificar-te. Si no pots justificar la teua negativitat no pots estar furiós. Quan no ens justifiquem apareix la calma i la claritat per concentrar-se en els següents passos.
+  2. **Racionalització**. Negar-se a razionalitzar i donar excuses. No donar una *explicació socialment acceptable a un fet que, en cas contrari, seria socialemnt inaceptable*. La justificació i la racionalització ens situen en el paper de víctima i la cerca d'algú que té la culpa.
+  3. **Elevar-se per damunt de l'opinió dels demés**. Si els demés opinen negativament sobre nosaltres apareix la ira, la incomoditat i la vergonya, la depresió, l'autocompació i la desesperació.
+  4. **Reconeix que ningú més és responsable**. No culpes a ningú.
+
+> No podem dir **soc respnsable** i sentir-nos furiosos.
+
+Quan **alliberes les emocions negatives**, asumint la responsabilitat, podràs començar a fixar i assolir metes en tos els aspectes de la teua vida.
+
+*Ningú pot fer que et sentes inferior sense el teu consentiment*. Eleanor Roosevelt.
+
+*Mai guarde rencor a ningú; mentre tu et quedes guardant-los rencor, ells se'n van per ahí de festa*. Buddy Hackett.
+
+No dones excuses. Si comets una errada disgues **ho senc**.
+
+Per a mantenir una **mentalitat positiva**, negat a criticar, queixar-te o condemnar els demés per res. En condemnar els demés aparèixen sentiments negatius i nosaltres som qui sofrim.
+
+*Les emocions positives ens donen poder, les negatives, ens el lleven*. Gary Zukav.
+
+Consideres un treballador autònom, controlant cada part de la seua vida personal i professional. Tu tens el control.
+
+Elabora la teua pròpia estragègia.
+
+Converteix-te en un *valor en alça*.
+
+No plores pel passat, pensa en les teues metes.
+
+Pren el control intern, *locus control*. Hi ha una **relació directa entre la quantitat de responsabilitat que acceptem i la quantitat de control que sentim**.
+
+Tres aspectes:
+
+  - Responsabilitat
+  - Control
+  - Felicitat
+
+A major **responsabilitat**, major **control**, a major **control**, major **felicitat**.
+
+
+
 ---
 
 > L'habilitat per fixar-se metes és la clau per alcançar l'èxit.
