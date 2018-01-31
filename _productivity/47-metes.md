@@ -6,7 +6,7 @@ date:  2017-02-26 00:00:00
 
 Llibre: Bryan Tracy. Metas. Empresa Activa.
 
-### Capítol 1. Allibera el teu potencial.
+### 1. Allibera el teu potencial.
 
 > L'èxit es fonamenta en les metes; la resta són paraules.
 
@@ -115,6 +115,35 @@ Tres aspectes:
 
 A major **responsabilitat**, major **control**, a major **control**, major **felicitat**.
 
+### 3. Cree el se propi futur
+
+L'única qualitat que tots els líders tenen en comú és la **visió**.
+
+Si *ens convertim en el que pensem la major part del temps*, els líders pensen en el **futur**.
+
+Una **perspectiva** a llarg termini és el principial determinant de l'èxit personal i econòmic en la vida. Edward Banfield.
+
+Banfield va definir la **perspectiva a llarg termini** com **la capacitat de pensar en un futur d'ací a diversos anys, mentre es prenen decisions en el presernt**.
+
+Hem de començar practicant la **idealització**. Creem una fantasia pròpia a cinc anys. Pense com seria la seua vida perfecta d'ací a cinc anys.
+
+> El major obstacle en la fixació de metes son les **conviccions autolimitadores**.
+
+Cal no conformar-se amb metes menors.
+
+*Sobreestimem enormement el que podem aconseguir en un any, però subestimem enormement elque podem aconseguir en cinc anys*. Peter Drucker.
+
+La principal diferència entre els que consegueixen resultats superiors i els que no els aconsegueixen és la **orientació a l'acció**.
+
+Dissenye el seu **calendari perfecte**.
+
+*Quan no hi ha visió, el poble es relaxa*. Proverbis 29,18.
+
+> La felicitat és la realització progressiva d'un ideal valuós.
+
+Prenga la resolució de **pensar en el seu futur** la major part del temps.
+
+Quan més clar tinga el seu futur a llarg termini, més ràpidament atraurà a la seua vida persones i circumstàncies que l'ajudaran a fer realitat aquest futur.
 
 
 ---
