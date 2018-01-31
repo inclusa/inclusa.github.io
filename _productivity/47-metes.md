@@ -115,7 +115,7 @@ Tres aspectes:
 
 A major **responsabilitat**, major **control**, a major **control**, major **felicitat**.
 
-### 3. Cree el se propi futur
+### 3. Cree el seu propi futur
 
 L'única qualitat que tots els líders tenen en comú és la **visió**.
 
@@ -127,7 +127,7 @@ Banfield va definir la **perspectiva a llarg termini** com **la capacitat de pen
 
 Hem de començar practicant la **idealització**. Creem una fantasia pròpia a cinc anys. Pense com seria la seua vida perfecta d'ací a cinc anys.
 
-> El major obstacle en la fixació de metes son les **conviccions autolimitadores**.
+> El major obstacle en la fixació de metes son les **conviccions autolimitants**.
 
 Cal no conformar-se amb metes menors.
 
