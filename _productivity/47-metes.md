@@ -145,6 +145,72 @@ Prenga la resolució de **pensar en el seu futur** la major part del temps.
 
 Quan més clar tinga el seu futur a llarg termini, més ràpidament atraurà a la seua vida persones i circumstàncies que l'ajudaran a fer realitat aquest futur.
 
+### 4. Aclareix els teus valors
+
+Una de les característiques més importnats dels líders i de les persones de més èxit en qualsevol camp, és que **saben qui són**, **en què creuen** i **què defenen**.
+
+La vida es viu de dins a fora. El nucli de la nostra persona són **els nostres valors**.
+
+A més **claredat** en els nostres **valors interiors**, més precisos i efectiu són els nostres **actes exteriors**.
+
+Nivells de personalitat:
+
+1. Els seus **valors** determinen les seues **conviccions**.
+2. Les seues **conviccions** determinen les seues **expectatives**.
+3. Les seues **expectatives** determinen la seua **actitud**.
+4. La seua **actitud** determina els seus **actes**.
+
+Elements:
+
+1. Valors
+2. Conviccions
+3. Expectatives
+4. Actituds
+5. Actes
+
+Segons l'interior així és l'exterior.
+
+Les nostres metes han de ser congruents amb els nostres valors, així s'alcança la felicitat. Per això, aclarir els nostres valors sol ser el primer pas per aconseguir grans coses i rendir al màxim.
+
+Després cal organitzar el nostre entorn al voltant d'aquests valors.
+
+Qualsevol intent de viure de manera que contradiga els valors que hi ha en el seu interior, li causarà estrés, negativitat, infelicitat, pesimisme i, inclús ira i frustració.
+
+> Confie la seua intuició
+
+Les persones comencen a fer-se grans quan escolten la seua veu interna i confien, total i absolutament, en que un poder superior els guia en el camí.
+
+Vigile la seua conducta.
+
+Demostrem els nostres **valors** sobretot quan estem sota **presió**.
+
+Un dels exercicis per clarificar els valors que tenim és exposar els nostres valors per ordre de prioritat.
+
+> Dis-me què li dóna a algú la seua màxima sensació d'importància i jo li diré quina és tota la seua filosifia de vida. Dale Carnegie.
+
+Determine el que desitja el seu cor.
+
+El seu passat no és el seu futur.
+
+> No importa d'on ve; l'únic que importa realment és on va.
+
+En el moment en el qual comencem a caminar, parlar i a actuar de forma coherent amb els nostres més alts ideals, la nostra pròpia imatge millora i ens sentim més satisfets amb nosaltres mateixos i amb el món.
+
+> El nostre objectiu ha de ser crear una forma deliberada i sistemàtica les circumstàncies que eleven la nostra autoestima en tot el que fem.
+
+Sàpiga en què creu.
+
+> Pense sols en el que creu.
+
+Siga fidel a sí mateixa.
+
+El valor més important és **la integritat**. La integritat no és tant un valor en sí mateix com el valor que garantitza tots els demés.
+
+Siga **leal** amb sí mateixa i amb els demés.
+
+Accepte la total responsabilitat de la vida i tot el que succeix.
+
+> Faça una imatge ideal del seu propi futur perfecte i aclarisca els seus valors, estarà llest per començar a fixar-se unes metes clares i específiques en tots els aspectes de la seua vida.
 
 ---
 
