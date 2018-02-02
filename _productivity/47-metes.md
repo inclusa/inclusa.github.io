@@ -212,6 +212,54 @@ Accepte la total responsabilitat de la vida i tot el que succeix.
 
 > Faça una imatge ideal del seu propi futur perfecte i aclarisca els seus valors, estarà llest per començar a fixar-se unes metes clares i específiques en tots els aspectes de la seua vida.
 
+### 5. Definisca les seues verdaderes metes
+
+La meua paraula favorita en la fixació de metes i en l'èxit en general és la **claredat**.
+
+> Hi ha una relació directa entre el nivell de claredat que tenim sobre qui somi què volem i pràcticament tot el que aconseguim en la vida.
+
+En aquest capítol comencarem a cristalitzar les nostres **visions** i **valoracions** en **metes** i **objectius** concrets en els què treballar cada dia.
+
+Fes que les teues metes siguen **personals**.
+
+Cal començar per u mateix. La fixació de metes, per a que el procés siga efectiu, deu d'ésser absolutament egoísta respecte al que *realment* vol per a vosté mateix.
+
+La gran pregunta és: **¿Què vull, de veritat, fer amb la meua vida?**. Recordem que no es pot alcançar una diana que no es veu.
+
+Al principi semblen fantasies, però la nostra tasca és **concretar-les**.
+
+Cal començar per metes generals, després definirem metes específiques.
+
+Identifique les seues **principals preocupacions**.
+
+Després caldrà identificar les **principals solucions** per a cadascú d'aquests problemes.
+
+En 1142, William de Ockham, va proposar un mètode per a resoldre problemes **la navalla d'Ockham**.
+
+> *La solució acertada a qualsevol problemes sol ser la més senzilla i directa, la que exigeix el menor nombre de passos*.
+
+Cal no complicar les metes.
+
+L'**objectiu** serà simplificar la solució i anar directament a la meta.
+
+> Descobrisca el **20%** de **feina** que li dóna el **80%** dels **resultats**.
+
+Si ens plantejem que morirem prompte, **allò que primer ens vinga a la ment reflexarà els nostres autèntics valors**. La nostra resposta inclourà a les persones més importants de la nostra vida.
+
+Fes una llista de somnis, 100 metes.
+
+La **raó** primordial de que seguim en situacions que no son millors per a nosaltres és la **por al canvi**.
+
+> Fes el que més t'agrada fer.
+
+Abraham Maslow parla d'**experiències cumbre**, moments u ocasions en que un individu es sent més feliç, més eufòric i ple d'entusiasme. Un dels principals fins en la vida és gaudir de tantes experiències cumbre com siga possible. Això s'aconsegueix fent memòria i identificant quins varen ser els moments d'experiència més alts en el pasat i imaginat com podriem repetir-los en el present i en el futur.
+
+Deixe la seua petjada.
+
+> Quan tinga absolutament clar què és el que vol, podrà pensar en les seues metes la major part del temps. Quan més pense amb elles, mér ràpidament es materialitzaran en la seua vida.
+
+
+
 ---
 
 > L'habilitat per fixar-se metes és la clau per alcançar l'èxit.
