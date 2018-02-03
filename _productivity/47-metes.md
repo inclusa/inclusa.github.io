@@ -259,6 +259,48 @@ Deixe la seua petjada.
 > Quan tinga absolutament clar què és el que vol, podrà pensar en les seues metes la major part del temps. Quan més pense amb elles, mér ràpidament es materialitzaran en la seua vida.
 
 
+### 6. Decidisca quin és el seu primer propòsit clar
+
+Donat que ens convertirm en allò que pensem la major part del temps, **tenir un objectiu** definit ens proporciona un **punt d'enfoc** per a tots els moments en que estem desperts.
+
+Quan més pense en el seu propòsit i com alcançar-lo, més activarà la **Llei de l'atracció** en la seua vida. Començarà a atraure persones, oportunitats, idees i recursos que li ajudaran a avançar amb major rapidesa cap a la seua meta i que acostaran eixa meta am major rapidesa cap a vosté.
+
+Per la **Llei de la Correspondència**, el seu món exterior d'**experiències** es correspondrà i armonitzarà amb un món interior de **metes**. Quan tinga un propòsit clar en el què pense, parle i treballe tot el temps, el seu món exterior el reflectirà, com si fora un espill.
+
+A més, un **propòsit clar activa la seua ment subconscient en el seu benefici**. Qualsevol idea, plan o meta que pot definir amb claredat en la seua ment conscient començarà, de forma immediata, a ser portada a la realitat per la seua **ment subconscient**, i, per la seua **ment supraconscient**.
+
+Cada persona té en el cervell un òrgan especial anomenat **còrtex reticular**. Aquesta part del cervell, amb forma de dit, funciona de mode similar a la centralita telefònica d'un edifici d'oficines. El **còrtex reticular** conté el nostre **sistema d'activiació reticular**. Quan li enviem un missatge relatiu a la nostra meta, es posa en marxa i fa que siguem intensament conscients i estiguem alerta a les persones, la informació i les oportunitats del nostre entorn que ens ajudaran a assolir eixa meta.
+
+> S'ha dit que l'atenció és la clau de la vida. Allí on va la nostra atenció, també va la nostra vida. Quan decidim quin és el nostre proòsit més important, augmenta el nostre nivell d'atenció i la nostra sensibilitat davant qualsevol cosa que puga ajudar-nos a aconseguir aquesta meta amb major rapidesa. 
+
+El seu primer propòsit clar pot definir-se com la meta que tinga la màxima importància per a vosté en eixe moment.
+
+Característiques del nostre primer propòsit clar:
+
+1. Deu ser alguna cosa que vullga, deveres, *personalment*. Un propòsit que l'**entusiar-me**.
+2. Deu ser **clar** i **específic**.
+3. Deu ser **mesurable** i **quantificable**.
+4. Deu ser **creible** i **realitzable**.
+5. Ha de tenir unes **probabilitats d'èxit raonables**, potser del **50%** per començar. Si mai ho ha aconseguit fixe's una meta important amb el 80-90% de possibilitat d'èxit, al menys al principi.
+6. Ha d'estar en **armonia** amb les seues altres metes.
+
+Cal fer-se aquestes preguntes:
+
+1. Quina cosa fabulosa s'atreviria a somilar, si sabers que no pot fracasar?
+2. Quina és la meua meta?
+3. Com assolir-la?
+4. Quan de temps estem disposats a treballar per assolir-la?
+
+Si estem disposats a fer tot el que siga necessari per assolir la meta que ens proposem ho hi haurà pràcticament res que puga impedir-nos-ho.
+
+Exercici de les 10 metes:
+
+1. Anotar 10 metes en un paper.
+2. Pensar quina de les 10 metes, si puguera alcançar-la d'immediat, tindria el màxim efecte positiu en la meua vida?
+3. Eixa meta és el seu propòsit clar més important, ja que influirà en la consecució de la majoria de les seues altres metes.
+4. Siga quina siga la meta cal anotar-la en un paper, portar-la amb nosaltres i pensar en ella.
+5. Comence hui mateix a treballar-la.
+
 
 ---
 
