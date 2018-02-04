@@ -302,6 +302,84 @@ Exercici de les 10 metes:
 5. Comence hui mateix a treballar-la.
 
 
+### 7. Analitza les teues conviccions
+
+> L'única cos que separa a un hom del que vol en l avida és, amb freqüència, simplemnt la voluntat per intentar-ho i la fe per a creure que és possible.
+
+Potser la més important de totes les lleis mentals és la **Llei de la Convicció**.
+
+Aquesta llei diu que **qualsevol cosa que es crega amb convicció es converteix amb realitat**.
+
+> No creguem el que veiem, veiem allò el el que ja creiem.
+
+Contemplem el món a través d'un cristall de creències, actituds, prejudicis i idees preconcebudes.
+
+> No som el que creiem que som, però el que creiem, això som.
+
+Es diu de l'home *com pensa amb el seu cor, així és*, Proverbis (23,7). Actuem exteriorment basant-nos en les nostres creències i conviccions més profundes sobre nosaltres mateixos.
+
+*Facaç amb vosaltres segons la vostra fe*, Mateu (9.27). El que creiem de veritat es converteix en la nostra realitat i determina el que succeix.
+
+Tot el que fem o aconseguim a la vida, cada pensament, sentiment o acte, està controlat i determinat pel concepte que tenim de nosaltres mateixa.
+
+> El seu concepte de sí mateix precedeix i prediu els seus nivells d'actuació i eficàcia en tot el que faça.
+
+El **concepte de sí mateix** és el programa mestre del seu ordinador mental.
+
+> El concepte de nosaltres mateixos està format per la suma total de tot el que creiem, sentim i opinem de nosaltres mateixos i del nostre món.
+
+Per això, **sempre actuem de manera coherent** amb eixe concepte de nosaltres mateixos, tant si aquest és positiu com si és negatiu.
+
+El que **creguem sobre nosaltres mateixa** és en gran manera **subconscient**. Amb freqüència, aquestes opinicions no es basen en fets. Són el resultat d'informacions que hem anat absorvint al llarg de la vida i de la forma en quen hem anat processant eixa informació.
+
+Les nostres creències han estat moldejades i formades en la primera infancia, pels nostres amics i coneguts, per les nostres lectura i educació.
+
+Les pitjors creencies de totes són les **creències autolimitadores**.
+
+Louise Hay diu que **l'arrel de la majoria dels problemes** de la vida està en la sensació de que **no som suficientment bons**.
+
+Alfred Adler diu que tenir **sentiments d'inferioritat** és l'herència natural de l'home occidental, uns sentiments que comencen en la infància i, amb freqüència, continuen al llarg de la vida adulta.
+
+Quasi totes les creències limitants són falses.
+
+Les persones són soles més llestes o millors en diferents camps, en diferents moments.
+
+Segons Howard Gardner, Universistat de Hardvard, artífex del concepte d'**intel·ligències múltiples**, poseïm, al menys, deu intel·ligències diferents, en qualsevol de les quals podriem ésser un geni.
+
+Per desgràcia, tant en l'escola com en la universitat, sols ens medeixen en doues intel·ligències: la verbal i la matemàtica.
+
+> Les seues conviccions són adquirides, no innates.
+
+Selecciona les conviccions que vols.
+
+Si estàs absolutament convençut de que estàs destitat a triomfar, caminaràs, parlaràs i actuaràs com si tot el que et passa en la fira formara part d'un gran pla destinat a fer que tinga èxit. En realitat, així és com pensen els que ocupen els llocs més alts, en tots els camps.
+
+> Busca el que siga bo
+
+Els triomfadors busquen el que és bo en qualsevol situació. Saben que sempre està ahí. No importa quants reveses i contratemps experiementen, sempre donen per suposat que conseguiran alguna cosa bona de tot el que els passa. Estan convençuts de que qualsevol revés forma part d'un gran pla que els fa avançar, inexorablement, cap al gran èxit que és inevitable per a ells.
+
+Si les teues conviccions són suficientment positives, buscaràs la **liçó valuosa**, en lloc de qualsevol contratemps o dificultat.
+
+> Dins de cada dificultat i de cada obstacle hi ha la llavor d'un avantatge o benefici igual o superior.
+
+La **Llei de la Reversivitat** diu: És més probable que t'obliques a **actuar** per a **sentir** d'una forma determinada que t'obligues a **sentir** per a **actuar** d'eixa forma.
+
+> Cal actuar **com si ja fórem** la persona que desitgem ser, amb les qualitat i talents que desitgem tenir. Els teus actes generaran els sentiments que els acompanyen.
+
+Es tracta d'**actuar** primer per a **sentir-se** de la manera que volem, degut a la **Llei de la Reversibilitat**.
+
+Si vol ser com un dels deu primers del seu sector, vístet com ells. Organitza els teus hàbits de treball com ells. Identifica les persones d'èxit i usa'ls com a models.
+
+Cal **fingir-lo fins que siga realitat**.
+
+Has de concentrar-te en crear, dins de tu, un convenciment coherent amb l'èxit que vols tenir en el teu món. Això s'aconsegueix qüestionant les **creències autolimitadores, rebutjant-les i actuant com si no existiren**.
+
+El seu fi és reprogramar la seua ment subconscient per a l'èxit, creant l'**equivalent mental** d'eixe èxit en tot el que faces o digues.
+
+> Cal actuar com si tinguerem la secreta garantia de l'èxit i sols nosatres ho saberem.
+
+
+
 ---
 
 > L'habilitat per fixar-se metes és la clau per alcançar l'èxit.
