@@ -378,6 +378,72 @@ El seu fi és reprogramar la seua ment subconscient per a l'èxit, creant l'**eq
 
 > Cal actuar com si tinguerem la secreta garantia de l'èxit i sols nosatres ho saberem.
 
+### 8. Comence pel principi
+
+> El seu problema és salvar la distància entre on està ara i les metes que vol assolir. Earl Nightingale.
+
+Imagine que es disposara a travessar un país d'un extrem a l'altre. El primer pas que honaria seria elegir el seu destí i després agafar un mapa per a determinar quin és la millor manera d'arribar allí. La vida és algo paregut.
+
+Una vegada hem decidit qins són els nostres **valors**, **visió**, **misió**, **propòsit** i **metes**, el següent pas és **analitzar el punt de partida**.
+
+Practique el **Principi de Realitat**, Jack Welch, presidente executiu de General Electric durant molts anys el va definir com la **capacitat de veure el món tal tom és, no com desitjariem que fora**.
+
+Quan més ajustats i precisos siguen els càlculs que faça respecte als seus ingresos, o en qualsevol altre camp, millor i més ràpid millorarà en cada un d'ells.
+
+Calcule quan guanya per hora al mes. Negat a no fer res que no rendisca el promedi desitjat per hora.
+
+Si has establert una meta a llarg termini, el següent pas és determinar exactament quin és el teu patrimoni actual, en termininis econòmics. El teu patrimoni és el que obtindries si vingueres tot el que tens.
+
+Elabore plans econòmics a llarg termini i dividisca el nombre d'anys que pensa dedicar a assolir aquesta meta. Quan té que estalviar, invertir i acumular cada any per ser independent econòmicament.
+
+La meta ha d'ésser realista.
+
+Pensa partint de zero. Comença a planificar el teu futur a llarg termini. Sabent el que sé, hi ha alguna cosa que no tornaria a fer, si començara de nou?
+
+És difício, sinó impossible, que faça progressos en la vida si permet que li frenen decisions preses en el passat.
+
+**Avalue cada aspecte de la seua vida**, tant **personal** com **professional**.
+
+> Estiga disposat a fer els canvis necessaris.
+
+Les circumstàncies canvien constantment, el 70% de les decisios que prenem acabaran siguent errònies.
+
+Esbrine quins circumstàncies li estan frenant.
+
+> Determine el seu nivell de coneixements i aptituds
+
+En quim camp, en quina habilitat és òptim amb el que fa?
+
+> Identifique els seus punts febles.
+
+Els fets no menteixen. Harold Geneen.
+
+> Estiga preparat per a reinventar-se
+
+Examine el seu mercat i el dels seus competidirs. Al reinventar-se dóne un pas enrere i pense avanç de començar, hui, la seua carrera des del principi, sabent el que sap.
+
+Imagine qu eel seu treball i el seu sector desaparegueren de la nit al matí. Imagite que havera d'elegir una professió de nou. Què faria diferent del que està fent?
+
+> El seu actiu econòmic més valuós és la seua capacitat d'aprenentatge, la seua habilitat per aplicar el seu talent i els seus coneixements al mercat.
+
+La seua **capacitat d'aprenentatge** pot augmentar el seu valor si continua invertint en ella i desenvolupant-la.
+
+Veute a tu mateix com un **conjunt de recursos**, capaç de fer moltes coses diferents. Tens una amplia varietat d'aptituds, habilitats, coneixements, talent, educació i experiència. Hi ha molts treballs i tasques que poden fer o aprendre a fer, extremadament bé. No permetes quedar tancat en un curs d'acció donat, en especial si no estàs content amb le camí que segueix la teua vida laboral hui.
+
+Fes-te **preguntes despiadades**:
+
+1. A on estem ara?
+2. A on ens agradaria estar en el futur?
+3. Com hem arribat fins ací? Què hem fet bé? Què fariem d'altra manera?
+4. Què fem ara per arribar on volem anar? Basant-nos en la nostra experiència, què hauriem de fer per arribar?
+
+> Elabore el seu pla estratègic
+
+  - Un treball ben començat, ja està a mitges acabat.
+  - Un diagnòstic encertat és la meitat de la curació.
+
+
+
 
 
 ---
