@@ -442,6 +442,43 @@ Fes-te **preguntes despiadades**:
   - Un treball ben començat, ja està a mitges acabat.
   - Un diagnòstic encertat és la meitat de la curació.
 
+### 9. Medeixca els seus progresos
+
+> No hi ha nintún camí massa llarg per a qui avança amb parsimònia i sense apresuraments indeguts; no hi ha honors llunyans per a qui es prepara per a ells amb paciència. Jean de la Bruyère
+
+La nostra **ment conscient** és l'*oficina principal* de la nostra vida. El seu objectiu és **tractar la informació que ens rodeja, identificar-la, analitzar-la, comparar-la amb altres informacions i, després, decidir quines mesures prendre**.
+
+Però és la nostra **ment subconscient** la que conté el gran poder que ens permet assolir un èxit molt més gran del què hem assolit mai.
+
+La nostra ment subsconscient funciona de forma òptima quan conta amb metes clares, tasques específiques, medicions deliberades i plaços d'acompliment. Quantes més metes programe en el seu ordinador subconscient, millor funcionarà i més coses assolirà en un període de temps més curt.
+
+Les tres claus del **rendiment òptim**:
+
+1. **Compromís**, amb el compromís en una data apartem les excuses, actua com un accelerador subconscient.
+2. **Completar** les tasques.
+3. **Tancament**.
+
+Crea la **sensació de triomf** completant tasques al 100%. L'**acció incompleta** és una font important d'estrés i ansietat.
+
+Sempre que seleccionem una meta, medició o activitat important per a nosaltres, en la nostra vida quotidiana, i comencem a observar-la o perstar-li atenció, els nostres resultats milloren.
+
+Cal crear marcadors, indicadors per en tasques claus per avançar en les nostres metes. D'aquesta forma activem el nostre **sistema forçós subconscient**. Aquest sistema ens motivarà i empentarà, a un nivell inconscient, a començar més prompte, treballar més, quedar-nos fins a més tard i aconseguir fer la tasca.
+
+Cal fixar-se **dates límit**. Si arriba aquesta data i no hem acabat la tasca, **cal tornar a fixar-se una data límit**.
+
+**Desglosa les metes** en xicotets passos.
+
+**Identifica la tasca més valuosa**.
+
+**Perfeccionament continu**, llig una hora al dia sobre temes del teu camp.
+
+**Millore la seua forma física**.
+
+**Estalvie** els penics i els dòlars s'estalviaran sols.
+
+Siga una persona culta, llisca quince minuts cada dia els clàssics.
+
+> Allò que no es pot mesurar no es pot gestionar.
 
 
 
