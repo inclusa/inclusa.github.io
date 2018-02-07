@@ -480,6 +480,101 @@ Siga una persona culta, llisca quince minuts cada dia els clàssics.
 
 > Allò que no es pot mesurar no es pot gestionar.
 
+### 10. Elimine els obstacles
+
+> Qui està interessat en l'èxit ha de aprendre a veure el fracàs com a una part saludable e inevitable del camí per arribar al cim.
+
+La majoria dels triomfadors **fracasen amb major freqûència** que qui no ho és. Els primers proven més coses, cauen, s'alcen i tornen a provar, una i altra vegada, fins que, finalment, guanyen. Els no triomfadors proven unes quantes coses, si es que proven alguna, però molt prompte abandonen i tornen al que feien abans.
+
+El **fracàs temporal** precedeix sempre a l'èxit.
+
+> El fracàs és una nova oportunitat per a començar d'un nou mode més intel·ligent.
+
+Una vegada hem definit les nostre mestes cal identificar els obstacles.
+
+Pensa en **termes de solucions**. Ens convertim en allò que pensem la major part del temps. En el camp dels problemes i dificultats, els triomfadors tenen un aforma particular de pensar **orientada a les solucions**.
+
+> Els **triomfadors pensen en solucions** la major part del temps. Els que no tenen èxit pensen els problemes i les dificultats.
+
+Les persones orientades a les solucions busquen, sense descans, maneres de superar, rodejar o saltar per damunt dels obstacles que els impedeixen el pas.
+
+> Resoldre problemes és una tècnica, es pot aprendre.
+
+Tenim la capacitat de resoldre qualsevol problema i superar qualsevol obstacle si desitgem assolir aquesta meta amb força suficient.
+
+En l'assoliment de qualsevol meta sempre hi ha un coll d'ampolla que cal identificar i concentrar tota la nostra energia en superar aquesta restricció clau.
+
+Solem ser nosaltres el principal impediment que determina la rapidesa amb la qual assolirem qualsevol meta que ens fixem.
+
+Als triomfadors els interesa més **què és el que és acertat** que **qui té la raó**. El que els interesa més la veritat de la situació i el que poden fer per resoldre el problema, que protegir el seu ego.
+
+Mira en el teu interior i identifica el que et frena. Fes-te preguntes despiadades, sigues totalment sincer.
+
+> Els principals obstacles vers les metes solen ser mentals.
+
+Dos obstacles principals per assolir l'èxit:
+
+1. La por
+2. El dubte
+
+> Les emocions negatives poden desaprendre's.
+
+Has vist alguna vegada un nadó negatiu?
+
+Els dos primers antídots per superar el **dubte** i la **por** són:
+
+1. El valor
+2. La confiança
+
+> Quan majors siguen el **valor** i la **confiança** menor serà la **por** i el **dubte**, i menys efecte tindran aquestes emocions negatives en la seua **actuació** i **conducta**.
+
+Les claus per desenvolupar **valor** i **confiança** són:
+
+1. El coneixement
+2. La destresa
+
+La majoria de pors i dubten sorgeixen de la ignorància i dels sentiments d'ineptitud d'algun tipus.
+
+Quan més **aprengues** el que necessites saber per assolir les teues metes, menor por tindràs i més valor i confiança sentiràs.
+
+> Les persones que sofreixen **impotència apresa** senten que són incapaces d'assolir les seues metes o millorar la seua vida. Martin Seligman.
+
+*Tant si creu que ho pot fer com si creu que no ho pot fer, és cert en els dos casos*. Henry Ford.
+
+Desaprendre la impotència.
+
+La manera de **desaprendre la impotència apresa** és posar-se metes xicotetes. **fer plans** i **treballar en ells cada dia** igual que es desenvolupa la musculatura amb l'exercici.
+
+Quan tinga **més confiança** en vosté mateixa i en les seues habilitats, pot fixar-se **metes més grans**. Amb el temps, els seus **dubtes** i **temors** es debilitaran i el seu **valor** i **confiança** creurà i arribarà a ser les forces dominants en el seu pensament. No passarà molt de temps abans que siga **împarable**.
+
+El segon obstacle a superar és la trampa de la **zona cómoda**. Aquest és un obstacle important en l'ambició, el desig, la determinació i els assoliments.
+
+**Fixe's metes ambicioses i estimulants**. Aquesta és la manera d'eixir de la zona còmoda. Després desglo-se-les en **tasques específiques**, establisca **plaços** i **treballe cada dia** per assolir-les.
+
+** Organitze els obstacles per prioritats**.
+
+> Qualsevol que siga el problema, definixca'l de maneres diferents abans d'intentar resoldre'l. Guarde's de qualsevol problema per al qual hi haja una única solució. Ian Mitroff.
+
+Després de definir el problema caldrà preguntar-se, quina altra cosa podria ser el problema.
+
+**Definisca un obstacle com una meta**.
+
+Fixe's dates finals i medicions per a cada pas.
+
+Cal fer l'exercici d'identificar el que t'està frenant i després establir una meta clara, per escrit, per eliminar definitivament els obstacles i obtenir novament el control de la seua vida.
+
+**Esforçat per assolir la precisió**.
+
+Si li preocupa haver definit un problema amb precisió, discuteix-lo amb algú que conegues i amb qui confies. Deixa el teu ego de banda. Accepta la possibilitat de tenir errades i debilitats fonamentals que t'impedeixen avançar.
+
+**Quan el problema o els obstacles estiguen clars**, començaran a arribar-li idees, oportunitats i respostes des de diverses fonts.
+
+**Quasi tots els problemes es poden solucionar**.
+
+Quasi tots els problemes tenen solució. Si no la tenen **olvida'l**.
+
+
+
 
 
 
