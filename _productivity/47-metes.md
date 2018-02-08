@@ -573,6 +573,127 @@ Si li preocupa haver definit un problema amb precisió, discuteix-lo amb algú q
 
 Quasi tots els problemes tenen solució. Si no la tenen **olvida'l**.
 
+### 11. Esdevenga en un expert
+
+> L'home singular és simplement un home corrent que pensa i somia amb l'èxit i en camps més fructífers.
+
+Un cartell de reclutament de l'exèrcit nordamericà en una de les seues metes diu **sigues tot el que pugues ser**.
+
+El mercat sols paga una remuneració excel·lent per uns resultats excel·lents.
+
+En el nostre sistema econòmic, els seus ingressos vindran determinats per tres factors:
+
+1. El que fa.
+2. Com ho fa de bé.
+3. Com siga de difícil substituir-lo.
+
+Una característica dels triomfadors, és que, en un moment donat de la seua vida professional varen decidir **comprometre's amb l'excel·lència**. Varen decidir ser els millors, pagar el preu, fer qualsevol sacrifici i invertir qualsevol qualtitat de temps que fora necessària per arribar a ser molt bons en el camp que havien elegit.
+
+Com a resultat d'aquesta decisió, es varen apartar de la masa, de qui tenia un rendiment medi i ascendiren en la categoria d'ingressos on hui guanyen tres, quatre, cinc i deu vegades més que els seus companys què no varen assumir aquest compromís.
+
+**Regla 80/20**.
+
+> Ningú és millor ni més llest que vosté.
+
+Els coneixements poden aprendre's. Els que ho fan millor en algun camp varen aprendre els coneixements essencials, combinats amb altres, abans que vosté. Si no està assolint el que altres assolixen, això significa, simplement, que encara no ha aprés els coneixements necessaris.
+
+> Podem aprendre qualsevol cosa que necessitem per a assolir qualsevol meta que ens fixem.
+
+**Per assolir alguna cosa que mai no ha assolit abans, ha d'arribar a ser algú que mai ha segut abans**. Les Brown.
+
+**Per a tenir més, primer has de ser més**. Johann Wolfrang von Goethe.
+
+Quan hages decidit estar entre els millors en el seu camp, l'única pregunta és: **Com ho aconseguisc?**.
+
+Com em menge un elefant? A mossos. Cal desglosar les metes.
+
+En començar a millorar decididament els nostres coneixements i destreces a fin d'arribar a estar  entre un dels millors del nostre camp professional, és com si participàrem en una carrera i forem els únics que correguerem de veritat. Molt prompte avancem al pelotó i ens col·loquem em primera posició. Entretant, la majoria dels nostres competidors es limiten a passetjar, fent únicament el que necessiten per a conservar els seus llocs de treball. La idea de comprometre's amb l'excel·lència no se'ls ha ocorregut.
+
+> Identifique els conexiements que necessita.
+
+Projecte's en tres o quatre anys i imagine que està entre els millors del seu sector. Què hauria d'haver passat? Què hauria d'haver aprés?
+
+És quasi inevitable que la seua trajectòria professional canvie continuament, segons creixca i madure. Deu mirar constament cap avant i pensar en els coneixement i aptituds que necessitarà per a guanyar els diners que vol guanyar en els anys que venen.
+
+> Identifique les àrees claus de resultats.
+
+Cal establir un anàlis com aquest, per exemple per dedicar-se a vendre serien aquest punts:
+
+1. Fer prospecció.
+2. Establir la comunicacció.
+3. Identificar les necessitats.
+4. Presentar solucions.
+5. Respondre a les objeccions.
+6. Tancar la venda.
+7. Aconseguir que els clients satisfets recomanen la comanda.
+
+Caldria puntuar-se entre 1 i 10 punts. Necessitarà assolir una puntuació de 7 per estar entre els 20% superior en el seu camp.
+
+**Qualsevol que siga la nota final, ha de seleccionar el punt més feble, i treballar en ell per a arribar a ser igual o millor que els demés. El seu punt més feble estableix el seu nivell i com de ràpid i de lluny arribarà en la seua professió**.
+
+> Quina habilitat, si la desenvolupa i la practica d'una manera excel·lent, tindria el màxim efecte positiu en la seua trajectòria professional? Aquesta qualitat ha de convertir-se en el centre del desenvolupament personal i professional.
+
+Les persones amb èxit tenen una nota de huit, nou o deu en una **àrea clau de rsultats**. **Aquesta deu ser la seua META**.
+
+Set idees claus que determinen el seu èxit o el seu fracàs en el treball:
+
+1. Planificació
+2. Organització
+3. Dotació personal
+4. Delegació
+5. Supervisió
+6. Medició
+7. Presentació d'informes
+
+Tots els dirigens d'èxit són excel·lents en una d'aquestes àrees. Una debilitat greu en alguna d'aquestes àrees pot ser fatal per tal de triomfar en el treball.
+
+Tenim una tendència natural a valorar-nos molt alt, per això és útil que altres ens valoren.
+
+En quan determines en què vas a ser excel·lent, cal posar-se a treballar.
+
+> La gent no canvia.
+
+Naixem amb certes aptituds, habilitats, tendències, forces, debilitats i talents. Tots emergeixen al principi de la vida i solen cristalitzar en l'adolescència. No canvien molt al llarg de la vida.
+
+> Uns dels passos més importants que donarà en la seua vida professional és identificar en què és realment bo o en què pot arribar a ser-ho i després posar tot el cor en assolir l'exel·lència en aquesta àrea.
+
+**El millor per muntar a cavall és deixar-se portar pel cavall**. Mary Parker Follet. La millor manera de cultivar-se és seguint les nostres aptitus i interessos naturals.
+
+**Nodrisca la seua natura**. Jim Cathcart.
+
+**Tot el món té talent, però la destresa exigeix treball**. Michael Jordan.
+
+**La clau de l'èxit en EEUU és esbrinar el que de veritat ens entusiarma fer i, després, trobar el medi de guanyar-nos la vida fent-ho**. Napoleon Hill.
+
+Huit medis d'identificar les característiques que ens fan especials:
+
+1. Identificar què ens entusiarma.
+2. Identifiar què fem bé.
+3. Identificar en què has rebut majors elogis.
+4. Identificar quines coses varen resultar fàcils d'aprendre i de fer.
+5. Identificar què manté la nostra atenció.
+6. Identificar què ens entusiarma.
+7. Identificar allò que mentre ho fa el temps es para.
+8. Identificar què admirem i respectem de les persones que són bones amb això.
+
+> Els seus dons naturals són innates i fàcils de desenvolupar.
+
+Moltes habilitats són complementàries, depenen d'altres. Això significa que deu tenir una aptitud donada, a un cert nivell, per a poder usar les seues aptituds a un nivell més alt.
+
+De vegades cal desenvolupar aptituds que no li agraden ni li fan gaudir per assolir l'excel·lència en el camp elegit.
+
+Evita la tramps del que rendeix poc: *la veritat és que no sóc bo en eixe camp*.
+
+La **pràctica no porta a la perfecció**, és la pràctica imperfecta el que, porta finalment, a la perfecció. Sempre que comence alguna cosa no ho farà bé al principi. Es sentirà torpe, però aquest és el preu que paguem per assolir l'excel·lència. Cal pagar el preu de l'èxit, el qual sol comportar un dur treball necessari per ascendir més alt.
+
+Estiga preparat per invertir dos o tres anys per ser el millor en un cap crític.
+
+Factor per progressar:
+
+1. Llegir sobre el tema.
+2. Escoltar sobre el tema.
+3. Assistir a seminaris.
+4. Practicar sempre que puga.
 
 
 
