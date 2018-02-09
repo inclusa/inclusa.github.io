@@ -695,6 +695,103 @@ Factor per progressar:
 3. Assistir a seminaris.
 4. Practicar sempre que puga.
 
+### 12. Associa't amb les persones adients
+
+> La seua actitud davant la vida, la seua valoració de sí mateix, el seu càlcul del que val estan colorejats, en gran mesura, pel seu entorn. Tota la seua vida professional es veurà modificada, moldejada i modelada pel que li rodeja, pel caràcter de les perones amb qui està en contacte cada dia. Orison Sweet Marden.
+
+La nostra capacitat per a cultivar les relacions encertades amb les persones adequades en totes les etapes de la nostra vida, personal i professional, serà el determinant crític del nostre èxit i els nostre assoliment tindrà un efecte extraordinari en la rapidesa amb que assolim les nostre metes.
+
+Quan més persones conega i li coneguen de forma positiva, més èxit tindrà en qualsevol cosa que intente. Una única persona, en el moment i lloc oportuns, pot obrir-li una porta que li canvie la vida i li estalvie molt de treball.
+
+Una part clau de la fixació de metes és que idetifique persones, grups i organitzacions per assolir les metes.
+
+Hi ha tres categories de persones de les quals necessitarà ajuda i cooperació:
+
+1. Persones del seu cercle professional.
+2. Persones del seu cercle familiar i amistats.
+3. Persones fora del cercle professional i familiar.
+
+**Identifique** aquestes persones.
+
+En el cercle laboral, el seu cap és el client més important, és el que tindrà més impacte.
+
+Una de les millors estratègies és **fer una llista** de tot el que li han contractat per fer. Per què estic en nòmina?
+
+Porte-li la llista al seu **cap** i pregunte-li què és el més important per a ell. Després faça-li ordenar les coses per ordre d'importància. A partir d'aquest moment disciplíne's entorn a aquesta llista. Assegure's que sempre que veja al seu cap està treballant en la prioritat que li ha marcat.
+
+Dues qualitats per la seua promoció:
+
+1. Capacitat per establir prioritats.
+2. Capacitat per executar el treball amb promtitud.
+
+Si fem un bon treball en una tasca sense importància, això podria fer malbé la seua carrera. Assegure's de que el que està fent té màxima prioritat per al seu cap. Després dedíque's a fer-ho ràpidament.
+
+Els **seus companys** són també els seus clients. Pregun-te'ls-hi si hi ha alguna cosa que puga fer que els ajude a fer millor les seues tasques.
+
+Si ajudem primer, per la **llei de la reciprocitat** ens tendiran a ajudar per tornar-nos aquest favor.
+
+Tots els esforços sincers que faça li retornaran d'alguna manera.
+
+> Les persones més populars de qualsevol organitzación són les que estan sempre disposades a tirar una mà.
+
+Quan més agrade i recolze a qui està junt a vosté més li pagaran i més ràpidament el promocionaran.
+
+Busque maneres de ser un recurs valuós per a qui li rodeja i ells buscaran, automàticament, maneres d'ajudar-li i respaldar-li quan vosté ho necessite.
+
+La qualitat de **jugar bé en equip** va ser la qualitat més important, identificable des de fora, que va trobar un estudi de la universitat d'Stanford, per a obtenir un ascens ràpid.
+
+El 20% de les persones d'un grup fan el 80% de la totalitat del treball.
+
+Per ser un bon jugador d'un equip:
+
+- **Acodisca** a totes les reunions preparat.
+- Assente's davant de la persona que dirigeix la reunió, amb **contacte visual directe**.
+- Parle amb i**promptitud** i faça **preguntes**.
+- Oferisca's **voluntari** per les missions que sorgeisquen.
+- Quan s'oferisca a **fer** alguna cosa, faça-ho **bé** i **ràpidament**, per tal que quede clar **qui és la persona a qui acodir** en l'empresa.
+
+L'habilitat més important és la **fiabilitat**.
+
+Si es poden fiar del treball que faça, com a resultat, li oferiran les tasques més importants junt amb l'autoritat i remuneració que les acompanyen. La idea és crar un camp d'energia positiu i atractiu en torn a la fama de **ser la personade la qual tots es poden fiar**.
+
+Prenga's temps per parlar amb els seu subordinats. Conéga'ls i veja si els pot ajudar. Siga amable i cortés amb ells. Elogie'ls i agraisca els seus esforços. Es sorprendrà del resultat.
+
+**Invertisca en teixir relacions**.
+
+**Construisca una xarxa professional**. Oferisca's per a portar a terme missions. Encara que siga un treball no remunerat, aquestes activitats li oferiran l'oportunita de treballar amb persones claus i actuar davant d'elles.
+
+> Quan més done de sí mateix sense esperar res a canvi, més tornarà a vosté les fonts més inesperades.
+
+Un estudi de Harvard portat a terme per David McClelland va descobrir que les persones amb qui ens associem habitualment era determinant per assolir l'èxit o el fracàs, més que qualsevol altre factor.
+
+> Si vol volar amb les àguiles, no pot seguir escarbant el terra amb els galls d'indi.
+
+**Relacione's amb les persones adients**.
+
+L'elecció del grup de referència orientat a una meta pot fer més que qualsevol cosa per avançar en la seua carrera.
+
+Les persones en les quals s'associe tindrà major efecte que qualsevol altre factor.
+
+No hi ha res de mal en equivocar-se, però és **imperdonable romandre en l'error**.
+
+> Ningún èxit en la vida pública pot compensar el fracàs en casa. Benjamin Disraeli.
+
+Els problemes domèstics afectaran al seu treball, distrauran l'atenció i esgotaran la seua energia.
+
+Mantinga en equilibri la seua vida familiar explicant la possible situació extrema per al qual passa. Propose compensar-los més endavant.
+
+**Faça's expert en relacions**.
+
+Tracte sempre a tot el món amb amabilitat, cortesia i comprensió.
+
+L'estrategia més senzilla és: **tractar als demés com si foren el client del milió de dólars**. Tracte'ls com si foren capaços de comprar-li productes o serveis per valor d'un milió de dólars.
+
+*Si ha de ser descortés, síga-ho amb els extranys, però guarde els modals professionals per a la seua familia*. Emmet Fox.
+
+> Tots els dies, de totes les maneres possibles, cerque formes d'**alleugerar la càrrega de les altres perones** i **ajude-les a fer el seu treball millor**, a **viure amb menys problemes**. Així acumularà una enorme reserva de sentiments positius cap a vosté, que li retornaran beneficis any rere any.
+
+
+
 
 
 
