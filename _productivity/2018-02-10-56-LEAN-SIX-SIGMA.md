@@ -87,4 +87,4 @@ Fruit d'aquesta tendència naix el model Six Sigma enfocat en fer més amb menys
 
     LEAN SIX SIGMA s'enfoca en generar valor per al client, amb un ús sumament eficient dels recursos, proporcionant les ferramentes per a reduïr ràpidament i de manera dràstica els temps i el desperdici en qualsevol procés, sense perdre de vista la satisfacció del client.
 
-
+Font: [https://www.youtube.com/watch?v=FT3SoyL-4y0](https://www.youtube.com/watch?v=FT3SoyL-4y0)
