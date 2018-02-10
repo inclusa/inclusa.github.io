@@ -6,6 +6,30 @@ date:  2017-02-26 00:00:00
 
 Llibre: Bryan Tracy. Metas. Empresa Activa.
 
+### 0. Índex
+
+1. **Defineix la meta de forma concreta**. La nostra energia i passió moldeja el nostre entorn. Els triomfadors es dediquen a pensar en què volen i com ho van a aconseguir.
+2. **Pren el control** de la teua vida. Fes-te responsable de les teues accions.
+3. **Crea el teu propi futur**. Tots els líders tenen tenen una visió. Saben on van i què han de fer per arribar-hi. Això s'anomena orientació al futur. Crea una idealització, pensa com va ser la teua vida d'ací a 5 anys. Idealitza. «Fake it until you make it», «Fake it 'til you make it» (falseja-ho fins que ho aconsegueixes).
+4. **Aclara els teus valors**. Els valors determinen les conviccions, les teues conviccions determinen la teua personalitat, la teua personalitat determina la teua actitud, la teua actitud determina els teus actes. Circle concènctrid de dins a fora: valors → conviccions → personalitat → actitud → actes.
+5. **Defineix les teues verdaderes metes**. Les teues mestes són personals, cal que penses en tu primer. Si no defineixes metes personals no va a funcionar, cal que siguen teues. Per fer-ho cal definir primer els somnis per traduir-los a accions realitzables. Després de definir els somnis dal definir les metes.
+6. **Defineix el teu propòsit clar**, la meta que té més importància, la meta que et va a ajudar més que les altres a alcançar totes les teues metes. Cal que siga clar, especific, quantificable i realitzable, has tenir una probabilitat d'èxit. Quan el tingues clar comença a parlar d'ell perquè necessites construir les condicions necessàries per alcançar-ho.
+7. **Analitza les teues conviccions**. Les conviccions es converteixen en realitat. Tenim les nostres pròpies lleis. Quan ens sentim malament cal mirar-se a l'espill i forçar el cos.
+8. **Comença pel principi**. Analitza el punt de partida.
+9. **Medeix els teus progressos**. Defineix les estacions per on vas a passar. No canvies la meta, canvia el plaç per alcançar-la.
+10. **Elimina els obstacles**. Els triomfadors pensen orientats a les solucions la major part del temps, no als obstacles. Cal centrar-se en les solucions i després analitzar com ha succeit. També, a l'hora de resoldre problemes cal determinar d'on venen, regla 80-20. El 80% de les restriccions estan dins de nosaltres mateixos. Solem nosaltres els que ens posem obstacles per arribar a l'èxit. Tu éts l'embut per on passa tot, tu ets el major obstacle. Cal eliminar els obstacles automatitzant processos i fen-te responsable de les teues accions. Cal elinimar els bloquejos mentals.
+11. **Converteix-te en expert en el teu camp**. La caracerística principal dels triomfadors és que, en algun moment s'han compromés en ser els millors. A partir d'ahí es varen apartar dels demés i rendint molt més que els demés. Tot es pot aprendre. Si no estàs arribant on arriben els altres és perquè no tens els coneixements que tenen els altres, però pots arribar a tenir-los. Sent expert et vas a diferenciar. Una vegada ho sigues cal mostrar als altres que ho eres.
+12. **Associa't amb les persones adequades**. Cultivar les relaciona acertades amb les persones adequades. Aquest va a estar un factor determinant. Quant més encertada siga aquesta elecció més ràpid es progressa cap a les metes. Tenir persones que et puguen orientar.
+13. **Elabora un pla d'acció**. Cada minut que dediques a la planificació son 10 minuts que t'estalviaràs en l'acció. L'èxit depén de la teua capacitat per ser flexible, per acceptar els canvis. Presta atenció a això en el que vares encertar i això el que no vares encertar. Lean Start Up.
+14. **Administra bé el teu temps**. La sensació de control depén de com gestiones el teu temps. Gestionar les tasques és bàsic per controlar el teu temps. El més bàsic és fer una llista organitzada per ordre de prioritats. Defineix 3 metes, revisa i avalua-les. Administra el teu temps mitjançant disciplina, control. Atén les urgències, però analitza perquè ha succeït, però ràpidament torna a les teues metes.
+15. **Analitza les teues tasques per tal que siguen les millors**. Aprén de les teues accions. Assigna el temps correctamente basat en l'analisi. Escriu cada dia de 10 a 15 tasques, cada dia, les tasques que siguen importants. Cada dia 10 a 15 noves metes. En un temps identificaràs les més importants. Cal escriure-les sense copiar la llista anterior. A mesura que escrius els metes van a ser més concretes i es van a repetir.
+16. **Visualitza les teues metes continuament**. Això farà que penses diàriament en les teues metes. Així obliques la teua ment a pensar constantment en les teues metes, et concentres en les teues metes. Així emprendràs les accions de cada dia orientades a que les teues metes es facen realitat.
+17. **Activa la teua ment superconscient**. La ment superconscient explica la serendipia, la virtud de trobar-se amb coses extraordinàries. El que passa és que filtrem els estímuls, comencem a filtrar i a veure relacions perquè en som conscients d'això. Quan organitzes les metes de forma clara comences a veure senyals. Això té una lògica, quan no et fixes metes no tens filtres per fixar-te. La meta agusa els teus sentits.
+18. **Roman flexible en tot moment**. Incorpora tres frases «estava equivocat», «he comés un error», «he canviat d'opinió». D'aquesta manera asumeixes la flexibilitat. Des del moment que admiteixes l'error totes les energies es van a concentrar en eixir d'ell.
+19. **Allibera la teua creativitat innata**. Si no la utilitzem la perdem. Cal crear noves formes d'optimitzar.
+20. **Fes alguna cosa tots els dies**. Cal trocejar les metes en xicotetes accions.
+21. **Persevera fins a triomfar**. Segueix lluitant sense cansar-te, cal no rendir-se, cal no desesperar-se. Venç la por. Coratge. Quan l'has vences la por una vegada saps que pot tornar a vencer-la.
+
 ### 1. Allibera el teu potencial.
 
 > L'èxit es fonamenta en les metes; la resta són paraules.
@@ -551,7 +575,7 @@ El segon obstacle a superar és la trampa de la **zona cómoda**. Aquest és un 
 
 **Fixe's metes ambicioses i estimulants**. Aquesta és la manera d'eixir de la zona còmoda. Després desglo-se-les en **tasques específiques**, establisca **plaços** i **treballe cada dia** per assolir-les.
 
-** Organitze els obstacles per prioritats**.
+**Organitze els obstacles per prioritats**.
 
 > Qualsevol que siga el problema, definixca'l de maneres diferents abans d'intentar resoldre'l. Guarde's de qualsevol problema per al qual hi haja una única solució. Ian Mitroff.
 
@@ -790,8 +814,76 @@ L'estrategia més senzilla és: **tractar als demés com si foren el client del 
 
 > Tots els dies, de totes les maneres possibles, cerque formes d'**alleugerar la càrrega de les altres perones** i **ajude-les a fer el seu treball millor**, a **viure amb menys problemes**. Així acumularà una enorme reserva de sentiments positius cap a vosté, que li retornaran beneficis any rere any.
 
+### 13. Elabora un pla d'acció
 
+> La dedicació caractaritza a tots els triomfadors. <br />
+> El geni és l'art de prendre's infinites molèsties... <br />
+> Tots els grans assoliments s'han caracteritzat <br />
+> per la cura més extrema, una minuciositat infinita, <br />
+> portada a terme fins al més mínim detall. <br />
+>
+> <small>Elbert Hubbardd</small>
 
+La seua capacitat per a **fixar-se metes** i **fer plans** per assolir-les és la tècnica mestra de l'èxit. Cap habilitat li ajudarà millor a fer realitat el seu potencial per assolir tot el que és capaç d'assolir.
+
+Tots els grans assoliments són **treballs multitasca**. Consisteixen en una sèrie de passos que han de donar-se en un ordre concret a fi d'aconseguir un resultat d'alguna envergadura.
+
+El **propòsit de la planificació** és *permetre-li convertir el seu principal pròsit en un projecte multitasca planificat*, amb **passos específics**, un *principi*, una *part mitjana* i un *final*, amb *terminis* i *subterminis* clars. Quan més practique millor arribarà a ser.
+
+Característiques del pla:
+
+1. Visió basada en els seus valors. Saps el que vols, saps per què ho vols.
+2. Priorització de les metes. Selecció d'un propòsit clar.
+3. Creació de medicions. Terminis i subterminis.
+4. Identificació d'obstacles, dificultats i restriccions.
+5. Identificació dels coneixements i habilitats essencials que necessitarà per a assolir la seua meta.
+6. Organització d'aquestes competències per ordre de prioritat.
+7. Identificació de les persones, grups i organitzacions l'ajuda de les quals necessitarà. Formulació dels passos específics per tal de que el puguen ajudar.
+
+> Context: Normandia.
+> Els plans no varen servir de res, però la planificació va estar indispensable. Dwight D. Eisenhower
+
+La **identificació dels punts claus** és la base de l'èxit, encara que no es torne a llegir aquesta planificació.
+
+> En una empresa incipient, cal tirar per la borda tots els supostos cada tres setmanes. Scott McNealy (Sun Microsystems).
+
+**Tots els grans triomfadors treballen a partir d'escrits**. Cada minut en la planificació estalvia deu minuts en l'execució.
+
+**Fracasar en planificar és planificar per a fracasar**.
+
+> **P**roper **P**rior **P**lanning **P**revents **P**oor **P**erformance.
+> **P**lanificació **P**revia **P**ertinent, **P**revé **P**obre **P**roductivitat.
+
+Avantatges de la planificació:
+
+1. Ens obliga a organitzlar les nostres idees i qüestions claus.
+2. Ens permet planificar els nostres moviments amb molta cura.
+3. Ens permet identificar errades.
+4. Ens permet detectar punts febles.
+5. Ens permet identificar punts forts i possibles oportunitats.
+6. Ens permet concentrar els nostres recursos.
+7. Ens estalvia setmanes i mesos de confusió, errades i pèrdues d'energia.
+
+La planificació és una tècnica i una disciplina:
+
+- Faça una llista.
+- Determine la prioritat.
+- Organitze la seqüència.
+- Identifique el factor limitant.
+- Dóne per sentat que, al principi, fracasarà
+- Pregunte's al principi què és el que funciona.
+- Sempre que el pla no funcione torne a començar.
+- Centre's en la solució.
+- Reflexe el que pensa en un paper.
+- El model de planificació és un projecte: anote dies, setmanes, mesos que necessitarà.
+- Quan més clara tinga la llista més fàcil serà arribar.
+- Amb un full de planificació es pot veure amb claredat els passos que condueixen a la meta.
+- Reunisca al seu equip.
+- Hi ha un temps per a l'optimisme i un temps per al realisme. Siga sincer amb sí mateix.
+- Identifique els colls d'ampolla.
+- Tinga sermpre un pla alternatiu.
+
+**Planificar és la clau de l'èxit**.
 
 
 
@@ -811,32 +903,7 @@ Característiques SMART:
 - T - Time: Amb un temps definit, ha de ser quantificable.
 
 
-Estrategies
-
-1. **Defineix la meta de forma concreta**. La nostra energia i passió moldeja el nostre entorn. Els triomfadors es dediquen a pensar en què volen i com ho van a aconseguir.
-2. *Pren el control* de la teua vida. Fes-te responsable de les teues accions.
-3. *Crea el teu propi futur*. Tots els líders tenen tenen una visió. Saben on van i què han de fer per arribar-hi. Això s'anomena orientació al futur. Crea una idealització, pensa com va ser la teua vida d'ací a 5 anys. Idealitza. «Fake it until you make it», «Fake it 'til you make it» (falseja-ho fins que ho aconsegueixes).
-4. *Aclara els teus valors*. Els valors determinen les conviccions, les teues conviccions determinen la teua personalitat, la teua personalitat determina la teua actitud, la teua actitud determina els teus actes. Circle concènctrid de dins a fora: valors → conviccions → personalitat → actitud → actes.
-5. *Defineix les teues verdaderes metes*. Les teues mestes són personals, cal que penses en tu primer. Si no defineixes metes personals no va a funcionar, cal que siguen teues. Per fer-ho cal definir primer els somnis per traduir-los a accions realitzables. Després de definir els somnis dal definir les metes.
-6. *Defineix el teu propòsit clar*, la meta que té més importància, la meta que et va a ajudar més que les altres a alcançar totes les teues metes. Cal que siga clar, especific, quantificable i realitzable, has tenir una probabilitat d'èxit. Quan el tingues clar comença a parlar d'ell perquè necessites construir les condicions necessàries per alcançar-ho.
-7. *Analitza les teues conviccions*. Les conviccions es converteixen en realitat. Tenim les nostres pròpies lleis. Quan ens sentim malament cal mirar-se a l'espill i forçar el cos.
-8. *Comença pel principi*. Analitza el punt de partida.
-9. *Medeix els teus progressos*. Defineix les estacions per on vas a passar. No canvies la meta, canvia el plaç per alcançar-la.
-10. *Elimina els obstacles*. Els triomfadors pensen orientats a les solucions la major part del temps, no als obstacles. Cal centrar-se en les solucions i després analitzar com ha succeit. També, a l'hora de resoldre problemes cal determinar d'on venen, regla 80-20. El 80% de les restriccions estan dins de nosaltres mateixos. Solem nosaltres els que ens posem obstacles per arribar a l'èxit. Tu éts l'embut per on passa tot, tu ets el major obstacle. Cal eliminar els obstacles automatitzant processos i fen-te responsable de les teues accions. Cal elinimar els bloquejos mentals.
-11. *Converteix-te en expert en el teu camp*. La caracerística principal dels triomfadors és que, en algun moment s'han compromés en ser els millors. A partir d'ahí es varen apartar dels demés i rendint molt més que els demés. Tot es pot aprendre. Si no estàs arribant on arriben els altres és perquè no tens els coneixements que tenen els altres, però pots arribar a tenir-los. Sent expert et vas a diferenciar. Una vegada ho sigues cal mostrar als altres que ho eres.
-12. *Associa't amb les persones adequades*. Cultivar les relaciona acertades amb les persones adequades. Aquest va a estar un factor determinant. Quant més encertada siga aquesta elecció més ràpid es progressa cap a les metes. Tenir persones que et puguen orientar.
-13. *Elabora un pla d'acció*. Cada minut que dediques a la planificació son 10 minuts que t'estalviaràs en l'acció. L'èxit depén de la teua capacitat per ser flexible, per acceptar els canvis. Presta atenció a això en el que vares encertar i això el que no vares encertar. Lean Start Up.
-14. *Administra bé el teu temps*. La sensació de control depén de com gestiones el teu temps. Gestionar les tasques és bàsic per controlar el teu temps. El més bàsic és fer una llista organitzada per ordre de prioritats. Defineix 3 metes, revisa i avalua-les. Administra el teu temps mitjançant disciplina, control. Atén les urgències, però analitza perquè ha succeït, però ràpidament torna a les teues metes.
-15. *Analitza les teues tasques* per tal que siguen les millors. Aprén de les teues accions. Assigna el temps correctamente basat en l'analisi. Escriu cada dia de 10 a 15 tasques, cada dia, les tasques que siguen importants. Cada dia 10 a 15 noves metes. En un temps identificaràs les més importants. Cal escriure-les sense copiar la llista anterior. A mesura que escrius els metes van a ser més concretes i es van a repetir.
-16. *Visualitza les teues metes continuament*. Això farà que penses diàriament en les teues metes. Així obliques la teua ment a pensar constantment en les teues metes, et concentres en les teues metes. Així emprendràs les accions de cada dia orientades a que les teues metes es facen realitat.
-17. *Activa la teua ment superconscient*. La ment superconscient explica la serendipia, la virtud de trobar-se amb coses extraordinàries. El que passa és que filtrem els estímuls, comencem a filtrar i a veure relacions perquè en som conscients d'això. Quan organitzes les metes de forma clara comences a veure senyals. Això té una lògica, quan no et fixes metes no tens filtres per fixar-te. La meta agusa els teus sentits.
-18. *Roman flexible en tot moment*. Incorpora tres frases «estava equivocat», «he comés un error», «he canviat d'opinió». D'aquesta manera asumeixes la flexibilitat. Des del moment que admiteixes l'error totes les energies es van a concentrar en eixir d'ell.
-19. *Allibera la teua creativitat innata*. Si no la utilitzem la perdem. Cal crear noves formes d'optimitzar.
-20. *Fes alguna cosa tots els dies*. Cal trocejar les metes en xicotetes accions.
-21. *Persevera fins a triomfar*. Segueix lluitant sense cansar-te, cal no rendir-se, cal no desesperar-se. Venç la por. Coratge. Quan l'has vences la por una vegada saps que pot tornar a vencer-la.
-
-
--- Brian Tracy. 2003. Metes. Empresa activa.
+<small>-- Brian Tracy. 2003. Metes. Empresa activa.</small>
 
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4848366/height/90/width/800/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/ffbb00/" height="90" width="800" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
