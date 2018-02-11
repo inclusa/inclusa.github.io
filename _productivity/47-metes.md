@@ -885,6 +885,151 @@ La planificació és una tècnica i una disciplina:
 
 **Planificar és la clau de l'èxit**.
 
+### 14. Administre bé el seu temps
+
+Per a poder assolir les seues metes i arribar a ser tot el que és capça de ser, ha de controlar el temps.
+
+Els psicòlegs solen estar d'acord en que la **sensació de control** és la clau dels sentiments de **felicitat**, **confiança**, **poder** i **benestar personal**.
+
+> La sensació de control sols és possible quan practiquem unes tècniques de gestió del temps excel·lents.
+
+El punt de partida de l'administració del temps és **determinar les nostres mestes** i després **organitzar-les per ordre de prioritat** i **valor**.
+
+És important que conega en qualsevol moment què és el més important per a vosté.
+
+Podem fer una classificació d'activitats:
+
+- Activitats A: Activitats que el fan avançar cap la seua meta.
+- Activitats B: Activitats que no el fan avançar cap a cap meta important per a vosté.
+
+> Si actuem amb intel·ligència som intel·ligents, independentment dels títols guanyats.
+
+Definim **actuar amb intel·ligència** com **qualsevol cosa coherent amb les metes que ens fixem**.
+
+- Determine les seues metes a llarg termini.
+- Comence amb una llista.
+
+> No es pot administrar el temps, sols ens podem administrar a nosaltres mateixos.
+
+L'administració del temps exigeix **autodisciplina**, **autocontrol** i **autodomini**.
+
+Ha de planificar la seua vida amb llistes de **metes** i **projectes**:
+
+- A llarg termini.
+- A mig termini.
+- A curt termini.
+
+Ha de **planificar cada mes** per avançat amb una llista de coses que vol portar a terme al llarg d'aquest mes.
+
+Ha de fer una llista de cada treball multitasca que vullga realitzar i, després, organitzar aquesta llista per **ordre de prioritats** i per **seqüències**.
+
+Comence a planificar **cada setmana** per avançat. Faça-ho preferentment el **diumenge**.
+
+Planifique cada nit el **dia següent**, així, la ment subconscient treballa en la llista tota la nit. Al despertar tindrem, amb freqüència idees i ocurrències que ens ajudaran a posar en pràctica els punts de la nostra llista.
+
+> Al posar els seus plans per escrit, activa la **Llei de l'Atracció** i comença a traure a la seua vida a les persones, les oportunitats i els recursos que necessita per a completar les seues tasques de la millora manera possible.
+
+Separe el que és **urgent** del que és **important**.
+
+Les **tasques importants** són les que poden aportar **el màxim al seu futur a llarg termini**.
+
+Exemples de tasques importants:
+
+- Planificar
+- Organitzar
+- Estudiar
+- Investigar
+- Fixar-se prioritats
+
+Les **tasques urgents** venen determinades per presions i exigències externes. 
+
+Estemples de tasques urgents:
+
+- Un telèfon que sona.
+- Un company que vol xarrar.
+
+La gran diferència entre les **tasques urgents** i les **tasques importants** és que les **tasques urgents** NO PRODUEIXEN RESULTATS, tot i que es donen en el entorn de treball.
+
+Les **tasques importants** són les que poden aportar el màxim benefici al seu futur a llarg plaç.
+
+La paraula més important per a determinar el valor d'una tasca o activitat donaes és **conseqüències**.
+
+> Una tasca és valuosa quan el fet de fer-la o no fer-la té conseqüències importants.
+
+Quan majors siguen les conseqüències més important serà.
+
+El seu **objectiu** en l'**administració personal** és **dedicar més temps a fer les tasques més importants**, que puguen tenir les majors **conseqüències** possibles en la seua vida i en el seu treball.
+
+Regla 80/20.
+
+Quan haja preparat la lista de tasques per al dia següent, **revise-la** i aplique la **regla 80/20 abans de començar**.
+
+Si té una llista de 10 tasques 2 seran més valuoses que les altres 8 juntes.
+
+Dues tasques de cada 10 tindran el 80% de les conseqüències.
+
+Practique la **posposició creativa**, caldrà posposar el 80% de les tasques que aporten poc a les seues metes i resultats desitjats.
+
+> Concentre el seu temps i atenció en complentar eixe tasca, la qual pot representar el canvi més important.
+
+Practique el mètode `ABCDE`.
+
+**Categories**:
+
+- **A**: Molt important.
+- **B**: Caldria fer.
+- **C**: Estaria bé fer, però no tindrà conseqüències.
+- **D**: Podem delegar-ho.
+- **E**: Es pot eliminar directament.
+
+La **regla** és aquesta: **No faça mai la tasca B quan li queda per fer la tasca A**. No faça mai la tasca C quan li queda per fer la B.
+
+**Prioritats**:
+
+- **A1**: Màxima prioritat.
+- **A2**: Prioritat següent nivell de prioritat.
+- **A3**: Següent nivell de prioritat.
+
+**Llei de l'Alternativa Excluida**: Fer una cosa significa deixar de fer altra.
+
+> Elegisca la tasca més valuosa.
+
+La principal diferència entre els triomfadors i els que no tenen èxit és que **els triomfadors sempre treballen en tasques amb un alt valor**.
+
+> Sempre es pot elegir el que anem a fer, a la llarga, allò que elegisques determinarà tot el que et succeïsca.
+
+**Faça cada tasca de forma exclussiva**: concentració exclussiva, sense desviacions ni distraccions.
+
+> El meu èxit es deu més a la meua capacitat per a treballar continuament que qualsevol altra qualitat. Thomas Edison.
+
+**Cree trams de temps**: 30, 60 ó 90 minuts de treball sense interrupcions.
+
+Els treballs importants, els que tenen conseqüències importants, exigeixen tams de temps i energia concentrats exclussivament en ells.
+
+> Tots els grans assoliments de la humanitat han estat precedits d'un període ampli, amb freqüència de molts anys, d'esforços concentrats. Earl Nightingale.
+
+**No es desvie del camí**. Cada dia, abans de començar i segons transcòrrega la jornada hi ha cinc preguntes que ha de fer-se i respondre, una darrere de l'altra:
+
+1. **No et desvies del camí**: Per què estic en nòminai? Per què me paguen?
+2. **Concentra't en les activitats d'alt valor**: Quines són els activitats de més alt valor?
+3. **Treballe en les seues àrees claus de resultats**: Quines són les meues àrrees clau? Eixes tasques determinen, en gran mesura, el seu èxit o fracàs en el treball. La seua destresa més feble és la que estableix l'alçada a la qual usar les seues altres habilitats.
+4. **Marque la diferència**: Què puc fer jo, i sols jo que, si ho faig bé, respresentarà una diferència real per a la meua empresa?
+5. **La pregunta més important**: Quin és l'**ús del temps** més valuós, just en aquest moment. Discipline's en aquest aspecte i assolirà l'èxit.
+
+> La clau de la productivitat i d'un rendiment alt és aquesta: **dedíque's a millorar** i **millorar** en aquelles poques tasques que fa i que donen compte de la major part dels seus **resultats**.
+
+*El més important no ha d'estar mai a mercé del que menys importa*. Goethe.
+
+La millor paraula en la gestió del temps és **NO**.
+
+> Cultive bons hàbits i faça que el dominen.
+
+Cada vegada que complente una tasca important, experimentarà un **estallit d'euforia**, entusiasme i una accentuada autoestima. Es sentiràple d'energia i de força. Se sentirà feliç, prenent el control de la seua vida.
+
+
+
+
+
 
 
 
