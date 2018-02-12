@@ -1026,7 +1026,71 @@ La millor paraula en la gestió del temps és **NO**.
 
 Cada vegada que complente una tasca important, experimentarà un **estallit d'euforia**, entusiasme i una accentuada autoestima. Es sentiràple d'energia i de força. Se sentirà feliç, prenent el control de la seua vida.
 
+### 15. Revise les seues metes a diari
 
+> Ens convertirm en allò que pensem la major part del temps.
+
+Pot convertir-se en qualsevol cosa que puga mantenir en la seua ment de forma continuada. Joan Boyle.
+
+Aquesta és la clau.
+
+Per a que el **pensament positiu** no degenere en **desitjos** i **esperances** positives cal convertir-lo en **coneixement positiu**.
+
+> En el més profund del seu ser, ha de saber i creure, de forma absoluta, que va a tnir èxit i assolir una meta donada. Ha d'actuar, absolutament, sense cap dubte. Ha d'estar resolt i decidit, tan convençut del seu èxit final, que res pot detenir-lo.
+
+**Programe la seua ment subconscient**.
+
+Una de les lleis mentals més importants és: **Qualsevol cosa que grabe profundament en el seu subconscient, acabarà, amb el temps, per expressar-se en el seu món extern**.
+
+**Fixació** de metes sistemàtica, en lloc d'**aleatòria**.
+
+**Cal escriure les metes cada dia, tots els dies**.
+
+Cal anotar 10 ó 15 metes diàriament, sense consultar la llista del dia anterior. Faça-ho cada dia. Amb el temps descobrirà que escriu les mateixes paraules cada dia, però les seues definicions seran més clares i concretes. Després de 30 dies canviaran paraules i l'ordre però seran les mateixes metes.
+
+La seua vida canviarà. Començarà a atraure recursos  persones que li ajudaran al assolir les seues metes. Tot començarà a canviar ràpidament, de forma positiva.
+
+La redacció de metes ha de tenir 3 característiques:
+
+1. Ha de fer-ho de forma **personalitzada**. `Jo`.
+2. De forma **positiva**. `Deixaré de fumar`.
+3. En **present**. `Guanye 50.000 $`.
+
+**Active la seua ment subconscient** mitjançant declaracions positives en temps present.
+
+Per a augmentar el poder de les seues metes diàriament, pose una **data límit**.
+
+**Confie en el procediment**.
+
+No importa saber com va a arribar a les metes, el que importa és escriure-les cada dia, amb **absoluta fe**, sabent que cada vegada que les anota, les braba més profundament en la seua ment subsconscient. En un moment donat començarà a creure, amb la convicció més absoluta, que la seua meta és assolible.
+
+Després d'escriure les metes en el seu subconscient començarà a fer que les seues paraules i actes encaixen en una pauta coherent amb les seues metes.
+
+La seua ment subconscient començarà a atraure a la seua vida a aquelles perosnes i circumstàncies que puguen ajudar-li a assolir-les.
+
+Mètode:
+
+1. Planejar el dia per avançat.
+2. Posar-se a treballar.
+3. Concentrar-se, de forma exclussiva, en la meura tasca més important del dia fins que estiga acabada per complet.
+
+Porte les metes, sempre damunt, en un quadern.
+
+Quan llisca les metes imagine que ja s'haja realitzat.
+
+Ha d'imaginar-se realment donant eixos passos.
+
+És ideal revisar les seues metes escrites, al menys, dues vegades al dia.
+
+El moment ideal és al principi del matí i a última hora del dia.
+
+Quan tornem a escriure i revisar les metes per la nit, programem en la nostra ment subconscient eixes metes, així, el cervell pot treballar durant tota la nit amb elles.
+
+En llegir aquestes metes al dia següent, preparem el cervell a un nivell òptim per tal que les tinga en compte.
+
+Passarem de **pensar** de forma positiva a **saber** de forma positiva. A desenvolupar de forma positiva i assolible que puguem assolir les metes i que sols és qüestió de temps que les conseguim.
+
+A més de pensar en cada meta cal pensar **3 coses que podriem fer** per tal d'assolir aquesta meta.
 
 
 
