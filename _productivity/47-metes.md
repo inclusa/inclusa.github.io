@@ -1092,6 +1092,90 @@ Passarem de **pensar** de forma positiva a **saber** de forma positiva. A desenv
 
 A més de pensar en cada meta cal pensar **3 coses que podriem fer** per tal d'assolir aquesta meta.
 
+### 16. Visualitze les seues metes continuament
+
+Acaricie les seues visions i somnis, perquè són fills de la seua ànima, l'esbós dels seus assoliments finals. Napoleon Hill
+
+Posseïm i disposem de poders mentals pràcticament il·limitats. Moltes persones no són conscients d'aquest poders, i no els apliquen a la consecució de les seues metes. Eixa és la raó de que sols assolisquen resultats mediòcres.
+
+En el moment que comence a aprofitar i donar rienda solta al poder de la seua **ment subconscient** i **supraconscient**, conseguirà, amb freqüència, més en un any o dos el que la majoria de gent consegueix en tota la seua vida.
+
+La seua **capacitat per a visualitzar** és la facultat més poderosa que poseeix. Totes les millores de la seua vida comencen amb una millora de les seues imagens mentals.
+
+**Canvie les imates mentals** en el seu **interior** i el seu **exterior** canviarà per adequar-se a eixes imatges.
+
+La **visualització activa** de la **Llei de l'Canvie les imates mentals** en el seu **interior** i el seu **exterior** canviarà per adequar-se a eixes imatges.
+
+La **visualització activa** de la **Llei de l'Atracció**, porta a la seua vida **persones**, **circumstàncies** i **recursos** necessaris per a assolir les seues mentes.Atracció**, què porta a la seua vida **persones**, **circumstàncies** i **recursos** necessaris per a assolir les seues mentes.
+
+La **visualització** de la **Llei de la Correspondència** diu: **Segons l'interior, així l'exterior**.
+
+
+Ho voràs quan ho cregues. Wayne Dyer.
+
+La imaginació és més important que els fets. Albert Einstein.
+
+El que la ment de l'home pot concebir i creure, també ho pot aconseguir. Napoleon Hill.
+
+La característica més comú de tots els líders a tots els nivells, a través del temps, és la **visió**.
+
+Les persones sense èxit també visualitzen, però en detriment propi. Visualitzen les seues experiències de fracàs.
+
+Alimente la seua ment amb imatges estimulants.
+
+Faças amb el control de les seues imatges mentals.
+
+La seua **meta** ha de fer-ser amb el **control total** del **procés de visualització** i assegurar-se de que la seua ment i les seues imatges mentals es concentre continuament en el **que vol** i en **qui vol ser**.
+
+Eres el que pots ser.
+
+Piero Ferucci explica com podem cultivar qualsevol qualitat que desitgem pensant en ella constantment i imaginant que ja la tenim.
+
+Llisca sobre la qualitat desitjada, aprenga sobre ella, i, especialment, imagine practicant-la sermpre que siga necessari.
+
+Aristòtil va escriure que **la millor manera de cultivar una virtut** que ens manca és **imaginar que la tenim** i **actuar**, en tots els sentits com si la **tinguerem**, sempre que siga necessari.
+
+Canvie les seues imatges mentals.
+
+Al **canviar** les nostres **imatges mentals**, canvien el nostre mode de **pensar**, **sentir** i **actuar**. Canviem el nostre **rendiment** i els nostres **resultats**.
+
+Actue a nivell òptim.
+
+Relaxese profundament i veja el resultat desitjat.
+
+Les 4 parts de la visualització:
+
+1. **Freqüència**: Nombre de vegades que visualitza una meta donada com ja aconseguida. A major freqüència més ràpidament aconseguirem la meta.
+2. **Duració**: Quantitat de temps que podem mantenir que eixa imatge es mostre en la nostra ment cada vegada que la evoquem.
+3. **Claredat**:  A major nitidesa més ràpidament es farà realitat.
+4. **Intensitat**: A major quantitat d'emoció que concentrem en la nostra emoció. És la part més important.
+
+La natura és neutral, aquest elements ens poden ajudar o perjudicar.
+
+El procés d'imaginar i visualitzar les metes de forma negativa, amb por i agoixa fa que es faça realitat també.
+
+*Perquè si de alguna cosa tinc por, em pasa i em succeix el que tinc por*. Job 3.25.
+
+Això ens adverteix de les desgracies d'una visualització negativa.
+
+**La paciència és essencial**.
+
+**Si ho té absolutament clar, a la llarga ho aconseguirà**.
+
+Un dels **millors moments per a visualitzar** és a **última hora de la nit** i al **principi del matí**.
+
+Quan visualitza les seues metes com si les haguera aconseguit abans d'anar-se a dormir, la seua ment subconscient les accepta a un nivell més profund. A continuació adapta les seues paraules i actes durant el dia per a que faça i diga cada vegada més eixes coses que faran realitat les seues metes.
+
+Visualitzar metes clares al principi del matí farà que s'acomplisquen amb major provabilitat.
+
+> Convertisca la seua vida en un procés continu de visualització positiva, imaginant i visionant constantment les seues metes ideals i el seu futur perfecte.
+
+Dedique temps de forma regular per a crear imatges mentals de tu mateix. Després desenvolupe una absoluta fe en aquestes imates que es materialitzaran precisament quan estiga preparat.
+
+
+
+
+
 
 
 
