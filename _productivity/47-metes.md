@@ -1172,6 +1172,98 @@ Visualitzar metes clares al principi del matí farà que s'acomplisquen amb majo
 
 Dedique temps de forma regular per a crear imatges mentals de tu mateix. Després desenvolupe una absoluta fe en aquestes imates que es materialitzaran precisament quan estiga preparat.
 
+### 17. Active la seua emnt superconscient
+
+> La ment subjectiva està, totalment sota el control de la ment objectiva. Amb una fidelitat extrema, porta a les últimes conseqüències qualsevol cosa que la ment subjectiva imprismisca en ella. Thomas Troward.
+
+
+Amb la ment **superconscient ens convertim en el que pensem la major part del temps**.
+
+- Qualsevol cosa que pugam mantenir de forma continuada podem obtenir-la.
+- Llei de l'Atracció.
+- Llei de la Correspondència.
+- Importància de tenir absoluta claredat en determinar exactament què volem ser, tenir i fer.
+
+Antigament el secret de la ment supraconscient estava custodiat per místics i sabis. Ha estat en els últims 100 anys que el secret de la ment supraconscient ha estat més accessible.
+
+Tres ments en una. Sigmund Freud va basar el seu treball en tres elements de percepció diferents[^1]:
+
+- **Ego**: Instància psíquica actuante, mediadora entre el Ello i el Superego. Intenta condicilar les exigències normatives i punitives del Superyo, així com les demandes insconscient del Superego..
+- **Ello**: insconcient, pulsions i desitjos.
+- **Superego**: Instància moral enjuiciadora de l'activitat de de l'Ego. Internalització de les regles, normes i prohibicions parentals.
+
+![Wikipedia](https://es.wikipedia.org/wiki/Ello,_yo_y_supery%C3%B3#/media/File:Structural-Iceberg-es.svg)
+
+L'**Ego** es drescrivia com **sóc jo**, la part de la ment que està alerta i desperta, que s'ocupa del món extern, que analitza, descideix i actua. L'anomenem **conscient**.
+
+L'**Ello**, segons Freud, és la part **inconscient**. És el vast magatzem de records i sentiments on estan guardats tots els nostres pensaments, decisions i experiències anteriors i actua de forma automàtica, tant per a fer funcionar el nostre cos físic com per a que els nostres pensaments i sentiments siguen sent coherents amb les nostres experiències passades.
+
+El **Superego** de Freud, Ralph Waldo Emersone el va a omenar **oversould**, *superesperit*. Alfred Adler, alumne de Freud, el va anomenar **inconscient col·lectiu**. Carl Jung, el qual es va apartar de Freud, el va anomenar **Supra Conscient**. Napoleon Hill es referia a ell com **Intel·ligència Infinita**, i deia que, pràctiament, tots els màxims triomfadors l'usaben continuament en el seu treball i li assignava el mèrit dels més importants descobriments i assoliments.
+
+El psicòleg italià Roberto Assagioli i algres parlen de **Ment Superconscient** o de la **Ment de Déu**.
+
+Amb independència de com l'anomenem, **és un gran poder universal al qual podem accedir en qualsevol moment per assolir quasevol menta que vullguem assolir de veritat, sempre que la desitgem intensament i durant un temps i una força suficient**.
+
+Llei de l'Activitat Superconscient: **Qualsevol pensament, pla, meta o idea mantés de forma continuada en la ment conscient deu, inevitablement, ser portat a la realitat per la ment superconscient**.
+
+Qualsevol pensament por ser portat a la pràctica si es desitga amb intensitat i consistència en el temps. Les limitacions les posem nosaltres mateixos, amb la nostra imaginació.
+
+> La ment superconscient funciona de forma òptima quan el nostre estat mental és tranquil i confiat.
+
+Sempre que practiquem la relaxació en soletat, soltant totalment les preocupacons i romanent asseguts en el silènci o en comunió amb la natura, la nostra ment superconscient comença a funcionar.
+
+Sempre que **estem en silenci** i escoltem la nostra veu interior, comencem a sentir el murmull de la nostra ment superconscient. De vegades, la nostra percepció ens parla tant alt en el silenci que la idea o intuició que aporta ens canviarà la vida per complet.
+
+Com activar la ment superconscient.
+
+> La **ment superconscient** s'estimula mitjançant unes metes específiques, clares i escrites, desitjades intensament, visualitzades regularment i cap a les que treballem conscientment.
+
+Sempre que ens relaxem i visualitzem i plentem d'emoció un resultat específic que desitgem amb grna intensitat, estimulem la nostra ment superconscient amb gran intensitat, estimulem la nostra ment superconscient per a que ens proporciones idees i energia per a assolir la nostra menta.
+
+De vegades, una inspiració superconscient l'aportarà tanta força i l'apassionarà en tal mesura que no podrà dormir ni pensar en res més. En eixe cas, deu sentar-se i anotar cada idea i cada detall que se li ocòrrega. Amb freqüència, al fer-ho alliberarà la seua ment i podrà tornar a dormir.
+
+Serendipitat i sincronisme.
+
+La **ment superconscient** explica dos fenòmens que experimentem de form aregular al llarg de la vida:
+
+- **Serendipitat**: Virtut de fer troballes afortunades segons avancem en la vida.sempre que tinga una meta clara, que visualitza de forma continua i per a aconseguir la qual treballa cada dia, en la seua vida sorgiran experiències i aconteciments inesperats, cada un dels quals sembla ajudar-li a alcançar les seues metes amb major rapidesa**. Amb freqüència tindrà un fracàs temporal que resultarà ser exactament el que necessitava que passara en aquell moment.
+- **Sincronisme**: Successos connectats, amb sentit. Es basa en el sentit que donem a les nostres experiències.
+
+Quan més use la **ment superconscient** amb més freqüència gaudirà d'aquestes dos experiències meravelloses.
+
+Busque el que siga bo.
+
+El més interessant és que si cerquem alguna cosa bona en qualsevol situació, sembla ser que sempre ho trobem.
+
+Si creu, tranquila i sosegadament, en la màgia de la **serendipitat**, sin importar el que succeïsca, tindrà repetides experiències **serendípiques** que li ajudaran a assolir les seues **autèntiques metes** en la vida.
+
+Semblaria, que el **sincronisme** seria la Llei de Causa i Efecte, però difereix amb aquesta perquè, aquesta, diu que **tot ocorre per una raó específica i que es pot trobar la causa per a tot efecte**.
+
+Amb el **sincronisme**, la única relació entre dos aconteciments simultanis és el **sentit que li donem, basant-nos en les metes que tingam en diferents camps de la nostra vida**.
+
+Dues maneres d'estimular la seua ment superconscient:
+
+1. **Concentrar-nos i treballar amb gran intensitat** per assolir la nostra meta. Posar tot el cor en això, parlar, escriure, tornar a escriure i revisar-ho dia a dia, sense excepció. Fer tot el que se'ns acuda pot portar-nos a assolir aquesta nostra meta.
+2. **Relaxar-nos completament** i ocupar els nostres pensaments en altra cosa. Quan més **no ho intentem**, més ràpidament treballarà la nostra ment per a nosaltres.
+
+
+Potser els dos processos ha de fer-se de manera seqüencial.
+
+Una idea o solució superconscient té tres qualitats:
+
+1. Satisfarà tots els aspectes del problema o li proporcionarà tot el que necessita per assolir la seua meta.
+2. Una inspiració superconscient apareixerà de forma natural, fàcil i adequada al asituació.
+3. Li donarà un esclat de felicitat i entusiasme, inclús un apassionament.
+
+Sempre que reba una solució superconscient anirà acompanyada de l'energia, l'entusiame i la motivació que necessita per actuar en aquell moment. Serà irresistible el desig de posar solució en aquell moment.
+
+Cal convertir en un hàbit el fet d'**escoltar la nostra veu interior**.
+
+> Quan convertirm en un hàbit escoltar la nostra intuició i confiar en la nostra veu interior, és probable que mai tornem a comentre una errada. En connectar la seua ment superconscient, comença a armonitzar tota la seua vida amb aquest gran poder. Assolirà una meta rere l'altra. Avançarà caca colp més ràpidament en tot el que faça. Sentirà com si estiguera connectat a algun tipus de força còsmica com a font d'energia.
+
+
+
+
 
 
 
@@ -1200,3 +1292,6 @@ Característiques SMART:
 
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4848366/height/90/width/800/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/ffbb00/" height="90" width="800" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
+[^1]: [Wikipedia](https://es.wikipedia.org/wiki/Ello,_yo_y_supery%C3%B3)
