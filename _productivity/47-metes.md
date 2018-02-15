@@ -6,6 +6,18 @@ date:  2017-02-26 00:00:00
 
 Llibre: Bryan Tracy. Metas. Empresa Activa.
 
+> L'habilitat per fixar-se metes és la clau per alcançar l'èxit.
+
+Quan no tenim metes som persones **reactives**. Quan ens fixem metes hi ha moltes probabilitas de que les alcancem.
+
+Característiques SMART:
+
+- S - Específica: Les mestes parteixen dels desitjos però ha de ser clara, concreta i ha d'estar per escrit.
+- M - Mesurable: La meta ha d'esser mesurable.
+- A - Alcançable: S'ha de poder aconseguir.
+- R - Realitzable: Ha de poder ser realitzada.
+- T - Time: Amb un temps definit, ha de ser quantificable.
+
 ### 0. Índex
 
 1. **Defineix la meta de forma concreta**. La nostra energia i passió moldeja el nostre entorn. Els triomfadors es dediquen a pensar en què volen i com ho van a aconseguir.
@@ -1172,7 +1184,7 @@ Visualitzar metes clares al principi del matí farà que s'acomplisquen amb majo
 
 Dedique temps de forma regular per a crear imatges mentals de tu mateix. Després desenvolupe una absoluta fe en aquestes imates que es materialitzaran precisament quan estiga preparat.
 
-### 17. Active la seua emnt superconscient
+### 17. Active la seua ment superconscient
 
 > La ment subjectiva està, totalment sota el control de la ment objectiva. Amb una fidelitat extrema, porta a les últimes conseqüències qualsevol cosa que la ment subjectiva imprismisca en ella. Thomas Troward.
 
@@ -1261,31 +1273,71 @@ Cal convertir en un hàbit el fet d'**escoltar la nostra veu interior**.
 
 > Quan convertirm en un hàbit escoltar la nostra intuició i confiar en la nostra veu interior, és probable que mai tornem a comentre una errada. En connectar la seua ment superconscient, comença a armonitzar tota la seua vida amb aquest gran poder. Assolirà una meta rere l'altra. Avançarà caca colp més ràpidament en tot el que faça. Sentirà com si estiguera connectat a algun tipus de força còsmica com a font d'energia.
 
+### 18. Romanga flexible en tot moment
+
+**Quan, finalment he decidit que mereix la pena aconseguir un resultat donat, seguisc avant i faig una prova rere una altra fins que ho aconseguisc**. Thomas Edison.
 
 
+Està en la natura de les coses que, algunes persones tinguen més èxit i felicitat que altres.
+
+Un estudi va concloure que, la qualitat més important, en un temps de ràpids canvis, en obtenir èxit és la **flexibilitat**.
+
+El tret oposat a la **flexibilitat** és la **rigidesa**, el **pensament mecànic**.
+
+El que és opsat a abordar la vida amb una ment oberta és **reaccionar de form a automàtica i previsible** a una situació donada.
+
+Hui, el canvi, no sols és **ràpid** sino que també és **discontinu**.
+
+El que cal preguntar-se és: **Funciona?**; **Assolisc el resultat esperat?**. Basant-me en la situació actual, **és la millor conducta?**.
+
+Factors que impulsa al canvi:
+
+1. L'explosió de la **informació** i els **coneixements** en tots els camps de la nostra vida.
+2. Ràpid creixement i l'accelerada evolució de les noves tecnologies.
+3. La presió de la competència no té fi, cal ser flexible.
 
 
+És absolutament essencial mantenir-se al dia en el seu camp. Llisca.
 
+De vegades el màxim perill per a l'èxit a llarg termini potser l'**èxit a cur termini**.
 
+**Partisca de zero en tot, de forma regular**.
 
+Pregunte's continuament: **Hi ha alguna cosa que faig hui i que, sabent el que sé, no faria de nou, si tinguera que començar de nou?**.
+
+No deixe que el seu **ego** nubole el bon judici i sentit comú.
+
+Intereses **pel que és encertat** més que **per qui té la raó**.
+
+Deu estar obert a que **la majoria de decisions resulten errònees amb el temps**.
+
+Prepare's per a ser flexible.
+
+3 Afirmacions màgiques:
+
+1. Estava equivocat. Quan veja que està equivocat, el més intel·ligent és admetre-ho ràpidament.
+2. He comés un error. Admitisca que no és perfecte.
+3. He canviat d'opinió. Adapte's a la nova informació amb rapidesa.
+
+Plantege's si la meta continua tenint sentit.
+
+Siga flexible amb les seues relacions.
+
+**Dins de cada revés u obstacle descanca la semilla d'una oportunitat o benefici iguals o majors**. Napoleon Hill
+
+En quasi tots els casos, assolirà els seus majors èxits en un camp molt diferent del que va planejar inicialment. La clau és mantenir-se flexible.
+
+> Siga clar en la seua meta, però flexible respecte al sistema d'assolir-la.
+
+Prenta la resolució de mantenir-se flexible i obert, sin importar el que succeisca. Recorde que quasi sempre hi ha un medi millor per realitzar qualsevol tasca o assolir qualsevol meta.
+
+El seu objectiu ha de ser romandre alerta i conscient de quin podria ser, descobir-lo i, després, actuar en aquesta nova direcció amb la major rapidesa possible.
 
 
 
 
 
 ---
-
-> L'habilitat per fixar-se metes és la clau per alcançar l'èxit.
-
-Quan no tenim metes som persones **reactives**. Quan ens fixem metes hi ha moltes probabilitas de que les alcancem.
-
-Característiques SMART:
-
-- S - Específica: Les mestes parteixen dels desitjos però ha de ser clara, concreta i ha d'estar per escrit.
-- M - Mesurable: La meta ha d'esser mesurable.
-- A - Alcançable: S'ha de poder aconseguir.
-- R - Realitzable: Ha de poder ser realitzada.
-- T - Time: Amb un temps definit, ha de ser quantificable.
 
 
 <small>-- Brian Tracy. 2003. Metes. Empresa activa.</small>
