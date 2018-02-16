@@ -1333,6 +1333,85 @@ Prenta la resolució de mantenir-se flexible i obert, sin importar el que succei
 
 El seu objectiu ha de ser romandre alerta i conscient de quin podria ser, descobir-lo i, després, actuar en aquesta nova direcció amb la major rapidesa possible.
 
+### 19. Alliberte la seua creativitat innata
+
+> Faça que cada pensament, cada dada que li vinga a la ment li rendisca benefici. Faça que treballa i produïsca per a vosté. Pense en les coses no com són, sino com poden arribar a ser. No es limite a somirar. Cree! Robert Collier.
+
+Fem servir al voltant de l'1 al 2% de la nostra capacitat cerebal per al 100% del nostra funcionament en la vida i en el treball. La resta és **capacitat de reserva** que rarament s'aprofita o s'usa per ningua raó.
+
+No és necessari fer un miracle per a aconseguir resultats espectaculars a la vida. Sols ha d'usar un poc més de la seua capacitat cerebral actual de la que usa hui. Aquesta millora en la seua capacitat pensant pot canviar-li la vida profundament.
+
+La creativatat és com un múscul, si no s'usa es perd.
+
+Les idees són la nova font de riquesa. Contene les claus necessàries per resoldre tots els problrmes. Són els útils més importants per assolir qualsevolmenta.
+
+Tota riquesa procedeix d'**afegir valor**, de produir més, millor, més barat, més ràpid i més fàcilment que els demés. L'única cosa que necessita per a fer fortuna és una bona idea que li servisca per a afegir valor.
+
+Quan tenim les **metes clares**, **escrites**, **tornades a escriure**, **visualitzades** i **emocionades**, fem que la nostra **ment**, **subconscient** i **supraconscient**, genere una corrent continua d'idees vàlides per a l aconsecució de metes.
+
+Practique la **tormenta mental**.
+
+La bona forma física i la bona forma mental són molt similars. El la bona forma física exigeix treball igual que la bona forma mental.
+
+La **tormenta mental** consisteix en plantejar-se problemes per a ser resolts. Tots podem resoldre qualsevol problema, superar qualsevol obstacle.
+
+Per fer-ho cal anotar de forma clara la pregunta i buscar solucions amb les tres P:
+
+1. Personal
+2. Positiva
+3. En presente
+
+Caldrà posar la pregunta la principi del paper i donar 20 respostes.
+
+El millor moment del dia és al principi del matí.
+
+Ha d'actuar amb paciència i determinació; la inspiració arribarà.
+
+Concentre's en la solució.
+
+Els triomfacors responen amb eficacia. Le persones, no. Els triomfadors respiren profundament, es relaxen i pensen amb claredat. Miren el que hi ha de bo en cada situació. Busquen l'elecció valuosa. Sobretot, es concentren en la solució, en el que es pot fer, en lloc de en el que ha succeït i amb qui és el culpable.
+
+Aborde cada problema amb eficadia:
+
+1. Defna el problema amb claredat.
+2. Pregunte's quines són les causes.
+3. Pregunte's quines són les possibles solucions.
+4. Pregunte's què deu aconseguir aquesta solució.
+5. Assigne un responsable específic o assumisca vosté mateixa la responsabilitat de la posta en pràctica de la solució.
+
+La clau de la victòria i l'èxit està en la **organització**.
+
+A l'estudiar batalles i guerres ens adonem que ha estat possible guanyar aquestes situacions amb menor personal que d'altres. En tots aquests casos, la força numèricament inferior ha estat molt millor organitzada, era més metòdica i més disciplinada en el seu pla d'atac i execució que la més nombrosa i desorganitzada.
+
+De igual manera, amb un sistema o recepta per a resoldre problemes, pot superar en motl a altres persones molt intel·ligents i instruïdes que es llancen a solucionar problemes sense mètode ni sistema.
+
+Dues tècniques:
+
+1. Tormenta d'idees
+2. Plantejament sistemàtic
+
+Un dels exercicis més creatius és **planificar l'escenari**. Pensar en les possibilitats de joc que tenim.
+
+Planteja't dues preguntes en planificar l'escenari:
+
+1. Quines són les tres pitjors coses que podrien succeir.
+2. Quines són les tres coses millors que podrien succeir.
+
+Desenvolupe les seues opcions.
+
+> Soles som tan lliures com ho siguen les nostres alternatives ben desenvolupades.
+
+Si la seua meta és ser feliç, tenir èxit i ser lliure, deu poder **elegir**. En cada situació, deu poder donar més d'un **únic** pas. No deu permetre's, mai, quedar acorralat, amb una única via d'eixida oberta.
+
+Elabore un plan B per a cada aspecte important de la seua vida professional i personal.
+
+Afegisca valor constantment.
+
+
+
+
+
+
 
 
 
