@@ -1408,6 +1408,50 @@ Elabore un plan B per a cada aspecte important de la seua vida professional i pe
 Afegisca valor constantment.
 
 
+### 20. Faça un poc cosa cada dia
+
+> L'èxit es deriva de treballar en firme, cada dia en tasques que tinc entre mans. Johnny Carson
+
+Uno dels factors que han descovert els estudis que s'han fet a les persones que han tingut èxit en la vida és que **estaven orientats a l'acció**.
+
+> Les persones d'èxit estan intensament orientades a l'acció.
+
+Comencen un poc més aviat, acaben més tard. Estan en moviment constant.
+
+Les persones que no tenen èxit comencen en l'últim moment possible i se'n van en quan poden. Són molt exigents en quan al dret de cada minut de les paues per al café, les hores de l'esmorzar, les baixes per enfermetat i les vacances.
+
+**Llei de la Compensació**
+
+En un famós assaig *Compensation** de Ralph Waldo Emerson va escriure que, **en la vida, sempre seràs recompensat en proporció directa al valor de la teua aportació**. Si vols augmentar la teua recompensa, has d'augmentar la **qualitat** i la **quantitat** dels teus resultats. Si vols traure més, has de posar més.
+
+Napolen Hill va escrirue que la **qualitat clau dels triomfadors**, homes i dones, la majoria dels quals havia començat des de baix del tot, era que, en un moment prompte de la seua vida, varen cultivar l'hàbit de fer **una milla extra**. Varen descobrir que **mai hi ha embussos de tràfic a la milla extra**.
+
+Responsabilitat i compromís:
+
+1. **Responsabilitat**: Quan s'adapte al seu trebal i el domine, vaja a veure al seu cap i díga-li que vol més **responsabilitat**, que és està decidit a aportar el màxim possible.
+2. **Compromís**: Quan li donen l'oportunitat que ha demanat lliure-la amb la major brevetat possible.
+
+> El teu èxit en la vida estarà en proporció directa al que faces després de fer el que s'espera que faces.
+
+Convertix-te en eixa persona a la qual tothom acodeix quan vol que alguna cosa es faça ràpid i bé.
+
+Iniciar la marxa requereix molta energia, però una vegada iniciada, ja no en requereix tanta.
+
+**Planifique el se temps amb molta cura**.
+
+Estudis realitzats sobre això diuen que sembla haber **una relació directa entre planificació estricta del temps i ingressos alts**.
+
+**Cada minut compta**.
+
+Els millors treballen **enfocats** sempre amb la **mateixa intensitat**.
+
+**Un tempo ràpid és esencial per a l'èxit**. Alan Lakein.
+
+**Els triomfadors sempre se senten atrets per l'acció**. Tom Peters.
+
+> La clau per a aconseguir fer més és seleccionar la tasca més important i després començar-la amb la sensació d'urgència. Aquesta és la autèntica cla de l'exit i dels grans assoliments.
+
+
 
 
 
