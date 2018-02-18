@@ -1452,7 +1452,141 @@ Els millors treballen **enfocats** sempre amb la **mateixa intensitat**.
 > La clau per a aconseguir fer més és seleccionar la tasca més important i després començar-la amb la sensació d'urgència. Aquesta és la autèntica cla de l'exit i dels grans assoliments.
 
 
+### 21. Persevere fina a triomfar
 
+> Poques coses són imposibles amb diligència i habilitat; les grans obres no foren realitzades amb força, sino amb perseverància. Samuel Johnson
+
+El determinant crític del seu èxit és la seua capacitat de decidir què vol, començar a fer-ho i després perseverar a través de tots els obstacles fins alcançar les teues metes.
+
+L'altra cara de la **perseverància** és el **coratge**.
+
+Potser el major repte de la vida al qual s'enfrentarà és **la conquesta de la por**, i el cultiu de l'**hàbit del coratge**.
+
+Quan cultive l'**hàbit del coratge** i d'una **autoconfianza inquebrantable**, s'obrirà davant de vosté tot un món de possibilitats.
+
+Pot **aprendre** qualsevol cosa que necessite.
+
+> Espera problemes, com a part inevitable de la vida i, quan arriben, mantín el cap alt. Míra'ls a la cara i digues: Seré més gran que tu. Aquesta és la classe d'actitud que porta a la victòria. Aan Landers.
+
+El punt de partida per a superar la por i cultivar el coratge és, en primer lloc, mirar què factors ens predisposen a témer alguna cosa.
+
+L'**arrel de la por** està en l'exposició durant la infantesa, a les crítiques, generalment destructives, del pare, la mare o tots dos. Això fa experimentar dos tipus de por:
+
+- La por a fracàs: ens fa pensar "no puc, no puc, no puc...".
+- La por al rebuig: ens fa pensar "he de, he de, he de..., però no puc".
+
+A causa d'aquests temors ens obsessionem amb la por, ens tornem hipersensitius i ens **paralitzem**.
+
+> La **por** i la **ignorància** van de la mà.
+
+El contrari també és cert: més **informació** i **experiència** en un camp concret ens donen més valor i confiança en aquest camp.
+
+La **fatiga** ens converteix a tots en **covards**.
+
+El **descans** i la **relaxació** augmenten el **coratge** i la **seguretat** tant com qualsevol altre factor.
+
+**Tots** tenim por.
+
+> El valor és la resistència a la por, el domini de la por... no l'absència de la por. Mark Twain.
+
+Una persona **valenta** és la que avança encara que tinga por.
+
+Quan evitem el que tenim, els nostres temor creixen fins que comencen a controlar tots els aspectes de la nostra vida. A mesura que augmenten, la nostra autoestima, autoconfiança i el nostre autorespecte disminueixen.
+
+> Si no fas això que tems, la por controlarà la teua vida. Glenn Ford.
+
+Analitze les seues pors.
+
+Fixe prioritats a les seues pors.
+
+Respecte a la por predominant escriga les respostes a aquestes preguntes:
+
+1. Com em frena aquest temor a la meua vida?
+2. Com m'ajuda aquest temor o com m'ha ajudat en el passat?
+3. Què guanyaria eliminant la por?
+
+En **identificar objectivament** el nostre major temor, podem **començar a eliminar-lo**.
+
+La pràctica converteix alguna cosa en permanent.
+
+Qualsevol cosa que practique una i altra vegada es converteix en un nou hàbit.
+
+Es cultiva el valor actuant valentment en totes les ocasions en que es requereix valor.
+
+Algunes activitats per augmentar el valor:
+
+1. Començar, llançar-se, tenir fe.
+2. La qualitat clau és la voluntat de **fer** alguna cosa en compte de sols parlar d'això.
+
+**Principi del corredor** (Rondstadt): A mesura que les persones avancen cap a les seues metes, com si corregueren per un corredor, se les obrien portes que no havien vist si no hagueren estat en moviement.
+
+
+El **futur** és de qui **s'arrisca**, no dels que busquen seguretat.
+
+Quan més seguretat busquem, menys en tenim.
+
+Quan més busquem les oportunitats, més probable és que assolim la seguretat que desitgem.
+
+> Sempre que senta temor o ansietat i necessite reforçar el seu coratge per a perseverar davant dels obstacles i revesos, trasllades la seua atenció a les seues metes. Cree una imatge mental clara de la persona que li agradaria ser i actue de la manera que li agradaria actuar.
+
+Allò en el que pensem en excés creix, així que tinga cura.
+
+El domini de la por i el cultiu de coratge són requisits esencials per a una vida feliç i exitosa.
+
+Quan es comprometa en el cultiu del valor, arribarà, amb el temps, al punt en que els seus temors ja no tenen un paper important en la presa de decisions.
+
+Es fixarà metes importants, apasionants, que el posaran a prova, i contarà amb al confiança d'assolir-les.
+
+Podrà enfrontar-se a cada situació amb calma i seguretat en sí mateix. **La clau és el coratge**.
+
+Aprenga dels mestres.
+
+**Actuar ho és tot**.
+
+Els millors consells sols li ajudaran si es **motiva a actuar de forma perseverant i continuada, en direcció a les seues metes, fins a triomfar**.
+
+L'**autodisciplina** és la cualidad fonamental.
+
+L'**autodisciplina** significa que **té la capacitat, en el seu interior, basant-se en la seua força de caràcter i voluntat, de fer  el que ha de fer i en el moment en el que ha de fer-ho, tant si té ganes com si no en té**.
+
+El **caràcter** és la **capacitat per portar a terme una resolució, una vegada que s'ha desvanit l'entusiasme amb la qual es va aprendre**.
+
+El més esencial és si pot disciplinar-se o no a pagar el preu una i altra vegada, fins que, finalment, assolisca el seu objectiu.
+
+- Necessita autodisciplina per a fixar-se unes metes i per a fer plans per assolir-les.
+- Necessita autodisciplina per a usar bé el seu temps i per a concentrar-se en la tasca més important en cada moment.
+- Necessita autodisciplina per a invertir en vosté tots els dies, a fi de fortalir-se personal i professionalment i aprender el que siga necessari per assolir l'èxit.
+- Necessita autodisciplina per a posposar la grativicació i estalviar diners i organitzar les seues finances de tal manera que puga assolir la independència econòmia en el curs de la seua vida laboral.
+- Necessita autodisciplina per a seguir pensant en les seues metes i somnis i apartar dubtes i temors.
+- Necessita autodisciplina per a reaccionar de forma positiva i constructiva fron a qualsevol dificultat.
+
+> La perseverància és la disciplina en l'acció.
+
+La **perseverància** és l'autència mesura de cada pesona. Medeix la confiança en nosaltres mateixos i la nostra capacitat per triomfar.
+
+Mai et rendisques. Churchill.
+
+> Seguisca avant. Resn en el món pot substituir la perseverància. El tanlent, no pot; res no és més comú que homens fracasats amb talent. El geni tampoc; el geni no recompensat és quasi proverbial. L'educació, sola, tampoc; el món està ple de marginats instruïts. Sols la perseverància i la determinació són omnipotents. Calvin Coolidge.
+
+La **perseverància** és el seguell distintiu de l'èxit.
+
+Dues qualitats essencials **Orison Swett Marden**:
+
+- Posat mans a l'obra.
+- Segueix mans a l'obra.
+
+> No existeix el fracàs per a qui es dona compte del seu poder, per a qui no sap que està vençut; no hi ha fracàs per a l'obstinació; la voluntat inconquistable. No hi ha fracàs per a l'home que s'alça cada vegada que cau, que rebota com una pilota de goma, que persisteix quan tots els demés abandonen, que segueix avant quan tots els demés tornen arrere.
+
+
+**La nostra major glòria no està en no caure mai, sino en alçar-nos cada vegada que caiguem**. Confucio.
+
+- James J. Corbett.
+- Elbert Hubbard.
+- Vince Lombardi.
+
+La **perseverància** és el **seu major actiu**.
+
+> L'èxit sembla estar connectat a l'acció. Els triomfadors es mantenen en marxa. Comenten errades, però no abandonen.
 
 
 
