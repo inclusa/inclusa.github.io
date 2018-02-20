@@ -1577,6 +1577,7 @@ Dues qualitats essencials **Orison Swett Marden**:
 
 > No existeix el fracàs per a qui es dona compte del seu poder, per a qui no sap que està vençut; no hi ha fracàs per a l'obstinació; la voluntat inconquistable. No hi ha fracàs per a l'home que s'alça cada vegada que cau, que rebota com una pilota de goma, que persisteix quan tots els demés abandonen, que segueix avant quan tots els demés tornen arrere.
 
+Tots entropecem amb dificultats a casa pas del camí. La diferència entre els que consegueixen grans resultats i els que no ho fan és, simplement, que els primers utilitzen l'adversitat i la lluita per a crèixer, mentre que els segons permeten que les dificultats i l'adversitat els abrumen i els deixen desanimats i abatuts.
 
 **La nostra major glòria no està en no caure mai, sino en alçar-nos cada vegada que caiguem**. Confucio.
 
@@ -1588,6 +1589,29 @@ La **perseverància** és el **seu major actiu**.
 
 > L'èxit sembla estar connectat a l'acció. Els triomfadors es mantenen en marxa. Comenten errades, però no abandonen.
 
+### 22. Conclusió. Actue hui
+
+1. Allibere el seu potencial.
+2. Prenga les riendes de la seua vida, no done excuses les excuses.
+3. Cree el seu propi futur.
+4. Aclarisca els seus valors.
+5. Definisca les seues verdaderes metes, la claredat és esencial.
+6. Decidisca quin és el seu propòsit clar.
+7. Analitze les seues conviccions.
+8. Comence pel principi.
+9. Medisca el seu progrés.
+10. Elimine obstacles.
+11. Arribe a ser un expert en el seu camp.
+12. Associes amb les persones adequades.
+13. Elabore un pla d'acció.
+14. Gestione bé el temps.
+15. Revise les metes del seu diari.
+16. Visualitze les seues metes continuament.
+17. Active la seua ment superconscient.
+18. Romanga flexible en tot moment.
+19. Allibere la seua creativitat innata.
+20. Faça alguna cosa cada dia.
+21. Persevere fins a assolir-ho, decisca per avançat que mai, mai es endirà.
 
 
 
