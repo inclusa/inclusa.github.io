@@ -64,7 +64,7 @@ Tot comença amb un **desig**.
 
 Els triomfadors, la major par del temps, penen en **el que volen** i **com aconseguir-ho**.
 
-> A la natura no l'importa el tamany de les seues metes.
+A la natura no l'importa el tamany de les seues metes.
 
 Si et fixes metes xicotetes, el mecanisme de consecució assolirà metes xicotetes. Si et fixes metes grans, assoliràs metes grans.
 
@@ -87,13 +87,13 @@ Les persones amb metes escrites acabaren guanyant 10 vegades més que el 97 dels
 
 La diferència entre els grups és la claredat de les metes que s'havien fixat.
 
-> La felicitat exigeix metes.
+La felicitat exigeix metes.
 
 Les **metes** ens donen la sensació de **sentit** i **propòsit** en la vida. Victor Frankl.
 
 Els grans beneficis de la fixació de metes és que eixes metes ens permeten **controlar la direcció del canvi** en les nostres vides.
 
-> **La claredat ho és tot**.
+> La **claredat** ho és tot.
 
 Cultiva un **desig ardent**.
 
@@ -123,25 +123,25 @@ Estan causades per quatre factors:
 
 Quan **alliberes les emocions negatives**, asumint la responsabilitat, podràs començar a fixar i assolir metes en tos els aspectes de la teua vida.
 
-*Ningú pot fer que et sentes inferior sense el teu consentiment*. Eleanor Roosevelt.
+**Ningú pot fer que et sentes inferior sense el teu consentiment**. Eleanor Roosevelt.
 
-*Mai guarde rencor a ningú; mentre tu et quedes guardant-los rencor, ells se'n van per ahí de festa*. Buddy Hackett.
+**Mai guarde rencor a ningú; mentre tu et quedes guardant-los rencor, ells se'n van per ahí de festa**. Buddy Hackett.
 
 No dones excuses. Si comets una errada disgues **ho senc**.
 
 Per a mantenir una **mentalitat positiva**, negat a criticar, queixar-te o condemnar els demés per res. En condemnar els demés aparèixen sentiments negatius i nosaltres som qui sofrim.
 
-*Les emocions positives ens donen poder, les negatives, ens el lleven*. Gary Zukav.
+**Les emocions positives ens donen poder, les negatives, ens el lleven**. Gary Zukav.
 
 Consideres un treballador autònom, controlant cada part de la seua vida personal i professional. Tu tens el control.
 
 Elabora la teua pròpia estragègia.
 
-Converteix-te en un *valor en alça*.
+Converteix-te en un **valor en alça**.
 
 No plores pel passat, pensa en les teues metes.
 
-Pren el control intern, *locus control*. Hi ha una **relació directa entre la quantitat de responsabilitat que acceptem i la quantitat de control que sentim**.
+Pren el control intern, **locus control**. Hi ha una **relació directa** entre la **quantitat de responsabilitat que acceptem** i la **quantitat de control que sentim**.
 
 Tres aspectes:
 
