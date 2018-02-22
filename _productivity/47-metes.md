@@ -159,7 +159,7 @@ Si *ens convertim en el que pensem la major part del temps*, els líders pensen 
 
 Una **perspectiva** a llarg termini és el principial determinant de l'èxit personal i econòmic en la vida. Edward Banfield.
 
-Banfield va definir la **perspectiva a llarg termini** com **la capacitat de pensar en un futur d'ací a diversos anys, mentre es prenen decisions en el presernt**.
+Banfield va definir la **perspectiva a llarg termini** com **la capacitat de pensar en un futur d'ací a diversos anys, mentre es prenen decisions en el present**.
 
 Hem de començar practicant la **idealització**. Creem una fantasia pròpia a cinc anys. Pense com seria la seua vida perfecta d'ací a cinc anys.
 
@@ -167,7 +167,7 @@ Hem de començar practicant la **idealització**. Creem una fantasia pròpia a c
 
 Cal no conformar-se amb metes menors.
 
-*Sobreestimem enormement el que podem aconseguir en un any, però subestimem enormement elque podem aconseguir en cinc anys*. Peter Drucker.
+*Sobreestimem enormement el que podem aconseguir en un any, però subestimem enormement el que podem aconseguir en cinc anys*. Peter Drucker.
 
 La principal diferència entre els que consegueixen resultats superiors i els que no els aconsegueixen és la **orientació a l'acció**.
 
@@ -212,7 +212,7 @@ Després cal organitzar el nostre entorn al voltant d'aquests valors.
 
 Qualsevol intent de viure de manera que contradiga els valors que hi ha en el seu interior, li causarà estrés, negativitat, infelicitat, pesimisme i, inclús ira i frustració.
 
-> Confie la seua intuició
+Confie la seua intuició.
 
 Les persones comencen a fer-se grans quan escolten la seua veu interna i confien, total i absolutament, en que un poder superior els guia en el camí.
 
@@ -222,7 +222,7 @@ Demostrem els nostres **valors** sobretot quan estem sota **presió**.
 
 Un dels exercicis per clarificar els valors que tenim és exposar els nostres valors per ordre de prioritat.
 
-> Dis-me què li dóna a algú la seua màxima sensació d'importància i jo li diré quina és tota la seua filosifia de vida. Dale Carnegie.
+> Disgueu-me què li dóna a algú la seua màxima sensació d'importància i jo li diré quina és tota la seua filosifia de vida. Dale Carnegie.
 
 Determine el que desitja el seu cor.
 
@@ -246,7 +246,7 @@ Siga **leal** amb sí mateixa i amb els demés.
 
 Accepte la total responsabilitat de la vida i tot el que succeix.
 
-> Faça una imatge ideal del seu propi futur perfecte i aclarisca els seus valors, estarà llest per començar a fixar-se unes metes clares i específiques en tots els aspectes de la seua vida.
+Faça una imatge ideal del seu propi futur perfecte i aclarisca els seus valors, estarà llest per començar a fixar-se unes metes clares i específiques en tots els aspectes de la seua vida.
 
 ### 5. Definisca les seues verdaderes metes
 
