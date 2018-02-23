@@ -297,9 +297,11 @@ Deixe la seua petjada.
 
 ### 6. Decidisca quin és el seu primer propòsit clar
 
+> Hi ha una qualitati que es deu poseïr per a guanyar i és la **claredat de propòsit**; saber què es vol i desitjar ardentment posseïr-lo. Napoleon Hill.
+
 Donat que ens convertirm en allò que pensem la major part del temps, **tenir un objectiu** definit ens proporciona un **punt d'enfoc** per a tots els moments en que estem desperts.
 
-Quan més pense en el seu propòsit i com alcançar-lo, més activarà la **Llei de l'atracció** en la seua vida. Començarà a atraure persones, oportunitats, idees i recursos que li ajudaran a avançar amb major rapidesa cap a la seua meta i que acostaran eixa meta am major rapidesa cap a vosté.
+Quan més pense en el seu propòsit i com alcançar-lo, més activarà la **Llei de l'atracció** en la seua vida. Començarà a atraure persones, oportunitats, idees i recursos que li ajudaran a avançar amb major rapidesa cap a la seua meta i que acostaran eixa meta amb major rapidesa cap a vosté.
 
 Per la **Llei de la Correspondència**, el seu món exterior d'**experiències** es correspondrà i armonitzarà amb un món interior de **metes**. Quan tinga un propòsit clar en el què pense, parle i treballe tot el temps, el seu món exterior el reflectirà, com si fora un espill.
 
@@ -340,7 +342,7 @@ Exercici de les 10 metes:
 
 ### 7. Analitza les teues conviccions
 
-> L'única cos que separa a un hom del que vol en l avida és, amb freqüència, simplemnt la voluntat per intentar-ho i la fe per a creure que és possible.
+> L'única cos que separa a un hom del que vol en la vida és, amb freqüència, simplemnt la voluntat per intentar-ho i la fe per a creure que és possible. Richard M. Devos.
 
 Potser la més important de totes les lleis mentals és la **Llei de la Convicció**.
 
