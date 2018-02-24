@@ -42,31 +42,31 @@ VBoxManage startvm 00000000-0000-0000-0000-000000000000
 ### 3. Pausar la màquina virtual
 
 ```bash
-VBoxManage startvm "LliureXServer16" pause
+VBoxManage controlvm "LliureXServer16" pause
 ```
 
 ### 4. Reiniciar una màquina virtual pausada
 
 ```bash
-VBoxManage startvm "LliureXServer16" resume
+VBoxManage controlvm "LliureXServer16" resume
 ```
 
 ### 5. Resetejar una màquina virtual
 
 ```bash
-VBoxManage startvm "LliureXServer16" reset
+VBoxManage controlvm "LliureXServer16" reset
 ```
 
 ### 6. Apagar la màquina virtual
 
 ```bash
-VBoxManage startvm "LliureXServer16" poweroff
+VBoxManage controlvm "LliureXServer16" poweroff
 ```
 
 ### 7. Detenir la màquina virtual salvant l'estat actual
 
 ```bash
-VBoxManage startvm "LliureXServer16" savestate
+VBoxManage controlvm "LliureXServer16" savestate
 ```
 
 ### 8. Crear una màquina virtual amb les opcions per defecte
