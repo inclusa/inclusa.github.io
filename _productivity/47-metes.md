@@ -342,7 +342,7 @@ Exercici de les 10 metes:
 
 ### 7. Analitza les teues conviccions
 
-> L'única cos que separa a un hom del que vol en la vida és, amb freqüència, simplemnt la voluntat per intentar-ho i la fe per a creure que és possible. Richard M. Devos.
+> L'única cosa que separa a un hom del que vol en la vida és, amb freqüència, simplemnt la voluntat per intentar-ho i la fe per a creure que és possible. Richard M. Devos.
 
 Potser la més important de totes les lleis mentals és la **Llei de la Convicció**.
 
@@ -370,7 +370,7 @@ Per això, **sempre actuem de manera coherent** amb eixe concepte de nosaltres m
 
 El que **creguem sobre nosaltres mateixa** és en gran manera **subconscient**. Amb freqüència, aquestes opinicions no es basen en fets. Són el resultat d'informacions que hem anat absorvint al llarg de la vida i de la forma en quen hem anat processant eixa informació.
 
-Les nostres creències han estat moldejades i formades en la primera infancia, pels nostres amics i coneguts, per les nostres lectura i educació.
+Les nostres creències han estat moldejades i formades en la primera infancia, pels nostres amics i coneguts, per les nostres lectures i educació.
 
 Les pitjors creencies de totes són les **creències autolimitadores**.
 
@@ -390,7 +390,7 @@ Per desgràcia, tant en l'escola com en la universitat, sols ens medeixen en dou
 
 Selecciona les conviccions que vols.
 
-Si estàs absolutament convençut de que estàs destitat a triomfar, caminaràs, parlaràs i actuaràs com si tot el que et passa en la fira formara part d'un gran pla destinat a fer que tinga èxit. En realitat, així és com pensen els que ocupen els llocs més alts, en tots els camps.
+Si estàs absolutament convençut de que estàs destitat a triomfar, caminaràs, parlaràs i actuaràs com si tot el que et passa en la vida formara part d'un gran pla destinat a fer que tinga èxit. En realitat, així és com pensen els que ocupen els llocs més alts, en tots els camps.
 
 > Busca el que siga bo
 
@@ -422,7 +422,7 @@ El seu fi és reprogramar la seua ment subconscient per a l'èxit, creant l'**eq
 
 Imagine que es disposara a travessar un país d'un extrem a l'altre. El primer pas que honaria seria elegir el seu destí i després agafar un mapa per a determinar quin és la millor manera d'arribar allí. La vida és algo paregut.
 
-Una vegada hem decidit qins són els nostres **valors**, **visió**, **misió**, **propòsit** i **metes**, el següent pas és **analitzar el punt de partida**.
+Una vegada hem decidit quins són els nostres **valors**, **visió**, **misió**, **propòsit** i **metes**, el següent pas és **analitzar el punt de partida**.
 
 Practique el **Principi de Realitat**, Jack Welch, presidente executiu de General Electric durant molts anys el va definir com la **capacitat de veure el món tal tom és, no com desitjariem que fora**.
 
@@ -438,13 +438,13 @@ La meta ha d'ésser realista.
 
 Pensa partint de zero. Comença a planificar el teu futur a llarg termini. Sabent el que sé, hi ha alguna cosa que no tornaria a fer, si començara de nou?
 
-És difício, sinó impossible, que faça progressos en la vida si permet que li frenen decisions preses en el passat.
+És difícil, sinó impossible, que faça progressos en la vida si permet que li frenen decisions preses en el passat.
 
 **Avalue cada aspecte de la seua vida**, tant **personal** com **professional**.
 
 > Estiga disposat a fer els canvis necessaris.
 
-Les circumstàncies canvien constantment, el 70% de les decisios que prenem acabaran siguent errònies.
+Les circumstàncies canvien constantment, el 70% de les decisions que prenem acabaran siguent errònies.
 
 Esbrine quins circumstàncies li estan frenant.
 
@@ -460,7 +460,7 @@ Els fets no menteixen. Harold Geneen.
 
 Examine el seu mercat i el dels seus competidirs. Al reinventar-se dóne un pas enrere i pense avanç de començar, hui, la seua carrera des del principi, sabent el que sap.
 
-Imagine qu eel seu treball i el seu sector desaparegueren de la nit al matí. Imagite que havera d'elegir una professió de nou. Què faria diferent del que està fent?
+Imagine que el seu treball i el seu sector desaparegueren de la nit al matí. Imagite que havera d'elegir una professió de nou. Què faria diferent del que està fent?
 
 > El seu actiu econòmic més valuós és la seua capacitat d'aprenentatge, la seua habilitat per aplicar el seu talent i els seus coneixements al mercat.
 
