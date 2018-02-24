@@ -11,17 +11,17 @@ VirtualBox
 
 Per alçar VirtualBox des del terminal primer cal veure la llista de màquines que tenim instal·lades. Tiguem aquestes opcions:
 
-``bash
+```bash
 VBoxManage list [--long|-l] vms|runningvms|ostypes|hostdvds|hostfloppies|intnets|bridgedifs|hostonlyifs|natnets|dhcpservers|hostinfo|hostcpuids|hddbackends|hdds|dvds|floppies|usbhost|usbfilters|systemproperties|extpacks|groups|webcams|screenshotformats
-``
+```
 Ara sí, mirem les màquines que tenim instal·lades:
 
 ### 1. Llistar les màquines virtuals
 
-``bash
+```bash
 VBoxManage list vms
 "LliureXServer16" {00000000-0000-0000-0000-000000000000}
-``
+```
 
 Ens donarà tant el seu nom com l'uid.
 
@@ -29,57 +29,57 @@ Ens donarà tant el seu nom com l'uid.
 
 Iniciem la màquina virtual així:
 
-``bash
+```bash
 VBoxManage startvm "LliureXServer16"
-``
+```
 
 o així:
 
-``bash
+```bash
 VBoxManage startvm 00000000-0000-0000-0000-000000000000
-``
+```
 
 ### 3. Pausar la màquina virtual
 
-``bash
+```bash
 VBoxManage startvm "LliureXServer16" pause
-``
+```
 
 ### 4. Reiniciar una màquina virtual pausada
 
-``bash
+```bash
 VBoxManage startvm "LliureXServer16" resume
-``
+```
 
 ### 5. Resetejar una màquina virtual
 
-``bash
+```bash
 VBoxManage startvm "LliureXServer16" reset
-``
+```
 
 ### 6. Apagar la màquina virtual
 
-``bash
+```bash
 VBoxManage startvm "LliureXServer16" poweroff
-``
+```
 
 ### 7. Detenir la màquina virtual salvant l'estat actual
 
-``bash
+```bash
 VBoxManage startvm "LliureXServer16" savestate
-``
+```
 
 ### 8. Crear una màquina virtual amb les opcions per defecte
 
-``bash
+```bash
 VBoxManage createvm -name "Debian8"
-``
+```
 
 ### 9. Canviar requeriments de la nostra màquina virtual
 
-``bash
+```bash
 VBoxManage modifyvm "LliureXServer16" -memory "1024MB"
-``
+```
 
 ### 10. Fonts
 
