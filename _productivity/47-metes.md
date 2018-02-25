@@ -482,13 +482,13 @@ Fes-te **preguntes despiadades**:
 
 ### 9. Medeixca els seus progresos
 
-> No hi ha nintún camí massa llarg per a qui avança amb parsimònia i sense apresuraments indeguts; no hi ha honors llunyans per a qui es prepara per a ells amb paciència. Jean de la Bruyère
+> No hi ha ningun camí massa llarg per a qui avança amb parsimònia i sense apresuraments indeguts; no hi ha honors llunyans per a qui es prepara per a ells amb paciència. Jean de la Bruyère
 
-La nostra **ment conscient** és l'*oficina principal* de la nostra vida. El seu objectiu és **tractar la informació que ens rodeja, identificar-la, analitzar-la, comparar-la amb altres informacions i, després, decidir quines mesures prendre**.
+La nostra **ment conscient** és l'**oficina principal** de la nostra vida. El seu objectiu és **tractar la informació que ens rodeja, identificar-la, analitzar-la, comparar-la amb altres informacions i, després, decidir quines mesures prendre**.
 
 Però és la nostra **ment subconscient** la que conté el gran poder que ens permet assolir un èxit molt més gran del què hem assolit mai.
 
-La nostra ment subsconscient funciona de forma òptima quan conta amb metes clares, tasques específiques, medicions deliberades i plaços d'acompliment. Quantes més metes programe en el seu ordinador subconscient, millor funcionarà i més coses assolirà en un període de temps més curt.
+La nostra **ment subsconscient** funciona de forma òptima quan conta amb **metes clares, tasques específiques, medicions deliberades i plaços d'acompliment**. Quantes més metes programe en el seu ordinador subconscient, millor funcionarà i més coses assolirà en un període de temps més curt.
 
 Les tres claus del **rendiment òptim**:
 
@@ -526,13 +526,13 @@ La majoria dels triomfadors **fracasen amb major freqûència** que qui no ho é
 
 El **fracàs temporal** precedeix sempre a l'èxit.
 
-> El fracàs és una nova oportunitat per a començar d'un nou mode més intel·ligent.
+El fracàs és una nova oportunitat per a començar d'un nou mode més intel·ligent.
 
-Una vegada hem definit les nostre mestes cal identificar els obstacles.
+> Una vegada hem definit les nostres mestes cal identificar els obstacles.
 
-Pensa en **termes de solucions**. Ens convertim en allò que pensem la major part del temps. En el camp dels problemes i dificultats, els triomfadors tenen un aforma particular de pensar **orientada a les solucions**.
+Pensa en **termes de solucions**. Ens convertim en allò que pensem la major part del temps. En el camp dels problemes i dificultats, els triomfadors tenen una forma particular de pensar **orientada a les solucions**.
 
-> Els **triomfadors pensen en solucions** la major part del temps. Els que no tenen èxit pensen els problemes i les dificultats.
+> Els **triomfadors pensen en solucions** la major part del temps. Els que **no tenen èxit** pensen els **problemes** i les **dificultats**.
 
 Les persones orientades a les solucions busquen, sense descans, maneres de superar, rodejar o saltar per damunt dels obstacles que els impedeixen el pas.
 
@@ -544,7 +544,7 @@ En l'assoliment de qualsevol meta sempre hi ha un coll d'ampolla que cal identif
 
 Solem ser nosaltres el principal impediment que determina la rapidesa amb la qual assolirem qualsevol meta que ens fixem.
 
-Als triomfadors els interesa més **què és el que és acertat** que **qui té la raó**. El que els interesa més la veritat de la situació i el que poden fer per resoldre el problema, que protegir el seu ego.
+Als triomfadors els interesa més **què és el que és encertat** que **qui té la raó**. El que els interesa més la veritat de la situació i el que poden fer per resoldre el problema, que protegir el seu ego.
 
 Mira en el teu interior i identifica el que et frena. Fes-te preguntes despiadades, sigues totalment sincer.
 
@@ -573,15 +573,15 @@ Les claus per desenvolupar **valor** i **confiança** són:
 
 La majoria de pors i dubten sorgeixen de la ignorància i dels sentiments d'ineptitud d'algun tipus.
 
-Quan més **aprengues** el que necessites saber per assolir les teues metes, menor por tindràs i més valor i confiança sentiràs.
+> Quan més **aprengues** el que necessites saber per assolir les teues metes, menor por tindràs i més valor i confiança sentiràs.
 
-> Les persones que sofreixen **impotència apresa** senten que són incapaces d'assolir les seues metes o millorar la seua vida. Martin Seligman.
+Les persones que sofreixen **impotència apresa** senten que són incapaces d'assolir les seues metes o millorar la seua vida. Martin Seligman.
 
 *Tant si creu que ho pot fer com si creu que no ho pot fer, és cert en els dos casos*. Henry Ford.
 
-Desaprendre la impotència.
+**Desaprendre la impotència**.
 
-La manera de **desaprendre la impotència apresa** és posar-se metes xicotetes. **fer plans** i **treballar en ells cada dia** igual que es desenvolupa la musculatura amb l'exercici.
+La manera de **desaprendre la impotència apresa** és posar-se metes xicotetes. **Fer plans** i **treballar en ells cada dia** igual que es desenvolupa la musculatura amb l'exercici.
 
 Quan tinga **més confiança** en vosté mateixa i en les seues habilitats, pot fixar-se **metes més grans**. Amb el temps, els seus **dubtes** i **temors** es debilitaran i el seu **valor** i **confiança** creurà i arribarà a ser les forces dominants en el seu pensament. No passarà molt de temps abans que siga **împarable**.
 
@@ -611,7 +611,7 @@ Si li preocupa haver definit un problema amb precisió, discuteix-lo amb algú q
 
 Quasi tots els problemes tenen solució. Si no la tenen **olvida'l**.
 
-### 11. Esdevenga en un expert
+### 11. Esdevinga's en un expert
 
 > L'home singular és simplement un home corrent que pensa i somia amb l'èxit i en camps més fructífers.
 
