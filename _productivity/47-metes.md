@@ -260,7 +260,7 @@ Fes que les teues metes siguen **personals**.
 
 Cal començar per u mateix. La fixació de metes, per a que el procés siga efectiu, deu d'ésser absolutament egoísta respecte al que *realment* vol per a vosté mateix.
 
-La gran pregunta és: **¿Què vull, de veritat, fer amb la meua vida?**. Recordem que no es pot alcançar una diana que no es veu.
+La gran pregunta és: **¿Què vull, de veritat, fer amb la meua vida?** Recordem que no es pot alcançar una diana que no es veu.
 
 Al principi semblen fantasies, però la nostra tasca és **concretar-les**.
 
@@ -641,7 +641,7 @@ Els coneixements poden aprendre's. Els que ho fan millor en algun camp varen apr
 
 **Per a tenir més, primer has de ser més**. Johann Wolfrang von Goethe.
 
-Quan hages decidit estar entre els millors en el seu camp, l'única pregunta és: **Com ho aconseguisc?**.
+Quan hages decidit estar entre els millors en el seu camp, l'única pregunta és: **Com ho aconseguisc?**
 
 Com em menge un elefant? A mossos. Cal desglosar les metes.
 
@@ -671,7 +671,7 @@ Caldria puntuar-se entre 1 i 10 punts. Necessitarà assolir una puntuació de 7 
 
 > Quina habilitat, si la desenvolupa i la practica d'una manera excel·lent, tindria el màxim efecte positiu en la seua trajectòria professional? Aquesta qualitat ha de convertir-se en el centre del desenvolupament personal i professional.
 
-Les persones amb èxit tenen una nota de huit, nou o deu en una **àrea clau de rsultats**. **Aquesta deu ser la seua META**.
+Les persones amb èxit tenen una nota de huit, nou o deu en una **àrea clau de resultats**. **Aquesta deu ser la seua META**.
 
 Set idees claus que determinen el seu èxit o el seu fracàs en el treball:
 
@@ -703,16 +703,16 @@ Naixem amb certes aptituds, habilitats, tendències, forces, debilitats i talent
 
 **La clau de l'èxit en EEUU és esbrinar el que de veritat ens entusiarma fer i, després, trobar el medi de guanyar-nos la vida fent-ho**. Napoleon Hill.
 
-Huit medis d'identificar les característiques que ens fan especials:
+Huit medis d'i**identificar** les característiques que ens fan especials:
 
-1. Identificar què ens entusiarma.
-2. Identifiar què fem bé.
-3. Identificar en què has rebut majors elogis.
-4. Identificar quines coses varen resultar fàcils d'aprendre i de fer.
-5. Identificar què manté la nostra atenció.
-6. Identificar què ens entusiarma.
-7. Identificar allò que mentre ho fa el temps es para.
-8. Identificar què admirem i respectem de les persones que són bones amb això.
+1. Què ens **entusiarma**.
+2. Què **fem bé**.
+3. Què has rebut majors **elogis**.
+4. Quines coses varen resultar **fàcils d'aprendre** i de **fer**.
+5. Què manté la nostra **atenció**.
+6. Què ens **entusiasma**.
+7. Allò que mentre ho fa **el temps es para**.
+8. Què **admirem** i **respectem** de les persones que són bones amb això.
 
 > Els seus dons naturals són innates i fàcils de desenvolupar.
 
@@ -720,34 +720,34 @@ Moltes habilitats són complementàries, depenen d'altres. Això significa que d
 
 De vegades cal desenvolupar aptituds que no li agraden ni li fan gaudir per assolir l'excel·lència en el camp elegit.
 
-Evita la tramps del que rendeix poc: *la veritat és que no sóc bo en eixe camp*.
+Evita la trampa del que rendeix poc: **la veritat és que no sóc bo en eixe camp**.
 
-La **pràctica no porta a la perfecció**, és la pràctica imperfecta el que, porta finalment, a la perfecció. Sempre que comence alguna cosa no ho farà bé al principi. Es sentirà torpe, però aquest és el preu que paguem per assolir l'excel·lència. Cal pagar el preu de l'èxit, el qual sol comportar un dur treball necessari per ascendir més alt.
+La **pràctica no porta a la perfecció**, és la **pràctica imperfecta** el que, porta finalment, a la perfecció. Sempre que comence alguna cosa no ho farà bé al principi. Es sentirà torpe, però aquest és el preu que paguem per assolir l'excel·lència. Cal pagar el preu de l'èxit, el qual sol comportar un dur treball necessari per ascendir més alt.
 
-Estiga preparat per invertir dos o tres anys per ser el millor en un cap crític.
+Estiga preparat per invertir dos o tres anys per ser el millor en un camp crític.
 
 Factor per progressar:
 
-1. Llegir sobre el tema.
-2. Escoltar sobre el tema.
-3. Assistir a seminaris.
-4. Practicar sempre que puga.
+1. **Llegir** sobre el tema.
+2. **Escoltar** sobre el tema.
+3. **Assistir** a seminaris.
+4. **Practicar** sempre que puga.
 
 ### 12. Associa't amb les persones adients
 
-> La seua actitud davant la vida, la seua valoració de sí mateix, el seu càlcul del que val estan colorejats, en gran mesura, pel seu entorn. Tota la seua vida professional es veurà modificada, moldejada i modelada pel que li rodeja, pel caràcter de les perones amb qui està en contacte cada dia. Orison Sweet Marden.
+> La seua actitud davant la vida, la seua valoració de sí mateix, el seu càlcul del que val estan colorejats, en gran mesura, pel seu entorn. Tota la seua vida professional es veurà modificada, moldejada i modelada pel que li rodeja, pel caràcter de les persones amb qui està en contacte cada dia. Orison Sweet Marden.
 
-La nostra capacitat per a cultivar les relacions encertades amb les persones adequades en totes les etapes de la nostra vida, personal i professional, serà el determinant crític del nostre èxit i els nostre assoliment tindrà un efecte extraordinari en la rapidesa amb que assolim les nostre metes.
+La nostra capacitat per a cultivar les **relacions encertades** amb les persones adequades en totes les etapes de la nostra vida, personal i professional, serà el determinant crític del nostre èxit i els nostre assoliment tindrà un efecte extraordinari en la rapidesa amb que assolim les nostre metes.
 
-Quan més persones conega i li coneguen de forma positiva, més èxit tindrà en qualsevol cosa que intente. Una única persona, en el moment i lloc oportuns, pot obrir-li una porta que li canvie la vida i li estalvie molt de treball.
+Quan **més persones conega** i li coneguen de **forma positiva**, més èxit tindrà en qualsevol cosa que intente. Una única persona, en el moment i lloc oportuns, pot obrir-li una porta que li canvie la vida i li estalvie molt de treball.
 
-Una part clau de la fixació de metes és que idetifique persones, grups i organitzacions per assolir les metes.
+Una part clau de la fixació de metes és que **idetifique** persones, grups i organitzacions per assolir les metes.
 
 Hi ha tres categories de persones de les quals necessitarà ajuda i cooperació:
 
-1. Persones del seu cercle professional.
-2. Persones del seu cercle familiar i amistats.
-3. Persones fora del cercle professional i familiar.
+1. Persones del seu **cercle professional**.
+2. Persones del seu **cercle familiar** i **amistats**.
+3. Persones **fora del cercle** professional i familiar.
 
 **Identifique** aquestes persones.
 
@@ -774,7 +774,7 @@ Tots els esforços sincers que faça li retornaran d'alguna manera.
 
 Quan més agrade i recolze a qui està junt a vosté més li pagaran i més ràpidament el promocionaran.
 
-Busque maneres de ser un recurs valuós per a qui li rodeja i ells buscaran, automàticament, maneres d'ajudar-li i respaldar-li quan vosté ho necessite.
+Busque maneres de ser un **recurs valuós** per a qui li rodeja i ells buscaran, automàticament, maneres d'ajudar-li i respaldar-li quan vosté ho necessite.
 
 La qualitat de **jugar bé en equip** va ser la qualitat més important, identificable des de fora, que va trobar un estudi de la universitat d'Stanford, per a obtenir un ascens ràpid.
 
@@ -784,13 +784,13 @@ Per ser un bon jugador d'un equip:
 
 - **Acodisca** a totes les reunions preparat.
 - Assente's davant de la persona que dirigeix la reunió, amb **contacte visual directe**.
-- Parle amb i**promptitud** i faça **preguntes**.
+- Parle amb **promptitud** i faça **preguntes**.
 - Oferisca's **voluntari** per les missions que sorgeisquen.
 - Quan s'oferisca a **fer** alguna cosa, faça-ho **bé** i **ràpidament**, per tal que quede clar **qui és la persona a qui acodir** en l'empresa.
 
 L'habilitat més important és la **fiabilitat**.
 
-Si es poden fiar del treball que faça, com a resultat, li oferiran les tasques més importants junt amb l'autoritat i remuneració que les acompanyen. La idea és crar un camp d'energia positiu i atractiu en torn a la fama de **ser la personade la qual tots es poden fiar**.
+Si es poden fiar del treball que faça, com a resultat, li oferiran les tasques més importants junt amb l'autoritat i remuneració que les acompanyen. La idea és crear un camp d'energia positiu i atractiu en torn a la fama de **ser la persona de la qual tots es poden fiar**.
 
 Prenga's temps per parlar amb els seu subordinats. Conéga'ls i veja si els pot ajudar. Siga amable i cortés amb ells. Elogie'ls i agraisca els seus esforços. Es sorprendrà del resultat.
 
@@ -824,7 +824,7 @@ Tracte sempre a tot el món amb amabilitat, cortesia i comprensió.
 
 L'estrategia més senzilla és: **tractar als demés com si foren el client del milió de dólars**. Tracte'ls com si foren capaços de comprar-li productes o serveis per valor d'un milió de dólars.
 
-*Si ha de ser descortés, síga-ho amb els extranys, però guarde els modals professionals per a la seua familia*. Emmet Fox.
+**Si ha de ser descortés, siga-ho amb els extranys, però guarde els modals professionals per a la seua familia**. Emmet Fox.
 
 > Tots els dies, de totes les maneres possibles, cerque formes d'**alleugerar la càrrega de les altres perones** i **ajude-les a fer el seu treball millor**, a **viure amb menys problemes**. Així acumularà una enorme reserva de sentiments positius cap a vosté, que li retornaran beneficis any rere any.
 
