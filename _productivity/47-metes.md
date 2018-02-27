@@ -846,7 +846,7 @@ El **propòsit de la planificació** és *permetre-li convertir el seu principal
 
 Característiques del pla:
 
-1. Visió basada en els seus valors. Saps el que vols, saps per què ho vols.
+1. Visió basada en els seus valors. Saps el què vols, saps per què ho vols.
 2. Priorització de les metes. Selecció d'un propòsit clar.
 3. Creació de medicions. Terminis i subterminis.
 4. Identificació d'obstacles, dificultats i restriccions.
@@ -901,13 +901,13 @@ La planificació és una tècnica i una disciplina:
 
 ### 14. Administre bé el seu temps
 
-Per a poder assolir les seues metes i arribar a ser tot el que és capça de ser, ha de controlar el temps.
+Per a poder assolir les seues metes i arribar a ser tot el que és capç de ser, ha de controlar el temps.
 
 Els psicòlegs solen estar d'acord en que la **sensació de control** és la clau dels sentiments de **felicitat**, **confiança**, **poder** i **benestar personal**.
 
 > La sensació de control sols és possible quan practiquem unes tècniques de gestió del temps excel·lents.
 
-El punt de partida de l'administració del temps és **determinar les nostres mestes** i després **organitzar-les per ordre de prioritat** i **valor**.
+El punt de partida de l'administració del temps és **determinar les nostres metes** i després **organitzar-les per ordre de prioritat** i **valor**.
 
 És important que conega en qualsevol moment què és el més important per a vosté.
 
@@ -984,7 +984,7 @@ Dues tasques de cada 10 tindran el 80% de les conseqüències.
 
 Practique la **posposició creativa**, caldrà posposar el 80% de les tasques que aporten poc a les seues metes i resultats desitjats.
 
-> Concentre el seu temps i atenció en complentar eixe tasca, la qual pot representar el canvi més important.
+> Concentre el seu temps i atenció en complentar eixa tasca, la qual pot representar el canvi més important.
 
 Practique el mètode `ABCDE`.
 
@@ -1038,7 +1038,7 @@ La millor paraula en la gestió del temps és **NO**.
 
 > Cultive bons hàbits i faça que el dominen.
 
-Cada vegada que complente una tasca important, experimentarà un **estallit d'euforia**, entusiasme i una accentuada autoestima. Es sentiràple d'energia i de força. Se sentirà feliç, prenent el control de la seua vida.
+Cada vegada que complente una tasca important, experimentarà un **estallit d'euforia**, entusiasme i una accentuada autoestima. Es sentirà ple d'energia i de força. Se sentirà feliç, prenent el control de la seua vida.
 
 ### 15. Revise les seues metes a diari
 
