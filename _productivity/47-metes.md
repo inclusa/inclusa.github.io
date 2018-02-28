@@ -1050,7 +1050,7 @@ Aquesta és la clau.
 
 Per a que el **pensament positiu** no degenere en **desitjos** i **esperances** positives cal convertir-lo en **coneixement positiu**.
 
-> En el més profund del seu ser, ha de saber i creure, de forma absoluta, que va a tnir èxit i assolir una meta donada. Ha d'actuar, absolutament, sense cap dubte. Ha d'estar resolt i decidit, tan convençut del seu èxit final, que res pot detenir-lo.
+> En el més profund del seu ser, ha de saber i creure, de forma absoluta, que va a tenir èxit i assolir una meta donada. Ha d'actuar, absolutament, sense cap dubte. Ha d'estar resolt i decidit, tan convençut del seu èxit final, que res pot detenir-lo.
 
 **Programe la seua ment subconscient**.
 
@@ -1076,11 +1076,11 @@ Per a augmentar el poder de les seues metes diàriament, pose una **data límit*
 
 **Confie en el procediment**.
 
-No importa saber com va a arribar a les metes, el que importa és escriure-les cada dia, amb **absoluta fe**, sabent que cada vegada que les anota, les braba més profundament en la seua ment subsconscient. En un moment donat començarà a creure, amb la convicció més absoluta, que la seua meta és assolible.
+No importa saber com va a arribar a les metes, el que importa és escriure-les cada dia, amb **absoluta fe**, sabent que cada vegada que les anota, les grava més profundament en la seua ment subsconscient. En un moment donat començarà a creure, amb la convicció més absoluta, que la seua meta és assolible.
 
 Després d'escriure les metes en el seu subconscient començarà a fer que les seues paraules i actes encaixen en una pauta coherent amb les seues metes.
 
-La seua ment subconscient començarà a atraure a la seua vida a aquelles perosnes i circumstàncies que puguen ajudar-li a assolir-les.
+La seua ment subconscient començarà a atraure a la seua vida a aquelles persones i circumstàncies que puguen ajudar-li a assolir-les.
 
 Mètode:
 
@@ -1120,7 +1120,7 @@ La seua **capacitat per a visualitzar** és la facultat més poderosa que poseei
 
 La **visualització activa** de la **Llei de l'Canvie les imates mentals** en el seu **interior** i el seu **exterior** canviarà per adequar-se a eixes imatges.
 
-La **visualització activa** de la **Llei de l'Atracció**, porta a la seua vida **persones**, **circumstàncies** i **recursos** necessaris per a assolir les seues mentes.Atracció**, què porta a la seua vida **persones**, **circumstàncies** i **recursos** necessaris per a assolir les seues mentes.
+La **visualització activa** de la **Llei de l'Atracció**, porta a la seua vida **persones**, **circumstàncies** i **recursos** necessaris per a assolir les seues metes. **Atracció**, què porta a la seua vida **persones**, **circumstàncies** i **recursos** necessaris per a assolir les seues mentes.
 
 La **visualització** de la **Llei de la Correspondència** diu: **Segons l'interior, així l'exterior**.
 
@@ -1168,7 +1168,7 @@ La natura és neutral, aquest elements ens poden ajudar o perjudicar.
 
 El procés d'imaginar i visualitzar les metes de forma negativa, amb por i agoixa fa que es faça realitat també.
 
-*Perquè si de alguna cosa tinc por, em pasa i em succeix el que tinc por*. Job 3.25.
+*Perquè si de alguna cosa tinc por, em passa i em succeix el que tinc por*. Job 3.25.
 
 Això ens adverteix de les desgracies d'una visualització negativa.
 
@@ -1180,11 +1180,11 @@ Un dels **millors moments per a visualitzar** és a **última hora de la nit** i
 
 Quan visualitza les seues metes com si les haguera aconseguit abans d'anar-se a dormir, la seua ment subconscient les accepta a un nivell més profund. A continuació adapta les seues paraules i actes durant el dia per a que faça i diga cada vegada més eixes coses que faran realitat les seues metes.
 
-Visualitzar metes clares al principi del matí farà que s'acomplisquen amb major provabilitat.
+Visualitzar metes clares al principi del matí farà que s'acomplisquen amb major probabilitat.
 
 > Convertisca la seua vida en un procés continu de visualització positiva, imaginant i visionant constantment les seues metes ideals i el seu futur perfecte.
 
-Dedique temps de forma regular per a crear imatges mentals de tu mateix. Després desenvolupe una absoluta fe en aquestes imates que es materialitzaran precisament quan estiga preparat.
+Dedique temps de forma regular per a crear imatges mentals de vosté mateix. Després desenvolupe una absoluta fe en aquestes imatges que es materialitzaran precisament quan estiga preparat.
 
 ### 17. Active la seua ment superconscient
 
