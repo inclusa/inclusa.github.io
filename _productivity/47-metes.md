@@ -583,7 +583,7 @@ Les persones que sofreixen **impotència apresa** senten que són incapaces d'as
 
 La manera de **desaprendre la impotència apresa** és posar-se metes xicotetes. **Fer plans** i **treballar en ells cada dia** igual que es desenvolupa la musculatura amb l'exercici.
 
-Quan tinga **més confiança** en vosté mateixa i en les seues habilitats, pot fixar-se **metes més grans**. Amb el temps, els seus **dubtes** i **temors** es debilitaran i el seu **valor** i **confiança** creurà i arribarà a ser les forces dominants en el seu pensament. No passarà molt de temps abans que siga **împarable**.
+Quan tinga **més confiança** en vosté mateixa i en les seues habilitats, pot fixar-se **metes més grans**. Amb el temps, els seus **dubtes** i **temors** es debilitaran i el seu **valor** i **confiança** creurà i arribarà a ser les forces dominants en el seu pensament. No passarà molt de temps abans que siga **imparable**.
 
 El segon obstacle a superar és la trampa de la **zona cómoda**. Aquest és un obstacle important en l'ambició, el desig, la determinació i els assoliments.
 
@@ -1232,15 +1232,15 @@ Com activar la ment superconscient.
 
 > La **ment superconscient** s'estimula mitjançant unes metes específiques, clares i escrites, desitjades intensament, visualitzades regularment i cap a les que treballem conscientment.
 
-Sempre que ens relaxem i visualitzem i plentem d'emoció un resultat específic que desitgem amb grna intensitat, estimulem la nostra ment superconscient amb gran intensitat, estimulem la nostra ment superconscient per a que ens proporciones idees i energia per a assolir la nostra menta.
+Sempre que ens relaxem i visualitzem i plentem d'emoció un resultat específic que desitgem amb gran intensitat, estimulem la nostra ment superconscient amb gran intensitat, estimulem la nostra ment superconscient per a que ens proporciones idees i energia per a assolir la nostra menta.
 
 De vegades, una inspiració superconscient l'aportarà tanta força i l'apassionarà en tal mesura que no podrà dormir ni pensar en res més. En eixe cas, deu sentar-se i anotar cada idea i cada detall que se li ocòrrega. Amb freqüència, al fer-ho alliberarà la seua ment i podrà tornar a dormir.
 
 Serendipitat i sincronisme.
 
-La **ment superconscient** explica dos fenòmens que experimentem de form aregular al llarg de la vida:
+La **ment superconscient** explica dos fenòmens que experimentem de forma regular al llarg de la vida:
 
-- **Serendipitat**: Virtut de fer troballes afortunades segons avancem en la vida.sempre que tinga una meta clara, que visualitza de forma continua i per a aconseguir la qual treballa cada dia, en la seua vida sorgiran experiències i aconteciments inesperats, cada un dels quals sembla ajudar-li a alcançar les seues metes amb major rapidesa**. Amb freqüència tindrà un fracàs temporal que resultarà ser exactament el que necessitava que passara en aquell moment.
+- **Serendipitat**: Virtut de fer troballes afortunades segons avancem en la vida. Sempre que tinga una meta clara, que visualitza de forma continua i per a aconseguir la qual treballa cada dia, en la seua vida sorgiran experiències i aconteciments inesperats, cada un dels quals sembla ajudar-li a alcançar les seues metes amb major rapidesa. Amb freqüència tindrà un fracàs temporal que resultarà ser exactament el que necessitava que passara en aquell moment.
 - **Sincronisme**: Successos connectats, amb sentit. Es basa en el sentit que donem a les nostres experiències.
 
 Quan més use la **ment superconscient** amb més freqüència gaudirà d'aquestes dos experiències meravelloses.
@@ -1286,11 +1286,11 @@ Un estudi va concloure que, la qualitat més important, en un temps de ràpids c
 
 El tret oposat a la **flexibilitat** és la **rigidesa**, el **pensament mecànic**.
 
-El que és opsat a abordar la vida amb una ment oberta és **reaccionar de form a automàtica i previsible** a una situació donada.
+El que és oposat a abordar la vida amb una ment oberta és **reaccionar de forma automàtica i previsible** a una situació donada.
 
 Hui, el canvi, no sols és **ràpid** sino que també és **discontinu**.
 
-El que cal preguntar-se és: **Funciona?**; **Assolisc el resultat esperat?**. Basant-me en la situació actual, **és la millor conducta?**.
+El que cal preguntar-se és: **Funciona?**; **Assolisc el resultat esperat?** Basant-me en la situació actual, **és la millor conducta?**
 
 Factors que impulsa al canvi:
 
@@ -1307,7 +1307,7 @@ De vegades el màxim perill per a l'èxit a llarg termini potser l'**èxit a cur
 
 Pregunte's continuament: **Hi ha alguna cosa que faig hui i que, sabent el que sé, no faria de nou, si tinguera que començar de nou?**.
 
-No deixe que el seu **ego** nubole el bon judici i sentit comú.
+No deixe que el seu **ego** nuvole el bon judici i sentit comú.
 
 Intereses **pel que és encertat** més que **per qui té la raó**.
 
@@ -1325,13 +1325,13 @@ Plantege's si la meta continua tenint sentit.
 
 Siga flexible amb les seues relacions.
 
-**Dins de cada revés u obstacle descanca la semilla d'una oportunitat o benefici iguals o majors**. Napoleon Hill
+**Dins de cada revés u obstacle descanca la llavor d'una oportunitat o benefici iguals o majors**. Napoleon Hill
 
 En quasi tots els casos, assolirà els seus majors èxits en un camp molt diferent del que va planejar inicialment. La clau és mantenir-se flexible.
 
 > Siga clar en la seua meta, però flexible respecte al sistema d'assolir-la.
 
-Prenta la resolució de mantenir-se flexible i obert, sin importar el que succeisca. Recorde que quasi sempre hi ha un medi millor per realitzar qualsevol tasca o assolir qualsevol meta.
+Prenga la resolució de mantenir-se flexible i obert, sin importar el que succeisca. Recorde que quasi sempre hi ha un medi millor per realitzar qualsevol tasca o assolir qualsevol meta.
 
 El seu objectiu ha de ser romandre alerta i conscient de quin podria ser, descobir-lo i, després, actuar en aquesta nova direcció amb la major rapidesa possible.
 
