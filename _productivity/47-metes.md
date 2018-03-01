@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 47 Metes 
+title: 47 Metes
 date:  2017-02-26 00:00:00
 ---
 
@@ -1212,7 +1212,7 @@ L'**Ego** es drescrivia com **sóc jo**, la part de la ment que està alerta i d
 
 L'**Ello**, segons Freud, és la part **inconscient**. És el vast magatzem de records i sentiments on estan guardats tots els nostres pensaments, decisions i experiències anteriors i actua de forma automàtica, tant per a fer funcionar el nostre cos físic com per a que els nostres pensaments i sentiments siguen sent coherents amb les nostres experiències passades.
 
-El **Superego** de Freud, Ralph Waldo Emersone el va a omenar **oversould**, *superesperit*. Alfred Adler, alumne de Freud, el va anomenar **inconscient col·lectiu**. Carl Jung, el qual es va apartar de Freud, el va anomenar **Supra Conscient**. Napoleon Hill es referia a ell com **Intel·ligència Infinita**, i deia que, pràctiament, tots els màxims triomfadors l'usaben continuament en el seu treball i li assignava el mèrit dels més importants descobriments i assoliments.
+El **Superego** de Freud, Ralph Waldo Emersone el va anomenar **oversould**, *superesperit*. Alfred Adler, alumne de Freud, el va anomenar **inconscient col·lectiu**. Carl Jung, el qual es va apartar de Freud, el va anomenar **Supra Conscient**. Napoleon Hill es referia a ell com **Intel·ligència Infinita**, i deia que, pràctiament, tots els màxims triomfadors l'usaben continuament en el seu treball i li assignava el mèrit dels més importants descobriments i assoliments.
 
 El psicòleg italià Roberto Assagioli i algres parlen de **Ment Superconscient** o de la **Ment de Déu**.
 
