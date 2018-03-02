@@ -1394,7 +1394,7 @@ No és necessari fer un miracle per a aconseguir resultats espectaculars a la vi
 
 La creativatat és com un múscul, si no s'usa es perd.
 
-Les idees són la nova font de riquesa. Contene les claus necessàries per resoldre tots els problrmes. Són els útils més importants per assolir qualsevolmenta.
+Les idees són la nova font de riquesa. Contene les claus necessàries per resoldre tots els problemes. Són els útils més importants per assolir qualsevolmenta.
 
 Tota riquesa procedeix d'**afegir valor**, de produir més, millor, més barat, més ràpid i més fàcilment que els demés. L'única cosa que necessita per a fer fortuna és una bona idea que li servisca per a afegir valor.
 
@@ -1410,7 +1410,7 @@ Per fer-ho cal anotar de forma clara la pregunta i buscar solucions amb les tres
 
 1. Personal
 2. Positiva
-3. En presente
+3. En present
 
 Caldrà posar la pregunta la principi del paper i donar 20 respostes.
 
@@ -1420,11 +1420,11 @@ Ha d'actuar amb paciència i determinació; la inspiració arribarà.
 
 Concentre's en la solució.
 
-Els triomfacors responen amb eficacia. Le persones, no. Els triomfadors respiren profundament, es relaxen i pensen amb claredat. Miren el que hi ha de bo en cada situació. Busquen l'elecció valuosa. Sobretot, es concentren en la solució, en el que es pot fer, en lloc de en el que ha succeït i amb qui és el culpable.
+Els triomfadors responen amb eficacia. Els triomfadors respiren profundament, es relaxen i pensen amb claredat. Miren el que hi ha de bo en cada situació. Busquen l'elecció valuosa. Sobretot, es concentren en la solució, en el que es pot fer, en lloc de en el que ha succeït i amb qui és el culpable.
 
-Aborde cada problema amb eficadia:
+Aborde cada problema amb eficàcia:
 
-1. Defna el problema amb claredat.
+1. Definisca el problema amb claredat.
 2. Pregunte's quines són les causes.
 3. Pregunte's quines són les possibles solucions.
 4. Pregunte's què deu aconseguir aquesta solució.
@@ -1473,7 +1473,7 @@ Les persones que no tenen èxit comencen en l'últim moment possible i se'n van 
 
 **Llei de la Compensació**
 
-En un famós assaig *Compensation** de Ralph Waldo Emerson va escriure que, **en la vida, sempre seràs recompensat en proporció directa al valor de la teua aportació**. Si vols augmentar la teua recompensa, has d'augmentar la **qualitat** i la **quantitat** dels teus resultats. Si vols traure més, has de posar més.
+En un famós assaig **Compensation** de Ralph Waldo Emerson va escriure que, **en la vida, sempre seràs recompensat en proporció directa al valor de la teua aportació**. Si vols augmentar la teua recompensa, has d'augmentar la **qualitat** i la **quantitat** dels teus resultats. Si vols traure més, has de posar més.
 
 Napolen Hill va escrirue que la **qualitat clau dels triomfadors**, homes i dones, la majoria dels quals havia començat des de baix del tot, era que, en un moment prompte de la seua vida, varen cultivar l'hàbit de fer **una milla extra**. Varen descobrir que **mai hi ha embussos de tràfic a la milla extra**.
 
@@ -1500,7 +1500,7 @@ Els millors treballen **enfocats** sempre amb la **mateixa intensitat**.
 
 **Els triomfadors sempre se senten atrets per l'acció**. Tom Peters.
 
-> La clau per a aconseguir fer més és seleccionar la tasca més important i després començar-la amb la sensació d'urgència. Aquesta és la autèntica cla de l'exit i dels grans assoliments.
+> La clau per a aconseguir fer més és seleccionar la tasca més important i després començar-la amb la sensació d'urgència. Aquesta és la autèntica clau de l'exit i dels grans assoliments.
 
 
 ### 21. Persevere fins a triomfar
