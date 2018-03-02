@@ -10,11 +10,11 @@ Llibre: Bryan Tracy. Metas. Empresa Activa.
 
 ### Sumari
 
-[00. Índex](#0-Índex)
+[00. Índex](#0-index)
 
 [01. Allibera el teu potencial](#1-allibera-el-teu-potencial)
 
-[02. Pren el control de la teua vida](2-pren-el-control-de-la-teua-vida)
+[02. Pren el control de la teua vida](#2-pren-el-control-de-la-teua-vida)
 
 [03. Cree el seu propi futur](#3-cree-el-seu-propi-futur)
 
@@ -67,7 +67,7 @@ Característiques SMART:
 - R - Realitzable: Ha de poder ser realitzada.
 - T - Time: Amb un temps definit, ha de ser quantificable.
 
-### 0. Índex
+### 00. Index
 
 1. **Defineix la meta de forma concreta**. La nostra energia i passió moldeja el nostre entorn. Els triomfadors es dediquen a pensar en què volen i com ho van a aconseguir.
 2. **Pren el control** de la teua vida. Fes-te responsable de les teues accions.
