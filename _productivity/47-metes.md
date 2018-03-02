@@ -11,27 +11,49 @@ Llibre: Bryan Tracy. Metas. Empresa Activa.
 ### Sumari
 
 [00. Índex](#0-Índex)
+
 [01. Allibera el teu potencial](#1-allibera-el-teu-potencial)
+
 [02. Pren el control de la teua vida](2-pren-el-control-de-la-teua-vida)
+
 [03. Cree el seu propi futur](#3-cree-el-seu-propi-futur)
+
 [04. Aclareix els teus valors](#4-aclareix-els-teus-valors)
+
 [05. Defineix les teues mentes](#5-definisca-les-seues-verdaderes-metes)
+
 [06. Decideix quin els el seu propòsit clar](#6-decidisca-quin-és-el-seu-primer-propòsit-clar)
+
 [07. Analitza les teues conviccions](#7-analitza-les-teues-conviccions)
+
 [08. Comence pel principi](#8-comence-pel-principi)
+
 [09. Medeix els teus progresos](#9-medeixca-els-seus-progresos)
+
 [10. Elimina els obstacles](#10-elimine-els-obstacles)
+
 [11. Esdevin-te un expert](#11-esdevingas-en-un-expert)
+
 [12. Associa't amb les persones adients](#12-associat-amb-les-persones-adients)
+
 [13. Elabora un pla d'acció](#13-elabora-un-pla-dacció)
+
 [14. Administra bé el teu temps](#14-administre-bé-el-seu-temps)
+
 [15. Revisa les teues metes a diari](#15-revise-les-seues-metes-a-diari)
+
 [16. Visualitza les teues metes continuament](#16-visualitze-les-seues-metes-continuament)
+
 [17. Activa la teua ment superconscient](#17-active-la-seua-ment-superconscient)
+
 [18. Roman flexible en tot moment](#18-romanga-flexible-en-tot-moment)
+
 [19. Allibera la teua creativitat innnata](#19-alliberte-la-seua-creativitat-innata)
+
 [20. Faça un poc cada dia](#20-faça-un-poc-cosa-cada-dia)
+
 [21. Persevere fins a triomfar](#21-persevere-fins-a-triomfar)
+
 [22. Conclusió: Actue hui](#22-conclusió-actue-hui)
 
 
@@ -1364,7 +1386,7 @@ El seu objectiu ha de ser romandre alerta i conscient de quin podria ser, descob
 
 ### 19. Alliberte la seua creativitat innata
 
-> Faça que cada pensament, cada dada que li vinga a la ment li rendisca benefici. Faça que treballa i produïsca per a vosté. Pense en les coses no com són, sino com poden arribar a ser. No es limite a somirar. Cree! Robert Collier.
+> Faça que cada pensament, cada dada que li vinga a la ment li rendisca benefici. Faça que treballe i produïsca per a vosté. Pense en les coses no com són, sino com poden arribar a ser. No es limite a somirar. Cree! Robert Collier.
 
 Fem servir al voltant de l'1 al 2% de la nostra capacitat cerebal per al 100% del nostra funcionament en la vida i en el treball. La resta és **capacitat de reserva** que rarament s'aprofita o s'usa per ningua raó.
 
