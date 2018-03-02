@@ -39,6 +39,12 @@ o així:
 VBoxManage startvm 00000000-0000-0000-0000-000000000000
 ```
 
+Si volem iniciar la màquina de forma remota, `ssh`, sense executar-la des d'una sessió gràfica:
+
+```bash
+VBoxSDL --startvm VBoxManage startvm "LliureXServer16"
+```
+
 ### 3. Pausar la màquina virtual
 
 ```bash
@@ -62,6 +68,8 @@ VBoxManage controlvm "LliureXServer16" reset
 ```bash
 VBoxManage controlvm "LliureXServer16" poweroff
 ```
+
+No utilitzar aquest procediment perquè mata la màquina de colp i podria corrompres.
 
 ### 7. Detenir la màquina virtual salvant l'estat actual
 
