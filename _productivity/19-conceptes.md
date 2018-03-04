@@ -14,15 +14,15 @@ date:  2016-12-26 00:00:00
 : **Capacitat** de portar a terme alguna cosa.
 
 ---
-ACOMPLIMENT ("DESEMPEÑO")
+**ACOMPLIMENT** ("DESEMPEÑO")
 : Realització de les funcions pròpies d'un càrrec o treball.
 
-COMPETÈNCIA
 ---
+**COMPETÈNCIA**
 : Pericia, aptitud o idoneitat per a fer alguna cosa o intervenir en un determinat assumpte. Capacitat de respondre a demandes complexes i portar a terme tasques diverses de foma adequada. Suposa una combinació d'habilitats pràctiques, coneixements, motivació, valors ètics, atituds, emocions, i d'altres components socials i de comportament què es mobilitzen conjutament per l'acompliment de l'acció eficaç.
 
 ---
-DESTRESA
+**DESTRESA**
 : Habilitat amb que es fa alguna cosa.
 
 ---
@@ -171,4 +171,12 @@ Per a **definir un objectiu** cal conèixer al 100% l'organitzación sobre la qu
 **VISIÓ**
 
 : Definició del que l'empresa vol ser en el futur, a on vol arribar. Recull metes i assoliments plantejat. Presenta la filosofia de com vol ser l'empresa.
+
+---
+**AUTODISCIPLINA**
+: L’autodisciplina significa que té la capacitat, en el seu interior, basant-se en la seua força de caràcter i voluntat, de fer el que ha de fer i en el moment en el que ha de fer-ho, tant si té ganes com si no en té.
+
+---
+**CARACTER**
+: El caràcter és la capacitat per portar a terme una resolució, una vegada que s’ha desvanit l’entusiasme amb la qual es va aprendre.
 

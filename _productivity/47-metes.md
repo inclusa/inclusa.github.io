@@ -1517,14 +1517,14 @@ Quan cultive l'**hàbit del coratge** i d'una **autoconfianza inquebrantable**, 
 
 Pot **aprendre** qualsevol cosa que necessite.
 
-> Espera problemes, com a part inevitable de la vida i, quan arriben, mantín el cap alt. Míra'ls a la cara i digues: Seré més gran que tu. Aquesta és la classe d'actitud que porta a la victòria. Aan Landers.
+> Espera problemes, com a part inevitable de la vida i, quan arriben, mantín el cap alt. Míra'ls a la cara i digues: Seré més gran que tu. Aquesta és la classe d'actitud que porta a la victòria. Alan Landers.
 
-El punt de partida per a superar la por i cultivar el coratge és, en primer lloc, mirar què factors ens predisposen a témer alguna cosa.
+El punt de partida per a **superar la por** i **cultivar el coratge** és, en primer lloc, mirar què **factors ens predisposen a témer** alguna cosa.
 
 L'**arrel de la por** està en l'exposició durant la infantesa, a les crítiques, generalment destructives, del pare, la mare o tots dos. Això fa experimentar dos tipus de por:
 
-- La por a fracàs: ens fa pensar "no puc, no puc, no puc...".
-- La por al rebuig: ens fa pensar "he de, he de, he de..., però no puc".
+1. La **por a fracàs**: ens fa pensar "no puc, no puc, no puc...".
+2. La **por al rebuig**: ens fa pensar "he de, he de, he de..., però no puc".
 
 A causa d'aquests temors ens obsessionem amb la por, ens tornem hipersensitius i ens **paralitzem**.
 
@@ -1569,7 +1569,7 @@ Algunes activitats per augmentar el valor:
 1. Començar, llançar-se, tenir fe.
 2. La qualitat clau és la voluntat de **fer** alguna cosa en compte de sols parlar d'això.
 
-**Principi del corredor** (Rondstadt): A mesura que les persones avancen cap a les seues metes, com si corregueren per un corredor, se les obrien portes que no havien vist si no hagueren estat en moviement.
+**Principi del corredor** (Rondstadt): A mesura que les persones avancen cap a les seues metes, com si corregueren per un corredor, s'obrien portes que no havien vist què no s'obririen si no haveren estat en moviement.
 
 
 El **futur** és de qui **s'arrisca**, no dels que busquen seguretat.
