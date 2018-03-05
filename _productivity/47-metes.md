@@ -1542,7 +1542,7 @@ El **descans** i la **relaxació** augmenten el **coratge** i la **seguretat** t
 
 Una persona **valenta** és la que avança encara que tinga por.
 
-Quan evitem el que tenim, els nostres temor creixen fins que comencen a controlar tots els aspectes de la nostra vida. A mesura que augmenten, la nostra autoestima, autoconfiança i el nostre autorespecte disminueixen.
+Quan evitem el que tenim, els nostres temors creixen fins que comencen a controlar tots els aspectes de la nostra vida. A mesura que augmenten, la nostra autoestima, autoconfiança i el nostre autorespecte disminueixen.
 
 > Si no fas això que tems, la por controlarà la teua vida. Glenn Ford.
 
@@ -1604,12 +1604,12 @@ El **caràcter** és la **capacitat per portar a terme una resolució, una vegad
 
 El més esencial és si pot disciplinar-se o no a pagar el preu una i altra vegada, fins que, finalment, assolisca el seu objectiu.
 
-- Necessita autodisciplina per a fixar-se unes metes i per a fer plans per assolir-les.
-- Necessita autodisciplina per a usar bé el seu temps i per a concentrar-se en la tasca més important en cada moment.
-- Necessita autodisciplina per a invertir en vosté tots els dies, a fi de fortalir-se personal i professionalment i aprender el que siga necessari per assolir l'èxit.
-- Necessita autodisciplina per a posposar la grativicació i estalviar diners i organitzar les seues finances de tal manera que puga assolir la independència econòmia en el curs de la seua vida laboral.
-- Necessita autodisciplina per a seguir pensant en les seues metes i somnis i apartar dubtes i temors.
-- Necessita autodisciplina per a reaccionar de forma positiva i constructiva fron a qualsevol dificultat.
+- Necessita autodisciplina per a **fixar-se** unes **metes** i per a **fer plan**s per assolir-les.
+- Necessita autodisciplina per a **usar bé el seu temps** i per a **concentrar-se en la tasca més important** en cada moment.
+- Necessita autodisciplina per a **invertir en vosté tots els dies**, a fi de fortalir-se personal i professionalment i aprender el que siga necessari per assolir l'èxit.
+- Necessita autodisciplina per a **posposar la gratificació** i estalviar diners i organitzar les seues finances de tal manera que puga assolir la independència econòmia en el curs de la seua vida laboral.
+- Necessita autodisciplina per a **seguir pensant en les seues metes i somnis** i apartar dubtes i temors.
+- Necessita autodisciplina per a **reaccionar de forma positiva i constructiva fron a qualsevol dificultat**.
 
 > La perseverància és la disciplina en l'acció.
 
@@ -1617,7 +1617,7 @@ La **perseverància** és l'autència mesura de cada pesona. Medeix la confianç
 
 Mai et rendisques. Churchill.
 
-> Seguisca avant. Resn en el món pot substituir la perseverància. El tanlent, no pot; res no és més comú que homens fracasats amb talent. El geni tampoc; el geni no recompensat és quasi proverbial. L'educació, sola, tampoc; el món està ple de marginats instruïts. Sols la perseverància i la determinació són omnipotents. Calvin Coolidge.
+> Seguisca avant. Res en el món pot substituir la perseverància. El tanlent, no pot; res no és més comú que homens fracasats amb talent. El geni tampoc; el geni no recompensat és quasi proverbial. L'educació, sola, tampoc; el món està ple de marginats instruïts. Sols la **perseverància** i la **determinació** són omnipotents. Calvin Coolidge.
 
 La **perseverància** és el seguell distintiu de l'èxit.
 
@@ -1628,7 +1628,7 @@ Dues qualitats essencials **Orison Swett Marden**:
 
 > No existeix el fracàs per a qui es dona compte del seu poder, per a qui no sap que està vençut; no hi ha fracàs per a l'obstinació; la voluntat inconquistable. No hi ha fracàs per a l'home que s'alça cada vegada que cau, que rebota com una pilota de goma, que persisteix quan tots els demés abandonen, que segueix avant quan tots els demés tornen arrere.
 
-Tots entropecem amb dificultats a casa pas del camí. La diferència entre els que consegueixen grans resultats i els que no ho fan és, simplement, que els primers utilitzen l'adversitat i la lluita per a crèixer, mentre que els segons permeten que les dificultats i l'adversitat els abrumen i els deixen desanimats i abatuts.
+Tots entropecem amb dificultats a cada pas del camí. La diferència entre els que consegueixen grans resultats i els que no ho fan és, simplement, que els primers utilitzen l'adversitat i la lluita per a crèixer, mentre que els segons permeten que les dificultats i l'adversitat els abrumen i els deixen desanimats i abatuts.
 
 **La nostra major glòria no està en no caure mai, sino en alçar-nos cada vegada que caiguem**. Confucio.
 
