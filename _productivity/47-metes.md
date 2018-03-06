@@ -1643,7 +1643,7 @@ La **perseverància** és el **seu major actiu**.
 ### 22. Conclusió. Actue hui
 
 1. Allibere el seu potencial.
-2. Prenga les riendes de la seua vida, no done excuses les excuses.
+2. Prenga el control de la seua vida, no done excuses 
 3. Cree el seu propi futur.
 4. Aclarisca els seus valors.
 5. Definisca les seues verdaderes metes, la claredat és esencial.
