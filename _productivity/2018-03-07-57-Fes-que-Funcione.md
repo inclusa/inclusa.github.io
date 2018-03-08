@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 57 Full de Ruta # Generat automàticament
+title: 57 Fes que funcione # Generat automàticament
 date: 2018-03-07 # Data
 description:  # Argument
 keywords:  # Paraules clau
@@ -23,4 +23,14 @@ Prendre les **decisions** correctes i assegurar-nos de que **s'executen** sempre
 
 Es tracta d'interioritzar una sèrie de respostes i conductes que sempre donaran resultats exitosos quan s'apliquen a qualsevol aspecte de la vida o del treball que podria funcionar millor.
 
-Necessites sentir que tens un control sobre les coses i que les dirigeixes de form aapropiada.
+Necessites sentir que tens un control sobre les coses i que les dirigeixes de form apropiada.
+
+Com sabel els atletes olímpics des de fa temps, imaginar un resultat de qualsevol esforç abans d'emprendre-ho millora la **percepció** i el **rendiment**.
+
+Com sabel els atletes olímpics des de fa temps, imaginar un resultat de qualsevol esforç abans d'emprendre-ho millora la **percepció** i el **rendiment**.
+
+Com sabel els atletes olímpics des de fa temps, imaginar un resultat de qualsevol esforç abans d'emprendre-ho millora la **percepció** i el **rendiment**.
+
+### 2. El fenòmen GTD
+
+Quan les persones diuen que volen **organitzar-se**, el que volen dir és que **necessiten controlar el seu entorn**, tant **físic** com **psicològic**.
