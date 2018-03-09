@@ -34,3 +34,6 @@ Com sabel els atletes olímpics des de fa temps, imaginar un resultat de qualsev
 ### 2. El fenòmen GTD
 
 Quan les persones diuen que volen **organitzar-se**, el que volen dir és que **necessiten controlar el seu entorn**, tant **físic** com **psicològic**.
+
+**Bon disseny = eliminació de lastres**
+
