@@ -83,18 +83,23 @@ La **inspiració** i la **innovació** són crucials. Si una companyia o un indi
 Tres models:
 
 1. Arribar a dominar el fluxe de treball
+
     1.1. Recopil·lar
     1.2. Processar
     1.3. Organitzar
     1.4. Revisar
     1.5. Fer
+
 2. Planificar de forma natural
+
     2.1. Propòsit i principis
     2.2. Objectius
     2.3. Generalitzar pluja d'idees
     2.4. Organitzar
     2.5. Accions
+
 3. Els horitzons d'enfoc
+
     3.1. Propòsit i principis
     3.2. Visió
     3.3. Objectius
