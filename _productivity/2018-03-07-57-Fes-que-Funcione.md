@@ -70,6 +70,42 @@ L'assumpte clau és la **sobrecàrrega de significats**.
 
 El teu èxit a l'hora de **controlar l'estrés** resideix en la teua **capacitat per a aplicar tècniques de pensament efectives a cada ítem** i **desenvolupar un mètode** per a moure els continguts a les categories apropiades. Això és el que GTD ensenya.
 
-Organitzar-se amb eficàcia no és innat, sinó que és un procés que s'aprén.
+**Organitzar-se** amb eficàcia no és innat, sinó que és un procés que **s'aprén**.
+
+El món espera que la gent tinga la capacitat d'**organitzar-se amb eficàcia**.
+
+La **inspiració** i la **innovació** són crucials. Si una companyia o un individu no poden executar el **plan**, **objectiu** o la **visió**, les millors **idees** i **estratègies** poden resultar inútils.
+
+**Sintonitzem** amb el nostre món a l'**acceptar**, **aclarir**, **organitzar**, **reflexionar** i **compromentre'ns**. GTD ho reconeix i fa que prengues consciència d'això i ho pugues controlar de manera més dinàmica.
+
+> L'única manera correcta d'organitzar-se amb eficàcia és realitzar les coses verdaderament importants fent servir el menor temps i energia possibles.
+
+Tres models:
+
+1. Arribar a dominar el fluxe de treball
+    1.1. Recopil·lar
+    1.2. Processar
+    1.3. Organitzar
+    1.4. Revisar
+    1.5. Fer
+2. Planificar de forma natural
+    2.1. Propòsit i principis
+    2.2. Objectius
+    2.3. Generalitzar pluja d'idees
+    2.4. Organitzar
+    2.5. Accions
+3. Els horitzons d'enfoc
+    3.1. Propòsit i principis
+    3.2. Visió
+    3.3. Objectius
+    3.4. Àrees d'enfoc
+    3.5. Projectes
+    3.6. Accions
+
+> El secret del control no radica en estar convençut de fer el que és correcte sempre, sino en assegurar-te de que domines un procés que funciona, per a descobrir la millor elecció possible i compromentre't amb ella.
+
+Altre element necessari és la **intel·ligència mental**. Hem d'intentar **comprendre**, **dirigir** i **millorar** el nostre **procés de pensament**. No és que la gent no tinga la capacitat de pensar; **senzillament és que no ho fa**, o no pensa tan eficaçment com podria, perque les seues tuberies mentals estan atascades.
+
+El **pensament** és el que apareix quan **l'intel·lecte** s'uneix la **intenció**.
 
 
