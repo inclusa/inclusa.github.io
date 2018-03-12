@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 57 Fes que funcione # Generat automàticament
+title: 62 Fes que funcione # Generat automàticament
 date: 2018-03-07 # Data
 description:  # Argument
 keywords:  # Paraules clau
@@ -111,6 +111,39 @@ Tres models:
 
 Altre element necessari és la **intel·ligència mental**. Hem d'intentar **comprendre**, **dirigir** i **millorar** el nostre **procés de pensament**. No és que la gent no tinga la capacitat de pensar; **senzillament és que no ho fa**, o no pensa tan eficaçment com podria, perque les seues tuberies mentals estan atascades.
 
-El **pensament** és el que apareix quan **l'intel·lecte** s'uneix la **intenció**.
+El **pensament** és el que apareix quan **l'intel·lecte** s'uneix la **intenció**. Use la meua ment, a més d'altres recursos intuitius, per a distingir i decidir en relació a alguna cosa.
+
+Tenir la **ment com l'aigua** descriu un estat de claredat i transàrència. Concepte tret del kàrate. Igual que l'aigua es tracta de respondre sempre de manera perfecta i ordenada, sense importar amb el que s'estiga interactuant, sense estrés, sense tensió i sense massa energia.
+
+Quan ens alliberem de les distraccions assolim una major capacitat per actuar en el món amb l'energia, la reacció i la inversió adequades.
+
+La **flexibilitat** i l'**enfoc** són els **recursos del poder**, qualsevol cosa que puga reduïr-los dificultarà la nostra productivitat.
+
+> Poder = Concentració
+
+Si no et pots concentrar, és impossible que maximitzes la teua efectivitat en qualsevol activitat.
+
+> Concentració = Eliminació de distraccions
+
+> Distraccions = Compromisos mal administrats
+
+Les distraccions verdaderament perjudicials tenen lloc quan alguna cosa capta la teua atenció, en general, una cosa en la qual preferiries no pensar en eixe moment. En realitat, la teua ment no sap que el contingut d'aquesta distracció encara no ha estat organitzat de forma adequada, i ho està intentat fer per tu. El teu **processador central** està fent hores extres amb un programa que tu li has demanat que utilitze.
+
+> La teua ment no pot gestionar bé els compromisos
+
+Quan la teua ment est dóna compte de que el treball no està organitzat no pot alliberar-se d'ell.
+
+> Fins que no tens un sistema millor, la ment no pot alliberar les coses
+
+Per alliberar la presió dels compromisos que ens hem fet i que hem trencat has de saber que:
+
+- Has captat, aclarit i organitzat tots els compromisos, ent els horitzons, i...
+- ... T'implicaràs en ells tantes vegads com necessites.
+
+Quasi ningú se n'adona que no necessites entendre, resoldre o planificar completament les cosse per a llevar-te-les del cap.
+
+> Acabar amb els teus pensaments significa decidir quina és la següent cosa física que hi ha que portar a terme per a fer-nos avançar.
+
+La **perspectiva** és el teu recurs més valuós.
 
 

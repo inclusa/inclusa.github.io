@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 59 Design Thinking # Generat automàticament
+title: 64 Design Thinking # Generat automàticament
 date: 2018-03-11 # Data
 description:  # Argument
 keywords:  # Paraules clau
