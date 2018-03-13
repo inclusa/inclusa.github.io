@@ -146,4 +146,6 @@ Quasi ningú se n'adona que no necessites entendre, resoldre o planificar comple
 
 La **perspectiva** és el teu recurs més valuós.
 
+### 3. Fes que funcione: El Procés
+
 
