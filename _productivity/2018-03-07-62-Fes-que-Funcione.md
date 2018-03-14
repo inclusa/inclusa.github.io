@@ -145,4 +145,33 @@ La **perspectiva** és el teu recurs més valuós.
 
 ### 3. Fes que funcione: El Procés
 
+> Durant molt de temps vaig tenir la sensació de que la meua vida estava apunt de començar... Però sempre em trobava amb algun obstacle en el camí, coses pendents de resoldre, asumptes sense acabar, compromisos, deuetes que pagar... Llavors la vida començaria. Per fi em vaig adonar de que aqells obstàcles eren la meua vida. Alfred Souza.
+
+> El caos no és el vedader problema; el temps en que es tarda en trobar la ferramenta és el verdader joc. Doc. Childre. Bruce Crier.
+
+Passar d'estar **desconnectat** a estar **connectat**, a aconseguir **claredat** i **avançar** és un procés **voluntari** i **conscient**.
+
+Hi ha dues coses que es necessiten per assolir una implicació positiva i productiva amb els compromisos als quals ens enfrontem per assolir resultats:
+- Organització
+- Enfoc
+
+La necessitat d'**organitzar-se** és en realitat **mantenir el control**.
+
+**Establir prioritats** és en realitat **aclarir els nostres objectius**.
+
+Sovient aquest models sols s'ocupen d'una part de la solució: ofereixen **obtenir el control** o **assolir la perspectiva**, però no les dues.
+
+El **mètode** que proposa *Fes que Funcione** té 5 coses sota **control** i 6 **horitzonts** que han d'ésser explorats i avaluats, per reunir les prioritats d'un mode més eficaç. En cas d'ometre algun d'ells no s'arriba a la cimera.
+
+**Mapa de Ruta per a la Vida i el Treball**:
+
+1. Sé **on estic**
+2. Sé **on vull anar**
+3. Sé **com vull anar** des d'on estic fins on vull arribar
+4. No he trobat cap canvi ni **imprevist** en la ruta
+5. Sóc conscient de les posibles **opcions** interessants, atractives i creatives de la meua ruta
+
+La pèrdua del **control** i de la **perspectiva** és el preu que cal pagar per ser **creatiu** i **productiu**.
+
+El truc no consisteix en impedir que això succeïsca, sinó la forma d'acurtar el temps que romans en una situació inestable.
 
