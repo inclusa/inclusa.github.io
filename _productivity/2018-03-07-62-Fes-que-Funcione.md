@@ -175,3 +175,28 @@ La pèrdua del **control** i de la **perspectiva** és el preu que cal pagar per
 
 El truc no consisteix en impedir que això succeïsca, sinó la forma d'acurtar el temps que romans en una situació inestable.
 
+Necessites un **mapa**.
+
+Definició de **treball**: Tot el que vullgues fer, que encara no has fet. David Allen.
+
+Definició de **treball**: Creació i manteniment d'un entorn adequat i clar en el qual prendre eixes decisions difícils. Peter Drucker.
+
+Peter Drucker diu que tots els que s'aventuren en el treball del coneixement, els més difícil és definir **què és treball**.
+
+Si asumeixes que el treball és que tens que pensar, o al menys enfocar d'un mode intuïtiu par a saber què fer, llavors la deficnició del teu treball és tan vàlida per als pares com per als editors o els pintors.
+
+*Fes que funcione* tracta sobre el treball que has de fer per a saber quin treball has de fer quan el treball que has de fer no et diu quin treball has de fer.
+
+El **treball** que realment has de fer **no és evident** per sí mateix: sols tu pots descobrir-lo.
+
+Quan **estàs connectat** el temps desapareix, simplement estàs centrat en el que estàs fent, en la teua **psique** no hi ha distinció entre **treball** i **vida personal**.
+
+El concepte **equilibri és irrellevant**.
+
+En general sols te'nrecordaràs de l'equilibri quan no el tingues.
+
+Quan estàs en **estat productiu**, no calcules bé quan de temps estàs sent **personal** i quan de temps estàs sent **professional**. Senzillament ho estàs fent, potser penses en el que vindrà després.
+
+La clau és **assolir l'equilibri**, **sense tractar de fer malabars** entre **vida** i **treball**.
+
+La qüestió bàsica és **com eliminar les distraccions i centrar-se en el que se està fent**.
