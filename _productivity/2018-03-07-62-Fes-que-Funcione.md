@@ -200,3 +200,16 @@ Quan estàs en **estat productiu**, no calcules bé quan de temps estàs sent **
 La clau és **assolir l'equilibri**, **sense tractar de fer malabars** entre **vida** i **treball**.
 
 La qüestió bàsica és **com eliminar les distraccions i centrar-se en el que se està fent**.
+
+### 4. Els fonaments de l'autogestió
+
+> Si et fa falta força per a prendre el control de la teua vida, llavors els déus correspondran a la teua debilitat amb un o dos somriures a la teua costa. Si no vas a fer servir el teu propi vaixell, no et sorprengues del poc adequat que és el port on estàs amarrat. Tom Robbins.
+
+Els dos ingredients per a fer que tot funcione són:
+
+- Control
+- Perspectiva
+
+Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu mateix, llavors probablement et donaràs compte que no queda molt de marge de millora. El teu món estarà en ordre i tu estaràs centrat exactament en el que és correcte. Sols quan uno o els dos ingredients disminueixen algo va malament, i es necessita una correcció.
+
+
