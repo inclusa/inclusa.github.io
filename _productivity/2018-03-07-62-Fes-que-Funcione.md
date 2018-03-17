@@ -212,4 +212,23 @@ Els dos ingredients per a fer que tot funcione són:
 
 Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu mateix, llavors probablement et donaràs compte que no queda molt de marge de millora. El teu món estarà en ordre i tu estaràs centrat exactament en el que és correcte. Sols quan uno o els dos ingredients disminueixen algo va malament, i es necessita una correcció.
 
+#### 1. **Víctima**. Síndrome: **El que respon**.
+
+- Poc control
+- Poca perspectiva
+- Expressió negativa
+- Controlat per forces externes
+- T'estàs ocupant del que acaba d'arribar, del més cridaner
+- Estàs fent una *exploració d'emergència*
+- Estàs intentant garantitzar que no t'afones
+- Sembla difícil fer qualsevol progrés
+- La disminució del control i la perspectiva pot donar una esècie d'adormilament, de pura protecció emocional
+
+**El costat positiu**
+
+- Estar fora de control, no tenir enfoc no és absolutament negatiu
+- Potser quan perseguim un objectiu exagerat
+- Gran part de la energia de propulsió d'un coet s'utilitza per corregir el ru mb
+- Solució: recalibrar
+
 
