@@ -232,3 +232,11 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 - Solució: recalibrar
 
 
+#### 2. **Microgestor**. Síndrome: **Implementador**.
+
+- S'opera amb un factor d'alt control però baixa perspectiva.
+- Es posa èmfasi excessiu en l'estructura, el procés i els elements del sistema
+
+**El costat positiu**
+
+- La clau aquí és mantenir la capacitat per a desconnectar-te i/o modificar la forma o estructura que et guia, tan prompte com hages complit amb el seu propòsit.
