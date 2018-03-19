@@ -212,7 +212,7 @@ Els dos ingredients per a fer que tot funcione són:
 
 Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu mateix, llavors probablement et donaràs compte que no queda molt de marge de millora. El teu món estarà en ordre i tu estaràs centrat exactament en el que és correcte. Sols quan uno o els dos ingredients disminueixen algo va malament, i es necessita una correcció.
 
-#### 1. **Víctima**. Síndrome: **El que respon**.
+#### 1. **Víctima**. Síndrome: **El que respon**
 
 - Poc control
 - Poca perspectiva
@@ -232,7 +232,7 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 - Solució: recalibrar
 
 
-#### 2. **Microgestor**. Síndrome: **Implementador**.
+#### 2. **Microgestor**. Síndrome: **Implementador**
 
 - S'opera amb un factor d'alt control però baixa perspectiva.
 - Es posa èmfasi excessiu en l'estructura, el procés i els elements del sistema
@@ -240,3 +240,32 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 **El costat positiu**
 
 - La clau aquí és mantenir la capacitat per a desconnectar-te i/o modificar la forma o estructura que et guia, tan prompte com hages complit amb el seu propòsit.
+
+#### 3. **Creador boig**. Síndrome: **Visionari**
+
+- Alt component de perspectiva, però factor baix de control.
+- Massa idees en proporció a la quantitat de fets que han de portar a terme.
+- Asumeixen molts compromisos en relació als recursos disponibles.
+- Fan que tots es menegen al seu voltant per mandaments fets a l'altzar i sense control.
+- Els seus sistemes i comportaments no funcionen per a capturar i contenir tota la seua producció creativa.
+- Incapacitat per mantenir l'enfoc, dèficit d'atenció.
+- Prometre molt a molta gent.
+- Fer-te càrrec de massa coses.
+
+#### 4. **Comandant en cap*
+
+- Combinació de **perspectiva** i **estructura**, amb energia i enfoc conduits per **preferències internes** en lloc de per una font externa.
+- Condueixen el vaixell a través de l'oleatge, el vent i la marea amb un lleuger toc de timó i la vista posada en l'horitzó.
+- Has decidit el rumb i estàs disposat a fer les mínimes correccions i sols quan siga necessari.
+- No es té la sensació d'estar desbordat, no distingueixes entre el que és personals i el que és professional, no hi ha conflicte en quan a l'equilibri entre el treball i la vida.
+- El **secret** no radica tant el el que fas, sino en la **forma que et compromets amb el que fas**.
+- La millor manera de **compromete's** és aprendre a caminar per la delicada línea que hi ha entre la **funció** i la **forma**, la **visió** i l'**execució**, les **exigencies** i l'**estructura**.
+- En establir un equilibri entre **control** i **pespectiva** tot millora.
+
+**Pel costat negatiu**
+
+L'alivi i l'alegria de mantenir la teua situació actual sota el control i la perspectiva adequats poden fer-te creure que no necessites pensar en el futur.
+
+#### La matriu és relativa, situacional i flueix
+
+
