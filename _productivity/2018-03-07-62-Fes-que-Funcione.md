@@ -268,4 +268,20 @@ L'alivi i l'alegria de mantenir la teua situació actual sota el control i la pe
 
 #### La matriu és relativa, situacional i flueix
 
+El primer pas per a millorar el que està passant és **accpetar el que està passant**. Si intentes resistir o et negues a reconèixer la realitat actual, mai portaràs el control.
+
+Caldràs prendre consciència del quadrant on estàs i prendre diferents estratègies, en funció de la situació en la qual et trobes i de la teua relació amb ella.
+
+Per a assolir-ho, potser hauràs de centrar-te en els diferents components dels models prescriptius:
+
+1. El que respon
+2. Visionari
+3. Implementador
+4. Comandant en cap
+
+#### Prestar atenció al que crida la teua atenció
+
+Per a utitilitzar d'un mode més efectiue ls fonaments de l'autogestió, és necessari tenir un **punt de referència** per on comenzar.
+
+Tens coses en la ment, perquè constantment prestes atenció a elles, perquè han capturat la teua atenció. En aquest cas, el teu pensament és arrastrat cap a una cosa que necessita el teu compromís. El més provable és que siga alguna cosa que necessita un major control o perspectiva per alliberar la seua presió de la teua psique.
 
