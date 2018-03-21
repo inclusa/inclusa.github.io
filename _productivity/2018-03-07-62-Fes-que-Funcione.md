@@ -285,3 +285,16 @@ Per a utitilitzar d'un mode més efectiue ls fonaments de l'autogestió, és nec
 
 Tens coses en la ment, perquè constantment prestes atenció a elles, perquè han capturat la teua atenció. En aquest cas, el teu pensament és arrastrat cap a una cosa que necessita el teu compromís. El més provable és que siga alguna cosa que necessita un major control o perspectiva per alliberar la seua presió de la teua psique.
 
+Moltes coses importnats per a tu no estan en la teua men perquè no tenen que estar ahí: estan sota contorl de `velocitat de creuer`. Llavors, què revela això sobre els assumptes què s'estan apoderant de l'atenció? Hi ha algun d'ells que no ha estat captata, classificat, decidit o manipulat suficient. Aquest inventari d'elements que estan en la teua ment encara han de ser gestionats adequadament és el **quid de la qüestió** per guanyar el joc.
+
+> Identificar què està en la teua ment és la pràctica principal de les cinc etapes per a assolir el control.
+
+En cas de que no prestes atenció al que et crida l'atenció, serà necessari que després li prestes més atenció al que la mereix. En cas contrari saturaràs la ment.
+
+Una vegada saturada no es diferencia el que és important.
+
+Llavors, tot el que no siga realment important ha de desaparèixer.
+
+> Has de començar amb allò que t'ocupe major espai en la teua ment.
+
+Si no t'ocupes d'això (solen ser coses quotidianes menors) eficaçment no podràs reconèixer les coses que més importants i disminuirà la teua capacitat per centrar-te en elles amb claredat.
