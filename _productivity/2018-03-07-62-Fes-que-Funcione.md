@@ -298,3 +298,13 @@ Llavors, tot el que no siga realment important ha de desaparèixer.
 > Has de començar amb allò que t'ocupe major espai en la teua ment.
 
 Si no t'ocupes d'això (solen ser coses quotidianes menors) eficaçment no podràs reconèixer les coses que més importants i disminuirà la teua capacitat per centrar-te en elles amb claredat.
+
+### 5. Obtenir el control: Capturar
+
+Capturar és la primera de les fases per obtenir el control.
+
+El principi fonamental és la identificació del que ara és veritat: la informació que pot ser rellevant en el context en el què estàs concentrat.
+
+Consisteix en aillar de manera consciente i objectiva el que crida l'atenció a unapersona o a un grup. No es tracta de en què centres l'atenció, això ve després, sino de reconèixer què els el **què t'està cridant la teua atenció**.
+
+Si està en la teua ment, escriu-lo, regístra'l de la manera més concreta possible.
