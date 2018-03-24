@@ -8,7 +8,7 @@ coments:  # Comentaris
 ---
 
 Si estàs absolutament convençut <br />
-de que estàs destitat a triomfar, <br />
+de que estàs destinat a triomfar, <br />
 caminaràs, parlaràs i actuaràs <br />
 com si tot el que et passa en la vida <br />
 formara part d’un gran pla destinat <br />

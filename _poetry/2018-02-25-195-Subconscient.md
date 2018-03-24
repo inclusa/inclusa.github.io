@@ -9,9 +9,9 @@ coments:  # Comentaris
 
 La nostra **ment subconscient** <br />
 funciona de forma òptima <br />
-quan compta amb **metes clares**, <br />
-tasques específiques, <br />
-medicions deliberades <br />
-i plaços d'acompliment. <br />
+quan compta amb **metes** clares, <br />
+**tasques** específiques, <br />
+**medicions** deliberades <br />
+i **plaços** d'acompliment. <br />
 
 <small>Bryan Traci</small>
