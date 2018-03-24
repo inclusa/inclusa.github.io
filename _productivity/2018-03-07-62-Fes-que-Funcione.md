@@ -308,3 +308,14 @@ El principi fonamental és la identificació del que ara és veritat: la informa
 Consisteix en aillar de manera consciente i objectiva el que crida l'atenció a unapersona o a un grup. No es tracta de en què centres l'atenció, això ve després, sino de reconèixer què els el **què t'està cridant la teua atenció**.
 
 Si està en la teua ment, escriu-lo, regístra'l de la manera més concreta possible.
+
+#### 5.1. Mind sweep
+
+El "barrido mental". Es tracta d'identificar el que, en la vida o en el treball, creus que tindria que ser diferent o que hauries de tenir en **consideració** en un lloc delimitat. La safata d'assumptes pendents és perfecta per això.
+
+Es tracta de capturar les coses que cal fer per processar-les, per decidir què fer posteriorment.
+
+En un procés de coaching es faciliten unes llistes de control per tal d'abordar a poc a poc, tots els nivells de consciència de la ment. Apèndix I.
+
+
+
