@@ -318,9 +318,6 @@ Es tracta de capturar les coses que cal fer per processar-les, per decidir què 
 En un procés de coaching es faciliten unes llistes de control per tal d'abordar a poc a poc, tots els nivells de consciència de la ment. Apèndix I.
 
 
-Checklist
-
-```
 Checklist de àmbit professional
 
 - Projectes
@@ -360,4 +357,3 @@ Checklist de ámbito personal
 - Mascotes
 - Recats
 - Comunitat
-```
