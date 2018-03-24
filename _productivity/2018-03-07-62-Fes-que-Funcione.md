@@ -318,4 +318,46 @@ Es tracta de capturar les coses que cal fer per processar-les, per decidir què 
 En un procés de coaching es faciliten unes llistes de control per tal d'abordar a poc a poc, tots els nivells de consciència de la ment. Apèndix I.
 
 
+Checklist
 
+```
+Checklist de àmbit professional
+
+- Projectes
+- Compromisos
+- Comunicacions
+- Redactar/Enviar
+- Reunions
+- Leer/Revisar
+- Finances
+- Planificar/Organitzar
+- Desenvolupament de la organització
+- Administració
+- Equip
+- Sistemes
+- Ventes
+- Marqueting/Promoció
+- Esperar
+- Desenvolupament professional
+- Armari profesional
+
+Checklist de ámbito personal
+
+- Projectos
+- Compromisos
+- Comuincacions
+- Próximos acontecimients
+- Familia
+- Administració
+- Oci
+- Finances
+- Legal
+- Esperar
+- Llar
+- Salut
+- Desenvolupament personal
+- Roba
+- Mascotes
+- Recats
+- Comunitat
+```
