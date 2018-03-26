@@ -357,3 +357,20 @@ Checklist de ámbito personal
 - Mascotes
 - Recats
 - Comunitat
+
+Nivells d'enfocament:
+
+1. Tres mil metres: projectes
+2. Sis mil metres: àreas d'enfoc i responsabilitats
+3. Nou mil metres: metes i objectius
+4. Dotze mil metres: visió
+5. Quinze mil metres: propòsits i principis
+
+> No és necessari dominar-ho tot completament per obtenir el control sobre això. La clau és saber quin és el següent pas que hi ha que donar per avançar cap aquesta claredat, Identificar el tema o el contingut de la distracció e introduir-lo en el sistema sovint és la millor manera de començar a fer-se càrrec d'ell.
+
+Per saber què s'ha de fer amb una cosa cal primer identificar-la i capturar-la.
+
+Tècniques de captura:
+
+1. Diari
+2. Pluja d'idees

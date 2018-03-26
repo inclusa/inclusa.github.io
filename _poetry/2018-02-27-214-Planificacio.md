@@ -7,7 +7,7 @@ keywords: planificació # Paraules clau
 coments:  # Comentaris
 ---
 
-A desembarcament de Normandia. <br />
+Al desembarcament de Normandia. <br />
 Els plans no varen servir de res, <br />
 però la planificació va estar indispensable. <br />
 
