@@ -374,3 +374,10 @@ Tècniques de captura:
 
 1. Diari
 2. Pluja d'idees
+3. Fer neteja
+4. Capturar en grup
+5. Aconseguir l'hàbit de capturar
+6. Arma contra les interrupcions
+7. El valor dels marcadors
+8. Bones pràctiques per capturar
+
