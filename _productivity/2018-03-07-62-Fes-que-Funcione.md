@@ -381,3 +381,8 @@ Tècniques de captura:
 7. El valor dels marcadors
 8. Bones pràctiques per capturar
 
+### Arma contra les interrupcions
+
+Me n'he adonat de que un dels principal motius pels que les persones es senten tan molestes al ser interrompides és que manquen de bones habilitats i ferramentes de captura.
+
+La majoria de persones no té suficient confiança en la seua capacitat per a capturar aquest tipus d'**inputs** en l'embut del seu fluxe de treball, per aclarir-los i organitzar-los d'una manera oportuna, es troben corrent a contrarellotge quan en realitat podrien ocupar-se d'ells més avant.
