@@ -386,3 +386,27 @@ Tècniques de captura:
 Me n'he adonat de que un dels principal motius pels que les persones es senten tan molestes al ser interrompides és que manquen de bones habilitats i ferramentes de captura.
 
 La majoria de persones no té suficient confiança en la seua capacitat per a capturar aquest tipus d'**inputs** en l'embut del seu fluxe de treball, per aclarir-los i organitzar-los d'una manera oportuna, es troben corrent a contrarellotge quan en realitat podrien ocupar-se d'ells més avant.
+
+### El valor dels marcadors
+
+Prendre notes mentre es fa altres coses és bona idea per tal de portar un seguiment posterior si s'escau. En cas contrari podem despreciar la nota.
+
+### Bones pràctiques per capturar
+
+1. Ferramentes: estableix les ferramentes per a capturar
+2. Capturar en totes les parts: cal tenir a mà les ferramentes de captura
+3. Pissarres + càmera de fotos
+4. Factors per a capturar:
+    - No existeixen les males idees. Cal reconèixer el que no tenim sota el nostre control
+    - Sobrecaptura per entrar en un nivell més profund, més conscient
+    - Autoritza la teua psique per tal que es puga expressar lliurement
+    - La generació d'idees no és el mateix que la presa de decisions sobreles metes i plans, això resulta fonamental per arribar a mantenir el control
+    - Capturar com a factor d'èxit: escriure les coses en un paper pot facilitar el reconeixement d'aspectes clau que no hi havies caigut
+
+## Pensar al voltant de les teues coses no en les teues coses
+
+La ment està feta per **generar idees**, no per a **magatzemar-les**.
+
+El fet de **dividir la tasca en xicotets passos** fa que s'active, automàticament un compromís positiu.
+
+
