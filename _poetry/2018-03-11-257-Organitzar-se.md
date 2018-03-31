@@ -7,7 +7,7 @@ keywords:  # Paraules clau
 coments:  # Comentaris
 ---
 
-L’única manera correctai <br />
+L’única manera correctar <br />
 d’organitzar-se amb eficàcia <br />
 és **realitzar** les coses verdaderament **importants** <br />
 fent servir el **menor temps** i **energia** possibles. <br />
