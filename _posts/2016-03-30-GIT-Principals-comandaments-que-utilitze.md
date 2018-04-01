@@ -68,7 +68,7 @@ La instantània és la mateixa, sols pots canviar el que has posat com a missatg
 
 # 14. Evitar que GIT demane usuari i contrasenya
 
-> $ git config --global credential.helper. store
+> $ git config --global credential.helper store
 
 La contrasenya del repositori remot queda magatzemada al fitxer `.git-credentials`
 
