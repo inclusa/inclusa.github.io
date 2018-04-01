@@ -410,3 +410,26 @@ La ment està feta per **generar idees**, no per a **magatzemar-les**.
 El fet de **dividir la tasca en xicotets passos** fa que s'active, automàticament un compromís positiu.
 
 
+### 6. Obtenir el control: Aclarir
+
+En aquesta estapa tens l'oportunitat de **centrar-te en el que et crida l'atenció**, per la qual cosa deixaràs de gastar energia de forma inadequada.
+
+El pensament ha de decidir què fer amb alguna cosas quan no és obvi o evident.
+
+Cal decidir el **significat relatiu** que se li dona a cada idea.
+
+Claus per processar:
+
+1. Primer capturar, més tard, processar, no fer-ho al mateix temps.
+2. Processar la safata d'entrada, deixar-la buida.
+3. No passar a organitzar sense identificar exactamente le que necessita ser organitzat.
+4. Decidir si el la tasca és processable o no.
+
+Finalment cal preguntar-se:
+
+1. Quin és el resultat desitjat?
+2. Què em compromt a fer o a acabar?
+3. Quina és la següent acció?
+4. Què és el següent que necessite fer per avançar cap a eixa meta?
+
+P.61
