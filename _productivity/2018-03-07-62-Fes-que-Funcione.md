@@ -432,4 +432,28 @@ Finalment cal preguntar-se:
 3. Quina és la següent acció?
 4. Què és el següent que necessite fer per avançar cap a eixa meta?
 
-P.61
+El secret de la fase d'**aclarir** es:
+
+1. Preguntar-se per la situació: *Què estem intentat fer ací?*
+2. Saber: *Quina és la pròxima acció?*
+
+**Descriure amb major precició** els projectes reals que gestiones ofereix un enfoc difernt molt més efectiu per assolir l'èxit.
+
+Conèixer la **línia de meta**, eixe coneixement proporciona de forma molt més clara la quantitat d'energia i de recursos per a guanyar.
+
+> Quan el resultat final és difús, resulta difícil maniobrar per a que el vent empente les veles.
+
+Aprendre a capturar i **enfrontar-nos** amb els xicotets dimonis que suposa l'enfoc en sí mateix, en distintos nivells és clau per a fer que tot funcione.
+
+Cap dels projectes **algun dia** inclouen compromís algú per avançar. Els altres projectes **sí** que inclouen **accions específiques**. Els projectes **algun dia** pertanyen al món de la fantasia.
+
+En el moment que es fan conscients la quantitat de projectes que cal fer apareix el sentiment de derrota. El treball ens supera emocionalment. La resposta sol ser *permetre que eixes llistes aletarguen, per a aixó, evitar mirar conscientment i de manera objectiva el seu contingut i no haver de mantenir-lo actualitzat*. **La ment extendida s'ha retirat al seu anterior estat: sol la impulsa el més evident i el més recent**.
+
+> Mestre més entrenat estigues per a integrar eixe procés de clarificació de significats en la teua vida i en el teu treball per a que rutinàriament et porte a relacionar els *imputs* més difícils als quals t'enfrontes, més mantindràs el teu espai en l'exptrem guanyador de l'equació.
+
+**Capturar** i **aclarir** el que et crida l'atenció és un pas fonamental per a aconseguir tenir les coses sota control.
+
+
+### 7. Obtenir el control: Organitzar
+
+
