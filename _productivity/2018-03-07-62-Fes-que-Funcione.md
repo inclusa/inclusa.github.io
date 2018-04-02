@@ -449,11 +449,13 @@ Cap dels projectes **algun dia** inclouen compromís algú per avançar. Els alt
 
 En el moment que es fan conscients la quantitat de projectes que cal fer apareix el sentiment de derrota. El treball ens supera emocionalment. La resposta sol ser *permetre que eixes llistes aletarguen, per a aixó, evitar mirar conscientment i de manera objectiva el seu contingut i no haver de mantenir-lo actualitzat*. **La ment extendida s'ha retirat al seu anterior estat: sol la impulsa el més evident i el més recent**.
 
-> Mestre més entrenat estigues per a integrar eixe procés de clarificació de significats en la teua vida i en el teu treball per a que rutinàriament et porte a relacionar els *imputs* més difícils als quals t'enfrontes, més mantindràs el teu espai en l'exptrem guanyador de l'equació.
+> Mentre més entrenat estigues per a integrar eixe procés de clarificació de significats en la teua vida i en el teu treball per a que rutinàriament et porte a relacionar els *inputs* més difícils als quals t'enfrontes, més mantindràs el teu espai en l'extrem guanyador de l'equació.
 
 **Capturar** i **aclarir** el que et crida l'atenció és un pas fonamental per a aconseguir tenir les coses sota control.
 
 
 ### 7. Obtenir el control: Organitzar
+
+**Ser organitzat** significa que les coses s'ordenen en funció del significat que tenen per a u mateix.
 
 
