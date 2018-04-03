@@ -456,6 +456,26 @@ En el moment que es fan conscients la quantitat de projectes que cal fer apareix
 
 ### 7. Obtenir el control: Organitzar
 
+Hui necessitem una **ment extendida** que puga aliviar la presió de la nostra psique i l'allibere per a realitzar un treball més valuós. Per a aconseguir aquesta expansió es requereix la comprensió, la composició i la utilització de la màxima estructura organitzativa que el nostre cervell siga capaç d'aconseguir.
+
+Un error clau consisteix en pensar que **organitzar-se** és sol un acte.
+
+Quan fer front a l'experiència de falta de control es condensa en **organitzar-se** com a única pràctica, es *perd el nord* i és probable que es produïsca *estrés*, inclús més que el que es pretenia aliviar. Si esperes **saber qué fer** amb alguna cosa abans de decidir-te a **capturar-lo**, tot el joc se te resistirà. Si suposes que arreglaràs les coses abans d'haber **determinat el seu significat específic**, estàs anant en contra de com funciona el cervell. Si tens que establir **prioritats** i **prendre decisions** i no tens els context de tot el que crida la teua atenció, estàs en un terreny resbaladís.
+
 **Ser organitzat** significa que les coses s'ordenen en funció del significat que tenen per a u mateix.
+
+És important ací **identificar** el concepte de **significat** amb el d'**ubicació**. Això va a generar un canvi progressiu en l'ordre del món.
+
+El que es converteix en una cosa més complicada és que **el significat de les coses va canviant amb el temps**. No importa com sigues d'organitzat, sempre existirà una porció del teu univers que no esté sincronitzada amb les realitats canviants.
+
+No és possible ser massa organitzat, però potser que hagem creat sistemes massa complexes, llavors això també és manca d'organització.
+
+La definció d'organització també s'aplica a **projectes**, **aconteciments** o **activitats**, encara que, en aquests casos, la **ubicació adequada** potser més *conceptual* i *contextual* que *física*. Si estàs intentant organitzar una reunió, tots els **temes potencialment relevants** i tots els **detalls logístics** es deurien **capturar** i **processar** en primer lloc. Basant-te en el **resultat perfectament definit** i en les **accions necessaries**, els **components de l'ordre del dia**, els **passos seqüencials** i les **prioritats relatives** es deurien d'**ordenar** i **col·locar** en els llocs adequats del plan, així com ser encarregats a les **persones concretes**.
+
+> El significat precedeix a l'organització
+
+Si intentes organitzar-te abans d'haver definit suficientment el significat, et sentiràs frustrat en l'esforç.
+
+Els processos i ferramentes d'organització no han de ser massa complicats o no els utilitzaràs. Però han de ser el suficienment complexes per a permetre't un inventari total i per a oferir-te la possibilitatd e veure determinades seccions de manera adient.
 
 
