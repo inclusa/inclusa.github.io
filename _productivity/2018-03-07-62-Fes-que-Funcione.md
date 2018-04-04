@@ -478,4 +478,38 @@ Si intentes organitzar-te abans d'haver definit suficientment el significat, et 
 
 Els processos i ferramentes d'organització no han de ser massa complicats o no els utilitzaràs. Però han de ser el suficienment complexes per a permetre't un inventari total i per a oferir-te la possibilitatd e veure determinades seccions de manera adient.
 
+#### Categories organitzatives
 
+1.Resutlats
+	- Propòsit/princis
+	- Visió
+	- Metes i objectius
+	- Centres d'atenció
+	- Projectes
+	- Esperar per altres
+2. Accions
+	- Calendari
+		- Dia i hora d'accions específiques
+		- Dia i hora d'informació específica
+	- Tan promte com siga possible, segons context
+		- Cridades
+		- Ordinador
+		- Oficina
+		- Casa
+		- En qualsevol lloc
+		- Recats
+		- Agendes
+			- Un a un
+			- Reunions
+		- Llegir/revisar
+	- Esperar als demés
+3. Incubar
+	- Algun dia
+	- Inicis diferits, agendats
+4. Recolzament
+	- Plan
+	- Materials colaterals del projecte/clients
+5. Referència
+	- General
+	- Especialitzada
+6. Fem
