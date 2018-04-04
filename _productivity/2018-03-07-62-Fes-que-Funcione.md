@@ -480,7 +480,7 @@ Els processos i ferramentes d'organització no han de ser massa complicats o no 
 
 #### Categories organitzatives
 
-1.Resutlats
+1. Resutlats
 	- Propòsit/princis
 	- Visió
 	- Metes i objectius
