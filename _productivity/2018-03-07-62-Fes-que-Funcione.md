@@ -478,9 +478,9 @@ Si intentes organitzar-te abans d'haver definit suficientment el significat, et 
 
 Els processos i ferramentes d'organització no han de ser massa complicats o no els utilitzaràs. Però han de ser el suficienment complexes per a permetre't un inventari total i per a oferir-te la possibilitatd e veure determinades seccions de manera adient.
 
-#### Categories organitzatives
+#### Categories organitzatives. Mapa de carreteres
 
-1. Resutlats
+1. Resultats
 	- Propòsit/princis
 	- Visió
 	- Metes i objectius
@@ -513,3 +513,7 @@ Els processos i ferramentes d'organització no han de ser massa complicats o no 
 	- General
 	- Especialitzada
 6. Fem
+
+Cal adonar-se que aquesta classificació ha estat construida després d'analitzar molts casos d'èxit. Canviar-la no borra el contingut, el qual segueix estant present. D'aquesta manera, caldrà sempre tenir en compte aquests continguts.
+
+### 8. Control
