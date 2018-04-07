@@ -212,7 +212,7 @@ Els dos ingredients per a fer que tot funcione són:
 
 Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu mateix, llavors probablement et donaràs compte que no queda molt de marge de millora. El teu món estarà en ordre i tu estaràs centrat exactament en el que és correcte. Sols quan uno o els dos ingredients disminueixen algo va malament, i es necessita una correcció.
 
-#### 1. **Víctima**. Síndrome: **El que respon**
+##### 1. **Víctima**. Síndrome: **El que respon**
 
 - Poc control
 - Poca perspectiva
@@ -381,17 +381,17 @@ Tècniques de captura:
 7. El valor dels marcadors
 8. Bones pràctiques per capturar
 
-### Arma contra les interrupcions
+#### Arma contra les interrupcions
 
 Me n'he adonat de que un dels principal motius pels que les persones es senten tan molestes al ser interrompides és que manquen de bones habilitats i ferramentes de captura.
 
 La majoria de persones no té suficient confiança en la seua capacitat per a capturar aquest tipus d'**inputs** en l'embut del seu fluxe de treball, per aclarir-los i organitzar-los d'una manera oportuna, es troben corrent a contrarellotge quan en realitat podrien ocupar-se d'ells més avant.
 
-### El valor dels marcadors
+#### El valor dels marcadors
 
 Prendre notes mentre es fa altres coses és bona idea per tal de portar un seguiment posterior si s'escau. En cas contrari podem despreciar la nota.
 
-### Bones pràctiques per capturar
+#### Bones pràctiques per capturar
 
 1. Ferramentes: estableix les ferramentes per a capturar
 2. Capturar en totes les parts: cal tenir a mà les ferramentes de captura
@@ -403,7 +403,7 @@ Prendre notes mentre es fa altres coses és bona idea per tal de portar un segui
     - La generació d'idees no és el mateix que la presa de decisions sobreles metes i plans, això resulta fonamental per arribar a mantenir el control
     - Capturar com a factor d'èxit: escriure les coses en un paper pot facilitar el reconeixement d'aspectes clau que no hi havies caigut
 
-## Pensar al voltant de les teues coses no en les teues coses
+#### Pensar al voltant de les teues coses no en les teues coses
 
 La ment està feta per **generar idees**, no per a **magatzemar-les**.
 
@@ -516,4 +516,67 @@ Els processos i ferramentes d'organització no han de ser massa complicats o no 
 
 Cal adonar-se que aquesta classificació ha estat construida després d'analitzar molts casos d'èxit. Canviar-la no borra el contingut, el qual segueix estant present. D'aquesta manera, caldrà sempre tenir en compte aquests continguts.
 
-### 8. Control
+### 8. Obtenir el control: Reflexió
+
+#### Un sistema inusual no és un sistema
+
+Es necessari reflexionar-lo i comprometre's amb ell. De res val tenir una llista de nombres de telèfon si mai els vas a marcar.
+
+#### La doble funció de la reflexió
+
+- Actualitzar el contingut
+- Dotar-lo d'una perspectiva de confiança
+
+Per a mantenir el **control** hauràs de revisar les dades del teu sistema i renovar-los quan siga necessari per a que s'adapten a la realitat de cada moment.
+
+**Actualitzar assumptes**
+
+Com que els projectes són susceptibles al **canvi de significat al llarg del temps**, el teu sistema també ha de tenir-lo en compte.
+
+Si els projectes canvien de significat caldrà ajustar les teues accions a aquests canvis i prioritzar les accions pertinents de forma coherent a aquests canvis. En cas contrari el sistema es **sobrecarrega**.
+
+**Perspectiva des de la reflexión**
+
+A més d'actualitzar el teu llistat d'obligacions, l'altre benefici igualment essencial de la reflexió és l'**ampliació de perspectives**.
+
+Si et **sents confús** per les novetats respecte a un assumpte i tens la sesació de que t'abrumaran, **es convenient parar**, prendre un respir i tractar d'analitzar la situació amb **perspectiva**.
+
+Hi ha moments en que si no et pares i medites des d'un punt de vista més ampli, seguiràs lluny d'obtenir el control.
+
+Definirem 6 horitzonts. La seua revisió serà més diferida en el temps segons estiguen més lluny.
+
+> Sols et pots sentir bé respecte a alguna cosa que no estàs fent quant eres conscient de què és el que no estàs fent.
+
+No hi ha manera de saber amb certesa el que no estàs fent sense una negociació ferma amb tu mateixa.
+
+La interacció entre l'ús que fas del teu sistema per a desemmaranyar les teus idees i l'ú d'és tes per a coordinar-lo dona una aliança interessant.
+
+> No hi ha ment humana capaç d'**enregistrar** objectivamente els **projectes i recordatoris** més eficaçment que una simple **anotació en un full**, així com no existe sistema millor que **el teu cervell** per a **relacionar** el que està en aquests apunts amb múltiples associons.
+
+- **Full de paper**: per a enregistrar
+- **Cervell**: per a relacionar idees
+
+Si no anotes les idees **la teua ment seguiràs esperant-les**.
+
+La **teua ment** ha d'estar acostumada a **pensar en el teu personal** no **sobre ell**.
+
+Si apuntem, per exemple, `cridar a Pep`, però no realitzem la revisió setmanal, no recordarem per a què cal cridar-lo. Aquest tipus d'associacions es fan en la revisió. Per això, les **revisions constants** poden assegurar una **perspectiva integradora**.
+
+> Les revisions incompletes de llistats desfasats creen més estrés del que poden eliminar.
+
+Per a llevar les coses del cap abans deus acomodar-les dins d'ella. Si no revises les teues metes sovint començaran a ocupar un improductiu espai mental.
+
+Si no estàs disposat a ver una valoració setmanal de tots els teus projectes, alguna part del teu cervell s'empenyarà en revisar-los continuament.
+
+Si tens moltes cites, però no mires l'agenda, ho compensaràs intentant recordar-les.
+
+Per a intentar vore's sotmés a incessants cavil·lacions és necessari haver pensat primer en elles el suficient temps i confiar en que ho podràs tornar a fer quan arribe el moment.
+
+> Has de mantenir una reflexió rutinària sobre les teues perspectives, amb els intervals que siguen necessaris.
+
+Aquests mètodes consisteixen en **posar l'atenció adequada en el que t'interessa**.
+
+És fàcil caure's del carro, però també és fàcil tornar a pujar.
+
+La clau està en tenir un **projecte solid** i **estructurat**, a més d'algun **sistema de revisió** que et proporcione el mètode per a rellenar els espais en blanc que poden aparèixer de vegades.
+
