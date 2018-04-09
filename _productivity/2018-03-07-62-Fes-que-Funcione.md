@@ -580,3 +580,45 @@ Aquests mètodes consisteixen en **posar l'atenció adequada en el que t'interes
 
 La clau està en tenir un **projecte solid** i **estructurat**, a més d'algun **sistema de revisió** que et proporcione el mètode per a rellenar els espais en blanc que poden aparèixer de vegades.
 
+
+### 8. Obtenir el control: Compromís
+
+El concepte clau ací és que **conservar el control**, a la llarga, serà una **manera d'optimitzar els teus recursos físics**; en definitiva, **quina acció portes a terme en aquest moment i en quina mesura et sent còmode amb ella**.
+
+Estàs fent el que has de fer en aquest moment? Si és així, en els moments crucials no sentiràs la presió del temps ni de la ment, no t'agobiaràs. No hauràs de preocupar-te per buscar un equilibri entre el teu treball i la teua vida; no hauràs d'establir una distinció entre si estàs treballant o vivint. Sols estaràs fent el que has de fer, sense cap distracció interna.
+
+Seguir la metodologia GTD (captura, clarificació, organització i revisió) et donarà un punt de vista clar per tal que escullgues l'**opció adequada** entre totes les que hi ha disponibles. A més si es tenen en compte els **sis horitzons d'enfoc**, tindràs clares les **opcions prioritàries**.
+
+> No post establir resultats, sino sols tenir-los en compte com a objectius que assolir, si portes a terme les conductes adequades. Les teues inversions, obligacions i implicacions respecte al món manterial sols es poden posar de manifest mitjançant accions.
+
+El més important en aquest baròmetre no resideix en mesurar la quantitat de coses que fa la gent, sinó en la quantitat de compromís amb elles.
+
+Els **elements relevants** en aquest estadio té dos aspectes:
+
+1. **Definir** el que **significa** el **compromís** en tota la seua extensió.
+2. **Considerar** els **factors concrets**, una vegada clarificat l'enfoc de l'acció en particular.
+
+
+#### Quin és el següent pas?
+
+La resposta tendeix un pont del que és visible al que és invisible, de la idea de realitat, de pla espiritual al pla físic.
+
+Si el que escrius a la teua llista no és suficientment concret per donar el següent pas, si persisteix una llacuna entre el contingut i la realitat, si no té un signifcat clar no podràs avançar.
+
+Caldrà fer-te tres preguntes:
+
+- Què té sentit que puga ocòrrer?
+- Com s'està desenvolupant?
+- On està succeïnt?
+
+Si no ets capaç de contstar a estes tres qüestions amb concreció, significarà que, encara et queda treball per fer. Caldrà tornar a la fase d'**aclarir** en el que has de posar la teua atenció.
+
+Identificar la pròxima acció va unida a definr els resultats desitjats a l'hora d'establir la importància que tens en una situació donada.
+
+> Les accions venen determinades i filtrades pels resultats que busquem, i els resultats es consegueixen mitjançant accions.
+
+Sovint és tan senzill com **aclarir** un prouecte quan el comences, contretant en accions tangibles. No fer-ho al revés.
+
+Lluitar contra la resposta a **quin és el pas següent?** posa de manifest aspectes productius a escales més elevades, que, sovint, necessiten ser tinguts en compt i quasi sempre són la única forma de començar a identificar-los i enfrontar-se amb ells.
+
+David Allen parla de Dean Acherson i de Jack Stuster.
