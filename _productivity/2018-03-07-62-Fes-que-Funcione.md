@@ -621,4 +621,35 @@ Sovint és tan senzill com **aclarir** un prouecte quan el comences, contretant 
 
 Lluitar contra la resposta a **quin és el pas següent?** posa de manifest aspectes productius a escales més elevades, que, sovint, necessiten ser tinguts en compt i quasi sempre són la única forma de començar a identificar-los i enfrontar-se amb ells.
 
-David Allen parla de Dean Acherson i de Jack Stuster.
+Jack Stuster, un antropòleg que va estudiar la conducta humana de persones sotmeses a altes condicions d'estrés i entorns d'aïllament. Havia estudiat i escru un gran manual d'investigació al voltant dels factors humans que tndíen a la disminució del rendiment sota eixes condicions, per la qual cosa va analitzar el comportament d'astronautes en l'estació espacial i equips d'exploració a l'Antàrtida.
+
+El manual d'instruccions que proposava es tractava d'una seqüència lògica: Si `A` fes `1`, si `B` fes `2`.
+
+> Va deduir que preveure les accions específiques que anaven a ser necessàries era d'un valor incalculable, ja que permetien confiar en el sistema ressultant que et guiaria quan tingueres l'energia, però no temps per a pensar.
+
+El següent aspecte a tenir en compte és el concepte de **següent pas**.
+
+1. **Fer** les tasques que pugues portar a terme en menys de 2 minuts.
+2. **Delegar** en la mesura del que et siga possible.
+3. **Posposar** aquelles tasques que cal dedicar més temps.
+
+
+#### Factors de compromís
+
+1. Estratègies
+    - Propòsit/Principis
+    - Visió
+    - Metes/Objectius
+    - Àrees d'enfocament i responsabilitat
+    - Projectes
+    - Accions
+2. Factors de límit
+    - Context
+    - Temps disponible
+    - Recursos disponibles
+3. Opcions d'adequació
+    - Predefinides
+    - Ad hoc
+    - Opcions definides
+
+
