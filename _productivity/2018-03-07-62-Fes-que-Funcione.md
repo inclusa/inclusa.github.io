@@ -653,3 +653,12 @@ El següent aspecte a tenir en compte és el concepte de **següent pas**.
     - Opcions definides
 
 
+#### Factors de límit
+
+1. **Context**. Estem limitats en l'elecció de què fer, simplement pel lloc en el qual et trobes. És el primer criteri que limita les teues opcions. Així és més senzill considerara les teues opcions en cada moment.
+2. **Temps disponible**. Cal plantejar-se les coses que es poden fer en el temps del que disposem.
+3. **Energia**. Estàs actuant diligent ment quan associes la tasca que tens entre mans al teu estat mental i físic.
+
+Fer alguna cosa i trobarse inquiet és possiblement millor que no fer res i trobar-se culpable.
+
+En la mesura en que tens, al menys la intenció de comprometre't amb el teu món d'una manera profitosa, emprendre qualsevol acció en molts casos menejarà la teua energia en la direcció adequada.
