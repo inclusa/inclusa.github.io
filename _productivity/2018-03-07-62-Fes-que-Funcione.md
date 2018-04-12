@@ -701,3 +701,18 @@ Viure i treballar en **modalitat d'emergència** no funcionarà. Això passarà 
 
 
 #### 8.3. El repte de les prioritats
+
+Si renuncies a les teues prioritats perquè estàs evitant-les, si renuncies a conèixer les seues complexitats o simplement no saps quines són, estaràs destinat a perdre cert grau de control sobre la teua vida.
+
+Considerant que puges tenir alguna **intenció de progressar** o expandir la teua experiència de form adistinta a com ho estàs fent ara, tindràs prioritats. Dependrà de tu en quina **direcció** i a quina **velocitat** actues.
+
+A la llarga haurà de confiar tant en la teua **intel·ligència** com en la teua **intuició**. No séràs capaç d'integrar tota la informació conscient i després aplicar-la com una fòrmula matemàtica en els resultats en els quals confiar. Hi ha massa aspectes per processar a la teua ment.
+
+
+##### 8.3.1. El factor de l'èxit del moviment per se
+
+Quan més confies en el colxó que t'ofereix el teu sistema més riscos estaràs disposat a córrer.
+
+La **clau està en el moviment**. Si perds el control perquè has deixat de banda el sistema, cal tornar a fer les accions que ens portaran cap a ell.
+
+Costa més canviar de direcció 180 graus que fer-ho partint d'una posició estàtica, però això no significa que hages d'implicar-te en una activitat frenètica. Hi haurà moments en els quals és necessari baixar el ritme.
