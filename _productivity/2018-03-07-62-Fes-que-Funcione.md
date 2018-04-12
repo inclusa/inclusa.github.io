@@ -599,7 +599,7 @@ Els **elements relevants** en aquest estadio té dos aspectes:
 2. **Considerar** els **factors concrets**, una vegada clarificat l'enfoc de l'acció en particular.
 
 
-#### Quin és el següent pas?
+#### 8.1. Quin és el següent pas?
 
 La resposta tendeix un pont del que és visible al que és invisible, de la idea de realitat, de pla espiritual al pla físic.
 
@@ -634,7 +634,7 @@ El següent aspecte a tenir en compte és el concepte de **següent pas**.
 3. **Posposar** aquelles tasques que cal dedicar més temps.
 
 
-#### Factors de compromís
+#### 8.2. Factors de compromís
 
 1. Estratègies
     - Propòsit/Principis
@@ -652,8 +652,15 @@ El següent aspecte a tenir en compte és el concepte de **següent pas**.
     - Ad hoc
     - Opcions definides
 
+##### 8.2.1. Estratègies
 
-#### Factors de límit
+Conceptual i lògicament, la teua elecció respecte a quina acció portar a terme es deu vincular a les obligacions que hages identificat en els nivells superiors, a partir els quals s'estableixen les jerarquies.
+
+Situació exemple: El correu que has de contestar primer és el que acomplisca en major mesura els teus propòsits personals i organitzatius i que a la vegada estiga lligat als teus valors principals.
+
+Plantejar-se horitzons respecte a les prioritats és un mètode útil per a mantenir els conflictes sota control.
+
+##### 8.2.2. Factors de límit
 
 1. **Context**. Estem limitats en l'elecció de què fer, simplement pel lloc en el qual et trobes. És el primer criteri que limita les teues opcions. Així és més senzill considerara les teues opcions en cada moment.
 2. **Temps disponible**. Cal plantejar-se les coses que es poden fer en el temps del que disposem.
@@ -662,3 +669,35 @@ El següent aspecte a tenir en compte és el concepte de **següent pas**.
 Fer alguna cosa i trobarse inquiet és possiblement millor que no fer res i trobar-se culpable.
 
 En la mesura en que tens, al menys la intenció de comprometre't amb el teu món d'una manera profitosa, emprendre qualsevol acció en molts casos menejarà la teua energia en la direcció adequada.
+
+##### 8.2.3. Opcions d'actuació
+
+###### A. Predefinides
+
+El **treball predefinit** és la descripció precisa dels conitnguts de la teua llista d'accions, projectes, objectius, etc.
+
+> Si vols portar a terme les teues tasques hauràs d'haver meditat sobre els detalls més exhaustius.
+
+###### B. Ad hoc
+
+Les sorpreses, el treball inesperat suposa un gran repte. De com afrontem les sorpreses i de com et sentes en general respecte d'elles depen el teu accés a una visió completa del treball que tens en les teues mans, així com la teua habilitat per a evaluar la novetat front a llistat predeterminat. Si has d'anar a les fosques, la teua ment no es pot distraure en projectes indefinits ni en correus per processar. Si t'ha pillat desprevingut, necessites ple accés a les teues facultats, llibertats i facilitat per a canviar d'enfoc, del pla general al detall i a l'inrevés, per a moure't amb destresa amb la situació actual.
+
+Per aquesta raó, serà convenient llevar treball endarrerit. Hauries de **tenir el menos nombre d'assumptes en el teu cap**.
+
+###### C. Opcions definides
+
+Les **accions que has de fer per aclarir la teua tasca**: tramintar el contingut de la teua safata de coses pendents per assegurar que no has oblidat res important relacionat amb els teus assumptes pendents.
+
+Això pot portar de **30 a 90 minuts al dia**.
+
+El mètode GTD està dissenyat per:
+
+1. Fer que la definició de treball siga el més senzilla i completa possible.
+2. Per a proporcionar una forma de mantenir el llistat resultat tan clar, accessible i detallat com siga possible.
+
+Es tracta d'**elegir la millor tasca d'entre totes les que he de fer**.
+
+Viure i treballar en **modalitat d'emergència** no funcionarà. Això passarà si el teu llistat és imprecís, incomplet i revisable. Si sempre tens dubtes del que has de fer despediràs molta energia emplenant forats i apagant focs quan es presenten.
+
+
+#### 8.3. El repte de les prioritats
