@@ -716,3 +716,25 @@ Quan més confies en el colxó que t'ofereix el teu sistema més riscos estaràs
 La **clau està en el moviment**. Si perds el control perquè has deixat de banda el sistema, cal tornar a fer les accions que ens portaran cap a ell.
 
 Costa més canviar de direcció 180 graus que fer-ho partint d'una posició estàtica, però això no significa que hages d'implicar-te en una activitat frenètica. Hi haurà moments en els quals és necessari baixar el ritme.
+
+
+### 10. Obtenir el control: Aplicació a la vida i al treball
+
+Relat El Jardí de Grace.
+
+#### Posar El Jardí de Grace sota control
+
+1. Captura: Recull els elements de l'univers que es troba.
+2. Clarificació: Classifica aquests elements.
+3. Organització: Pren decisions, fa llistes d'accions que ha de fer.
+4. Reflexió: Pensa, medita sobre tots els elements.
+5. Compromís: Crea un full de ruta per a executar.
+
+#### Ron Taylor es somet a l'autocontrol
+
+1. Captura
+2. Clarificació
+3. Organització
+4. Reflexió
+5. Compromís
+
