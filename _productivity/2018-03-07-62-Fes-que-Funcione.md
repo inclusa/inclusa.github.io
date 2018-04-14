@@ -724,17 +724,13 @@ Relat El Jardí de Grace.
 
 #### Posar El Jardí de Grace sota control
 
-1. Captura: Recull els elements de l'univers que es troba.
-2. Clarificació: Classifica aquests elements.
-3. Organització: Pren decisions, fa llistes d'accions que ha de fer.
-4. Reflexió: Pensa, medita sobre tots els elements.
-5. Compromís: Crea un full de ruta per a executar.
+1. **Captura**: Recull els elements de l'univers que es troba.
+2. **Clarificació**: Classifica aquests elements, dota de significat. Pren decisions respecte al què ha de clarificar i els passos que ha de donar. Pren decisions sobre què és relevant i què no.
+3. **Organització**: Incorporar actuacions. Llistat general de coses que cal fer per contextos.
+4. **Reflexió**: Pensa, medita sobre tots els elements. Revisar. Observar progrés.
+5. **Compromís**: Crea un full de ruta per a executar.
 
-#### Ron Taylor es somet a l'autocontrol
 
-1. Captura
-2. Clarificació
-3. Organització
-4. Reflexió
-5. Compromís
+### Obtenir la Perspectiva
 
+Una vegada obtens el **control** cal saber cap a on anar, cap adquirir **perspectiva**.
