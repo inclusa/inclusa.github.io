@@ -737,13 +737,13 @@ Una vegada obtens el **control** cal saber cap a on anar, cap adquirir **perspec
 
 Citem l'obra de [Daniel Kahneman](https://es.wikipedia.org/wiki/Daniel_Kahneman) com a referència. Extret de Wikipedia:
 
-``
+```
 La principal contribución de Kahneman a la ciencia económica consiste en el desarrollo, junto a Amos Tversky, de la denominada teoría de las perspectivas (prospect theory), según la cual los individuos toman decisiones, en entornos de incertidumbre, que se apartan de los principios básicos de la probabilidad. A este tipo de decisiones lo denominaron atajos heurísticos.
 
 Una de las manifestaciones de los atajos heurísticos es la aversión a la pérdida. De este modo, un individuo prefiere no perder 100 dólares antes que ganar 100 dólares, lo cual supone una asimetría en la toma de decisiones.
 
 La importancia de las investigaciones de Kahneman radican en su utilidad para modelar comportamientos no racionales, que se apartan de la concepción neoclásica del homo economicus y se aproximan a la teoría keynesiana y algunas teorías del ciclo económico.
-``
+```
 
 Conceptos a incorporar:
 
@@ -751,4 +751,17 @@ Conceptos a incorporar:
 - - Aversión a la pérdida
 - - Modelar comportamientos no racionales
 -
-- Interesante material para REFLEXIONAR a la hora de elegir des de *propósitos* a *próximas acciones*.`
+- Interesante material para REFLEXIONAR a la hora de elegir des de *propósitos* a *próximas acciones*.
+
+### Necessites Perspectiva per a obtenir el Control
+
+La **perspectiva** fa que pugam mantenir el control.
+
+### Controlar-se amb horitzonts
+
+És necessari dirigir separadament els horitzons d'enfoc amb procediments específics. Cal centrar-se en un sol horitzont cada vegada.
+
+A mesura que anem avançant en l'anàlisi dels enfocs, a mesura que anem pujant en el nivell dels mateixos tendirem a posposar al màxim els assumptes que més t'afecten. No hi ha un refugi segur en aquest exercicis d'enfoc fins que els has realitzat.
+
+### Pujar o baixar en la jerarquia
+
