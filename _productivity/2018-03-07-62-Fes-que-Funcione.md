@@ -731,7 +731,7 @@ Relat El Jardí de Grace.
 5. **Compromís**: Crea un full de ruta per a executar.
 
 
-### Obtenir la Perspectiva
+#### Obtenir la Perspectiva
 
 Una vegada obtens el **control** cal saber cap a on anar, cap adquirir **perspectiva**.
 
@@ -753,15 +753,37 @@ Conceptos a incorporar:
 -
 - Interesante material para REFLEXIONAR a la hora de elegir des de *propósitos* a *próximas acciones*.
 
-### Necessites Perspectiva per a obtenir el Control
+#### Necessites Perspectiva per a obtenir el Control
 
 La **perspectiva** fa que pugam mantenir el control.
 
-### Controlar-se amb horitzonts
+#### Controlar-se amb horitzonts
 
 És necessari dirigir separadament els horitzons d'enfoc amb procediments específics. Cal centrar-se en un sol horitzont cada vegada.
 
 A mesura que anem avançant en l'anàlisi dels enfocs, a mesura que anem pujant en el nivell dels mateixos tendirem a posposar al màxim els assumptes que més t'afecten. No hi ha un refugi segur en aquest exercicis d'enfoc fins que els has realitzat.
 
-### Pujar o baixar en la jerarquia
+#### Pujar o baixar en la jerarquia
+
+No existex un **camí correcte**, el model és **holístic**.
+
+> Procurar establir metes perque creus que has de fer-ho, sense abordar abans asumptes més importants i projectes que estan descontrolats, et portarà segurament a un esforç mediocre i, en el pitjor dels casos, limitarà els teus recursos. Fixaràs metes més compromeses i ordenades sense la influència i les discraccions d'altre nivell que està fora de control.
+
+Presta especial atenció al que té més interés per a tu. Amb això en ment pots començar a muntar les peces del gran trencaclosques en l'ordre que desitges. Quan més ràpid acabes de muntar-lo serà més senzill i faltaran menys peces per a quan tingues que desviar la teua atenció cap a un aspecte més profitós.
+
+
+#### Treballar amb els horitzonts d'enfoc
+
+La seqüència, habitualment més efectiva és de baix cap amunt.
+
+Les alçades proporcionen punts de referència que es corresponen amb prioritats més altes.
+
+La seqüència, habitualment més efectiva és de baix cap amunt.
+
+Les alçades proporcionen punts de referència que es corresponen amb prioritats més altes.
+
+
+### 12. Obtenir la Perspectiva en la pista de despegue: Següents passos
+
+
 
