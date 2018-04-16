@@ -745,14 +745,6 @@ Una de las manifestaciones de los atajos heurísticos es la aversión a la pérd
 La importancia de las investigaciones de Kahneman radican en su utilidad para modelar comportamientos no racionales, que se apartan de la concepción neoclásica del homo economicus y se aproximan a la teoría keynesiana y algunas teorías del ciclo económico.
 ```
 
-Conceptos a incorporar:
-
-- Atajos heurísticos
-- - Aversión a la pérdida
-- - Modelar comportamientos no racionales
--
-- Interesante material para REFLEXIONAR a la hora de elegir des de *propósitos* a *próximas acciones*.
-
 #### Necessites Perspectiva per a obtenir el Control
 
 La **perspectiva** fa que pugam mantenir el control.
