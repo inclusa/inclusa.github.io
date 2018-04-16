@@ -737,13 +737,11 @@ Una vegada obtens el **control** cal saber cap a on anar, cap adquirir **perspec
 
 Citem l'obra de [Daniel Kahneman](https://es.wikipedia.org/wiki/Daniel_Kahneman) com a referència. Extret de Wikipedia:
 
-```
-La principal contribución de Kahneman a la ciencia económica consiste en el desarrollo, junto a Amos Tversky, de la denominada teoría de las perspectivas (prospect theory), según la cual los individuos toman decisiones, en entornos de incertidumbre, que se apartan de los principios básicos de la probabilidad. A este tipo de decisiones lo denominaron atajos heurísticos.
-
-Una de las manifestaciones de los atajos heurísticos es la aversión a la pérdida. De este modo, un individuo prefiere no perder 100 dólares antes que ganar 100 dólares, lo cual supone una asimetría en la toma de decisiones.
-
-La importancia de las investigaciones de Kahneman radican en su utilidad para modelar comportamientos no racionales, que se apartan de la concepción neoclásica del homo economicus y se aproximan a la teoría keynesiana y algunas teorías del ciclo económico.
-```
+> La principal contribución de Kahneman a la ciencia económica consiste en el desarrollo, junto a Amos Tversky, de la denominada teoría de las perspectivas (prospect theory), según la cual los individuos toman decisiones, en entornos de incertidumbre, que se apartan de los principios básicos de la probabilidad. A este tipo de decisiones lo denominaron atajos heurísticos.
+>
+> Una de las manifestaciones de los atajos heurísticos es la aversión a la pérdida. De este modo, un individuo prefiere no perder 100 dólares antes que ganar 100 dólares, lo cual supone una asimetría en la toma de decisiones.
+>
+> La importancia de las investigaciones de Kahneman radican en su utilidad para modelar comportamientos no racionales, que se apartan de la concepción neoclásica del homo economicus y se aproximan a la teoría keynesiana y algunas teorías del ciclo económico.
 
 #### Necessites Perspectiva per a obtenir el Control
 
