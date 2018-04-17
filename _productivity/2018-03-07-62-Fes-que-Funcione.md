@@ -775,5 +775,33 @@ Les alçades proporcionen punts de referència que es corresponen amb prioritats
 
 ### 12. Obtenir la Perspectiva en la pista de despegue: Següents passos
 
+> El pensament és útil cuan estimula l'acció però és un estorbo quan la sustitueix. Bill Raeder.
+
+> Res és més revelador que el moviment. Martha Graham.
+
+
+#### Alcanç
+
+Què és el que es necessita fer?
+
+Aquesta categoria fa referència a l'àmbit físic.
+
+Seria un inventari dinàmic d'assumptes per fer.
+
+#### Alcanç
+
+Formats habituals:
+
+1. Determinar la següent acció física.
+2. Potar-la a terme en eixe moment.
+3. O deixar-la en mans d'altra persona.
+4. O seguir el seu rastre per tenir-la present quan convinga.
+
+#### Com i Quan cal comprometre's
+
+Cada dia necessitaràs implicar-te decidint què has de fer i com vas a fer-ho.
+
+- Unes accions no cal seguir-les la pista, les faràs automàticament.
+- Altres accions, no es recorden per sí mateixa, caldrà recordar-les mirant la lista on estan.
 
 
