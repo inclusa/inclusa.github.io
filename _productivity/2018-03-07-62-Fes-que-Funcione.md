@@ -805,3 +805,30 @@ Cada dia necessitaràs implicar-te decidint què has de fer i com vas a fer-ho.
 - Altres accions, no es recorden per sí mateixa, caldrà recordar-les mirant la lista on estan.
 
 
+#### Formats habituals
+
+Portar a terme les accions:
+
+- En eixe moment
+- Delegar i seguir el rastre
+
+Següents passos:
+
+- Atendar
+- Llista contextual
+
+#### Quan i com compromentre's
+
+Cada dia necessitaràs implicar-te dient què has de fer i com fer-ho.
+
+No serà necessari segur la pista a totes les accions, ja que ho faràs automàticament quan penses en elles o les circumstàncies ho requerisquen.
+
+A altres accions sí cal seguir la pista:
+
+- Accions agendades
+- Accions en llistes addicionals
+
+    Caldrà mirar-les una o dues vegades al dia, atenent a la complexitat i al detall de contingut.
+
+    Aquesta llista addicional hauria d'ésser revisada cada vegada que tinguerem temps i vullguerem comprovar que estàs considerant totes les teues opinions.
+
