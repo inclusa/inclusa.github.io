@@ -832,3 +832,10 @@ A altres accions sí cal seguir la pista:
 
     Aquesta llista addicional hauria d'ésser revisada cada vegada que tinguerem temps i vullguerem comprovar que estàs considerant totes les teues opinions.
 
+#### La pista de despegue i les teues prioritats
+
+Et sentiràs millor amb el que estàs fent **quan el teu llistat d'accions definides resulte el més complet possible**.
+
+Quan més conscient sigues del que t'has dit a tu mateix del que has de fer i més accessibles siguen les teues opcions que has de valorar, confiaràs més tant en el teu pla d'atac com en les teues decisions respcte a les accions que no estàs emprenent.
+
+Hi ha una diferència exponencial entre la gestió parcial i total.
