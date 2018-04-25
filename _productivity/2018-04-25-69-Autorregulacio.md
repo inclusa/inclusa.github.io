@@ -1,0 +1,81 @@
+---
+layout: post #
+title: 69 Autorregulació # Generat automàticament
+date: 2018-04-25 # Data
+description:  # Argument
+keywords:  # Paraules clau
+coments:  # Comentaris
+---
+
+<h1>Autorregulació</h1>
+<h2>Definició</h2>
+<div class="alert alert-dismissable alert-success"> L'autorregulació és la <span style="color: #045fb4;"><b>capacitat</b></span> per a <span style="color: #045fb4;"><b>dirigir</b></span> la<span style="color: #045fb4;"><strong> conducta pròpia</strong></span>.</div>
+No és una capacitat mental com la intel·ligència, sino un procés psicològic autofirigit a través del qual els aprenents transformen les seues capacitats mentals en habilitat acadèmiques.
+
+L'<strong>objectiu</strong> és que els alumnes<span style="color: #045fb4;"><strong> aprenguen a ser els seus propis mestres</strong></span>, es tracta de passar de l'ensenyament a la pràctica autorreflexiva.
+<blockquote>L'aprenentatge autorregulat és una fusió de <span style="color: #045fb4;"><strong>skill</strong></span> i <span style="color: #045fb4;"><strong>will</strong></span>, de <strong>destresa</strong> i de <strong>voluntat</strong>. L'<span style="color: #045fb4;"><strong>aprendent estratègic</strong></span> és aquell que ha après a <strong>planificar</strong>, <strong>controlar</strong> i <strong>avaluar</strong> els seus <strong>procesos cognitius</strong>, <strong>motivacionals/afectius</strong>, <strong>comportamentals</strong> i <strong>contextuals</strong>. Sap com aprén, està automotivat, coneix les seues possibilitats i limitacions, i en funció d'aquest coneixement, controla i regula els seus processos d'aprenentatge per a adequar-los als objectius de les tasques i al context, optimitzar el seu rendiment i millorar le seues habilitats mitjançant la pràctica.
+
+Fermín Torrano Montalvo
+María Carmen González Torres
+<a href="http://www.investigacion-psicopedagogica.org/revista/articulos/3/espannol/Art_3_27.pdf" target="_blank" rel="noopener">Universistat de Navarra</a></blockquote>
+<h2>Estratègia</h2>
+L'estudiant selecciona el seu propi camí per a acomplir amb l'objectiu acadèmic. Ha d'ésser estratègic, per fer-ho cal:
+<ul>
+    <li>Identificar la seua motivació</li>
+    <li>Planificar l'ús del temps</li>
+    <li>Automotivar-se</li>
+    <li>Autoavaluar-se</li>
+    <li>Desenvolupar la voluntat</li>
+    <li>Autoestimular-se</li>
+    <li>Organitzar el seu ambient físic i escolar</li>
+    <li>Cal relacionar-se amb persones que puguen ajudar (companys, guies, professors)</li>
+</ul>
+<div class="alert alert-dismissable alert-success"> Quan l'autorregulació es realitza de forma <span style="color: #045fb4;"><b>conscientment</b></span>, afavoreix l'alcanç exitós de la <b>meta</b>.</div>
+Els factors dels quals s'ocupa són:
+<ul>
+     <li>La motivació</li>
+     <li>El mètode</li>
+     <li>El temps</li>
+     <li>La conducta</li>
+     <li>El medi físic</li>
+     <li>El medi social</li>
+</ul>
+<div class="alert alert-dismissable alert-success"> L'autorregulació és <span style="color: #045fb4;"><b>controlar la teua acció</b></span>, en això intervé: la <b>cognició</b>, la <b>metacognició</b>, la <b>motivació</b>, la <b>conducta</b> i el <b>context</b>.</div>
+<h2>Procés</h2>
+Un estudiant por ta terme un procés d'autorregulació quan:
+<ul>
+    <li><b>Formula</b> o asumeix <b>metes</b> concretes, pròximes i realistes.</li>
+    <li><b>Observa</b> el seu <b>acompliment</b>.</li>
+    <li>Realitza un procés d'<b>avaluació</b> amb <b>criteris</b> cuidadosos.</li>
+    <li><b>Ajusta</b> la seua actuació <b>ponderant</b> les demandes de la meta y la seua actuació real.</li>
+</ul>
+<h2>Dimensions</h2>
+<ul>
+    <li><strong> Autorregulació de la <span style="color: #045fb4;">conducta</span></strong>: control actiu dels recursos que es tenen a disposició (temps, ambient, lloc).</li>
+    <li><strong> Autorregulació de la <span style="color: #045fb4;">motivació</span></strong>: controlar les emocions i afectes de manera que milloren el seua aprenentatge.</li>
+    <li><strong> Autorregulació de la <span style="color: #045fb4;">cognició</span></strong>: control de diverses estrategies cognitives que permetan millorar l'aprenentatge i el rendiment.</li>
+</ul>
+<h2>Fases</h2>
+<ul>
+    <li><b>Planificació</b>: establiment d'objectius</li>
+    <li><b>Realització</b>: medis per a aconseguir la meta (hatbilitats, destreces e informació)</li>
+    <li><b>Autorreflexió</b>: autoevaluació i reacions de satisfacció, adaptatives i defensives</li>
+    </ul>
+<h2>Orientacions</h2>
+<ul>
+    <li>És una <b>activitat mental</b> que permet crear un sistema personal d'aprenentatge</li>
+    <li>Cal <b>conèixer</b> els nostres talents i fortaleses i el que ens dificulta alcançar-ho</li>
+    <li>Una <b>avaluació</b> regular proporciona resultats més firmes</li>
+</ul>
+<hr />
+Font: <a href="http://es.wikipedia.org/wiki/Autoorganizaci%C3%B3n#Autoorganizaci.C3.B3n_o_autoregulaci.C3.B3n_en_el_aprendizaje"> Wikipedia </a>
+[slideshare id=9665196&doc=autorregulacinsigloxxiinternacionalizacin-111012173854-phpapp02]
+
+<a href="http://3.bp.blogspot.com/-Qy9Dy7na-DI/Th4FNzeutDI/AAAAAAAAABA/t98R3mGdnhU/s1600/inducci%25C3%25B3n+parental+a+la+autorregulaci%25C3%25B3n.jpg"><img class="aligncenter" src="http://3.bp.blogspot.com/-Qy9Dy7na-DI/Th4FNzeutDI/AAAAAAAAABA/t98R3mGdnhU/s1600/inducci%25C3%25B3n+parental+a+la+autorregulaci%25C3%25B3n.jpg" alt="" width="1600" height="1019" /></a>
+
+# Per saber-ne més
+[#01 - El aprendizaje autorregulado: presente y futuro de la investigación](http://www.investigacion-psicopedagogica.org/revista/articulos/3/espannol/Art_3_27.pdf)
+
+[#02 - El aprendizaje autoregulado: Universidad de Colima](https://comenio.files.wordpress.com/2007/10/a_autorregulado.pdf)
+
+[#03 - El aprendizaje autorregulado, creencias de autoeficacia y desempeño en la segunda infancia](http://www.uv.es/relieve/v16n2/RELIEVEv16n2_4.pdf) Molt interessant mirar l'annexe d'aquest document, ja que planteja estratègies concretes
