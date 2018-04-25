@@ -7,8 +7,7 @@ keywords:  # Paraules clau
 coments:  # Comentaris
 ---
 
-<h1>Autorregulació</h1>
-<h2>Definició</h2>
+<h1>Definició</h1>
 <div class="alert alert-dismissable alert-success"> L'autorregulació és la <span style="color: #045fb4;"><b>capacitat</b></span> per a <span style="color: #045fb4;"><b>dirigir</b></span> la<span style="color: #045fb4;"><strong> conducta pròpia</strong></span>.</div>
 No és una capacitat mental com la intel·ligència, sino un procés psicològic autofirigit a través del qual els aprenents transformen les seues capacitats mentals en habilitat acadèmiques.
 
@@ -18,7 +17,7 @@ L'<strong>objectiu</strong> és que els alumnes<span style="color: #045fb4;"><st
 Fermín Torrano Montalvo
 María Carmen González Torres
 <a href="http://www.investigacion-psicopedagogica.org/revista/articulos/3/espannol/Art_3_27.pdf" target="_blank" rel="noopener">Universistat de Navarra</a></blockquote>
-<h2>Estratègia</h2>
+<h1>Estratègia</h1>
 L'estudiant selecciona el seu propi camí per a acomplir amb l'objectiu acadèmic. Ha d'ésser estratègic, per fer-ho cal:
 <ul>
     <li>Identificar la seua motivació</li>
@@ -49,19 +48,19 @@ Un estudiant por ta terme un procés d'autorregulació quan:
     <li>Realitza un procés d'<b>avaluació</b> amb <b>criteris</b> cuidadosos.</li>
     <li><b>Ajusta</b> la seua actuació <b>ponderant</b> les demandes de la meta y la seua actuació real.</li>
 </ul>
-<h2>Dimensions</h2>
+<h1>Dimensions</h1>
 <ul>
     <li><strong> Autorregulació de la <span style="color: #045fb4;">conducta</span></strong>: control actiu dels recursos que es tenen a disposició (temps, ambient, lloc).</li>
     <li><strong> Autorregulació de la <span style="color: #045fb4;">motivació</span></strong>: controlar les emocions i afectes de manera que milloren el seua aprenentatge.</li>
     <li><strong> Autorregulació de la <span style="color: #045fb4;">cognició</span></strong>: control de diverses estrategies cognitives que permetan millorar l'aprenentatge i el rendiment.</li>
 </ul>
-<h2>Fases</h2>
+<h1>Fases</h1>
 <ul>
     <li><b>Planificació</b>: establiment d'objectius</li>
     <li><b>Realització</b>: medis per a aconseguir la meta (hatbilitats, destreces e informació)</li>
     <li><b>Autorreflexió</b>: autoevaluació i reacions de satisfacció, adaptatives i defensives</li>
     </ul>
-<h2>Orientacions</h2>
+<h1>Orientacions</h1>
 <ul>
     <li>És una <b>activitat mental</b> que permet crear un sistema personal d'aprenentatge</li>
     <li>Cal <b>conèixer</b> els nostres talents i fortaleses i el que ens dificulta alcançar-ho</li>
