@@ -40,7 +40,7 @@ Els factors dels quals s'ocupa són:
      <li>El medi social</li>
 </ul>
 <div class="alert alert-dismissable alert-success"> L'autorregulació és <span style="color: #045fb4;"><b>controlar la teua acció</b></span>, en això intervé: la <b>cognició</b>, la <b>metacognició</b>, la <b>motivació</b>, la <b>conducta</b> i el <b>context</b>.</div>
-<h2>Procés</h2>
+<h1>Procés</h1>
 Un estudiant por ta terme un procés d'autorregulació quan:
 <ul>
     <li><b>Formula</b> o asumeix <b>metes</b> concretes, pròximes i realistes.</li>
@@ -70,7 +70,7 @@ Un estudiant por ta terme un procés d'autorregulació quan:
 Font: <a href="http://es.wikipedia.org/wiki/Autoorganizaci%C3%B3n#Autoorganizaci.C3.B3n_o_autoregulaci.C3.B3n_en_el_aprendizaje"> Wikipedia </a>
 [slideshare id=9665196&doc=autorregulacinsigloxxiinternacionalizacin-111012173854-phpapp02]
 
-<a href="http://3.bp.blogspot.com/-Qy9Dy7na-DI/Th4FNzeutDI/AAAAAAAAABA/t98R3mGdnhU/s1600/inducci%25C3%25B3n+parental+a+la+autorregulaci%25C3%25B3n.jpg"><img class="aligncenter" src="http://3.bp.blogspot.com/-Qy9Dy7na-DI/Th4FNzeutDI/AAAAAAAAABA/t98R3mGdnhU/s1600/inducci%25C3%25B3n+parental+a+la+autorregulaci%25C3%25B3n.jpg" alt="" width="1600" height="1019" /></a>
+<a href="http://3.bp.blogspot.com/-Qy9Dy7na-DI/Th4FNzeutDI/AAAAAAAAABA/t98R3mGdnhU/s1600/inducci%25C3%25B3n+parental+a+la+autorregulaci%25C3%25B3n.jpg"><img class="aligncenter" src="http://3.bp.blogspot.com/-Qy9Dy7na-DI/Th4FNzeutDI/AAAAAAAAABA/t98R3mGdnhU/s1600/inducci%25C3%25B3n+parental+a+la+autorregulaci%25C3%25B3n.jpg" alt="" width="900" height="550" /></a>
 
 # Per saber-ne més
 [#01 - El aprendizaje autorregulado: presente y futuro de la investigación](http://www.investigacion-psicopedagogica.org/revista/articulos/3/espannol/Art_3_27.pdf)
