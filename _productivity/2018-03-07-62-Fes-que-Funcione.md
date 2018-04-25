@@ -839,3 +839,14 @@ Et sentiràs millor amb el que estàs fent **quan el teu llistat d'accions defin
 Quan més conscient sigues del que t'has dit a tu mateix del que has de fer i més accessibles siguen les teues opcions que has de valorar, confiaràs més tant en el teu pla d'atac com en les teues decisions respcte a les accions que no estàs emprenent.
 
 Hi ha una diferència exponencial entre la gestió parcial i total.
+
+#### El nivell d'acció com a la nova frontera
+
+Quan més baix estiga l'horitzó, el sistema per a gestionar-lo haurà de ser més sofisticat.
+
+Organitzar la teua aproximació al nivell de l'acció pot requerir grans dosis inicials de reflexió i exploració, més temps per a establir i més prepraració per instaurar els hàbits necessaris per a manenir-lo amb consistència.
+
+El més important és **decidir següents passos físics que s'han de donar**. Cal determinar l'ordre i qui ha de donar aquests passos.
+
+Moltes vegades és més senzill arribar a la clau d'una qüestió preguntant-se: **Llavors, quin és el següent pas que he de donar?**.
+
