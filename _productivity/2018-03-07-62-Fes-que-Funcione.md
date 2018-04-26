@@ -850,3 +850,10 @@ El més important és **decidir següents passos físics que s'han de donar**. C
 
 Moltes vegades és més senzill arribar a la clau d'una qüestió preguntant-se: **Llavors, quin és el següent pas que he de donar?**.
 
+#### El misteri final del que és convencional
+
+El **control** i la **perspectiva** es troben front a front en el nivell d'**acció**.
+
+### 13. Obtenir perspectiva a tres mil metres: Projectes
+
+
