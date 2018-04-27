@@ -857,3 +857,42 @@ El **control** i la **perspectiva** es troben front a front en el nivell d'**acc
 ### 13. Obtenir perspectiva a tres mil metres: Projectes
 
 
+#### Alcanç
+
+La qüestió en el nivell dels projectes és molt senzilla: **Què necessite per a acabar?**.
+
+**Definició de projecte**: Els resultats que poden arribar en un any i con comporten més d'una acció.
+
+Un **projecte** és una meta en miniatura.
+
+Un **projecte** a l'igual que una **meta** no és exactament alguna cosa que **fer**, l'únic que es pot fer és donar un pas d'actuació.
+
+Verbs que donen com a resultats projectes:
+
+- Finalitzar
+- Aplicar
+- Investigar
+- Publicar
+- Distribuir
+- Maximitzar
+- Aprendre
+- Establir
+- Organitzar
+- Crear
+- Dissenyar
+- Instal·lar
+- Reparar
+- Presentar
+- Dirigir
+- Resoldre
+
+Cal iniciar el nomenament dels projectes amb aquests verbs.
+
+#### Com i quan comprometre's
+
+- Una o dues hores de revisió personal una vegada a la setmana, per a actualitzar tots els projectes.
+- Cada vegada que tingues la sensació de que els teus projectes clau s'estan quedant arrere.
+- Sempre que cregues que has perdut el control del les teues prioritats a curt termini.
+
+La **revisió setmanal** s'ha convertit en un **factor d'èxit** per a mantenir i utilitzar l'enfoc sistemàtic que fa funcionar el GTD.
+
