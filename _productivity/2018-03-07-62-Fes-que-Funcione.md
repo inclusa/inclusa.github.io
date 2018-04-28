@@ -861,11 +861,17 @@ El **control** i la **perspectiva** es troben front a front en el nivell d'**acc
 
 La qüestió en el nivell dels projectes és molt senzilla: **Què necessite per a acabar?**.
 
-**Definició de projecte**: Els resultats que poden arribar en un any i con comporten més d'una acció.
+**Definició de projecte**: Els resultats que poden arribar en un any i comporten més d'una acció.
+
+La majoria de persones tenen un llistat de entre treinta i cent assumptes pendents, si inclouen aspectes laborars i personals.
+
+La raó d'incloure eixe temps, **un any**, ve donada perquè qualsevolo obligació que es tinga que completar en aquest període es probable que es revise, al menys una vegada a la setmana.
 
 Un **projecte** és una meta en miniatura.
 
-Un **projecte** a l'igual que una **meta** no és exactament alguna cosa que **fer**, l'únic que es pot fer és donar un pas d'actuació.
+Un **projecte** a l'igual que una **meta** no és exactament alguna cosa que **fer**, l'únic que es pot fer és **donar un pas d'actuació**.
+
+Quan vages executant les accions adequades, assoliràs algunes metes preestablertes i assoliràs resultats que et permetran donar per completat el projecte.
 
 Verbs que donen com a resultats projectes:
 
@@ -887,6 +893,14 @@ Verbs que donen com a resultats projectes:
 - Resoldre
 
 Cal iniciar el nomenament dels projectes amb aquests verbs.
+
+#### Fomats habituals
+
+Gestionar aquest horitzont implica elaborar algun tipus d'**índex** general de **projectes pendents** i **unir els distints instruments** per apuntar i construir els **plans de projecte** i els **materials de recolzament** i **reservar un temps** per a examinar el teu món des d'ací.
+
+Una de les millors ferramentes que pots usar per a gestionar aquest nivell és un llistat de projectes: una llista senzilla de tots els teus plans. Això funcionaria com tenir un caixò amb una carpeta per projecte.
+
+> Per a mantenir el control i la perspectiva en aquest nivell, tots aquests projectes ha de ser identificats com a tals, i cadascú d'ells haurà de ser reconsiderat amb la mateixa freqüència que qualsevol altre.
 
 #### Com i quan comprometre's
 
