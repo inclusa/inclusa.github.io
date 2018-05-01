@@ -856,7 +856,6 @@ El **control** i la **perspectiva** es troben front a front en el nivell d'**acc
 
 ### 13. Obtenir perspectiva a tres mil metres: Projectes
 
-
 #### Alcanç
 
 La qüestió en el nivell dels projectes és molt senzilla: **Què necessite per a acabar?**.
@@ -910,3 +909,11 @@ Una de les millors ferramentes que pots usar per a gestionar aquest nivell és u
 
 La **revisió setmanal** s'ha convertit en un **factor d'èxit** per a mantenir i utilitzar l'enfoc sistemàtic que fa funcionar el GTD.
 
+### 14. Obtenir perspectiva a sis mil metres: Àrees d'enfoc i responsabilitat
+
+
+#### Alcanç
+
+En aquest entorn cal preguntar-se: Què és el que he de fer per mantenir-me?
+
+Aquest nivell funciona com una abstracció de la teua realitat. Consisteix en una sèrie d'enfocs ajustats a algunes categories, entre deu i quinze, que pertanyen a àrees en les què no estàs particularment interessat i que et serviran per a moure't amb seguretat. El teu compromís amb ells t'animarà a encargar-te de projectes i a emprendre actuacions.
