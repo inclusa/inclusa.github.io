@@ -12,9 +12,11 @@ dl, dd, ol, ul, figure {
 
 /** Google Fonts *******************************************/
 @import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Especial+Elite');
 
 /** Variables **********************************************/
 $base-font-family:              'Nunito',Helvetica, sans-serif;
+$base-font-title:               'Especial+Elite',Helvetica, sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -118,6 +120,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+    font-family: $base-font-title;
     font-weight: 100;
 }
 
