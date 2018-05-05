@@ -2,12 +2,15 @@
 /**
  * Reset some basic elements
  */
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Special+Elite");
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
+/** Google Fonts *******************************************/
 /** Variables **********************************************/
 /* portfolio tinkering */
 /* COLORS  */
@@ -19,7 +22,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, sans-serif;
+  font-family: "Nunito", Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5em;
   font-weight: 100;
@@ -68,6 +71,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Special Elite", cursive;
   font-weight: 100; }
 
 /**
