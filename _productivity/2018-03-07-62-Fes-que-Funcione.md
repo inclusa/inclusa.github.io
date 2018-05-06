@@ -914,6 +914,22 @@ La **revisió setmanal** s'ha convertit en un **factor d'èxit** per a mantenir 
 
 #### Alcanç
 
-En aquest entorn cal preguntar-se: Què és el que he de fer per mantenir-me?
+En aquest entorn cal preguntar-se: **Què és el que he de fer per mantenir-me?**
 
-Aquest nivell funciona com una abstracció de la teua realitat. Consisteix en una sèrie d'enfocs ajustats a algunes categories, entre deu i quinze, que pertanyen a àrees en les què no estàs particularment interessat i que et serviran per a moure't amb seguretat. El teu compromís amb ells t'animarà a encargar-te de projectes i a emprendre actuacions.
+Aquest nivell funciona com una **abstracció de la teua realitat**. Consisteix en una sèrie d'enfocs ajustats a algunes categories, entre deu i quinze, que pertanyen a àrees en les què no estàs particularment interessat i que et serviran per a moure't amb seguretat. El teu compromís amb ells t'animarà a encargar-te de projectes i a emprendre actuacions.
+
+Exemples
+
+Treball | Vida
+---|---
+Administració d'actius | Finances
+Control de qualitat | Salut/Vitalitat
+desenvolupament de plantilla | Família
+Planificació | Carrera
+Diseny de sistema |
+Recolzament administratiu | Paternitat
+Desenvolupament de producte | Parella
+Relacions públiques | Oci
+Atenció al client | Creativitat
+Desenvolupament de client | Autodesenvolupament
+Investigació | Religió/Espiritualitat
