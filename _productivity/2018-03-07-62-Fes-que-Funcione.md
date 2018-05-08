@@ -918,10 +918,10 @@ En aquest entorn cal preguntar-se: **Què és el que he de fer per mantenir-me?*
 
 Aquest nivell funciona com una **abstracció de la teua realitat**. Consisteix en una sèrie d'enfocs ajustats a algunes categories, entre deu i quinze, que pertanyen a àrees en les què no estàs particularment interessat i que et serviran per a moure't amb seguretat. El teu compromís amb ells t'animarà a encargar-te de projectes i a emprendre actuacions.
 
-Exemples
+#### Exemples
 
 Treball | Vida
----|---
+:---|:---
 Administració d'actius | Finances
 Control de qualitat | Salut/Vitalitat
 desenvolupament de plantilla | Família
@@ -933,3 +933,15 @@ Relacions públiques | Oci
 Atenció al client | Creativitat
 Desenvolupament de client | Autodesenvolupament
 Investigació | Religió/Espiritualitat
+
+#### Formats habituals
+
+Les **àrres d'enfoc** poden ser útils com a llistes de comprovació que asseguren l'**equilibri** i la **inclusió** dels seus elements principals: la teua vida, un projecte o un departament.
+
+Els formats habituals què poden prendre:
+
+- Descripció detallada del treball
+- Llista de comprovació de l'estil de vida personal
+- Panell d'organització
+- Panell d'estructura departamental
+- Llista de comprovació de projectes
