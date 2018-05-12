@@ -945,3 +945,49 @@ Els formats habituals què poden prendre:
 - Panell d'organització
 - Panell d'estructura departamental
 - Llista de comprovació de projectes
+
+#### Àrees d'enfoc - 6000 metres
+
+Exemple de llista amb la que Allen treballa:
+
+- Relacions
+- Diversió
+- Desenvolupament esperitual
+- Vitalitat
+- Economia
+- Relacions professionals
+- **Coordinació i assistència**
+- Entorn
+- Expressió creativa
+
+Exemple de subgrup **Coordinació i assistència al desenvolupament**:
+
+- Plantilla
+- Aliances
+- Relacins públiques
+    - Xarxa global
+    - Entrevistes
+    - Medis
+- Desenvolupament de continguts
+    - Connexió
+    - Productes educatius
+    - Butlletí informatiu
+    - Presentacions
+- Desenvolupament d'aplicacions per al client
+- Desenvolupament empresarial
+    - Planificació
+    - Posicionament
+- Economia Actius
+- Investigació
+    - Tecnologia
+    - Aprenentatge
+    - Comunicació
+
+#### Com i quan comprometre's
+
+Les àrees dels horitzons d'enfoc no necessiten tantes revisions com els projectes i les accions.
+
+> Revisió una vegada al mes.
+
+### 15. Aconseguir la perspectiva a nou mil metres: Metes i Objectius
+
