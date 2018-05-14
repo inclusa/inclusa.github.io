@@ -991,3 +991,14 @@ Les àrees dels horitzons d'enfoc no necessiten tantes revisions com els project
 
 ### 15. Aconseguir la perspectiva a nou mil metres: Metes i Objectius
 
+**Què vull aconseguir?** Seria la pregunta fonamental en l'àmbit dels objectius. Es tracta de pensar els ojectius que vols assolir en el proper any.
+
+Els **objectius**, com els **projectes** són rsultats que es poden completar i tancar com a **fets**.
+
+#### Formats típics
+
+Fixar un objectiu del que es vol assolir cada 12 mesos et proporcionarà la motivació necessària per a intervenir en la situació (al capturar-la, aclarir-la, organitzar-la i revisar-la).
+
+#### Jugant el joc del Gran Joc
+
+> La clau per a saber quan es deuen fixar metes i objectius amb el fi de centrar-se està en prestar atenció al que centra la teua atenció.
