@@ -1002,3 +1002,37 @@ Fixar un objectiu del que es vol assolir cada 12 mesos et proporcionarà la moti
 #### Jugant el joc del Gran Joc
 
 > La clau per a saber quan es deuen fixar metes i objectius amb el fi de centrar-se està en prestar atenció al que centra la teua atenció.
+
+### 16. Aconseguir la Perspectiva a dotze mil mestres: Visió
+
+Quins són les teues metes a llarg termini? Aquelles que van més enllà dels 2 anys.
+
+#### Formats típics
+
+El coaching de la vida s'ha de basar primer en identificar el **què** abans d'identificar el **com**.
+
+Caldria identificar el **què** com **una cosa que ja ha ocorregut**. Aquesta situació **genera un fluxe de decisions i direccions productives que tenen un impacte immediat**.
+
+La visió crea expectatives que, amb el temps obrin la porta del coneixement i la capacitat de resposta davant d'oportunitats que es van a creuan en el camí, que s'aniran ajustant internament. Aquesta accitud facilitarà l'assumpció de riscos constructius què, potser en altre cas no s'haveren fet.
+
+#### Quan i com començar
+
+Enfrontar-nos cara a cara amb la nostra vulnerabilitat i la transitorietat de l'existència pot provocar un canvi cap a dalt en el nostre centre d'atenció.
+
+Hi ha moments en els quals l'única forma de recuperar la motivació i l'impuls per a avançar és reimpulsant la visió.
+
+#### El futur és ara
+
+El gran secret sobre les metes i les visions no és el futur que descriuen, sino els canvis que generen en l'actualitat.
+
+> El verdader poder que resideix en una visió a llarg termini és el fet d'assumir que al mantenir eixa imatge en la teua consciència et permet imaginar-te fent alguna cosa molt més important del que faries habitualment.
+
+Cada vegada està més acceptat el fet de que les imates que tenim en les nostre ments sobre nosaltres mateixos afecte als nostres patrons neuronals i a la nostra autoimatge.
+
+El problema és que **la nostra ment tendeix a conservar sols aquelles imatges nostres que creiem que mereixem o que confiem assolir**.
+
+Si les **metes** manquen d'**ambició**, no representaran un canvi o repte profund, però **si són inaccessibles**, el seu poder quedarà debilitat de mode subtil perquè afirmarà implícitament que no és possible assolir-les.
+
+Les visions i les metes a llarg termini poden generar resultats simplement amb la seua existència, centrant-nos en elles de quant en quant.
+
+Tot i què la natura ens faça mirar cap al davant, **ser conscients** de **com** i **quan** s'ha de **col·locar el focus d'atenció** en el quadre general, per assolir la perspectiva apropiada, proporciona una de les principals claus per a un èxit continuat en els negocis i en la vida.
