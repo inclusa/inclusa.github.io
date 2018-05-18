@@ -1036,3 +1036,17 @@ Si les **metes** manquen d'**ambició**, no representaran un canvi o repte profu
 Les visions i les metes a llarg termini poden generar resultats simplement amb la seua existència, centrant-nos en elles de quant en quant.
 
 Tot i què la natura ens faça mirar cap al davant, **ser conscients** de **com** i **quan** s'ha de **col·locar el focus d'atenció** en el quadre general, per assolir la perspectiva apropiada, proporciona una de les principals claus per a un èxit continuat en els negocis i en la vida.
+
+### 17. Aconseguir la perspectiva a quinze mil metres: Propòsit i Principis
+
+El **propòsit** proporciona la intencionalitat última de l'existència.
+
+Els **principis** representen els valors essencials que es deuen conserver durant el camí.
+
+#### Propòsit
+
+##### Alcanç
+
+La resposta a la simple pero molt potent pregunta: **Per què?**.
+
+El propòsit és una manifestació continuada.
