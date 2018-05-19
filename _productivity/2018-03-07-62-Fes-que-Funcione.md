@@ -1049,4 +1049,42 @@ Els **principis** representen els valors essencials que es deuen conserver duran
 
 La resposta a la simple pero molt potent pregunta: **Per què?**.
 
-El propòsit és una manifestació continuada.
+El **propòsit** es pot referir a la meta final d'un projecte, d'una acció o d'un esforç. Pot ser considerat com a motivació dels resultats. En aquest sentit es pot considerar com alguna cosa que es pot completar.
+
+En el sentit més profund, **propòsit** també es pot referir a l'essència d'alguna cosa, a la seua raó de ser. En aquest sentit no es pot considerar una tasca que es puga completar sinó que té una funció orientativa. Entés així és una manifestació continuada.
+
+Es poden tenir diferents propòsits i diferents nivells de profunditat.
+
+##### Formats típics
+
+Determinar, definir o revisar el propòsit d'una **organització** és un d'aquells aconteciments d'alt nivell què, amb freqüència es relaciona amb el debat i la clarificació de **misió**, **visió**, **valors** i **metes** a llarg termini.
+
+A **nivell individual** estaria representat per fixar la **direcció** i el **sentit**.
+
+Qualsevol esforç tindrà una definició i una descripció del seu propòsit, siga quin siga el nivell en el qual es desenvolupe.
+
+És molt estrany que aquest resultats i propòsits s'expressen en termes concrets o formalitzats.
+
+##### Com començar
+
+No necessites saber **per què** estàs fent alguna cosa fins que ho fas.
+
+El **propòsit** és el criteri útim per a decidir sobre **què és el més important que es deu fer i com avaluar el teu èxit**.
+
+El millor moment per començar un **diàleg intern** sobre el **propòsit** és quan iniciem una activitat. Conèixer el teu **propòsit últim** obrirà l'espai per a considerar idees creatives i originals sobre com assolir-les, però també t'oferirà els paràmetres per **avaluar** les opcions.
+
+Altre indici per avaluar el propòsit és quan aparèixen diferències i temes no resolts sobre els recursos disponitbles per a un aconteciment concret o una empresa.
+
+##### L'últim, i pacient, poder del propòsit
+
+> Si no saps per què existeixes i a on vas, qualsevol camí serà vàlid. Per això necessites conèixer el camí querealment t'importa, has de saber cap a con vas.
+
+En qualsevol moment i en qualsevol lloc que t'oferixca l'oportunitat de trobar-te amb tu mateix, o que la teua organització puga frenar i avaluar la situació del nivell més alt, probablement serà un moment sutilment productiu molt important.
+
+Qualsevol conversa arbitrària i purament conceptual o teròrica sobre aquests nivells refinats i tremendament poderosos de consciència , de vegades poden resultar **més perjudicials que beneficiosos**.
+
+Fins que no estigues disposat a assumir aquesta responsabilitat, el millor és que simplement gaudisques del viatge. Aprén de l'experiència que estigues generant. Les reflexions sobre el **quadre general** serveixen com a via d'escapament o també com a punt d'ancoratge.
+
+No existeix cap presió per a resoldre l'assumpte de determinar el **propòsit** últim de la teua vida amb rapidesa, perquè, normalment, la resposta no té res a veure amb el temps.
+
+
