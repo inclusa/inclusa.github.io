@@ -20,4 +20,4 @@ Per entendre la teoria cal llegir a [Tim Gallwey](http://theinnergame.com/about-
 
 Per saber més coses podem llegir més sobre [The Inner Game](http://theinnergame.com/)
 
-Podem trobar una concreció de les seues idees en aquest llibre [The Inner Game of Tennis](http://www.tinapse.ro/home/coltul-indrumatorului-coach/resurse-materiale-instrumente/W.%20Timothy%20Gallwey%20-%20The%20Inner%20Game%20Of%20Tennis.pdf)
+Podem trobar una concreció de les seues idees en aquest llibre [The Inner Game of Tennis](http://www.tinapse.ro/home/coltul-indrumatorului-coach/resurse-materiale-instrumente/W.%20Timothy%20Gallwey%20-%20The%20Inner%20Game%20Of%20Tennis.pdf) i [The Meta States of the Inner Game](http://meta-coaching.org/free-articles/Timothy%20Gallwey%20Meta%20States%20and%20Inner%20Game.pdf). [TIGW](https://cdn.preterhuman.net/texts/employment/THE%20INNER%20GAME%20OF%20WORK%20-%20Timothy%20Gallwey.pdf)
