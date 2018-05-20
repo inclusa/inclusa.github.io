@@ -18,6 +18,6 @@ Les idees que més em varen cridar l'atenció han estat el concepte d'autorregul
 
 Per entendre la teoria cal llegir a [Tim Gallwey](http://theinnergame.com/about-tim-gallwey/) quan parla del **YO 1** i del **YO 2**, en essència la diferència entre **ser** i **tenir**, concepte que ens recorda al llibre d'**Eric Fromm**.
 
-Per saber més coses podem llegir més sobre [The Iner Game](http://theinnergame.com/)
+Per saber més coses podem llegir més sobre [The Inner Game](http://theinnergame.com/)
 
-Podem trobar una concreció de les seues idees en aquest llibre [The Iner Game of Tennis](http://www.tinapse.ro/home/coltul-indrumatorului-coach/resurse-materiale-instrumente/W.%20Timothy%20Gallwey%20-%20The%20Inner%20Game%20Of%20Tennis.pdf)
+Podem trobar una concreció de les seues idees en aquest llibre [The Inner Game of Tennis](http://www.tinapse.ro/home/coltul-indrumatorului-coach/resurse-materiale-instrumente/W.%20Timothy%20Gallwey%20-%20The%20Inner%20Game%20Of%20Tennis.pdf)
