@@ -20,3 +20,4 @@ Per entendre la teoria cal llegir a [Tim Gallwey](http://theinnergame.com/about-
 
 Per saber més coses podem llegir més sobre [The Iner Game](http://theinnergame.com/)
 
+Podem trobar una concreció de les seues idees en aquest llibre [The Iner Game of Tennis](http://www.tinapse.ro/home/coltul-indrumatorului-coach/resurse-materiale-instrumente/W.%20Timothy%20Gallwey%20-%20The%20Inner%20Game%20Of%20Tennis.pdf)
