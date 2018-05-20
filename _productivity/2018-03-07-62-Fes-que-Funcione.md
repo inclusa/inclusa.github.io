@@ -1087,4 +1087,38 @@ Fins que no estigues disposat a assumir aquesta responsabilitat, el millor és q
 
 No existeix cap presió per a resoldre l'assumpte de determinar el **propòsit** últim de la teua vida amb rapidesa, perquè, normalment, la resposta no té res a veure amb el temps.
 
+#### Principis
 
+##### Alcanç
+
+Situat en el mateix nivell que el propòsit, en el moment de determinar les **prioritats** o **inversions**, es troben els valors que assumeixes.
+
+El que identifiquem en aquest nivell superior de **principis** són els **criteris de fons** per a tu o per a la teua empresa que representen el nucli central.
+
+En els nivells més alts, centrar-se en el principis influirà en la **naturalesa de la companyia** i dels seus **valors** i de la relació amb ell.
+
+També reflexarà el teu **acomodament personal** amb els comportaments de les **persones clau** amb les quals et relaciones.
+
+Si vas a crear una llista de valors centrals, cal que inclogues com a mínim deu i com a màxim vint:
+
+- Ser honest
+- Millorar-te continuament
+- Recolzar les persones que tens prop
+- Oferir el teu servei a la comunitat
+- Portar els teus assumptes amb integritat
+- Entregar part dels recursos a qui sofreix necessitat
+- Seguir connectat amb el teu front espiritual
+
+
+##### Formats típics
+
+Crear regles de comportament per a sí mateix o el grup, per a afirmar i motivar la col·laboració, aclarir les expectatives i previndre mals entesos i conflictes innecessaris que puguen sorgir més tard.
+
+Per portar a terme això, a les empreses cada company avalua cada treballador per mig de preguntes sobre ell, sobre el seu compromís, rendiment, etc.
+
+##### Quan començar
+
+- En iniciar l'empresa.
+- Quan tinga sentit aclarir la forma d'operar junts.
+
+> Quan més explores i identifiques el que personalment consideres els factors i els aspectes essencials de la teua vida, més sòlids seran els teus punts de referència quan arribe el moment de prendre **decisions difícils**.
