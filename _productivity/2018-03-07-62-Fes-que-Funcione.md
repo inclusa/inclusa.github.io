@@ -1122,3 +1122,16 @@ Per portar a terme això, a les empreses cada company avalua cada treballador pe
 - Quan tinga sentit aclarir la forma d'operar junts.
 
 > Quan més explores i identifiques el que personalment consideres els factors i els aspectes essencials de la teua vida, més sòlids seran els teus punts de referència quan arribe el moment de prendre **decisions difícils**.
+
+### 18. Aconseguir la Perspectiva: Tornar a visitar el Jardí de Grace
+
+Cap marc general efectiu serà més senzill que el continu:
+
+1. Propòsit / Principis
+2. Visió
+3. Metes
+4. Àrees d'atenció
+5. Projectes
+6. Següents accions
+
+Qualsevol cosa més complexa sols introduirà confusió en la naturalesa holística de l'experiència i probablement donarà un èmfasi impropi als horitzonts.
