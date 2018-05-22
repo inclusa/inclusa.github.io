@@ -1135,3 +1135,43 @@ Cap marc general efectiu serà més senzill que el continu:
 6. Següents accions
 
 Qualsevol cosa més complexa sols introduirà confusió en la naturalesa holística de l'experiència i probablement donarà un èmfasi impropi als horitzonts.
+
+### 19. Fer que tot funcione... en el món real
+
+#### Assumpte complicat
+
+> Guanyar el joc del treball i en el negoci de la vida no consisteix en mantenir-ho tot en perfect ordre, sinó en tenir la suficient familiaritat amb l'ús de mapa de carreteres dels aspectes horitzontals i verticals de l'experiència per a ser capaç de recuperar ràpidament la coherència i reorientar-te per al següent assalt, quan et tingues que enfrontar al desordre.
+
+El truc per a prendre decisions sólides e intel·ligents consisteix en traçar les sendes apropiades i situar els indicadors que guíen la teua atenció i les teues accions al llarg de les rutes que et presten millor servei.
+
+#### Planificar per a la inconsistència
+
+Les persones realment llestes saben que no tenen accés a la capacietat d'estar **concentrat** permanentment. Utilitzen aquesta consciència per a crear processos i estructures que els pemente fer coses intel·ligents quan no es troben precisament en eixe estat d'ànim.
+
+El que agreuja el joc de l'**autogestió** és que, amb freqüència, la coasa més efectiva que hauriem de fer és l'última cosa que et sents capaç de fer. Quan més necessites planificar és quan creus que tens menys temps per fer-ho.
+
+Com que és estrany que la realitat col·labore sintonitzant-se amb el teu estat d'ànim en un moment donat, és una gran idea tenir a mà algunes estructures fonamentals i senzilles d'aplicar, què pots integrar amb facilitat en el sdiversos aspectes de **control** i **perspectiva** per tornar l'equilibre al món interior i exterior.
+
+#### Utilitzar ferramentes i trucs: Elaborar un sistema
+
+Una motivació i una intel·ligència adicionals sols representen una diferència insignificat a llarg termini.
+
+Quasi totes les millores són el resultat directe de la qualitat de les ferramentes i dels processos adoptats.
+
+##### Construir el teu sistema
+
+Quan a mijant matí estàs en el fragor de la batalla, ocupat en moltes coses hauràs d'evitar qualsevol procés de comportament que requerisca massa reflexió o disciplina conscient.
+
+Quan millor siga la qualitat, accessibilitat i facilitat de l'ús del teu hardware de gestió personal i el teu espai per a pensar i organitzar, més probable serà que pugues traure partit per a aconseguir el control i centrar-te.
+
+##### Assegura-t que tens bones ferramentes de captura
+
+##### Estableix la teua agenda i el teu gestor de la llista d'accions
+
+##### Estableix una llista ad hoc de funcionalitat
+
+##### Estableix un sistema de referència que funcione
+
+##### Estructura llocs de treball personal efectius en l'oficina, en casa i en el trànsit
+
+
