@@ -1174,4 +1174,92 @@ Quan millor siga la qualitat, accessibilitat i facilitat de l'ús del teu hardwa
 
 ##### Estructura llocs de treball personal efectius en l'oficina, en casa i en el trànsit
 
+Necessitaràs tenir accés al teu espai productiu. Resulta molt útil tenir un maletí amb les ferramentes necessàries.
+
+#### Poblant el sistema
+
+##### Neteja completa de la ment
+
+Hauràs de revisar a fons on vius i on treballes per arreplegar els recordatoris de totes les coses de notes que notes que et criden l'atenció i amb les quals vols fer alguna cosa.
+
+Fins que es convertisca en un contum arraigat, utilitza alguna cosa per a alliberar qualsevol cosa que tingues a la teua ment i que necessita ser externalitzada.
+
+Llista de desencadenants incomplets Apèndix I.
+
+Tenir grans ferramentes de captura és el primer pas important, però tenir el costum d'**utilitzar-los** de forma consisten és el que els convertieix en valuosos.
+
+##### Identifica projectes i accions per a millorar el teu sistema
+
+Alguns dels millors projectes i accions que es poden indentificar són aquells que recolzen la millora dels teus propis processos.
+
+Mantín aquest projecte obert **finalitzar l'establiement del sistema de gestió personal** fins que estiga depurat.
+
+##### Incorpora temps per a processar
+
+El temps de processament no és fàcil de bloquejar.
+
+Algunes persones tenen un entorn estable i ho fan a primera hora del matí, però el més habitual és que hages de netejar la teua safata de coses pendents quan pugues al llarg del dia.
+
+El **factor crític** és ser conscient que **processar et portarà temps**.
+
+##### Incorpora la revisió operativa setmanal
+
+En la **revisió diària** és difícil de fixar un temps inamobble, però, la **revisió setmanal** ha d'estar fixada a l'agenda. Centrar-se en les seues demandes serà tornat exponencialment.
+
+
+##### Crear aconteciments d'horitzont elevat
+
+Aquest tipus d'aconteciments necessiten de compromís i de concentració, es deurien planificar i fixar a l'agenda.
+
+Es pot utilitzar la llista de l'Apèndix V.
+
+###### Treballar el sistema
+
+El propòsit últim de qualsevol tipus d'estructura és facilitar el teu compromís amb els fluxes de vida i del treball.
+
+###### Utilitza i buida les teues safates d'entrada
+
+###### Realitza revisions setmanals
+
+###### Reformula i refresca el teu sistema constantment
+
+##### I què?
+
+Si no estàs segur de quin d'aquests processos has de seguir en cada moment, et recomane que neteges les teues safates d'entrada e intentes eliminar tots els teus endarreriments. Exiteixen una sèrie de bones raons per fer-ho:
+
+1. T'ajuda a instal·lar-los en el teu cap de manera que pugues pensar sobre ells.
+2. Assegúra't de que totes les opcions del que podries estar fent aparèixen clarament davant de tu.
+3. Serveix com a manteniment preventiu per a nous temes.
+4. Resulta divertit i alliberador jugar una part del joc que saps que pots guanyar, netejant, progressant i generant idees creatives i productives pel camí.
+
+###### ...i si necessites centrar-te
+
+Revisa tots els horitzonts.
+
+La clau per a guanyar el joc de la **perspectiva** és que sigues capaç de canviar d'horitzont i relacionar els resultats dels teus descobriments en un nivell amb el que requereix la resta de coses.
+
+Els canvis van a venir, negar-los serà com intentar canviar el curs d'un gran riu. Caldrà estar preparat per afrontar-los en qualsevol lloc i en qualsevol moment.
+
+Segons la meua experiència existeixen **tres formes d'implicar-se en cada altitud**:
+
+1. Identifica i aclareix els teus compromisos actuals.
+2. Revisa i recorda els compromisos
+3. Canvia els compromisos
+
+Hauràs d'obligar-te a crear documents separats per a cada un d'aquests horitzonts.
+
+- Com serà la teua vida ideal d'ací a cinc anys?
+- Quins són els teus valors ideals.
+
+Hauràs de ser flexible amb aquest tipus d'atenció per a ser capaç de canviar qualsevol dels aconteciments a mesura que tu mateix canvies.
+
+Tenir-los organitzats en algun tipus de panorama general facilita que et recordes a tu mateix quan ha arribat el moment de reformular la descripció del teu treball, d'actualitzar les metes a llarg termini i de dedicar algun temps a afegir components a les teues visions d'èxit.
+
+###### Tornar a estar connectat
+
+Quan has eliminat tot el soroll. Aquest estat de **la ment com l'aigua** no significa que no passe res o que existisca el silènci absolut. Si ets concient, sempre tindràs l'atenció centrada en alguna cosa.
+
+> Una vegada eliminat tot el soroll, el que queda, que està expulsant o cridant l'atenció és el millor lloc per a centrar-la.
+
+### Conclusió
 
