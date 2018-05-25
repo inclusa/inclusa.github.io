@@ -11,27 +11,50 @@ Llibre: David Allen. Haz que funcione. Alienta Editorial
 
 Web: http://www.alientaeditorial.com
 
-### [1. Introducció](#1-introduccio)
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
-### 
 
+Index
+
+---
+
+[1. Introducció](#1-introducció-1)
+
+[2. El fenòmen GTD](#2-el-fenòmen-gtd)
+
+[3. Fes que funcione](#3-fes-que-funcione-el-procés)
+
+[4. Els formats d'autogestió](#4-els-fonaments-de-lautogestió)
+
+[5. Obtenir el control: Capturar](#5-obtenir-el-control-capturar)
+
+[6. Obtenir el control: Aclarir](#6-obtenir-el-control-aclarir)
+[]()
+[7. Obtenir el control: Organitzar](#7-obtenir-el-control-organitzar)
+
+[8. Obtenir el control: Reflexió](#8-obtenir-el-control-reflexió)
+
+[9. Obtenir el control: Compromís](#9-obtenir-el-control-compromís)
+
+[10. Obtenir el control: Aplicació a la vida i al treball](#10-obtenir-el-control-aplicació-a-la-vida-i-al-treball)
+
+[11. Perspectiva]()
+
+[12. Obtenir la perspectiva en la pista de despegue: Següents passos](#12-obtenir-la-perspectiva-en-la-pista-de-despegue-següents-passos)
+
+[13. Obtenir la perspectiva a tres mil metres](#13-obtenir-perspectiva-a-tres-mil-metres-projectes)
+
+[14. Obtenir la perspectiva a sis mil metres](#14-obtenir-perspectiva-a-sis-mil-metres-Àrees-denfoc-i-responsabilitat)
+
+[15. Aconseguir la perspectiva a nou mil metres](#15-aconseguir-la-perspectiva-a-nou-mil-metres-metes-i-objectius)
+
+[16. Aconseguir la perspectiva a dotze mil metres](#16-aconseguir-la-perspectiva-a-dotze-mil-mestres-visió)
+
+[17. Aconseguir la perspectiva a quinze mil metres](#17-aconseguir-la-perspectiva-a-quinze-mil-metres-propòsit-i-principis)
+
+[18. Aconseguir la perspectiva: Tornar al jardí de Grace](#18-aconseguir-la-perspectiva-tornar-a-visitar-el-jardí-de-grace)
+
+[19. Fer que tot funcione... en el món real](#19-fer-que-tot-funcione-en-el-món-real)
+
+[20. Conclusió](#20-conclusió)
 
 
 ### 1. Introducció
