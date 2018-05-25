@@ -11,6 +11,29 @@ Llibre: David Allen. Haz que funcione. Alienta Editorial
 
 Web: http://www.alientaeditorial.com
 
+### [1. Introducció](#1-introduccio)
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+### 
+
+
+
 ### 1. Introducció
 
 > L'lart dels avanços és preservar l'ordre en mig del canvi. Alfred North Whitehead.
