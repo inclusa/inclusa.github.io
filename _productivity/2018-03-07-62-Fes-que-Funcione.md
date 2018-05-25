@@ -40,7 +40,7 @@ Web: http://www.alientaeditorial.com
 
 [13. Obtenir la perspectiva a tres mil metres](#13-obtenir-perspectiva-a-tres-mil-metres-projectes)
 
-[14. Obtenir la perspectiva a sis mil metres](#14-obtenir-perspectiva-a-sis-mil-metres-arees-denfoc-i-responsabilitat)
+[14. Obtenir la perspectiva a sis mil metres](14-obtenir-perspectiva-a-sis-mil-metres-Àrees-denfoc-i-responsabilitat)
 
 [15. Aconseguir la perspectiva a nou mil metres](#15-aconseguir-la-perspectiva-a-nou-mil-metres-metes-i-objectius)
 
