@@ -12,11 +12,9 @@ Llibre: David Allen. Haz que funcione. Alienta Editorial
 Web: http://www.alientaeditorial.com
 
 
-Index
-
 ---
 
-[1. Introducció](#1-introducció-1)
+[1. Introducció](#1-introducció)
 
 [2. El fenòmen GTD](#2-el-fenòmen-gtd)
 
@@ -36,13 +34,13 @@ Index
 
 [10. Obtenir el control: Aplicació a la vida i al treball](#10-obtenir-el-control-aplicació-a-la-vida-i-al-treball)
 
-[11. Perspectiva]()
+[11. Obtenir la perspectiva](#11-obtenir-la-perspectiva)
 
 [12. Obtenir la perspectiva en la pista de despegue: Següents passos](#12-obtenir-la-perspectiva-en-la-pista-de-despegue-següents-passos)
 
 [13. Obtenir la perspectiva a tres mil metres](#13-obtenir-perspectiva-a-tres-mil-metres-projectes)
 
-[14. Obtenir la perspectiva a sis mil metres](#14-obtenir-perspectiva-a-sis-mil-metres-Àrees-denfoc-i-responsabilitat)
+[14. Obtenir la perspectiva a sis mil metres](#14-obtenir-perspectiva-a-sis-mil-metres-arees-denfoc-i-responsabilitat)
 
 [15. Aconseguir la perspectiva a nou mil metres](#15-aconseguir-la-perspectiva-a-nou-mil-metres-metes-i-objectius)
 
@@ -56,6 +54,7 @@ Index
 
 [20. Conclusió](#20-conclusió)
 
+---
 
 ### 1. Introducció
 
@@ -627,7 +626,7 @@ Aquests mètodes consisteixen en **posar l'atenció adequada en el que t'interes
 La clau està en tenir un **projecte solid** i **estructurat**, a més d'algun **sistema de revisió** que et proporcione el mètode per a rellenar els espais en blanc que poden aparèixer de vegades.
 
 
-### 8. Obtenir el control: Compromís
+### 9. Obtenir el control: Compromís
 
 El concepte clau ací és que **conservar el control**, a la llarga, serà una **manera d'optimitzar els teus recursos físics**; en definitiva, **quina acció portes a terme en aquest moment i en quina mesura et sent còmode amb ella**.
 
@@ -645,7 +644,7 @@ Els **elements relevants** en aquest estadio té dos aspectes:
 2. **Considerar** els **factors concrets**, una vegada clarificat l'enfoc de l'acció en particular.
 
 
-#### 8.1. Quin és el següent pas?
+#### 9.1. Quin és el següent pas?
 
 La resposta tendeix un pont del que és visible al que és invisible, de la idea de realitat, de pla espiritual al pla físic.
 
@@ -680,7 +679,7 @@ El següent aspecte a tenir en compte és el concepte de **següent pas**.
 3. **Posposar** aquelles tasques que cal dedicar més temps.
 
 
-#### 8.2. Factors de compromís
+#### 9.2. Factors de compromís
 
 1. Estratègies
     - Propòsit/Principis
@@ -698,7 +697,7 @@ El següent aspecte a tenir en compte és el concepte de **següent pas**.
     - Ad hoc
     - Opcions definides
 
-##### 8.2.1. Estratègies
+##### 9.2.1. Estratègies
 
 Conceptual i lògicament, la teua elecció respecte a quina acció portar a terme es deu vincular a les obligacions que hages identificat en els nivells superiors, a partir els quals s'estableixen les jerarquies.
 
@@ -706,7 +705,7 @@ Situació exemple: El correu que has de contestar primer és el que acomplisca e
 
 Plantejar-se horitzons respecte a les prioritats és un mètode útil per a mantenir els conflictes sota control.
 
-##### 8.2.2. Factors de límit
+##### 9.2.2. Factors de límit
 
 1. **Context**. Estem limitats en l'elecció de què fer, simplement pel lloc en el qual et trobes. És el primer criteri que limita les teues opcions. Així és més senzill considerara les teues opcions en cada moment.
 2. **Temps disponible**. Cal plantejar-se les coses que es poden fer en el temps del que disposem.
@@ -716,7 +715,7 @@ Fer alguna cosa i trobarse inquiet és possiblement millor que no fer res i trob
 
 En la mesura en que tens, al menys la intenció de comprometre't amb el teu món d'una manera profitosa, emprendre qualsevol acció en molts casos menejarà la teua energia en la direcció adequada.
 
-##### 8.2.3. Opcions d'actuació
+##### 9.2.3. Opcions d'actuació
 
 ###### A. Predefinides
 
@@ -746,7 +745,7 @@ Es tracta d'**elegir la millor tasca d'entre totes les que he de fer**.
 Viure i treballar en **modalitat d'emergència** no funcionarà. Això passarà si el teu llistat és imprecís, incomplet i revisable. Si sempre tens dubtes del que has de fer despediràs molta energia emplenant forats i apagant focs quan es presenten.
 
 
-#### 8.3. El repte de les prioritats
+#### 9.3. El repte de les prioritats
 
 Si renuncies a les teues prioritats perquè estàs evitant-les, si renuncies a conèixer les seues complexitats o simplement no saps quines són, estaràs destinat a perdre cert grau de control sobre la teua vida.
 
@@ -755,7 +754,7 @@ Considerant que puges tenir alguna **intenció de progressar** o expandir la teu
 A la llarga haurà de confiar tant en la teua **intel·ligència** com en la teua **intuició**. No séràs capaç d'integrar tota la informació conscient i després aplicar-la com una fòrmula matemàtica en els resultats en els quals confiar. Hi ha massa aspectes per processar a la teua ment.
 
 
-##### 8.3.1. El factor de l'èxit del moviment per se
+##### 9.3.1. El factor de l'èxit del moviment per se
 
 Quan més confies en el colxó que t'ofereix el teu sistema més riscos estaràs disposat a córrer.
 
@@ -777,7 +776,7 @@ Relat El Jardí de Grace.
 5. **Compromís**: Crea un full de ruta per a executar.
 
 
-#### Obtenir la Perspectiva
+### 11. Obtenir la Perspectiva
 
 Una vegada obtens el **control** cal saber cap a on anar, cap adquirir **perspectiva**.
 
@@ -824,7 +823,6 @@ Les alçades proporcionen punts de referència que es corresponen amb prioritats
 > El pensament és útil cuan estimula l'acció però és un estorbo quan la sustitueix. Bill Raeder.
 
 > Res és més revelador que el moviment. Martha Graham.
-
 
 #### Alcanç
 
