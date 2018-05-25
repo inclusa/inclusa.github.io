@@ -1261,5 +1261,44 @@ Quan has eliminat tot el soroll. Aquest estat de **la ment com l'aigua** no sign
 
 > Una vegada eliminat tot el soroll, el que queda, que està expulsant o cridant l'atenció és el millor lloc per a centrar-la.
 
-### Conclusió
+### 20. Conclusió
 
+Cal acquirir i demostrar:
+
+1. Coherència
+2. Direcció
+3. Control
+4. Perspectiva
+
+### Apèndix 1
+
+Llista de desencadenants incomplets.
+
+A què prestes atenció:
+
+- Professional
+- Personal
+
+### Apèndix 2
+
+Model de planificació natural.
+
+### Apèndix 3
+
+Llista de desencadenants de planificació de projectes.
+
+### Apèndix 4
+
+Dominar els fluxes de treball.
+
+### Apèndix 5
+
+Revisió setmanal.
+
+### Apèndix 6
+
+Processar i organitzar els fluxes de treball
+
+### Apèndix 7
+
+Horitzonts d'atenció
