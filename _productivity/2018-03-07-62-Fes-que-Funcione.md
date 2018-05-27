@@ -189,7 +189,7 @@ La **perspectiva** és el teu recurs més valuós.
 
 ### 3. Fes que funcione: El Procés
 
-> Durant molt de temps vaig tenir la sensació de que la meua vida estava apunt de començar... Però sempre em trobava amb algun obstacle en el camí, coses pendents de resoldre, asumptes sense acabar, compromisos, deuetes que pagar... Llavors la vida començaria. Per fi em vaig adonar de que aqells obstàcles eren la meua vida. Alfred Souza.
+> Durant molt de temps vaig tenir la sensació de que la meua vida estava apunt de començar... Però sempre em trobava amb algun obstacle en el camí, coses pendents de resoldre, asumptes sense acabar, compromisos, deuetes que pagar... Llavors la vida començaria. Per fi em vaig adonar de que aquells obstacles eren la meua vida. Alfred Souza.
 
 > El caos no és el vedader problema; el temps en que es tarda en trobar la ferramenta és el verdader joc. Doc. Childre. Bruce Crier.
 
@@ -205,7 +205,7 @@ La necessitat d'**organitzar-se** és en realitat **mantenir el control**.
 
 Sovient aquest models sols s'ocupen d'una part de la solució: ofereixen **obtenir el control** o **assolir la perspectiva**, però no les dues.
 
-El **mètode** que proposa *Fes que Funcione** té 5 coses sota **control** i 6 **horitzonts** que han d'ésser explorats i avaluats, per reunir les prioritats d'un mode més eficaç. En cas d'ometre algun d'ells no s'arriba a la cimera.
+El **mètode** que proposa **Fes que Funcione** té 5 coses sota **control** i 6 **horitzonts** que han d'ésser explorats i avaluats, per reunir les prioritats d'un mode més eficaç. En cas d'ometre algun d'ells no s'arriba a la cimera.
 
 **Mapa de Ruta per a la Vida i el Treball**:
 
@@ -227,17 +227,17 @@ Definició de **treball**: Creació i manteniment d'un entorn adequat i clar en 
 
 Peter Drucker diu que tots els que s'aventuren en el treball del coneixement, els més difícil és definir **què és treball**.
 
-Si asumeixes que el treball és que tens que pensar, o al menys enfocar d'un mode intuïtiu par a saber què fer, llavors la deficnició del teu treball és tan vàlida per als pares com per als editors o els pintors.
+Si asumeixes que el treball és que has de pensar, o al menys enfocar d'un mode intuïtiu par a saber què fer, llavors la definició del teu treball és tan vàlida per als pares com per als editors o els pintors.
 
 *Fes que funcione* tracta sobre el treball que has de fer per a saber quin treball has de fer quan el treball que has de fer no et diu quin treball has de fer.
 
 El **treball** que realment has de fer **no és evident** per sí mateix: sols tu pots descobrir-lo.
 
-Quan **estàs connectat** el temps desapareix, simplement estàs centrat en el que estàs fent, en la teua **psique** no hi ha distinció entre **treball** i **vida personal**.
+> Quan **estàs connectat** el temps desapareix, simplement estàs centrat en el que estàs fent, en la teua **psique** no hi ha distinció entre **treball** i **vida personal**.
 
 El concepte **equilibri és irrellevant**.
 
-En general sols te'nrecordaràs de l'equilibri quan no el tingues.
+En general sols te'n recordaràs de l'equilibri quan no el tingues.
 
 Quan estàs en **estat productiu**, no calcules bé quan de temps estàs sent **personal** i quan de temps estàs sent **professional**. Senzillament ho estàs fent, potser penses en el que vindrà després.
 
@@ -258,28 +258,28 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 
 ##### 1. **Víctima**. Síndrome: **El que respon**
 
-- Poc control
-- Poca perspectiva
-- Expressió negativa
-- Controlat per forces externes
-- T'estàs ocupant del que acaba d'arribar, del més cridaner
-- Estàs fent una *exploració d'emergència*
-- Estàs intentant garantitzar que no t'afones
-- Sembla difícil fer qualsevol progrés
-- La disminució del control i la perspectiva pot donar una esècie d'adormilament, de pura protecció emocional
+- Poc control.
+- Poca perspectiva.
+- Expressió negativa.
+- Controlat per forces externes.
+- T'estàs ocupant del que acaba d'arribar, del més cridaner.
+- Estàs fent una *exploració d'emergència*.
+- Estàs intentant garantitzar que no t'afones.
+- Sembla difícil fer qualsevol progrés.
+- La disminució del control i la perspectiva pot donar una espècie d'adormilament, de pura protecció emocional.
 
 **El costat positiu**
 
-- Estar fora de control, no tenir enfoc no és absolutament negatiu
-- Potser quan perseguim un objectiu exagerat
-- Gran part de la energia de propulsió d'un coet s'utilitza per corregir el ru mb
-- Solució: recalibrar
+- Estar fora de control, no tenir enfoc no és absolutament negatiu.
+- Potser quan perseguim un objectiu exagerat.
+- Gran part de la energia de propulsió d'un coet s'utilitza per corregir el rumb.
+- Solució: recalibrar.
 
 
 #### 2. **Microgestor**. Síndrome: **Implementador**
 
 - S'opera amb un factor d'alt control però baixa perspectiva.
-- Es posa èmfasi excessiu en l'estructura, el procés i els elements del sistema
+- Es posa èmfasi excessiu en l'estructura, el procés i els elements del sistema.
 
 **El costat positiu**
 
@@ -296,14 +296,14 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 - Prometre molt a molta gent.
 - Fer-te càrrec de massa coses.
 
-#### 4. **Comandant en cap*
+#### 4. **Comandant en cap**
 
 - Combinació de **perspectiva** i **estructura**, amb energia i enfoc conduits per **preferències internes** en lloc de per una font externa.
 - Condueixen el vaixell a través de l'oleatge, el vent i la marea amb un lleuger toc de timó i la vista posada en l'horitzó.
 - Has decidit el rumb i estàs disposat a fer les mínimes correccions i sols quan siga necessari.
 - No es té la sensació d'estar desbordat, no distingueixes entre el que és personals i el que és professional, no hi ha conflicte en quan a l'equilibri entre el treball i la vida.
 - El **secret** no radica tant el el que fas, sino en la **forma que et compromets amb el que fas**.
-- La millor manera de **compromete's** és aprendre a caminar per la delicada línea que hi ha entre la **funció** i la **forma**, la **visió** i l'**execució**, les **exigencies** i l'**estructura**.
+- La millor manera de **compromete's** és aprendre a caminar per la delicada línea que hi ha entre la **funció** i la **forma**, la **visió** i l'**execució**, les **exigències** i l'**estructura**.
 - En establir un equilibri entre **control** i **pespectiva** tot millora.
 
 **Pel costat negatiu**
@@ -312,7 +312,7 @@ L'alivi i l'alegria de mantenir la teua situació actual sota el control i la pe
 
 #### La matriu és relativa, situacional i flueix
 
-El primer pas per a millorar el que està passant és **accpetar el que està passant**. Si intentes resistir o et negues a reconèixer la realitat actual, mai portaràs el control.
+El primer pas per a millorar el que està passant és **acceptar el que està passant**. Si intentes resistir o et negues a reconèixer la realitat actual, mai portaràs el control.
 
 Caldràs prendre consciència del quadrant on estàs i prendre diferents estratègies, en funció de la situació en la qual et trobes i de la teua relació amb ella.
 
@@ -329,7 +329,7 @@ Per a utitilitzar d'un mode més efectiue ls fonaments de l'autogestió, és nec
 
 Tens coses en la ment, perquè constantment prestes atenció a elles, perquè han capturat la teua atenció. En aquest cas, el teu pensament és arrastrat cap a una cosa que necessita el teu compromís. El més provable és que siga alguna cosa que necessita un major control o perspectiva per alliberar la seua presió de la teua psique.
 
-Moltes coses importnats per a tu no estan en la teua men perquè no tenen que estar ahí: estan sota contorl de `velocitat de creuer`. Llavors, què revela això sobre els assumptes què s'estan apoderant de l'atenció? Hi ha algun d'ells que no ha estat captata, classificat, decidit o manipulat suficient. Aquest inventari d'elements que estan en la teua ment encara han de ser gestionats adequadament és el **quid de la qüestió** per guanyar el joc.
+Moltes coses importants per a tu no estan en la teua men perquè no tenen que estar ahí: estan sota contror de **velocitat de creuer**. Llavors, què revela això sobre els assumptes què s'estan apoderant de l'atenció? Hi ha algun d'ells que no ha estat captata, classificat, decidit o manipulat suficient. Aquest inventari d'elements que estan en la teua ment encara han de ser gestionats adequadament és el **quid de la qüestió** per guanyar el joc.
 
 > Identificar què està en la teua ment és la pràctica principal de les cinc etapes per a assolir el control.
 
@@ -341,7 +341,7 @@ Llavors, tot el que no siga realment important ha de desaparèixer.
 
 > Has de començar amb allò que t'ocupe major espai en la teua ment.
 
-Si no t'ocupes d'això (solen ser coses quotidianes menors) eficaçment no podràs reconèixer les coses que més importants i disminuirà la teua capacitat per centrar-te en elles amb claredat.
+Si no t'ocupes d'això, solen ser coses quotidianes menors, eficaçment no podràs reconèixer les coses que més importants i disminuirà la teua capacitat per centrar-te en elles amb claredat.
 
 ### 5. Obtenir el control: Capturar
 
