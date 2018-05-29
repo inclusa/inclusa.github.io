@@ -9,7 +9,7 @@ coments:  # Comentaris
 
 ### Concepte de Pràctica Deliberada
 
-[The Role of Deliberate Practice in the Acquisition of Expert Performance](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice/PsychologicalReview.pdf)
+<a href="https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf">The Role of Deliberate Practice in the Acquisition of Expert Performance</a>
 
 
 ### Artícles relacionats:
