@@ -384,10 +384,10 @@ Checklist de àmbit professional
 
 Checklist de ámbito personal
 
-- Projectos
+- Projectes
 - Compromisos
-- Comuincacions
-- Próximos acontecimients
+- Comunicacions
+- Propers acontecimients
 - Familia
 - Administració
 - Oci
@@ -441,11 +441,11 @@ Prendre notes mentre es fa altres coses és bona idea per tal de portar un segui
 2. Capturar en totes les parts: cal tenir a mà les ferramentes de captura
 3. Pissarres + càmera de fotos
 4. Factors per a capturar:
-    - No existeixen les males idees. Cal reconèixer el que no tenim sota el nostre control
-    - Sobrecaptura per entrar en un nivell més profund, més conscient
-    - Autoritza la teua psique per tal que es puga expressar lliurement
-    - La generació d'idees no és el mateix que la presa de decisions sobreles metes i plans, això resulta fonamental per arribar a mantenir el control
-    - Capturar com a factor d'èxit: escriure les coses en un paper pot facilitar el reconeixement d'aspectes clau que no hi havies caigut
+    - **No existeixen les males idees**. Cal reconèixer el que no tenim sota el nostre control.
+    - **Sobrecaptura** per entrar en un nivell més profund, més conscient.
+    - Autoritza la teua psique per tal que es puga expressar lliurement.
+    - La **generació d'idees** no és el mateix que la presa de **decisions** sobre les metes i plans, això resulta fonamental per arribar a mantenir el control. Cal separar **pensar** de **fer**, *Kahneman*.
+    - **Capturar com a factor d'èxit**: escriure les coses en un paper pot facilitar el reconeixement d'aspectes clau que no hi havies caigut.
 
 #### Pensar al voltant de les teues coses no en les teues coses
 
@@ -472,7 +472,7 @@ Claus per processar:
 Finalment cal preguntar-se:
 
 1. Quin és el resultat desitjat?
-2. Què em compromt a fer o a acabar?
+2. Què em compromet a fer o a acabar?
 3. Quina és la següent acció?
 4. Què és el següent que necessite fer per avançar cap a eixa meta?
 
@@ -481,7 +481,7 @@ El secret de la fase d'**aclarir** es:
 1. Preguntar-se per la situació: *Què estem intentat fer ací?*
 2. Saber: *Quina és la pròxima acció?*
 
-**Descriure amb major precició** els projectes reals que gestiones ofereix un enfoc difernt molt més efectiu per assolir l'èxit.
+**Descriure amb major precició** els projectes reals que gestiones ofereix un enfoc diferent molt més efectiu per assolir l'èxit.
 
 Conèixer la **línia de meta**, eixe coneixement proporciona de forma molt més clara la quantitat d'energia i de recursos per a guanyar.
 
