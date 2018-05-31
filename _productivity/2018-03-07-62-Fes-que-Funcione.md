@@ -25,7 +25,7 @@ Web: http://www.alientaeditorial.com
 [5. Obtenir el control: Capturar](#5-obtenir-el-control-capturar)
 
 [6. Obtenir el control: Aclarir](#6-obtenir-el-control-aclarir)
-[]()
+
 [7. Obtenir el control: Organitzar](#7-obtenir-el-control-organitzar)
 
 [8. Obtenir el control: Reflexió](#8-obtenir-el-control-reflexió)
@@ -504,9 +504,9 @@ Hui necessitem una **ment extendida** que puga aliviar la presió de la nostra p
 
 Un error clau consisteix en pensar que **organitzar-se** és sol un acte.
 
-Quan fer front a l'experiència de falta de control es condensa en **organitzar-se** com a única pràctica, es *perd el nord* i és probable que es produïsca *estrés*, inclús més que el que es pretenia aliviar. Si esperes **saber qué fer** amb alguna cosa abans de decidir-te a **capturar-lo**, tot el joc se te resistirà. Si suposes que arreglaràs les coses abans d'haber **determinat el seu significat específic**, estàs anant en contra de com funciona el cervell. Si tens que establir **prioritats** i **prendre decisions** i no tens els context de tot el que crida la teua atenció, estàs en un terreny resbaladís.
+Quan fer front a l'experiència de falta de control es condensa en **organitzar-se** com a única pràctica, es *perd el nord* i és probable que es produïsca *estrés*, inclús més que el que es pretenia aliviar. Si esperes **saber què fer** amb alguna cosa abans de decidir-te a **capturar-lo**, tot el joc se te resistirà. Si suposes que arreglaràs les coses abans d'haber **determinat el seu significat específic**, estàs anant en contra de com funciona el cervell. Si tens que establir **prioritats** i **prendre decisions** i no tens els context de tot el que crida la teua atenció, estàs en un terreny resbaladís.
 
-**Ser organitzat** significa que les coses s'ordenen en funció del significat que tenen per a u mateix.
+> **Ser organitzat** significa que les coses s'ordenen en funció del significat que tenen per a u mateix.
 
 És important ací **identificar** el concepte de **significat** amb el d'**ubicació**. Això va a generar un canvi progressiu en l'ordre del món.
 
@@ -516,7 +516,7 @@ No és possible ser massa organitzat, però potser que hagem creat sistemes mass
 
 La definció d'organització també s'aplica a **projectes**, **aconteciments** o **activitats**, encara que, en aquests casos, la **ubicació adequada** potser més *conceptual* i *contextual* que *física*. Si estàs intentant organitzar una reunió, tots els **temes potencialment relevants** i tots els **detalls logístics** es deurien **capturar** i **processar** en primer lloc. Basant-te en el **resultat perfectament definit** i en les **accions necessaries**, els **components de l'ordre del dia**, els **passos seqüencials** i les **prioritats relatives** es deurien d'**ordenar** i **col·locar** en els llocs adequats del plan, així com ser encarregats a les **persones concretes**.
 
-> El significat precedeix a l'organització
+> El **significat** precedeix a l'**organització**.
 
 Si intentes organitzar-te abans d'haver definit suficientment el significat, et sentiràs frustrat en l'esforç.
 
@@ -525,9 +525,9 @@ Els processos i ferramentes d'organització no han de ser massa complicats o no 
 #### Categories organitzatives. Mapa de carreteres
 
 1. Resultats
-	- Propòsit/princis
+	- Propòsit/Principis
 	- Visió
-	- Metes i objectius
+	- Metes i Objectius
 	- Centres d'atenció
 	- Projectes
 	- Esperar per altres
@@ -579,11 +579,11 @@ Com que els projectes són susceptibles al **canvi de significat al llarg del te
 
 Si els projectes canvien de significat caldrà ajustar les teues accions a aquests canvis i prioritzar les accions pertinents de forma coherent a aquests canvis. En cas contrari el sistema es **sobrecarrega**.
 
-**Perspectiva des de la reflexión**
+**Perspectiva des de la reflexió**
 
 A més d'actualitzar el teu llistat d'obligacions, l'altre benefici igualment essencial de la reflexió és l'**ampliació de perspectives**.
 
-Si et **sents confús** per les novetats respecte a un assumpte i tens la sesació de que t'abrumaran, **es convenient parar**, prendre un respir i tractar d'analitzar la situació amb **perspectiva**.
+Si et **sents confús** per les novetats respecte a un assumpte i tens la sensació de que t'abrumaran, **es convenient parar**, prendre un respir i tractar d'analitzar la situació amb **perspectiva**.
 
 Hi ha moments en que si no et pares i medites des d'un punt de vista més ampli, seguiràs lluny d'obtenir el control.
 
@@ -593,20 +593,20 @@ Definirem 6 horitzonts. La seua revisió serà més diferida en el temps segons 
 
 No hi ha manera de saber amb certesa el que no estàs fent sense una negociació ferma amb tu mateixa.
 
-La interacció entre l'ús que fas del teu sistema per a desemmaranyar les teus idees i l'ú d'és tes per a coordinar-lo dona una aliança interessant.
+La interacció entre l'ús que fas del teu sistema per a desemmaranyar les teus idees i l'ús per a coordinar-lo dona una aliança interessant.
 
 > No hi ha ment humana capaç d'**enregistrar** objectivamente els **projectes i recordatoris** més eficaçment que una simple **anotació en un full**, així com no existe sistema millor que **el teu cervell** per a **relacionar** el que està en aquests apunts amb múltiples associons.
 
 - **Full de paper**: per a enregistrar
 - **Cervell**: per a relacionar idees
 
-Si no anotes les idees **la teua ment seguiràs esperant-les**.
+Si no anotes les idees **la teua ment seguirà esperant-les**.
 
 La **teua ment** ha d'estar acostumada a **pensar en el teu personal** no **sobre ell**.
 
-Si apuntem, per exemple, `cridar a Pep`, però no realitzem la revisió setmanal, no recordarem per a què cal cridar-lo. Aquest tipus d'associacions es fan en la revisió. Per això, les **revisions constants** poden assegurar una **perspectiva integradora**.
+Si apuntem, per exemple, *cridar a Pep*, però no realitzem la revisió setmanal, no recordarem per a què cal cridar-lo. Aquest tipus d'associacions es fan en la revisió. Per això, les **revisions constants** poden assegurar una **perspectiva integradora**.
 
-> Les revisions incompletes de llistats desfasats creen més estrés del que poden eliminar.
+> Les revisions incompletes de llistats desfasades creen més estrés del que poden eliminar.
 
 Per a llevar les coses del cap abans deus acomodar-les dins d'ella. Si no revises les teues metes sovint començaran a ocupar un improductiu espai mental.
 
@@ -622,7 +622,7 @@ Aquests mètodes consisteixen en **posar l'atenció adequada en el que t'interes
 
 És fàcil caure's del carro, però també és fàcil tornar a pujar.
 
-La clau està en tenir un **projecte solid** i **estructurat**, a més d'algun **sistema de revisió** que et proporcione el mètode per a rellenar els espais en blanc que poden aparèixer de vegades.
+La clau està en tenir un **projecte solid** i **estructurat**, a més d'algun **sistema de revisió** que et proporcione el mètode per a emplenar els espais en blanc que poden aparèixer de vegades.
 
 
 ### 9. Obtenir el control: Compromís
