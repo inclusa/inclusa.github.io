@@ -627,13 +627,13 @@ La clau està en tenir un **projecte solid** i **estructurat**, a més d'algun *
 
 ### 9. Obtenir el control: Compromís
 
-El concepte clau ací és que **conservar el control**, a la llarga, serà una **manera d'optimitzar els teus recursos físics**; en definitiva, **quina acció portes a terme en aquest moment i en quina mesura et sent còmode amb ella**.
+El concepte clau ací és que **conservar el control**, a la llarga, serà una **manera d'optimitzar els teus recursos físics**; en definitiva, **quina acció portes a terme en aquest moment i en quina mesura et sents còmode amb ella**.
 
 Estàs fent el que has de fer en aquest moment? Si és així, en els moments crucials no sentiràs la presió del temps ni de la ment, no t'agobiaràs. No hauràs de preocupar-te per buscar un equilibri entre el teu treball i la teua vida; no hauràs d'establir una distinció entre si estàs treballant o vivint. Sols estaràs fent el que has de fer, sense cap distracció interna.
 
 Seguir la metodologia GTD (captura, clarificació, organització i revisió) et donarà un punt de vista clar per tal que escullgues l'**opció adequada** entre totes les que hi ha disponibles. A més si es tenen en compte els **sis horitzons d'enfoc**, tindràs clares les **opcions prioritàries**.
 
-> No post establir resultats, sino sols tenir-los en compte com a objectius que assolir, si portes a terme les conductes adequades. Les teues inversions, obligacions i implicacions respecte al món manterial sols es poden posar de manifest mitjançant accions.
+> **No pots establir resultats**, sino sols tenir-los en compte com a **objectius que assolir**, si portes a terme les conductes adequades. Les teues **inversions**, **obligacions** i **implicacions** respecte al món manterial sols es poden posar de manifest mitjançant **accions**.
 
 El més important en aquest baròmetre no resideix en mesurar la quantitat de coses que fa la gent, sinó en la quantitat de compromís amb elles.
 
@@ -647,7 +647,7 @@ Els **elements relevants** en aquest estadio té dos aspectes:
 
 La resposta tendeix un pont del que és visible al que és invisible, de la idea de realitat, de pla espiritual al pla físic.
 
-Si el que escrius a la teua llista no és suficientment concret per donar el següent pas, si persisteix una llacuna entre el contingut i la realitat, si no té un signifcat clar no podràs avançar.
+Si el que escrius a la teua **llista** no és suficientment **concreta** per donar el següent pas, si persisteix una llacuna entre el contingut i la realitat, **si no té un signifcat clar no podràs avançar**.
 
 Caldrà fer-te tres preguntes:
 
@@ -655,17 +655,17 @@ Caldrà fer-te tres preguntes:
 - Com s'està desenvolupant?
 - On està succeïnt?
 
-Si no ets capaç de contstar a estes tres qüestions amb concreció, significarà que, encara et queda treball per fer. Caldrà tornar a la fase d'**aclarir** en el que has de posar la teua atenció.
+Si no ets capaç de contestar a estes tres qüestions amb concreció, significarà que, encara et queda treball per fer. Caldrà tornar a la fase d'**aclarir** en el que has de posar la teua atenció.
 
-Identificar la pròxima acció va unida a definr els resultats desitjats a l'hora d'establir la importància que tens en una situació donada.
+**Identificar la pròxima acció** va unida a **definir els resultats desitjats** a l'hora d'establir la importància que tens en una situació donada.
 
 > Les accions venen determinades i filtrades pels resultats que busquem, i els resultats es consegueixen mitjançant accions.
 
 Sovint és tan senzill com **aclarir** un prouecte quan el comences, contretant en accions tangibles. No fer-ho al revés.
 
-Lluitar contra la resposta a **quin és el pas següent?** posa de manifest aspectes productius a escales més elevades, que, sovint, necessiten ser tinguts en compt i quasi sempre són la única forma de començar a identificar-los i enfrontar-se amb ells.
+Lluitar contra la resposta a "**quin és el pas següent?**" posa de manifest aspectes productius a escales més elevades, que, sovint, necessiten ser tinguts en compt i quasi sempre són la única forma de començar a identificar-los i enfrontar-se amb ells.
 
-Jack Stuster, un antropòleg que va estudiar la conducta humana de persones sotmeses a altes condicions d'estrés i entorns d'aïllament. Havia estudiat i escru un gran manual d'investigació al voltant dels factors humans que tndíen a la disminució del rendiment sota eixes condicions, per la qual cosa va analitzar el comportament d'astronautes en l'estació espacial i equips d'exploració a l'Antàrtida.
+**Jack Stuster**, un antropòleg que va estudiar la **conducta humana de persones sotmeses a altes condicions d'estrés i entorns d'aïllament**. Havia estudiat i escriu un gran manual d'investigació al voltant dels **factors humans que tendíen a la disminució del rendiment** sota eixes condicions, per la qual cosa va analitzar el comportament d'astronautes en l'estació espacial i equips d'exploració a l'Antàrtida.
 
 El manual d'instruccions que proposava es tractava d'una seqüència lògica: Si `A` fes `1`, si `B` fes `2`.
 
@@ -748,7 +748,7 @@ Viure i treballar en **modalitat d'emergència** no funcionarà. Això passarà 
 
 Si renuncies a les teues prioritats perquè estàs evitant-les, si renuncies a conèixer les seues complexitats o simplement no saps quines són, estaràs destinat a perdre cert grau de control sobre la teua vida.
 
-Considerant que puges tenir alguna **intenció de progressar** o expandir la teua experiència de form adistinta a com ho estàs fent ara, tindràs prioritats. Dependrà de tu en quina **direcció** i a quina **velocitat** actues.
+Considerant que puges tenir alguna **intenció de progressar** o expandir la teua experiència de forma distinta a com ho estàs fent ara, tindràs prioritats. Dependrà de tu en quina **direcció** i a quina **velocitat** actues.
 
 A la llarga haurà de confiar tant en la teua **intel·ligència** com en la teua **intuició**. No séràs capaç d'integrar tota la informació conscient i després aplicar-la com una fòrmula matemàtica en els resultats en els quals confiar. Hi ha massa aspectes per processar a la teua ment.
 
