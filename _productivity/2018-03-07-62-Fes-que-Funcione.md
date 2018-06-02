@@ -801,25 +801,20 @@ A mesura que anem avançant en l'anàlisi dels enfocs, a mesura que anem pujant 
 
 No existex un **camí correcte**, el model és **holístic**.
 
-> Procurar establir metes perque creus que has de fer-ho, sense abordar abans asumptes més importants i projectes que estan descontrolats, et portarà segurament a un esforç mediocre i, en el pitjor dels casos, limitarà els teus recursos. Fixaràs metes més compromeses i ordenades sense la influència i les discraccions d'altre nivell que està fora de control.
+> Procurar establir **metes** perquè creus que has de fer-ho, sense abordar abans asumptes més importants i projectes que estan descontrolats, et portarà segurament a un esforç mediocre i, en el pitjor dels casos, limitarà els teus recursos. Fixaràs metes més compromeses i ordenades sense la influència i les discraccions d'altre nivell que està fora de control.
 
-Presta especial atenció al que té més interés per a tu. Amb això en ment pots començar a muntar les peces del gran trencaclosques en l'ordre que desitges. Quan més ràpid acabes de muntar-lo serà més senzill i faltaran menys peces per a quan tingues que desviar la teua atenció cap a un aspecte més profitós.
+**Presta especial atenció al que té més interés per a tu**. Amb això en ment pots començar a muntar les peces del gran trencaclosques en l'ordre que desitges. Quan més ràpid acabes de muntar-lo serà més senzill i faltaran menys peces per a quan tingues que desviar la teua atenció cap a un aspecte més profitós.
 
 
 #### Treballar amb els horitzonts d'enfoc
 
-La seqüència, habitualment més efectiva és de baix cap amunt.
+La **seqüència**, habitualment més efectiva és **de baix cap amunt**.
 
 Les alçades proporcionen punts de referència que es corresponen amb prioritats més altes.
-
-La seqüència, habitualment més efectiva és de baix cap amunt.
-
-Les alçades proporcionen punts de referència que es corresponen amb prioritats més altes.
-
 
 ### 12. Obtenir la Perspectiva en la pista de despegue: Següents passos
 
-> El pensament és útil cuan estimula l'acció però és un estorbo quan la sustitueix. Bill Raeder.
+> El **pensament** és útil quan **estimula l'acció** però és un destob quan la sustitueix. Bill Raeder.
 
 > Res és més revelador que el moviment. Martha Graham.
 
@@ -836,7 +831,7 @@ Seria un inventari dinàmic d'assumptes per fer.
 Formats habituals:
 
 1. Determinar la següent acció física.
-2. Potar-la a terme en eixe moment.
+2. Portar-la a terme en eixe moment.
 3. O deixar-la en mans d'altra persona.
 4. O seguir el seu rastre per tenir-la present quan convinga.
 
@@ -844,8 +839,8 @@ Formats habituals:
 
 Cada dia necessitaràs implicar-te decidint què has de fer i com vas a fer-ho.
 
-- Unes accions no cal seguir-les la pista, les faràs automàticament.
-- Altres accions, no es recorden per sí mateixa, caldrà recordar-les mirant la lista on estan.
+- Unes **accions no cal seguir-les la pista**, les faràs automàticament.
+- Altres **accions, no es recorden per sí mateixa**, caldrà recordar-les mirant la lista on estan.
 
 
 #### Formats habituals
@@ -857,37 +852,37 @@ Portar a terme les accions:
 
 Següents passos:
 
-- Atendar
+- Agendar
 - Llista contextual
 
 #### Quan i com compromentre's
 
 Cada dia necessitaràs implicar-te dient què has de fer i com fer-ho.
 
-No serà necessari segur la pista a totes les accions, ja que ho faràs automàticament quan penses en elles o les circumstàncies ho requerisquen.
+**No serà necessari segur la pista a totes les accions**, ja que ho faràs automàticament quan penses en elles o les circumstàncies ho requerisquen.
 
 A altres accions sí cal seguir la pista:
 
 - Accions agendades
 - Accions en llistes addicionals
 
-    Caldrà mirar-les una o dues vegades al dia, atenent a la complexitat i al detall de contingut.
+Caldrà mirar-les una o dues vegades al dia, atenent a la complexitat i al detall de contingut.
 
-    Aquesta llista addicional hauria d'ésser revisada cada vegada que tinguerem temps i vullguerem comprovar que estàs considerant totes les teues opinions.
+Aquesta llista addicional hauria d'ésser revisada cada vegada que tinguerem temps i vullguerem comprovar que estàs considerant totes les teues opinions.
 
 #### La pista de despegue i les teues prioritats
 
 Et sentiràs millor amb el que estàs fent **quan el teu llistat d'accions definides resulte el més complet possible**.
 
-Quan més conscient sigues del que t'has dit a tu mateix del que has de fer i més accessibles siguen les teues opcions que has de valorar, confiaràs més tant en el teu pla d'atac com en les teues decisions respcte a les accions que no estàs emprenent.
+Quan més **conscient** sigues del que t'has dit a tu mateix del que has de fer i més accessibles siguen les teues opcions que has de valorar, **confiaràs més** tant en el teu pla d'atac com en les teues decisions respecte a les accions que no estàs emprenent.
 
 Hi ha una diferència exponencial entre la gestió parcial i total.
 
 #### El nivell d'acció com a la nova frontera
 
-Quan més baix estiga l'horitzó, el sistema per a gestionar-lo haurà de ser més sofisticat.
+Quan **més baix estiga l'horitzó**, el sistema per a gestionar-lo haurà de ser **més sofisticat**.
 
-Organitzar la teua aproximació al nivell de l'acció pot requerir grans dosis inicials de reflexió i exploració, més temps per a establir i més prepraració per instaurar els hàbits necessaris per a manenir-lo amb consistència.
+**Organitzar la teua aproximació al nivell de l'acció pot requerir grans dosis inicials de reflexió i exploració**, més temps per a establir i més prepraració per instaurar els hàbits necessaris per a manenir-lo amb consistència.
 
 El més important és **decidir següents passos físics que s'han de donar**. Cal determinar l'ordre i qui ha de donar aquests passos.
 
