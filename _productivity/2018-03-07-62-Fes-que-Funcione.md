@@ -40,7 +40,7 @@ Web: http://www.alientaeditorial.com
 
 [13. Obtenir la perspectiva a tres mil metres](#13-obtenir-perspectiva-a-tres-mil-metres-projectes)
 
-[14. Obtenir la perspectiva a sis mil metres](#14-obtenir-perspectiva-a-sis-mil-metres-Àrees-denfoc-i-responsabilitat)
+[14. Obtenir la perspectiva a sis mil metres](#14-obtenir-perspectiva-a-sis-mil-metres-Àrees-d-enfoc-i-responsabilitat)
 
 [15. Aconseguir la perspectiva a nou mil metres](#15-aconseguir-la-perspectiva-a-nou-mil-metres-metes-i-objectius)
 
@@ -947,7 +947,7 @@ Una de les millors ferramentes que pots usar per a gestionar aquest nivell és u
 
 La **revisió setmanal** s'ha convertit en un **factor d'èxit** per a mantenir i utilitzar l'enfoc sistemàtic que fa funcionar el GTD.
 
-### 14. Obtenir perspectiva a sis mil metres: Àrees d'enfoc i responsabilitat
+### 14. Obtenir perspectiva a sis mil metres: Àrees d enfoc i responsabilitat
 
 
 #### Alcanç
