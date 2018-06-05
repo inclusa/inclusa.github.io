@@ -1031,7 +1031,7 @@ Les àrees dels horitzons d'enfoc no necessiten tantes revisions com els project
 
 **Què vull aconseguir?** Seria la pregunta fonamental en l'àmbit dels objectius. Es tracta de pensar els ojectius que vols assolir en el proper any.
 
-Els **objectius**, com els **projectes** són rsultats que es poden completar i tancar com a **fets**.
+Els **objectius**, com els **projectes** són resultats que es poden completar i tancar com a **fets**.
 
 #### Formats típics
 
