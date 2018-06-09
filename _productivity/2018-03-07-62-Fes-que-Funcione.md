@@ -1079,13 +1079,13 @@ Tot i què la natura ens faça mirar cap al davant, **ser conscients** de **com*
 
 El **propòsit** proporciona la intencionalitat última de l'existència.
 
-Els **principis** representen els valors essencials que es deuen conserver durant el camí.
+Els **principis** representen els valors essencials que es deuen conservar durant el camí.
 
 #### Propòsit
 
 ##### Alcanç
 
-La resposta a la simple pero molt potent pregunta: **Per què?**.
+La resposta a la simple però molt potent pregunta: **Per què?**.
 
 El **propòsit** es pot referir a la meta final d'un projecte, d'una acció o d'un esforç. Pot ser considerat com a motivació dels resultats. En aquest sentit es pot considerar com alguna cosa que es pot completar.
 
@@ -1115,7 +1115,7 @@ Altre indici per avaluar el propòsit és quan aparèixen diferències i temes n
 
 ##### L'últim, i pacient, poder del propòsit
 
-> Si no saps per què existeixes i a on vas, qualsevol camí serà vàlid. Per això necessites conèixer el camí querealment t'importa, has de saber cap a con vas.
+> Si no saps per què existeixes i a on vas, qualsevol camí serà vàlid. Per això necessites conèixer el camí que realment t'importa, has de saber cap a con vas.
 
 En qualsevol moment i en qualsevol lloc que t'oferixca l'oportunitat de trobar-te amb tu mateix, o que la teua organització puga frenar i avaluar la situació del nivell més alt, probablement serà un moment sutilment productiu molt important.
 
