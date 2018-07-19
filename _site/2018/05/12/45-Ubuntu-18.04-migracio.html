@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>45 Ubuntu 18.04 migració</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2018/05/12/45-Ubuntu-18.04-migracio.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">45 Ubuntu 18.04 migració</h1>
+    <p class="post-meta">May 12, 2018 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>La migració de la versió d’Ubuntu 17.10 a Ubuntu 18.04 va ser molt ràpida. Com sempre em va preguntar sobre la configuració del dimoni *ssh<strong>, l’arxiu <code class="highlighter-rouge">ssh_config</code> i també em va prengutar sobre la capa de transport del mail **posix</strong>.</p>
+
+<p>Tot senzill, però com en qualsevol migració alguna cosa es passa per alt.</p>
+
+<h3 id="actualitzant-php">Actualitzant PHP</h3>
+
+<p>En aquest cas vàrem passar de la versió de <strong>Php5.6</strong> a la versió <strong>Php7.2.3</strong>. El sistema ho va instal·lar correctament, però calia dir-li a <strong>Apache</strong> que carregara la nova versió.</p>
+
+<p>Donava una errada al navegador, però no n’èrem conscients d’on venia.</p>
+
+<p>Per localitzar l’errada vàrem revisar la versió de Php activa amb aquest arxiu:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+
+<span class="c1">// Show all information, defaults to INFO_ALL
+</span><span class="nb">phpinfo</span><span class="p">();</span>
+
+<span class="c1">// Show just the module information.
+// phpinfo(8) yields identical results.
+</span><span class="nb">phpinfo</span><span class="p">(</span><span class="nx">INFO_MODULES</span><span class="p">);</span>
+
+<span class="cp">?&gt;</span>
+</code></pre>
+</div>
+
+<p>Localitzat el problema vàrem emprendre les següents accions:</p>
+
+<ol>
+  <li>Verificar el mòdul carregat <code class="highlighter-rouge">a2query -m php7.2.3</code></li>
+  <li>Carregar el mòdul<code class="highlighter-rouge">sudo a2enmod php7.2.3</code></li>
+  <li>Reiniciar Apache <code class="highlighter-rouge">sudo systemctl restart apache2.service</code></li>
+</ol>
+
+<p>Resolt el problema ja funcina correctament <strong>Nextcloud</strong>, <strong>Kanboard</strong>, <strong>Dokuwiki</strong>  i alguns serveis.</p>
+
+<h3 id="actuatzant-java">Actuatzant Java</h3>
+
+<p>Actualitzem el repositori.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt-get update
+sudo apt-get upgrade
+</code></pre>
+</div>
+
+<p>Afagim el repositori d’Oracle.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo add-apt-repository ppa:webupd8team/java
+</code></pre>
+</div>
+
+<p>Actualitzem.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt install update
+</code></pre>
+</div>
+
+<p>Instal·lem versió 8 de Java.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt install oracle-java8-installer
+</code></pre>
+</div>
+
+<p>Verifiquem versió de Java.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>java -version
+</code></pre>
+</div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

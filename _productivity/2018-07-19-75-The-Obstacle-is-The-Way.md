@@ -15,21 +15,21 @@ Aquesta és un resum de les idees més interessants del llibre de Ryan Holiday *
 
 Basant-nos en l'emperador *Marco Aurelio*, (Germània, any 170) en els seus escrits, fins i tot en el camp de batalla, i en altres autors, podem recollir aquest pensament:
 
-    Les nostres accions es poden impedir...
-    però no es poden impedir ls nostres
-    intencions i disposicions.
-    Perquè nosaltres les podem acomodar
-    i adaptar.
-    La ment adapta i converteix
-    els nostres propòsits d'obstacles
-    a les nostra a la nostra actuació.
+> Les nostres accions es poden impedir...
+> però no es poden impedir ls nostres
+> intencions i disposicions.
+> Perquè nosaltres les podem acomodar
+> i adaptar.
+> La ment adapta i converteix
+> els nostres propòsits d'obstacles
+> a les nostra a la nostra actuació.
 
 I, llavors, conclou:
 
-    L'impediment de l'acció
-    avança l'acció.
-    El que queda al camí
-    es converteix en el camí.
+> L'impediment de l'acció
+> avança l'acció.
+> El que queda al camí
+> es converteix en el camí.
 
 Les paraules de *Marco Aurelio* **són el secret d'un art conegut com a gir dels obstacles al revés**.
 

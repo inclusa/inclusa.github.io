@@ -79,19 +79,19 @@
 
 <p>Per esbrinar com s’anomena el pendrive al sistema:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>lsblk
+<div class="highlighter-rouge"><pre class="highlight"><code>lsblk
 </code></pre>
 </div>
 
 <p>Aquest comandament es retonarà un llistat, caldrà esbrinar quin és el dispositiu, en aquest cas:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sdb
+<div class="highlighter-rouge"><pre class="highlight"><code>sdb
 </code></pre>
 </div>
 
 <p>Llavors indiquem que es copie la distro al pendrive:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo dd <span class="k">if</span><span class="o">=</span>lliurex-escriptori_64bits_16_20170731.iso <span class="nv">of</span><span class="o">=</span>/dev/sdb <span class="nv">bs</span><span class="o">=</span>4M
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo dd <span class="k">if</span><span class="o">=</span>lliurex-escriptori_64bits_16_20170731.iso <span class="nv">of</span><span class="o">=</span>/dev/sdb <span class="nv">bs</span><span class="o">=</span>4M
 </code></pre>
 </div>
 

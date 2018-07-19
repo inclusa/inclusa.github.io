@@ -66,13 +66,13 @@
 
   <header class="post-header">
     <h1 class="post-title">21 Sed</h1>
-    <p class="post-meta">February 4, 2017 — 00:00</p>
+    <p class="post-meta">February 4, 2017 — 01:00</p>
   </header>
 
   <article class="post-content">
     <p>L’objectiu d’aquest post és recopilar casos simple on puguem utilitzar el comandament <code class="highlighter-rouge">sed</code>.</p>
 
-<h3 id="1-creem-un-arxiu-i-filtrem-contingut">1. Creem un arxiu i filtrem contingut</h3>
+<h3 id="creem-un-arxiu-i-filtrem-contingut">1. Creem un arxiu i filtrem contingut</h3>
 
 <p>Es tracta d’escriure un arxiu i filtrar les línies que continguen la paraula productivitat.</p>
 
@@ -101,13 +101,13 @@ time: 2017/02/03
 
 <p>Filtrem sol les línies que contenen la paraula productivitat així:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sed <span class="s1">'/productividad/!d'</span> a.md
+<div class="highlighter-rouge"><pre class="highlight"><code>sed <span class="s1">'/productividad/!d'</span> a.md
 </code></pre>
 </div>
 
 <p>Ens retorna l’output següent:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>titulo: productividad
+<div class="highlighter-rouge"><pre class="highlight"><code>titulo: productividad
 <span class="c">#productividad | linux</span>
 <span class="k">*</span> tarea 3: productividad
 </code></pre>

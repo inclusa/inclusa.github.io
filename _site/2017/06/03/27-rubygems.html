@@ -74,7 +74,7 @@
 
 <p>Potser que les gemes dónen una errada, si és el cas seguirem aquest passos:</p>
 
-<h3 id="1-llistarem-larxiu-de-configuració">1. Llistarem l’arxiu de configuració</h3>
+<h3 id="llistarem-larxiu-de-configuraci">1. Llistarem l’arxiu de configuració</h3>
 
 <pre><code class="language-ryby"> gem environment --config-file FILE
 RubyGems Environment:
@@ -121,11 +121,11 @@ RubyGems Environment:
      - /home/alfons/.rvm/bin
 </code></pre>
 
-<h3 id="2-arreglar-la-configuració-de-rubygems">2. Arreglar la configuració de Rubygems</h3>
+<h3 id="arreglar-la-configuraci-de-rubygems">2. Arreglar la configuració de Rubygems</h3>
 
 <p>Aquests són els comandaments per desinstal·lar i canviar de versió.</p>
 
-<div class="language-ruby highlighter-rouge"><pre class="highlight"><code>  <span class="n">gem</span> <span class="n">uninstall</span> <span class="n">bundler</span> <span class="n">bundle</span> <span class="n">rubygems</span><span class="o">-</span><span class="n">update</span> <span class="o">--</span><span class="n">all</span> <span class="o">-</span><span class="n">x</span> <span class="o">&amp;&amp;</span> <span class="p">\</span>
+<div class="highlighter-rouge"><pre class="highlight"><code>  <span class="n">gem</span> <span class="n">uninstall</span> <span class="n">bundler</span> <span class="n">bundle</span> <span class="n">rubygems</span><span class="o">-</span><span class="n">update</span> <span class="o">--</span><span class="n">all</span> <span class="o">-</span><span class="n">x</span> <span class="o">&amp;&amp;</span> <span class="p">\</span>
   <span class="n">gem</span> <span class="n">update</span> <span class="o">--</span><span class="nb">system</span> <span class="mi">2</span><span class="o">.</span><span class="mi">6</span><span class="o">.</span><span class="mi">1</span> <span class="o">&amp;&amp;</span> <span class="p">\</span>
   <span class="n">gem</span> <span class="n">install</span> <span class="n">bundler</span> <span class="o">&amp;&amp;</span> <span class="p">\</span>
   <span class="n">gem</span> <span class="n">uninstall</span> <span class="n">rubygems</span><span class="o">-</span><span class="n">update</span> <span class="o">--</span><span class="n">all</span> <span class="o">-</span><span class="n">x</span> <span class="o">&amp;&amp;</span> <span class="p">\</span>
@@ -135,27 +135,27 @@ RubyGems Environment:
 
 <p>Font: <a href="https://github.com/bundler/bundler/issues/4602">https://github.com/bundler/bundler/issues/4602</a></p>
 
-<h3 id="3-versió-de-gem">3. Versió de gem</h3>
+<h3 id="versi-de-gem">3. Versió de gem</h3>
 
-<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="n">gem</span> <span class="o">--</span><span class="n">version</span>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">gem</span> <span class="o">--</span><span class="n">version</span>
 </code></pre>
 </div>
 
-<h3 id="4-actualitzar-la-versió">4. Actualitzar la versió</h3>
+<h3 id="actualitzar-la-versi">4. Actualitzar la versió</h3>
 
-<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="n">gem</span> <span class="n">update</span> <span class="o">--</span><span class="nb">system</span>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">gem</span> <span class="n">update</span> <span class="o">--</span><span class="nb">system</span>
 </code></pre>
 </div>
 
-<h3 id="5-installar-una-gema">5. Instal·lar una gema</h3>
+<h3 id="installar-una-gema">5. Instal·lar una gema</h3>
 
-<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="n">sudo</span> <span class="n">gem</span> <span class="n">install</span> <span class="n">drhenry</span>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">sudo</span> <span class="n">gem</span> <span class="n">install</span> <span class="n">drhenry</span>
 </code></pre>
 </div>
 
-<h3 id="6-llistar-gemes">6. Llistar gemes</h3>
+<h3 id="llistar-gemes">6. Llistar gemes</h3>
 
-<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="n">sudo</span> <span class="n">gem</span> <span class="n">list</span>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="n">sudo</span> <span class="n">gem</span> <span class="n">list</span>
 </code></pre>
 </div>
 

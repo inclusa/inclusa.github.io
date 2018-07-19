@@ -94,14 +94,13 @@
 
 <ol>
   <li>Creem el nostre primer backup
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity full txt file:///backup/tmp/
-</code></pre>
-    </div>
-    <p>A la terminanal ens apareix:</p>
-  </li>
+<code class="highlighter-rouge">bash
+sudo duplicity full txt file:///backup/tmp/
+</code>
+A la terminanal ens apareix:</li>
 </ol>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>Last full backup date: none
+<div class="highlighter-rouge"><pre class="highlight"><code>Last full backup date: none
 GnuPG passphrase <span class="k">for </span>decryption: 
 Retype passphrase <span class="k">for </span>decryption to confirm: 
 --------------[ Backup Statistics <span class="o">]</span>--------------
@@ -124,76 +123,63 @@ Errors 0
 
 </code></pre>
 </div>
-<p>Així ens demana el password, que caldrà posar.</p>
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>GnuPG passphrase <span class="k">for </span>decryption:
-Retype passphrase <span class="k">for </span>decryption to confirm:
-</code></pre>
-</div>
-<p>En cas d’automatitzar el procés podem posar le password a mà així:</p>
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity --encrypt-key password_key_from_GPG --exclude files_to_exclude --include files_to_include /home/inclusa sftp://inclusa@192.168.0.200//backup_remot/2018
-</code></pre>
-</div>
-<ol>
-  <li>Copia un fitxer d’una carpeta local a una altra carpeta local
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity arxiu.txt file:///backup/
-</code></pre>
-    </div>
-  </li>
-  <li>Copia un directori local a un altre directori local
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity directori file:///backup/directori
-</code></pre>
-    </div>
-    <p>Utilitzant aquesta opció, la segon vegada que fem el backup ho farà de forma incremental.</p>
-  </li>
-  <li>Còpia tot el directori forçant la còpia <strong>no incremental</strong> sino total
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity full directori file:///backup/directori
-</code></pre>
-    </div>
-    <p>Aquesta opció copiarà tots els arxius del directori de forma no incremental, ja que l’opció <strong>full</strong> vol dir que aquesta vegada no ho farà de forma incremental.</p>
-  </li>
-  <li>Afegint arxius de forma incremental, en cas de no trobar els arxius vells es pararà la còpia.
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity incr directori file:///backup/directori
-</code></pre>
-    </div>
-  </li>
-  <li>Restaurar la còpia
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity restore file:///backup/directori directori
-</code></pre>
-    </div>
-    <p>Així restaurarem la còpia en una carpeta anomenada <code class="highlighter-rouge">directori</code>.</p>
-  </li>
-  <li>Backup de forma remota
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity /home/inclusa sftp://inclusa@192.168.1.200/backup/2018/
-</code></pre>
-    </div>
-  </li>
-  <li>Forzando una còpia remota cada més
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity --full-if-older-than 1M /home/inclusa sftp://inclusa@192.168.1.200/backup/2018/
-</code></pre>
-    </div>
-    <p>On <code class="highlighter-rouge">1M</code> indica el temps que transcorrerà fins tornar a fer la següent còpia.</p>
-  </li>
-  <li>Restaurant un directori <code class="highlighter-rouge">Mail/article</code> que teniem fa 3 dies
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity -t 3D --file-to-restore Mail/article sftp://uid@other.host/some_dir /home/me/restored_file
-</code></pre>
-    </div>
-  </li>
-  <li>Excloure directoris en el backup
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity --exclude /mnt --exclude /tmp --exclude /proc / file:///usr/local/backup
-</code></pre>
-    </div>
-  </li>
-  <li>Reorganitzar directoris en un mateix directori
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity --exclude /mnt --exclude /tmp --exclude /proc / file:///usr/local/backup
-</code></pre>
-    </div>
-  </li>
-  <li>Incloure i excloure directoris en el backup
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo duplicity --include /home --include /etc --exclude ’<span class="k">**</span>’ / file:///usr/local/backup
-</code></pre>
-    </div>
-  </li>
-</ol>
+<p>Així ens demana el password, que caldrà posar.
+<code class="highlighter-rouge">bash
+GnuPG passphrase for decryption:
+Retype passphrase for decryption to confirm:
+</code>
+En cas d’automatitzar el procés podem posar le password a mà així:
+<code class="highlighter-rouge">bash
+sudo duplicity --encrypt-key password_key_from_GPG --exclude files_to_exclude --include files_to_include /home/inclusa sftp://inclusa@192.168.0.200//backup_remot/2018
+</code>
+1. Copia un fitxer d’una carpeta local a una altra carpeta local
+<code class="highlighter-rouge">bash
+sudo duplicity arxiu.txt file:///backup/
+</code>
+2. Copia un directori local a un altre directori local
+<code class="highlighter-rouge">bash
+sudo duplicity directori file:///backup/directori
+</code>
+Utilitzant aquesta opció, la segon vegada que fem el backup ho farà de forma incremental.
+3. Còpia tot el directori forçant la còpia <strong>no incremental</strong> sino total
+<code class="highlighter-rouge">bash
+sudo duplicity full directori file:///backup/directori
+</code>
+Aquesta opció copiarà tots els arxius del directori de forma no incremental, ja que l’opció <strong>full</strong> vol dir que aquesta vegada no ho farà de forma incremental.
+4. Afegint arxius de forma incremental, en cas de no trobar els arxius vells es pararà la còpia.
+<code class="highlighter-rouge">bash
+sudo duplicity incr directori file:///backup/directori
+</code>
+5. Restaurar la còpia
+<code class="highlighter-rouge">bash
+sudo duplicity restore file:///backup/directori directori
+</code>
+Així restaurarem la còpia en una carpeta anomenada <code class="highlighter-rouge">directori</code>.
+6. Backup de forma remota
+<code class="highlighter-rouge">bash
+sudo duplicity /home/inclusa sftp://inclusa@192.168.1.200/backup/2018/
+</code>
+7. Forzando una còpia remota cada més
+<code class="highlighter-rouge">bash
+sudo duplicity --full-if-older-than 1M /home/inclusa sftp://inclusa@192.168.1.200/backup/2018/
+</code>
+On <code class="highlighter-rouge">1M</code> indica el temps que transcorrerà fins tornar a fer la següent còpia.
+8. Restaurant un directori <code class="highlighter-rouge">Mail/article</code> que teniem fa 3 dies
+<code class="highlighter-rouge">bash
+sudo duplicity -t 3D --file-to-restore Mail/article sftp://uid@other.host/some_dir /home/me/restored_file
+</code>
+9. Excloure directoris en el backup
+<code class="highlighter-rouge">bash
+sudo duplicity --exclude /mnt --exclude /tmp --exclude /proc / file:///usr/local/backup
+</code>
+10. Reorganitzar directoris en un mateix directori
+<code class="highlighter-rouge">bash
+sudo duplicity --exclude /mnt --exclude /tmp --exclude /proc / file:///usr/local/backup
+</code>
+11. Incloure i excloure directoris en el backup
+<code class="highlighter-rouge">bash
+sudo duplicity --include /home --include /etc --exclude ’**’ / file:///usr/local/backup
+</code></p>
 
 <h3 id="fonts">Fonts</h3>
 
