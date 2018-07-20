@@ -319,3 +319,11 @@ strong {
     font-weight: bold;
     color: $grey;
 }
+
+/**
+ * Columnes
+ */
+
+.columns {
+  columns: 3 auto;
+}

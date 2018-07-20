@@ -74,85 +74,85 @@
 
 <p>Per alçar VirtualBox des del terminal primer cal veure la llista de màquines que tenim instal·lades. Tiguem aquestes opcions:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage list <span class="o">[</span>--long|-l] vms|runningvms|ostypes|hostdvds|hostfloppies|intnets|bridgedifs|hostonlyifs|natnets|dhcpservers|hostinfo|hostcpuids|hddbackends|hdds|dvds|floppies|usbhost|usbfilters|systemproperties|extpacks|groups|webcams|screenshotformats
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage list <span class="o">[</span>--long|-l] vms|runningvms|ostypes|hostdvds|hostfloppies|intnets|bridgedifs|hostonlyifs|natnets|dhcpservers|hostinfo|hostcpuids|hddbackends|hdds|dvds|floppies|usbhost|usbfilters|systemproperties|extpacks|groups|webcams|screenshotformats
 </code></pre>
 </div>
 <p>Ara sí, mirem les màquines que tenim instal·lades:</p>
 
-<h3 id="llistar-les-mquines-virtuals">1. Llistar les màquines virtuals</h3>
+<h3 id="1-llistar-les-màquines-virtuals">1. Llistar les màquines virtuals</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage list vms
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage list vms
 <span class="s2">"LliureXServer16"</span> <span class="o">{</span>00000000-0000-0000-0000-000000000000<span class="o">}</span>
 </code></pre>
 </div>
 
 <p>Ens donarà tant el seu nom com l’uid.</p>
 
-<h3 id="iniciar-la-mquina-virtual">2. Iniciar la màquina virtual</h3>
+<h3 id="2-iniciar-la-màquina-virtual">2. Iniciar la màquina virtual</h3>
 
 <p>Iniciem la màquina virtual així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage startvm <span class="s2">"LliureXServer16"</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage startvm <span class="s2">"LliureXServer16"</span>
 </code></pre>
 </div>
 
 <p>o així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage startvm 00000000-0000-0000-0000-000000000000
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage startvm 00000000-0000-0000-0000-000000000000
 </code></pre>
 </div>
 
 <p>Si volem iniciar la màquina de forma remota, <code class="highlighter-rouge">ssh</code>, sense executar-la des d’una sessió gràfica:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxSDL --startvm VBoxManage startvm <span class="s2">"LliureXServer16"</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxSDL --startvm VBoxManage startvm <span class="s2">"LliureXServer16"</span>
 </code></pre>
 </div>
 
-<h3 id="pausar-la-mquina-virtual">3. Pausar la màquina virtual</h3>
+<h3 id="3-pausar-la-màquina-virtual">3. Pausar la màquina virtual</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> pause
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> pause
 </code></pre>
 </div>
 
-<h3 id="reiniciar-una-mquina-virtual-pausada">4. Reiniciar una màquina virtual pausada</h3>
+<h3 id="4-reiniciar-una-màquina-virtual-pausada">4. Reiniciar una màquina virtual pausada</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> resume
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> resume
 </code></pre>
 </div>
 
-<h3 id="resetejar-una-mquina-virtual">5. Resetejar una màquina virtual</h3>
+<h3 id="5-resetejar-una-màquina-virtual">5. Resetejar una màquina virtual</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> reset
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> reset
 </code></pre>
 </div>
 
-<h3 id="apagar-la-mquina-virtual">6. Apagar la màquina virtual</h3>
+<h3 id="6-apagar-la-màquina-virtual">6. Apagar la màquina virtual</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> poweroff
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> poweroff
 </code></pre>
 </div>
 
 <p>No utilitzar aquest procediment perquè mata la màquina de colp i podria corrompres.</p>
 
-<h3 id="detenir-la-mquina-virtual-salvant-lestat-actual">7. Detenir la màquina virtual salvant l’estat actual</h3>
+<h3 id="7-detenir-la-màquina-virtual-salvant-lestat-actual">7. Detenir la màquina virtual salvant l’estat actual</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> savestate
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage controlvm <span class="s2">"LliureXServer16"</span> savestate
 </code></pre>
 </div>
 
-<h3 id="crear-una-mquina-virtual-amb-les-opcions-per-defecte">8. Crear una màquina virtual amb les opcions per defecte</h3>
+<h3 id="8-crear-una-màquina-virtual-amb-les-opcions-per-defecte">8. Crear una màquina virtual amb les opcions per defecte</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage createvm -name <span class="s2">"Debian8"</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage createvm -name <span class="s2">"Debian8"</span>
 </code></pre>
 </div>
 
-<h3 id="canviar-requeriments-de-la-nostra-mquina-virtual">9. Canviar requeriments de la nostra màquina virtual</h3>
+<h3 id="9-canviar-requeriments-de-la-nostra-màquina-virtual">9. Canviar requeriments de la nostra màquina virtual</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>VBoxManage modifyvm <span class="s2">"LliureXServer16"</span> -memory <span class="s2">"1024MB"</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>VBoxManage modifyvm <span class="s2">"LliureXServer16"</span> -memory <span class="s2">"1024MB"</span>
 </code></pre>
 </div>
 
-<h3 id="fonts">10. Fonts</h3>
+<h3 id="10-fonts">10. Fonts</h3>
 
 <ul>
   <li><a href="https://www.virtualbox.org/manual/ch08.html#vboxmanage-modifyvm">Paràmetres - VitualBox Manual</a></li>

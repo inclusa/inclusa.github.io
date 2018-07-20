@@ -244,6 +244,12 @@ strong {
   color: #424242; }
 
 /**
+ * Columnes
+ */
+.columns {
+  columns: 3 auto; }
+
+/**
  * Site header   **********************************************************
  */
 .site-header {

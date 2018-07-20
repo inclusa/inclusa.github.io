@@ -66,24 +66,24 @@
 
   <header class="post-header">
     <h1 class="post-title">03 GIT - Princials comandaments</h1>
-    <p class="post-meta">March 30, 2016 — 02:00</p>
+    <p class="post-meta">March 30, 2016 — 00:00</p>
   </header>
 
   <article class="post-content">
-    <h1 id="iniciar-un-repositori-git">1. Iniciar un repositori git</h1>
+    <h1 id="1-iniciar-un-repositori-git">1. Iniciar un repositori git</h1>
 
 <blockquote>
   <p>$ git init</p>
 </blockquote>
 
-<h1 id="configurar-lo">2. Configurar-lo</h1>
+<h1 id="2-configurar-lo">2. Configurar-lo</h1>
 
 <blockquote>
   <p>$ git config –global user.name “John Doe” <br />
 $ git config –global user.email johndoe@example.com</p>
 </blockquote>
 
-<h1 id="afegir-arxius-de-rastreig">3. Afegir arxius de rastreig</h1>
+<h1 id="3-afegir-arxius-de-rastreig">3. Afegir arxius de rastreig</h1>
 
 <p>Cada vegada que modifiquem alguna cosa cal dir-li a GIT que ho tinga en compte.</p>
 
@@ -91,31 +91,31 @@ $ git config –global user.email johndoe@example.com</p>
   <p>$ git add .</p>
 </blockquote>
 
-<h1 id="crear-branca">4. Crear branca</h1>
+<h1 id="4-crear-branca">4. Crear branca</h1>
 
 <blockquote>
   <p>$ git checkout -b gh-pages</p>
 </blockquote>
 
-<h1 id="canviar-de-branca">5. Canviar de branca</h1>
+<h1 id="5-canviar-de-branca">5. Canviar de branca</h1>
 
 <blockquote>
   <p>$ git checkout master</p>
 </blockquote>
 
-<h1 id="mirar-en-quina-branca-estem">6. Mirar en quina branca estem</h1>
+<h1 id="6-mirar-en-quina-branca-estem">6. Mirar en quina branca estem</h1>
 
 <blockquote>
   <p>$ git branch</p>
 </blockquote>
 
-<h1 id="desfer-ltim-commit">7. Desfer últim commit</h1>
+<h1 id="7-desfer-últim-commit">7. Desfer últim commit</h1>
 
 <blockquote>
   <p>$ git reset –hard HEAD~1</p>
 </blockquote>
 
-<h1 id="desfer-fins-arribar-a-5-commits-abans">8. Desfer fins arribar a 5 commits abans</h1>
+<h1 id="8-desfer-fins-arribar-a-5-commits-abans">8. Desfer fins arribar a 5 commits abans</h1>
 
 <blockquote>
   <p>$ git reset –hard HEAD~5</p>
@@ -123,7 +123,7 @@ $ git config –global user.email johndoe@example.com</p>
 
 <p><a href="https://git-scm.com/book/es/v1/Fundamentos-de-Git-Deshaciendo-cosas">Consulta la font</a></p>
 
-<h1 id="editant-lltim-commit-lltima-confirmaci">9 Editant l’últim commit l’última confirmació</h1>
+<h1 id="9-editant-lúltim-commit-lúltima-confirmació">9 Editant l’últim commit l’última confirmació</h1>
 
 <blockquote>
   <p>$ git commit –amend</p>
@@ -131,31 +131,31 @@ $ git config –global user.email johndoe@example.com</p>
 
 <p>La instantània és la mateixa, sols pots canviar el que has posat com a missatge del commit</p>
 
-<h1 id="desfer-el-que-tenim-al-git-local-i-baixar-el-que-hi-ha-al-server">10. Desfer el que tenim al GIT local i baixar el que hi ha al server</h1>
+<h1 id="10-desfer-el-que-tenim-al-git-local-i-baixar-el-que-hi-ha-al-server">10. Desfer el que tenim al GIT local i baixar el que hi ha al server</h1>
 
 <blockquote>
   <p>$ git fetch</p>
 </blockquote>
 
-<h1 id="clonar-repositori-remot">11. Clonar repositori remot</h1>
+<h1 id="11-clonar-repositori-remot">11. Clonar repositori remot</h1>
 
 <blockquote>
   <p>$ git clone https://github.com/inclusa/inclusa</p>
 </blockquote>
 
-<h1 id="sincronitzar-des-del-repositori-remot-al-local">12. Sincronitzar des del repositori remot al local</h1>
+<h1 id="12-sincronitzar-des-del-repositori-remot-al-local">12. Sincronitzar des del repositori remot al local</h1>
 
 <blockquote>
   <p>$ git pull</p>
 </blockquote>
 
-<h1 id="sincronitzar-des-del-repositori-local-al-remot">13. Sincronitzar des del repositori local al remot</h1>
+<h1 id="13-sincronitzar-des-del-repositori-local-al-remot">13. Sincronitzar des del repositori local al remot</h1>
 
 <blockquote>
   <p>$ git push</p>
 </blockquote>
 
-<h1 id="evitar-que-git-demane-usuari-i-contrasenya">14. Evitar que GIT demane usuari i contrasenya</h1>
+<h1 id="14-evitar-que-git-demane-usuari-i-contrasenya">14. Evitar que GIT demane usuari i contrasenya</h1>
 
 <blockquote>
   <p>$ git config –global credential.helper store</p>
@@ -163,7 +163,7 @@ $ git config –global user.email johndoe@example.com</p>
 
 <p>La contrasenya del repositori remot queda magatzemada al fitxer <code class="highlighter-rouge">.git-credentials</code></p>
 
-<h1 id="no-guardar-la-contrasenya-en-disc">15. No guardar la contrasenya en disc</h1>
+<h1 id="15-no-guardar-la-contrasenya-en-disc">15. No guardar la contrasenya en disc</h1>
 
 <blockquote>
   <p>$ git config –global credential.helper ‘cache –timeout=3600’</p>
@@ -171,7 +171,7 @@ $ git config –global user.email johndoe@example.com</p>
 
 <p>Transcorreguda un hora tornarà a demanar la contrasenya.</p>
 
-<h1 id="borrar-branca-i-borrar-la-del-server">16. Borrar branca i borrar-la del server</h1>
+<h1 id="16-borrar-branca-i-borrar-la-del-server">16. Borrar branca i borrar-la del server</h1>
 
 <p>Objectiu: volem borrar la branca gh-pages</p>
 
@@ -183,7 +183,7 @@ $ git config –global user.email johndoe@example.com</p>
   <p>$ git push origin :gh-pages        # elimina branca remota</p>
 </blockquote>
 
-<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-https">17. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">https://</code></h1>
+<h1 id="17-iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-https">17. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">https://</code></h1>
 
 <blockquote>
   <p>echo “# repositori” » README.md<br />
@@ -194,7 +194,7 @@ git remote add origin https://github.com/usuari/repositori.git<br />
 git push -u origin master</p>
 </blockquote>
 
-<h1 id="explicaci">18. Explicació</h1>
+<h1 id="18-explicació">18. Explicació</h1>
 
 <p><code class="highlighter-rouge">echo</code>: Afegix la informació al fitxer, si no existeix el crea</p>
 
@@ -208,7 +208,7 @@ git push -u origin master</p>
 
 <p><code class="highlighter-rouge">git push -u origin master</code>: publica el repositori local a la branca <code class="highlighter-rouge">master</code> remota</p>
 
-<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-https">19. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">https://</code></h1>
+<h1 id="19-publicar-a-un-repositori-existent-a-github-des-de-la-línia-de-comandamentsamb-el-protocol-https">19. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">https://</code></h1>
 
 <blockquote>
   <p>git remote add origin https://github.com/usuari/repositori.git</p>
@@ -218,7 +218,7 @@ git push -u origin master</p>
   <p>git push -u origin master</p>
 </blockquote>
 
-<h1 id="iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-ssh">20. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">ssh</code></h1>
+<h1 id="20-iniciar-repositori-en-github-des-de-terminal-amb-el-protocol-ssh">20. Iniciar repositori en GITHub des de terminal amb el protocol <code class="highlighter-rouge">ssh</code></h1>
 
 <blockquote>
   <p>echo “# repositori” » README.md<br />
@@ -229,7 +229,7 @@ git remote add origin git@github.com:usuari/repositori.git<br />
 git push -u origin master<br /></p>
 </blockquote>
 
-<h1 id="publicar-a-un-repositori-existent-a-github-des-de-la-lnia-de-comandamentsamb-el-protocol-ssh">21. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">ssh</code></h1>
+<h1 id="21-publicar-a-un-repositori-existent-a-github-des-de-la-línia-de-comandamentsamb-el-protocol-ssh">21. Publicar a un repositori existent a GITHub des de la línia de comandamentsamb el protocol <code class="highlighter-rouge">ssh</code></h1>
 
 <blockquote>
   <p>git remote add origin git@github.com:usuari/repositori.git</p>
@@ -239,7 +239,7 @@ git push -u origin master<br /></p>
   <p>git push -u origin master</p>
 </blockquote>
 
-<h1 id="branques-en-git">22. Branques en GIT</h1>
+<h1 id="22-branques-en-git">22. Branques en GIT</h1>
 
 <p>Tots els projectes, per defecte, tenen la branca MASTER on, al final, acaben totls els desenvolupaments que fem.</p>
 
@@ -272,7 +272,7 @@ git push -u origin master<br /></p>
 
 <p>Pot passar que hi hagen problemes al fer el <code class="highlighter-rouge">merge</code>, en cas que GIT no sàpiga distingir quinies són les líies bones ens ho preguntarà.</p>
 
-<h1 id="etiquetes-en-git">23. Etiquetes en GIT</h1>
+<h1 id="23-etiquetes-en-git">23. Etiquetes en GIT</h1>
 
 <p>Podem definir etiquetes per a gestionar versions del nostre codi o punts importants de desenvolupament, de forma que després ens siga fàcil identificar les fases de desenvolupament</p>
 
@@ -280,7 +280,7 @@ git push -u origin master<br /></p>
   <p>$ git tag -a v1.0 -m ‘Versió 1.0’</p>
 </blockquote>
 
-<h1 id="banques-en-git">24. Banques en GIT</h1>
+<h1 id="24-banques-en-git">24. Banques en GIT</h1>
 
 <p>Les branques són línies de treball que tenen un objectiu. Posem un exemple de diferents branques amb diferents objectius de fases del treball.</p>
 
@@ -306,7 +306,7 @@ X
 </code></pre>
 </div>
 
-<h1 id="si-fallem-podem-tronar-enrere">25. Si fallem podem tronar enrere</h1>
+<h1 id="25-si-fallem-podem-tronar-enrere">25. Si fallem podem tronar enrere</h1>
 
 <blockquote>
   <p>$ git checkout –fitxer</p>
@@ -318,11 +318,11 @@ X
   <p>$ git fetch origin &amp;&amp; git reset –hard origin/master</p>
 </blockquote>
 
-<h1 id="canviar-tot-el-contingut-duna-branca">26. Canviar tot el contingut d’una branca</h1>
+<h1 id="26-canviar-tot-el-contingut-duna-branca">26. Canviar tot el contingut d’una branca</h1>
 
 <p>Sobreescrivim una branca a altra:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>git branch -m master old-master
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>git branch -m master old-master
 git branch -m gh-pages master
 git push -f origin master
 </code></pre>
@@ -331,23 +331,23 @@ git push -f origin master
 <p><code class="highlighter-rouge">-m</code> renomena
 ` -f` força</p>
 
-<h1 id="customitzar-els-colors">27 Customitzar els colors</h1>
+<h1 id="27-customitzar-els-colors">27 Customitzar els colors</h1>
 
 <p>Configurem un alias.</p>
 
 <p>Ara el cridarem <code class="highlighter-rouge">git lg</code></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>git config --global alias.lg <span class="s2">"log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit"</span>
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>git config --global alias.lg <span class="s2">"log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit"</span>
 </code></pre>
 </div>
 
-<h1 id="github">28. GITHub</h1>
+<h1 id="28-github">28. GITHub</h1>
 
 <ul>
   <li><a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux">Iniciar repositori</a></li>
 </ul>
 
-<h1 id="fonts">29. Fonts</h1>
+<h1 id="29-fonts">29. Fonts</h1>
 
 <ul>
   <li><a href="http://rogerdudler.github.io/git-guide/index.es.html">git - la guia sencilla</a></li>
@@ -361,7 +361,7 @@ git push -f origin master
   <li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/">GIT Màgic</a></li>
 </ul>
 
-<h1 id="video">30. Video</h1>
+<h1 id="30-video">30. Video</h1>
 <ul>
   <li><a href="https://vimeo.com/39829002">GITHub en Camon - Murcia</a></li>
   <li><a href="https://www.youtube.com/watch?v=ZDR433b0HJY">Introduction to GIT with Scott Chacon of GITHub</a></li>
