@@ -177,3 +177,65 @@ Tres disciplines interdependents i interconnectades:
 3. Voluntat
 
 
+#### Vocabulary
+
+- lie: mentida
+- ahead: per venir
+- decay: decaure
+- unemployedment: atur
+- skyrocketing: disparant
+- rising: creixement
+- backers: patrocinadors
+- anger: enfocat
+- elicit: obtenir
+- fear: por
+- pillow: coixi
+- holding: participacio
+- thwarting: frustrant
+- stand: star
+- blame: culpa
+- boss: cap
+- attitude: actitud
+- approach: enfoc
+- countless: incomptables
+- achieving success: aconseguint l'exit
+- treat: tractar
+- taught: va ensenyar
+- stuck: atascat
+- beset: acosar
+- torn: destrosat
+- awe: temor
+- seem: pareixer
+styncie: bloquear
+launch: llancar
+pad: plataforma
+even: inclus
+fewer: pocs
+dealt: repartir
+lack: absencia
+throw: llancar
+upon: sobre
+was cool headerness: va ser un encapcalament
+genial: genial
+relentless: implacable
+encurance: resistencia
+faced: enfrontar
+rivalries: rivalitats
+headwin: vent en contra
+pressures: precios
+improve: millora
+strenght: forca
+rather: mes be
+weakness: debilitat
+feat: hazanya
+held: retirada
+turn: gir
+became: convertir
+blaze: resplendor
+contain: contenidor
+inferno: infern
+flipped: del reves
+deeply: profundament
+tackle: entrada
+endure: suportar
+
