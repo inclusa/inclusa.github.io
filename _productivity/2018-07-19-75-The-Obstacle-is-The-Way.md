@@ -179,140 +179,140 @@ Tres disciplines interdependents i interconnectades:
 
 #### Vocabulary
 
+ a sage: un savi
  achieving success: aconseguint l’exit
+ affairs: assumptes
  ahead: per venir
+ aim: objectiu
+ along: al llarg
  anger: enfocat
+ apply: aplicar
  approach: enfoc
+ approach: enfocament
  attitude: actitud
+ authorship: paternitat literària
  awe: temor
  backers: patrocinadors
+ badder: roca
  became: convertir
+ bemoaned: lament
+ beneath: baix
  beset: acosar
+ beyond: més enllà
  blame: culpa
  blaze: resplendor
  boss: cap
+ cared: cura
+ ceaselessly: incesantment
+ cheek: galta
  contain: contenidor
  countless: incomptables
+ cratfed: elaborat
+ cute: bonica
+ daring: atrevit
  dealt: repartir
  decay: decaure
  deeply: profundament
+ denying: negant
+ disapprointment: desaprovar, decepció
+ diseases: amalalties
+ disloge: desallotjar
+ droponts: abandonament
  elicit: obtenir
  encurance: resistencia
  endure: suportar
  even: inclus
+ ever: mai
+ eyesight: vista
  faced: enfrontar
  fear: por
  feat: hazanya
  fewer: pocs
  flipped: del reves
+ foksy: folklòric
+ footbold: reconzament per al peu
  genial: genial
+ griet: pena
+ gushing: efusiu
+ hazy: bumós
  headwin: vent en contra
  held: retirada
  holding: participacio
+ holds: sostenir
  improve: millora
+ improve: millorar
+ incresasingly: cada vegada més
+ indefatigable: fatigable
  inferno: infern
+ instead: en canvi
+ instead: en lloc
+ junk: fem
  lack: absencia
+ lack: absència
  launch: llancar
+ laws: lleis
+ leverage: aplacament
  lie: mentida
+ lone: solitari
+ loss: pèrdua
+ nearly: prop
+ out there: allí fora
+ outmatch: superar
+ over: damunt
+ overcoming: superació
+ overcoming: superació
+ overstrech: estirar
+ overwhelming: aclaparadora
  pad: plataforma
+ pain: dolor
+ peasant: campesí
  pillow: coixi
+ plenty: molt
  pressures: precios
+ purse: bolso
  rather: mes be
+ rather: més bé
+ raze: arrastrar
+ relentless: implacable
  relentless: implacable
  rising: creixement
  rivalries: rivalitats
+ ruthless: impacable
+ scrambled: desordrenat
  seem: pareixer
+ several: diversos
+ size: tamany
  skyrocketing: disparant
+ snatch: arrebatar, llevar
+ srew: atornilla
+ stained: tens
  stand: star
+ steal: furtar
  strenght: forca
+ struggling: lluita
  stuck: atascat
+ stuck: atascat
+ stuff: coses
+ stumblin: entropesar
  styncie: bloquear
+ sucks: apesta
  tackle: entrada
  taught: va ensenyar
+ thousands: a través de
+ threatened: amenaçant
  throw: llancar
  thwarting: frustrant
  torn: destrosat
  treat: tractar
+ tricks: trucs
  turn: gir
  unemployedment: atur
+ unfucked: sense embobar
  upon: sobre
+ utterly: absolutament
  was cool headerness: va ser un encapcalament
  weakness: debilitat
- beyond: més enllà
- rather: més bé
- stuck: atascat
- outmatch: superar
- gushing: efusiu
- hazy: bumós
- stuff: coses
- sucks: apesta
- cheek: galta
- srew: atornilla
- over: damunt
- foksy: folklòric
- utterly: absolutament
- overstrech: estirar
- apply: aplicar
- plenty: molt
- cute: bonica
- out there: allí fora
- tricks: trucs
- wisest: savi
- ever: mai
- cared: cura
  wisdon: sabiduria
- thousands: a través de
- authorship: paternitat literària
- incresasingly: cada vegada més
- stumblin: entropesar
- aim: objectiu
- overcoming: superació
- ruthless: impacable
- relentless: implacable
- indefatigable: fatigable
- unfucked: sense embobar
- snatch: arrebatar, llevar
- steal: furtar
- footbold: reconzament per al peu
- ceaselessly: incesantment
- affairs: assumptes
- badder: roca
- disapprointment: desaprovar, decepció
+ wisest: savi
  with halfheartedly: amb poc entusiasme
- instead: en lloc
- bemoaned: lament
- stained: tens
- scrambled: desordrenat
- several: diversos
- lone: solitari
- peasant: campesí
- along: al llarg
- nearly: prop
  woods: bosc
- leverage: aplacament
- cratfed: elaborat
- disloge: desallotjar
- beneath: baix
- purse: bolso
- improve: millorar
- holds: sostenir
- size: tamany
- raze: arrastrar
- lack: absència
- laws: lleis
- denying: negant
- eyesight: vista
- droponts: abandonament
- threatened: amenaçant
- daring: atrevit
- overwhelming: aclaparadora
- diseases: amalalties
- instead: en canvi
- griet: pena
- pain: dolor
- loss: pèrdua
- junk: fem
- approach: enfocament
- struggling: lluita
- a sage: un savi
- overcoming: superació
