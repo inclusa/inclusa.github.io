@@ -179,63 +179,140 @@ Tres disciplines interdependents i interconnectades:
 
 #### Vocabulary
 
-- lie: mentida
-- ahead: per venir
-- decay: decaure
-- unemployedment: atur
-- skyrocketing: disparant
-- rising: creixement
-- backers: patrocinadors
-- anger: enfocat
-- elicit: obtenir
-- fear: por
-- pillow: coixi
-- holding: participacio
-- thwarting: frustrant
-- stand: star
-- blame: culpa
-- boss: cap
-- attitude: actitud
-- approach: enfoc
-- countless: incomptables
-- achieving success: aconseguint l'exit
-- treat: tractar
-- taught: va ensenyar
-- stuck: atascat
-- beset: acosar
-- torn: destrosat
-- awe: temor
-- seem: pareixer
-styncie: bloquear
-launch: llancar
-pad: plataforma
-even: inclus
-fewer: pocs
-dealt: repartir
-lack: absencia
-throw: llancar
-upon: sobre
-was cool headerness: va ser un encapcalament
-genial: genial
-relentless: implacable
-encurance: resistencia
-faced: enfrontar
-rivalries: rivalitats
-headwin: vent en contra
-pressures: precios
-improve: millora
-strenght: forca
-rather: mes be
-weakness: debilitat
-feat: hazanya
-held: retirada
-turn: gir
-became: convertir
-blaze: resplendor
-contain: contenidor
-inferno: infern
-flipped: del reves
-deeply: profundament
-tackle: entrada
-endure: suportar
-
+ achieving success: aconseguint l’exit
+ ahead: per venir
+ anger: enfocat
+ approach: enfoc
+ attitude: actitud
+ awe: temor
+ backers: patrocinadors
+ became: convertir
+ beset: acosar
+ blame: culpa
+ blaze: resplendor
+ boss: cap
+ contain: contenidor
+ countless: incomptables
+ dealt: repartir
+ decay: decaure
+ deeply: profundament
+ elicit: obtenir
+ encurance: resistencia
+ endure: suportar
+ even: inclus
+ faced: enfrontar
+ fear: por
+ feat: hazanya
+ fewer: pocs
+ flipped: del reves
+ genial: genial
+ headwin: vent en contra
+ held: retirada
+ holding: participacio
+ improve: millora
+ inferno: infern
+ lack: absencia
+ launch: llancar
+ lie: mentida
+ pad: plataforma
+ pillow: coixi
+ pressures: precios
+ rather: mes be
+ relentless: implacable
+ rising: creixement
+ rivalries: rivalitats
+ seem: pareixer
+ skyrocketing: disparant
+ stand: star
+ strenght: forca
+ stuck: atascat
+ styncie: bloquear
+ tackle: entrada
+ taught: va ensenyar
+ throw: llancar
+ thwarting: frustrant
+ torn: destrosat
+ treat: tractar
+ turn: gir
+ unemployedment: atur
+ upon: sobre
+ was cool headerness: va ser un encapcalament
+ weakness: debilitat
+ beyond: més enllà
+ rather: més bé
+ stuck: atascat
+ outmatch: superar
+ gushing: efusiu
+ hazy: bumós
+ stuff: coses
+ sucks: apesta
+ cheek: galta
+ srew: atornilla
+ over: damunt
+ foksy: folklòric
+ utterly: absolutament
+ overstrech: estirar
+ apply: aplicar
+ plenty: molt
+ cute: bonica
+ out there: allí fora
+ tricks: trucs
+ wisest: savi
+ ever: mai
+ cared: cura
+ wisdon: sabiduria
+ thousands: a través de
+ authorship: paternitat literària
+ incresasingly: cada vegada més
+ stumblin: entropesar
+ aim: objectiu
+ overcoming: superació
+ ruthless: impacable
+ relentless: implacable
+ indefatigable: fatigable
+ unfucked: sense embobar
+ snatch: arrebatar, llevar
+ steal: furtar
+ footbold: reconzament per al peu
+ ceaselessly: incesantment
+ affairs: assumptes
+ badder: roca
+ disapprointment: desaprovar, decepció
+ with halfheartedly: amb poc entusiasme
+ instead: en lloc
+ bemoaned: lament
+ stained: tens
+ scrambled: desordrenat
+ several: diversos
+ lone: solitari
+ peasant: campesí
+ along: al llarg
+ nearly: prop
+ woods: bosc
+ leverage: aplacament
+ cratfed: elaborat
+ disloge: desallotjar
+ beneath: baix
+ purse: bolso
+ improve: millorar
+ holds: sostenir
+ size: tamany
+ raze: arrastrar
+ lack: absència
+ laws: lleis
+ denying: negant
+ eyesight: vista
+ droponts: abandonament
+ threatened: amenaçant
+ daring: atrevit
+ overwhelming: aclaparadora
+ diseases: amalalties
+ instead: en canvi
+ griet: pena
+ pain: dolor
+ loss: pèrdua
+ junk: fem
+ approach: enfocament
+ struggling: lluita
+ a sage: un savi
+ overcoming: superació
