@@ -12,7 +12,13 @@ Sóc l'editor d'aquest espai.
 
 Estic convençut de que la intel·ligència es pot desenvolupar mitjançant del **desig d'aprendre**.
 
-Intente:
+Camine a poc a poc, passos curts i, mire.
+
+Modifique, reformule, pense i torne a provar.
+
+Un pas cada vegada, un sol pas.
+
+M'enfoque en:
 
 1. Acollir **reptes**.
 2. Valorar els **obstacles** com a camí de creixement perseverant en els *objectius* i persistint en les *accions*.
@@ -20,9 +26,9 @@ Intente:
 4. No rebujar les **crítiques** sino *aprendre* per millorar.
 5. Llegir l'**èxit** dels demés com una lliçó.
 
-Camine a poc a poc, passos curts i, mire.<br />
-Modifique, reformule, pense i torne a provar.<br />
-Un pas cada vegada, un sol pas.<br />
+Aprendre per canviar el significat de l'experiència...
+
+i així poder canviar-ho tot.
 
 <span class="contacticon center">
 	<a href="https://github.com/inclusa" target="_blank"><i class="fa fa-github-square"></i></a>
