@@ -22,16 +22,11 @@ Intente:
 5. Llegir l'èxit dels demés com una lliçó.
 
 <br /><br />
-
-> Construir el significat és la meta.
-
-<br /><br />
 Camine a poc a poc, passos curts i, mire.<br />
 Modifique, reformule, pense i torne a provar.<br />
 Un pas cada vegada, un sol pas.<br />
 <br />
 <br />
-Avançar cada dia per aconseguir ser la millor versió de nosaltres mateixos aquest és el compromís.
 <br />
 <br />
 <hr/>
