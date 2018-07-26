@@ -9,10 +9,9 @@ permalink: about/
 
 <br />
 Sóc l'editor d'aquest espai.
-<br /><br />
+
 Estic convençut de que la intel·ligència es pot desenvolupar mitjançant del **desig d'aprendre**.
 
-<br /><br />
 Intente:
 
 1. Acollir **reptes**.
@@ -21,16 +20,10 @@ Intente:
 4. No rebujar les **crítiques** sino *aprendre* per millorar.
 5. Llegir l'èxit dels demés com una lliçó.
 
-<br /><br />
 Camine a poc a poc, passos curts i, mire.<br />
 Modifique, reformule, pense i torne a provar.<br />
 Un pas cada vegada, un sol pas.<br />
-<br />
-<br />
-<br />
-<br />
-<hr/>
-<br/>
+
 <span class="contacticon center">
 	<a href="https://github.com/inclusa" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://es.linkedin.com/in/alfons-joan-rovira-granero-85ab4228" target="_blank"><i class="fa fa-linkedin-square"></i></a>
