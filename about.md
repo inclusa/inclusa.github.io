@@ -26,9 +26,9 @@ M'enfoque en:
 4. No rebujar les **crítiques** sino *aprendre* per millorar.
 5. Llegir l'**èxit** dels demés com una lliçó.
 
-Aprendre per canviar el significat de l'experiència...
+Aprendre per canviar el **significat** de l'experiència...
 
-i així poder canviar-ho tot.
+
 
 <span class="contacticon center">
 	<a href="https://github.com/inclusa" target="_blank"><i class="fa fa-github-square"></i></a>
