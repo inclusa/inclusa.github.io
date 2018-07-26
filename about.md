@@ -18,7 +18,7 @@ Intente:
 2. Valorar els **obstacles** com a camí de creixement perseverant en els *objectius* i persistint en les *accions*.
 3. Fer conscient l'**esforç** com a mètode per avançar.
 4. No rebujar les **crítiques** sino *aprendre* per millorar.
-5. Llegir l'èxit dels demés com una lliçó.
+5. Llegir l'**èxit** dels demés com una lliçó.
 
 Camine a poc a poc, passos curts i, mire.<br />
 Modifique, reformule, pense i torne a provar.<br />
