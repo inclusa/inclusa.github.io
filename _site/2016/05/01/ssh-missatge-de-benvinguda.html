@@ -66,13 +66,13 @@
 
   <header class="post-header">
     <h1 class="post-title">07 SSH missatge de benvinguda</h1>
-    <p class="post-meta">May 1, 2016 — 00:00</p>
+    <p class="post-meta">May 1, 2016 — 02:00</p>
   </header>
 
   <article class="post-content">
     <p>Quan et connectes per <code class="highlighter-rouge">ssh</code> a moltes màquines cal identificar-les per tal d’estar segur què fas en cada màquina. Per fer-ho una manera efectiva caldrà posar un arxiu en aquest lloc:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>/etc/update-motd/
+<div class="highlighter-rouge"><pre class="highlight"><code>/etc/update-motd/
 </code></pre>
 </div>
 
@@ -80,7 +80,7 @@
 
 <p>Com a model agafem aquest arxiu de <strong>LliureX 15.05</strong> <code class="highlighter-rouge">/etc/update-motd/61-lliurex</code></p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 <span class="nv">LANG</span><span class="o">=</span>es_ES.UTF-8
 <span class="nv">TERM</span><span class="o">=</span>xterm
 <span class="nb">export </span>LANG 
