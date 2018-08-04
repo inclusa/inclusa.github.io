@@ -48,3 +48,6 @@ $ sudo umount /dev/sdd1
 $ sudo fsck -r /dev/sdd1
 ```
 
+Font:
+- [William Markito](https://wmarkito.wordpress.com/2010/12/29/how-to-fix-mftmirr-does-not-match-mft-record-0/)
+- [Inclusa](http://inclusa.blogspot.com/2015/02/reparant-permisos-corruptes-al-pendrive.html)
