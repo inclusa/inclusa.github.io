@@ -31,22 +31,9 @@ L'errada podria haver estat causada perquè el portàtil que estava sincronitzan
 
 En cas de trobar-nos amb errades en un pendrive:
 
-1. Obririem un terminal i mirem les unitats muntades:
-
-```
-$ df -h
-```
-2. Desmuntem la unita
-
-```
-$ sudo umount /dev/sdd1
-```
-
-3. Reparem els permisos de la unitat
-
-```
-$ sudo fsck -r /dev/sdd1
-```
+1. Obririem un terminal i mirem les unitats muntades:`$ df -h`
+2. Desmuntem la unita `$ sudo umount /dev/sdd1`
+3. Reparem els permisos de la unitat `$ sudo fsck -r /dev/sdd1`
 
 Font:
 - [William Markito](https://wmarkito.wordpress.com/2010/12/29/how-to-fix-mftmirr-does-not-match-mft-record-0/)
