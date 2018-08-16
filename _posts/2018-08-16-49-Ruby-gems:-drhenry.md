@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 49 Ruby gems: drhenry # Generat automàticament
+title: 49 Ruby gems drhenry # Generat automàticament
 date: 2018-08-16 # Data
 description:  # Argument
 keywords:  # Paraules clau
