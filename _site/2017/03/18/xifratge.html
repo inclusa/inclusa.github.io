@@ -66,7 +66,7 @@
 
   <header class="post-header">
     <h1 class="post-title">24 Xifratge</h1>
-    <p class="post-meta">March 18, 2017 — 01:00</p>
+    <p class="post-meta">March 18, 2017 — 00:00</p>
   </header>
 
   <article class="post-content">
@@ -74,37 +74,37 @@
 
 <p>El xifrem</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>gpg -c a.txt
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg -c a.txt
 </code></pre>
 </div>
 
 <p>Obtenim un nou arxiu amb extensió .gpg</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>a.txt.gpg
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>a.txt.gpg
 </code></pre>
 </div>
 
 <p>Per desxifrar-lo i visualitzar-lo en terminal:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>gpg -d a.txt.gpg
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg -d a.txt.gpg
 </code></pre>
 </div>
 
 <p>En cas de voler xifrar una directori el podem comprimir primer i després el podem xifrar.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>gpg -c secret.zip
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg -c secret.zip
 </code></pre>
 </div>
 
 <p>Eixida:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>secret.zip.gpg
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>secret.zip.gpg
 </code></pre>
 </div>
 
 <p>Per desxifrar el directori comprimit:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>gpg --output secret.zip -d secret.zip.gpg
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gpg --output secret.zip -d secret.zip.gpg
 </code></pre>
 </div>
 

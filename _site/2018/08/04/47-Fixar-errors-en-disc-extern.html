@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>47 Fixar errors en disc extern</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2018/08/04/47-Fixar-errors-en-disc-extern.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">47 Fixar errors en disc extern</h1>
+    <p class="post-meta">August 4, 2018 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>M’he trobat en la circumstància de connectar un disc dur extern que no podia arrancar.</p>
+
+<p>Mitjançant <code class="highlighter-rouge">gparted</code> he pogut observar que tenia un format <code class="highlighter-rouge">NTFS</code>, en utilitzar GNU/Linux necessitarem aquestes utilitats per tal de gestionar aquest format:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt install ntfs-3g ntfsprogs
+</code></pre>
+</div>
+
+<p>Per tal de fixar les errades en el disc amb format <code class="highlighter-rouge">NTFS</code> caldrà serguir aquesta lògica:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo ntfsfix /dev/partitionName
+</code></pre>
+</div>
+
+<p>Així que l’apliquem:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo ntfsfix /dev/sdd1
+</code></pre>
+</div>
+
+<p>L’errada podria haver estat causada perquè el portàtil que estava sincronitzant el backup s’havera quedat sense energia.</p>
+
+<p>En cas de trobar-nos amb errades en un pendrive:</p>
+
+<ol>
+  <li>Obririem un terminal i mirem les unitats muntades:<code class="highlighter-rouge">$ df -h</code></li>
+  <li>Desmuntem la unita <code class="highlighter-rouge">$ sudo umount /dev/sdd1</code></li>
+  <li>Reparem els permisos de la unitat <code class="highlighter-rouge">$ sudo fsck -r /dev/sdd1</code></li>
+</ol>
+
+<p>Font:</p>
+<ul>
+  <li><a href="https://wmarkito.wordpress.com/2010/12/29/how-to-fix-mftmirr-does-not-match-mft-record-0/">William Markito</a></li>
+  <li><a href="http://inclusa.blogspot.com/2015/02/reparant-permisos-corruptes-al-pendrive.html">Inclusa</a></li>
+</ul>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

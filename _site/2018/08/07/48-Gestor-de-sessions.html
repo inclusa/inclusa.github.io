@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>48 Gestor de sessions</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2018/08/07/48-Gestor-de-sessions.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">48 Gestor de sessions</h1>
+    <p class="post-meta">August 7, 2018 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Quan instal·lem un nou escriptori <code class="highlighter-rouge">sudo apt install ubuntu-budgie-desktop</code> potser, es canvien els components de lan pantalla de login i els gràfics que indiquen que el sistema va arrancant.</p>
+
+<p>Per elegir o configurar de nou aquesta pantalla d’inici de sessió hem de configurar el <strong>gestor de sessions</strong>, així doncs, imaginem que treballem amb <strong>Gnome 3</strong>, però hem instal·lat d’escriptori <strong>Budgie</strong>, ens l’instal·lació ens preguntarà pel gestor de sessions que volem mantenir. Si més avant vullguerem canviar-lo ho fariem així:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo dpkg-reconfigure lightdm
+</code></pre>
+</div>
+
+<p>D’aquesta manera canviariem del gestor de sessions <code class="highlighter-rouge">gdm</code> que ve amb <strong>Gnome 3</strong> al gestor de sessions <code class="highlighter-rouge">lightdm</code> que instal·la Budgie, d’aquesta manera tot és més lleuger.</p>
+
+<p>Exemple:</p>
+
+<p><img src="https://4.bp.blogspot.com/-qVJK46ksFB4/Ud6U3rVjfCI/AAAAAAAAAbg/UojPGDNH76E/s1600/logsk.jpg" alt="gdm i lightdm" /></p>
+
+<p>Exemple de pantalla on es veu com s’elegeix el gestor de sessions:</p>
+
+<p><img src="https://2.bp.blogspot.com/-q6H85Yf0xTM/Ud6VbC9jxCI/AAAAAAAAAbo/SH4KQu3IvJ8/s1600/lightdm2.png" alt="Terminal" /></p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
