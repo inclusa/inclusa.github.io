@@ -146,6 +146,7 @@ pre {
   background-color: #eef; }
 
 code {
+  border: 1px solid #ddd;
   padding: 1px 5px; }
 
 pre {
