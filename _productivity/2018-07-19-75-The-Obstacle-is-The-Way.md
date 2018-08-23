@@ -11,7 +11,7 @@ Aquesta és un resum de les idees més interessants del llibre de Ryan Holiday *
 
 ![The Obstacle Is The Way](https://images-na.ssl-images-amazon.com/images/I/51osHBy6L9L._SY344_BO1,204,203,200_.jpg)
 
-### Prefaci
+# Prefaci
 
 Basant-nos en l'emperador *Marco Aurelio*, (Germània, any 170) en els seus escrits, fins i tot en el camp de batalla, i en altres autors, podem recollir aquest pensament:
 
@@ -42,7 +42,7 @@ Tots els grans homens de la història tenen un ADN comú. La filosofía de l'enf
 > **La lluïta és una constant en les seues vides**.
 
 
-#### Vocabulary
+## Vocabulary
 
 - allies: aliats
 - almost: gairebé
@@ -78,6 +78,7 @@ Tots els grans homens de la història tenen un ADN comú. La filosofía de l'enf
 - issue: problema
 - It turns out that the wisdown: resulta que la sabiduria
 - knowingly: "a sabiendas"
+- let: deixar
 - matters: assumptes
 - outpouring: efusió
 - overcome: superar
@@ -124,7 +125,7 @@ Tots els grans homens de la història tenen un ADN comú. La filosofía de l'enf
 - worthly: digne
 
 
-### 0. Introduction
+# 0. Introduction
 
 L'obstacle impossibilita el que vols fer. Esperes que no passe mai. La majoria de les vegades ens paralitza.
 
@@ -177,7 +178,7 @@ Tres disciplines interdependents i interconnectades:
 3. Voluntat
 
 
-#### Vocabulary
+## Vocabulary
 
 - a sage: un savi
 - achieving success: aconseguint l’exit
@@ -317,7 +318,7 @@ Tres disciplines interdependents i interconnectades:
 - with halfheartedly: amb poc entusiasme
 - woods: bosc
 
-### I. Perception
+# I. Perception
 
 Què és la percepció?
 
@@ -328,7 +329,7 @@ Les nostres **percepcions** són un **codi de força** o de **debilitat**.
 Si desenvolupem **habilitats** i **disciplina** per **allunyar els senyals  de decepció, filtrar els prejudicis, expectació i por**. Però mereix la pena, ja que recobrarem la calma i la imperturbabilitat. Nosaltres veurem coses simples i senzilles, què no són ni bones ni dolentes. Això és un avantatge increïble per lluitar contra els obstacles.
 
 
-#### Vocabulary
+## Vocabulary
 
 - afraid: asustat
 - ancients: vell
@@ -351,9 +352,34 @@ Si desenvolupem **habilitats** i **disciplina** per **allunyar els senyals  de d
 - wil mean: significarà
 
 
-### I.1. The discipline of Perception
+# I.1. The discipline of Perception
 
-### Vocabulary
+Rockefeler va internalitzar una important lliçó: **El mercat és inherentment impredictible i, sovint, viciós, sols una ment racional i disciplinada prodria esperar traure'n profit d'això**. Ell es va inclinar sempre a veure l'oportunitat en el desastre.
+
+Podem descriure la personalitat de Rockefeller com **resilent**, **adaptable**, **calmat**, **brillant**.
+
+Si regreses sobre els obstacles en la vida descobriràs coincidències, però també com nosaltres els veiem, els percebem, com reaccionem i com mantenim la compostura. Podem aprendre reaccions determinades per superar els objectius.
+
+On una persona veu crisi, altra pot veure una oportunitat. Quan una persona es cega, altra ho pot veure clar. On u perd el control de les emocions, altre pot trobar la calma. Aquestes reaccions es dónen en funció de la teua percepció. Res no fa que ens sentim d'aquesta manera, nosaltres elegim sentir-nos d'una o d'altra manera.
+
+Podem aprendre a percebre coses diferents, tallar a través de les il·lusions eixes creències o pors. Nosaltres podem veureel problemes en front de nosaltres com a problemes. Podem aprendre a enfocar les coses com realment són.
+
+Amb la disciplina de la percepció es deixa veure clarament l'avantatge i el proper curs de l'acció en totes les situacions sense el pànic ni les pors.
+
+> El superpoder de Rockefeller radica en l'habilitat per a controlar, entendre i canalitzar estes senyals, estes percepcions. Perquè, la majoria de les persones no poden accedir a la part de sí mateixos, elles són esclaves dels impulsos i dels instints que mai qüestionen.
+
+Quan ens enfrontem a un obstacle cal mantenir:
+
+- L'objectivitat
+- El control emocional i mantenir el rumb
+- Elegir les coses bones de la situació
+- Mantenir els nervis serens
+- Ignorar les distraccions o les limitacions dels altres
+- Poner les coses en perspectiva
+- Centrar-nos en el moment present
+- Enfocar-nos en el que podem controlar
+
+## Vocabulary
 
 - abounds: abunda
 - advantage: avantatge
