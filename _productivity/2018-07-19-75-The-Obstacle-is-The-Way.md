@@ -316,3 +316,37 @@ Tres disciplines interdependents i interconnectades:
 - wisest: savi
 - with halfheartedly: amb poc entusiasme
 - woods: bosc
+
+### I. Perception
+
+Què és la percepció?
+
+*És com nosaltres veiem i entenen el nostre voltant, i que decidim el que significaran per a nosaltres.*
+
+Les nostres **percepcions** són un **codi de força** o de **debilitat**.
+
+Si desenvolupem **habilitats** i **disciplina** per **allunyar els senyals  de decepció, filtrar els prejudicis, expectació i por**. Però mereix la pena, ja que recobrarem la calma i la imperturbabilitat. Nosaltres veurem coses simples i senzilles, què no són ni bones ni dolentes. Això és un avantatge increïble per lluitar contra els obstacles.
+
+
+#### Vocabulary
+
+- afraid: asustat
+- ancients: vell
+- deceptive ones: enganys
+- fear: por
+- fight against obstacles: lluitar contra els bostacles
+- fight: lluïta
+- for what's left is truth: perquè el que queda és veritat
+- It's wordht it: val la pena
+- over: damunt
+- overwhelmed: abrumat
+- pet: mascotes
+- reliable: de confiança
+- remain: romandre
+- shortsighted: miope
+- straightforwardly: senzillament
+- strength: força
+- troubles: problemes
+- weakness: debilitat
+- wil mean: significarà
+
