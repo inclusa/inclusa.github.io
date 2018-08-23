@@ -350,3 +350,102 @@ Si desenvolupem **habilitats** i **disciplina** per **allunyar els senyals  de d
 - weakness: debilitat
 - wil mean: significarà
 
+
+### I.1. The discipline of Perception
+
+### Vocabulary
+
+- abounds: abunda
+- advantage: avantatge
+- all along the way: tot el camí
+- allowed: permés
+- almost: quasi
+- apperendiceship: aprenentatge
+- approach: enfoc
+- as he once put it: com li va dir una vegada
+- aviable: disponible
+- backers: patrocinadors
+- baggage: equipatge
+- bearing: suport
+- befell: passar
+- bilnded: cegat
+- blessed: beneit
+- blindly: a cegues
+- brains: cervells
+- calmer: calma
+- capable: capaç
+- career: carrera
+- carry: portar
+- cents: centaus
+- cesase: cesar
+- choose: elecció
+- crippling: ferida
+- crumbling: desmoronar-se
+- currently: correntment
+- deceptive: enganyós
+- deploy: desplegar
+- downturns: desacceleració
+- drilling: perforació
+- empty-handed: mans buides
+- even: inclús
+- fair: justa
+- fetters: corretges
+- funds: fondos
+- gathered: reunit
+- gift: regal
+- glittery: brillant
+- gotten: aconseguit
+- grateful: agraït
+- greed: codicia
+- greedly: codiciosament
+- he would alone: ell sol
+- honed: afirmat
+- insights: idees
+- instead: en el seu lloc
+- insurmontable: insuperable
+- investor: inversor
+- it was like: ell era
+- keel: quilla
+- matters: assumptes
+- misfortune: desgràcia
+- momentous events: moments transcendents
+- nerarby: prop
+- overcome: superar
+- perilous: perillós
+- perished: "pereció", va perir
+- plummedted: caure empicat
+- powerlessness: impotència
+- rather: més aviat, més bé
+- rattle: rastreig
+- reacted: reaccionar
+- refounded: reembosar
+- rising: creixent
+- ruthless: implacable
+- sacred: sagrat
+- sangfroid: sang freda
+- scared: asustat
+- seemly: apartament
+- seize: aprofondir
+- set out: exposar
+- shocked: commocionat
+- shocks: xocs
+- sold: vengueren
+- starve: morir de fam
+- steady: estable
+- strength: força
+- struck: colpejar
+- struggle: lluïta
+- the meant criticim: significatva una crítica
+- threads: draps
+- threw: va llançar
+- thriving: prósper
+- understood: entés
+- unfair: injusta
+- upset: transformat
+- weak-hearted: de cor feble
+- weaknesses: debilitats
+- wells: pous
+- westward: cap a l'oest
+- wheter: si
+- yells: cridar
+- yield: rendiment
