@@ -352,9 +352,9 @@ Si desenvolupem **habilitats** i **disciplina** per **allunyar els senyals  de d
 - wil mean: significarà
 
 
-# I.1. The discipline of Perception
+## I.1. The discipline of Perception
 
-Rockefeler va internalitzar una important lliçó: **El mercat és inherentment impredictible i, sovint, viciós, sols una ment racional i disciplinada prodria esperar traure'n profit d'això**. Ell es va inclinar sempre a veure l'oportunitat en el desastre.
+**Rockefeler** va internalitzar una important lliçó: **El mercat és inherentment impredictible i, sovint, viciós, sols una ment racional i disciplinada prodria esperar traure'n profit d'això**. Ell es va inclinar sempre a veure l'oportunitat en el desastre.
 
 Podem descriure la personalitat de Rockefeller com **resilent**, **adaptable**, **calmat**, **brillant**.
 
@@ -379,7 +379,7 @@ Quan ens enfrontem a un obstacle cal mantenir:
 - Centrar-nos en el moment present
 - Enfocar-nos en el que podem controlar
 
-## Vocabulary
+### Vocabulary
 
 - abounds: abunda
 - advantage: avantatge
@@ -475,3 +475,89 @@ Quan ens enfrontem a un obstacle cal mantenir:
 - wheter: si
 - yells: cridar
 - yield: rendiment
+
+## I.2. Recognize your power
+
+> Choose not to be harmed, and you won't feel harmed. Don't feel harmed, and your haven't been.
+> Trieu no fer-se mal, i no et sentiràs perjudicat. No et sentis ferit, i tu no ho hauràs estat.
+> <small>-- Marco Aurelio</small>
+
+**Rubin "Hurricane" Carter** va ser un contendent dels pesos mitjants de renom en el món de la boxa, dels anys 1960's. Va estar acusat d'un triple crim què no va cometre.
+
+Va fer per a sí mateix la següent declaració: *Sé que no he fet res respecte al motiu injust que m'ha portat a la presó. Estaré ací fins que isca. Però, sota cap circumstància seré tractat com a un presoner, per què no ho sóc i mai ho seré*.
+
+En comptes de rendir-se, de sentir-se desola es basar en la seua innata llibertat, les seues creències i les seues eleccions.
+
+Era una injusticia, però no podia canviar-la, no estava en la seua mà canviar aquella situació, així que, va aprofitar el temps llegit llibres, estudiant filosofia i història.
+
+En eixir de presó va ser declarat innocent, després de dèneu anys de presó.
+
+Ell va fer una elecció: *No poden fer-me mal, decidisc que no em va afectar, no està bé*.
+
+Nosaltres decidim com sentir-nos en cada situació. Decidim si ens trenquem o si resistim. Decidim si ho assumim o ho rebutgem.
+
+> Les nostres **percepcions** sobre les coses marquen el control absolut sobre elles.
+
+El temps que Carter va passar en presó el va transformar.
+
+**Res no és bo ni roïn, nosaltres atribuïm el seu significat**. Ja ho va dir Shakespeare.
+
+## Vocabulary
+
+anger: ràbia
+avoid: evitar
+awful: horrible
+belief: creença
+biased: tendenciat
+bleak: desolador
+bogus: fals
+breaking down: trencat
+brought: portat, passat de bing, portar
+careless: descurat
+cherry: cirera
+choices: opció
+contender: contendent
+crazy: boig
+depths: profunditats
+dizzying: vertiginós
+employee: empleat
+facing: enfrontar-se
+fight: lluitar
+grove: bosc
+harm: danyar
+harmed: ferit
+harsh: dures
+heights: alçades
+hopeless: sense esperança
+improved: millorat
+inmate: pres
+instead breaking down: en lloc de trencar
+instead: en canvi
+jail: presó
+lag: retard
+messed up: en mal estat
+middle weight: pes mitjà
+mistake: errada
+overturn: bolcat
+parole hearings: audiències de llibertat condicional
+powerless: impotent
+prairies: prades
+promptly: inmediatament
+rage: ràbia
+reject: rebutjar
+relinquished: renunciat
+ring: anell
+ruined: arruinat
+shift: canvi
+soil: sòl
+surrender: rendició
+tailored suit: vestit a mesura
+toughest: més dur
+training: entreteniment
+treated: tractat
+trial: judici
+trials: assaigs
+unyield: sense contacte
+upbeat: optimista
+warden: guardià
+wits: enginy
