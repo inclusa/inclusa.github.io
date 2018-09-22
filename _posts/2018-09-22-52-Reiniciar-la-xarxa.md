@@ -19,9 +19,9 @@ El cas és que cal saber com reiniciar la xarxa de forma efectiva. Ací recollim
 1. **netplan** `sudo netplan apply`
 2. **systemctl** `sudo systemrestart NetworkManager.service`
 3. **service** `sudo service network-manager restart`
-4. **Nmcli** `sudo nmcli networking off && sudo nmcli networking on`
-5. **system V init** `sudo /etc/init.d/networking restart` o `sudo /etc/init.d/network-manager`
-6. ifup/ifdown `sudo ifdown -a && sudo ifup -a`
+4. **nmcli** `sudo nmcli networking off && sudo nmcli networking on`
+5. **system V init** `sudo /etc/init.d/networking restart` o `sudo /etc/init.d/network-manager restart`
+6. **ifup/ifdown** `sudo ifdown -a && sudo ifup -a`
 
 Font: [linuxconfig.org](https://linuxconfig.org/how-to-restart-network-on-ubuntu-18-04-bionic-beaver-linux)
 
