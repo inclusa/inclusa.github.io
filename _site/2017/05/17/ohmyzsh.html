@@ -74,9 +74,8 @@
 
 <p>Ubuntu/Debian te aquest paquet:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>zsh - shell with lots of features
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>zsh - shell with lots of features
+</code></pre></div></div>
 
 <p>D’aquesta manera d’un colp podem incorporar moltes facilitats al nostre sistema.</p>
 
@@ -86,25 +85,22 @@
 
 <p>Per gaudir d’aquestes funcionalitats cal primer instal·lar des del repositori <code class="highlighter-rouge">zsh</code> i després executar aquesta línia:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>sh -c <span class="s2">"</span><span class="k">$(</span>curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh<span class="k">)</span><span class="s2">"</span>
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>sh <span class="nt">-c</span> <span class="s2">"</span><span class="k">$(</span>curl <span class="nt">-fsSL</span> https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh<span class="k">)</span><span class="s2">"</span>
+</code></pre></div></div>
 
 <p>Com què roman a GITHub seria es pot mirar el codi abans d’executar.</p>
 
 <p>La configuració d’aquest sistema es pot customitzar al directori:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>.oh-my-zsh
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.oh-my-zsh
+</code></pre></div></div>
 
 <h3 id="afegir-nous-alias">Afegir nous alias</h3>
 
 <p>Per tal d’arrancar un programa com <code class="highlighter-rouge">Emacs</code> amb una funcionalita concreta com que òbriga un arxiu concret caldrà editar l’arxiu <code class="highlighter-rouge">.zshrc</code> escrivint:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>alias bujo="emacs ~/Documents/bulletjournal.org"
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alias bujo="emacs ~/Documents/bulletjournal.org"
+</code></pre></div></div>
 
 <h3 id="programari-que-funciona-amb-bash">Programari que funciona amb Bash</h3>
 
@@ -116,7 +112,7 @@
 
 <p>Si instal·lem <code class="highlighter-rouge">Ruby</code> des de <a href="https://rvm.io/">https://rvm.io/</a> cal incloure aquestes línies al final de l’arxiu <code class="highlighter-rouge">.zshrc</code>:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code># Thanks for the awesome idea batasrki
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Thanks for the awesome idea batasrki
 function gemdir {
   if [[ -z "$1" ]] ; then
     echo "gemdir expects a parameter, which should be a valid RVM Ruby selector"
@@ -131,8 +127,7 @@ function gemdir {
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h3 id="activar-els-plugins">Activar els plugins</h3>
 
@@ -140,17 +135,15 @@ function gemdir {
 
 <p>Per tal d’activar els plugins anirem a l’arxiu <code class="highlighter-rouge">.zshrc</code>. On posarem tots els plugins que volem utilitzar així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>plugins=(git debian ruby rails)
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>plugins=(git debian ruby rails)
+</code></pre></div></div>
 
 <p>Com què el plugin <code class="highlighter-rouge">debian</code> està activat descriurem el procés d’actualització d’un sistema Debian/Ubuntu:</p>
 
 <p>Sense alies ho feiem així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt upgrade -y
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt upgrade -y
+</code></pre></div></div>
 
 <p>Ara ho farem així:</p>
 
@@ -160,15 +153,14 @@ function gemdir {
 
 <p>D’aquesta manera s’executarà així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>ad &amp;&amp; ag
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ad &amp;&amp; ag
+</code></pre></div></div>
 
 <p>Per tal de consultar els plugins i els alies caldrà anar al directori <code class="highlighter-rouge">.ohmyzsh/plugins/</code> on mirarem l’arxiu.</p>
 
 <h3 id="llistat-de-plugins">Llistat de plugins</h3>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>adb
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb
 ant
 apache2-macports
 arcanist
@@ -399,8 +391,7 @@ z
 zeus
 zsh-navigation-tools
 zsh_reload
-</code></pre>
-</div>
+</code></pre></div></div>
 
   </article>
 

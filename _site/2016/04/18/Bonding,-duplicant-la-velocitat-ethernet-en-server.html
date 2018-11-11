@@ -66,7 +66,7 @@
 
   <header class="post-header">
     <h1 class="post-title">06 Bonding, ethernet 2 Gigabits</h1>
-    <p class="post-meta">April 18, 2016 — 00:00</p>
+    <p class="post-meta">April 18, 2016 — 02:00</p>
   </header>
 
   <article class="post-content">
@@ -85,22 +85,19 @@
 
 <p>Instal·lem software per assignar interfaces de xarxa al mòdul que les enllaça</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt-get install ifenslave
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get install ifenslave
+</code></pre></div></div>
 
 <p>Creem un arxu de configuració de l’enllaç</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo vim /etc/modprove.d/bondig.conf
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo vim /etc/modprove.d/bondig.conf
+</code></pre></div></div>
 
 <p>Li afegim aquestes línies</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>alias bond0 bonding
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alias bond0 bonding
 optins bonding mode=0 miimon=100
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>El <code class="highlighter-rouge">mode=0</code> permeteix balancejar la càrrega i tolerància a errades, es poden utilitzar altres mòduls. L’altre paràmetre és el temps entre comprovacions de l’estat de la interface.</p>
 
@@ -108,13 +105,12 @@ optins bonding mode=0 miimon=100
 
 <p>Editem l’arxiu d’interfaces de xarxa</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo vim /etc/network/interfaces
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo vim /etc/network/interfaces
+</code></pre></div></div>
 
 <p>Comentem les línies de les interfaces amb un # a principi de línia, hauria de quedar així:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>auto lo
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>auto lo
 iface lo inet loopback
 
 auto bond0
@@ -125,8 +121,7 @@ netmask 255.255.255.0
 slaves eth0 eth1
 bond-mode 0
 bond-miimon 100
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Cal posar en <code class="highlighter-rouge">address</code> la nostra direcció i en <code class="highlighter-rouge">gateway</code> l’adreça del router.</p>
 
@@ -134,10 +129,9 @@ bond-miimon 100
 
 <p>Arramquem el servei</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo modprobe bonding
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo modprobe bonding
 $ sudo /etc/init.d/networking restart
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h1 id="fonts">Fonts</h1>
 

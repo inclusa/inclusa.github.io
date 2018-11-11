@@ -80,29 +80,25 @@
 
 <p>a. En cas de voler instal·lar-lo en mode local</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo npm install browser-sync
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>npm <span class="nb">install </span>browser-sync
+</code></pre></div></div>
 
 <p>b. En cas de voler instal·lar-lo en mode global, per qualsevol projecte</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo npm install -g browser-sync
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>npm <span class="nb">install</span> <span class="nt">-g</span> browser-sync
+</code></pre></div></div>
 
 <h3 id="alçar-el-servei">Alçar el servei</h3>
 
 <p>Alçarem el servei a un directori així:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>browser-sync start -s _site --files <span class="s2">"_site/*"</span>
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>browser-sync start <span class="nt">-s</span> _site <span class="nt">--files</span> <span class="s2">"_site/*"</span>
+</code></pre></div></div>
 
 <p>Si ens volem alçar el mateix directori on estem situats:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>browser-sync start -s ./ --files <span class="s2">"*"</span>
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>browser-sync start <span class="nt">-s</span> ./ <span class="nt">--files</span> <span class="s2">"*"</span>
+</code></pre></div></div>
 
   </article>
 

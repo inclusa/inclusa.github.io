@@ -82,18 +82,17 @@
 
 <p>Per localitzar l’errada vàrem revisar la versió de Php activa amb aquest arxiu:</p>
 
-<div class="language-php highlighter-rouge"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
 
-<span class="c1">// Show all information, defaults to INFO_ALL
-</span><span class="nb">phpinfo</span><span class="p">();</span>
+<span class="c1">// Show all information, defaults to INFO_ALL</span>
+<span class="nb">phpinfo</span><span class="p">();</span>
 
-<span class="c1">// Show just the module information.
-// phpinfo(8) yields identical results.
-</span><span class="nb">phpinfo</span><span class="p">(</span><span class="nx">INFO_MODULES</span><span class="p">);</span>
+<span class="c1">// Show just the module information.</span>
+<span class="c1">// phpinfo(8) yields identical results.</span>
+<span class="nb">phpinfo</span><span class="p">(</span><span class="nx">INFO_MODULES</span><span class="p">);</span>
 
 <span class="cp">?&gt;</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Localitzat el problema vàrem emprendre les següents accions:</p>
 
@@ -109,34 +108,29 @@
 
 <p>Actualitzem el repositori.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt-get update
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get update
 sudo apt-get upgrade
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Afagim el repositori d’Oracle.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo add-apt-repository ppa:webupd8team/java
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:webupd8team/java
+</code></pre></div></div>
 
 <p>Actualitzem.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt install update
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install update
+</code></pre></div></div>
 
 <p>Instal·lem versió 8 de Java.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt install oracle-java8-installer
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install oracle-java8-installer
+</code></pre></div></div>
 
 <p>Verifiquem versió de Java.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>java -version
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>java -version
+</code></pre></div></div>
 
   </article>
 

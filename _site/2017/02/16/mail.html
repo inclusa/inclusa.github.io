@@ -66,7 +66,7 @@
 
   <header class="post-header">
     <h1 class="post-title">22 Mail</h1>
-    <p class="post-meta">February 16, 2017 — 00:00</p>
+    <p class="post-meta">February 16, 2017 — 01:00</p>
   </header>
 
   <article class="post-content">
@@ -74,13 +74,12 @@
 
 <p>Obrim un terminal i escrivim:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">alfons@server:~$ </span>mail -s <span class="s2">"Enviament d'un mail"</span> alfons@server
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alfons@server:~<span class="nv">$ </span>mail <span class="nt">-s</span> <span class="s2">"Enviament d'un mail"</span> alfons@server
 Cc: 
 Aquest seria el contingut del correu propiament dit.
 El finalitzem amb un acomiadament.
 Salutacions
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Explicació:</p>
 
@@ -102,10 +101,10 @@ Salutacions
   <li>Visualitzem el missatge</li>
 </ol>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">alfons@server:~$ </span>mail
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alfons@server:~<span class="nv">$ </span>mail
 <span class="s2">"/var/mail/alfons"</span>: 2 messages 1 new 1 unread
  U   1 Alfons Rovira dj feb 16 03:21   15/472   Contingut del mail
-&gt;N   2 Alfons Rovira dj feb 16 03:28   17/531   Enviament d<span class="s1">'un mail
+<span class="o">&gt;</span>N   2 Alfons Rovira dj feb 16 03:28   17/531   Enviament d<span class="s1">'un mail
 ? 2
 Return-Path: &lt;alfons@localhost&gt;
 X-Original-To: alfons@server
@@ -123,14 +122,12 @@ Aquest seria el contingut del correu propiament dit.
 El finalitzem amb un acomiadament.
 Salutacions
 ? 
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>El missatge quedarà marcat com a llegit, ja no el tornarem a visualitzar, però romandrà dins d’un arxiu de text a <code class="highlighter-rouge">/home/alfons/mbox</code>, el qual podrem llegir listant-lo:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>cat mbox | less
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat </span>mbox | less
+</code></pre></div></div>
 
   </article>
 

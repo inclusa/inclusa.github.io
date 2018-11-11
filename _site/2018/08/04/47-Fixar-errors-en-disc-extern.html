@@ -74,21 +74,18 @@
 
 <p>Mitjançant <code class="highlighter-rouge">gparted</code> he pogut observar que tenia un format <code class="highlighter-rouge">NTFS</code>, en utilitzar GNU/Linux necessitarem aquestes utilitats per tal de gestionar aquest format:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$ sudo apt install ntfs-3g ntfsprogs
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install ntfs-3g ntfsprogs
+</code></pre></div></div>
 
 <p>Per tal de fixar les errades en el disc amb format <code class="highlighter-rouge">NTFS</code> caldrà serguir aquesta lògica:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo ntfsfix /dev/partitionName
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo ntfsfix /dev/partitionName
+</code></pre></div></div>
 
 <p>Així que l’apliquem:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo ntfsfix /dev/sdd1
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo ntfsfix /dev/sdd1
+</code></pre></div></div>
 
 <p>L’errada podria haver estat causada perquè el portàtil que estava sincronitzant el backup s’havera quedat sense energia.</p>
 
