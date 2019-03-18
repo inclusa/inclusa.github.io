@@ -84,7 +84,7 @@
   <li>Facilita canviar ràpidament d’entorn de treball.</li>
 </ol>
 
-<h1 id="2-concpetes-claus">2. Concpetes claus</h1>
+<h1 id="2-conceptes-claus">2. Conceptes claus</h1>
 
 <ol>
   <li><em>Sessió</em></li>
@@ -94,7 +94,7 @@
 
 <p>La <em>sessió</em> és una col·lecció de consoles virtuals gestionades per Tmux. Cada sessió té una o més <em>finestres</em> associades. Les finestres ocupen tot l’espai de la pantalla, es poden dificir en regions rectangulars que s’anomenen <em>panels</em>. En cada panel s’executa una consola virtual independent.</p>
 
-<h1 id="21-barra-destat">2.1. Barra d’estat</h1>
+<p><strong>2.1. Barra d’estat</strong></p>
 
 <ol>
   <li>Index de la sessió entre corxets</li>
@@ -103,20 +103,20 @@
   <li>L’hora i la data actuals</li>
 </ol>
 
-<h1 id="22-arquitectura-client--servidor">2.2. Arquitectura Client / Servidor</h1>
+<p><strong>2.2. Arquitectura Client / Servidor</strong></p>
 
 <p>Quan executem el comandament <code class="highlighter-rouge">tmux</code> en terminal es creen dos processos independents: un per al client i altre per al servidor.</p>
 
 <p>Aquests processos es comuniquen entre sí mitjançant l’enviament de comandaments.</p>
 
-<h1 id="23-funcions-del-client">2.3. Funcions del client</h1>
+<p><strong>2.3. Funcions del client</strong></p>
 
 <ol>
   <li>Enviar comandaments al servidor que es vol que Tmux execute</li>
   <li>Pintar sessions, finestres i panels en patatalla que està gestionant el servidor</li>
 </ol>
 
-<h1 id="24-funcions-del-servidor">2.4. Funcions del servidor</h1>
+<p><strong>2.4. Funcions del servidor</strong></p>
 
 <ol>
   <li>S’encarrega d’executar els comandaments</li>
@@ -125,7 +125,7 @@
 
 <p>Gràcies a aquesta arquitectura, si el client acaba el server continuarà executant les tasques en segon pla. Això és el que ens permetrà recuperar el nostre entorn més tard.</p>
 
-<h1 id="25-comandaments">2.5. Comandaments</h1>
+<p><strong>2.5. Comandaments</strong></p>
 
 <p>Es poden classificar en dos tipus depenent de com li’ls passem a Tmux.</p>
 
@@ -137,7 +137,7 @@
 
 <p>Combinació de tecles: <code class="highlighter-rouge">prefixe + tecla</code></p>
 
-<h1 id="26-sessions">2.6. Sessions</h1>
+<p><strong>2.6. Sessions</strong></p>
 
 <p><code class="highlighter-rouge">tmux list-sessions</code>: llistat de totes les sessions</p>
 
@@ -145,7 +145,7 @@
 
 <p><code class="highlighter-rouge">tmux attach -t 0</code>: es connectarà a la sessió 0</p>
 
-<p><code class="highlighter-rouge">Ctrl + b + B</code>: desconnecta de la sessió</p>
+<p><code class="highlighter-rouge">Ctrl + b + d</code>: desconnecta de la sessió</p>
 
 <p><code class="highlighter-rouge">Ctrl + b+ $</code>: canvia el nom de la sessió</p>
 
@@ -153,7 +153,7 @@
 
 <p><code class="highlighter-rouge">Ctrl + b+ : + kill-session</code>: matar sessió</p>
 
-<h1 id="27-finestres">2.7. Finestres</h1>
+<p><strong>2.7. Finestres</strong></p>
 
 <p><code class="highlighter-rouge">Ctrl + b+ ,</code>: renomena una finestra</p>
 
@@ -169,7 +169,7 @@
 
 <p><code class="highlighter-rouge">Ctrl + b+ &amp;</code>: tanca totes les finestres</p>
 
-<h1 id="28-panels">2.8. Panels</h1>
+<p><strong>2.8. Panels</strong></p>
 
 <p><code class="highlighter-rouge">Ctrl + b+ "2</code>: divideix el panell horitzontalment</p>
 

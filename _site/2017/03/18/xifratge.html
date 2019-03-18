@@ -102,6 +102,37 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">--output</span> secret.zip <span class="nt">-d</span> secret.zip.gpg
 </code></pre></div></div>
 
+<h3 id="altra-manera-de-fer-ho">Altra manera de fer-ho</h3>
+
+<p>Comprimix directori</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tar -czvf directori.tar.gz /camí/al/directori
+</code></pre></div></div>
+
+<p><code class="highlighter-rouge">c</code>: crea l’arxiu</p>
+
+<p><code class="highlighter-rouge">z</code>: comprimeix l’arxiu en gzip</p>
+
+<p><code class="highlighter-rouge">v</code>: verbose, mostra el progrés de compresió</p>
+
+<p><code class="highlighter-rouge">f</code>: filename, permet especificar el nom de l’arxiu</p>
+
+<p><code class="highlighter-rouge">x</code>: descomprimeix</p>
+
+<p>Xifre aquest directori comprimit</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg -c directori.tar.gz
+</code></pre></div></div>
+
+<p>Desxifrat</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg --output directori.tar.gz directori.tar.gz.gpg
+</code></pre></div></div>
+
+<p>Descomprimisc el directori</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tar -xvzf directori.tar.gz
+</code></pre></div></div>
 
   </article>
 
