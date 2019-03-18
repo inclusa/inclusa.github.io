@@ -7,9 +7,10 @@ keywords: produtivity
 coments: 
 ---
 
-Pel·lícula: The sniper. El francotirador
-
+```
+Pel·lícula: El francotirador
 Autor: Clint Easwood
+```
 
 ### Perspectiva
 
@@ -20,7 +21,7 @@ Autor: Clint Easwood
 - **Àrees de responsabilitat**: Li donen el control de la unitat.
 - **Projecte**: Anar a Irak per abatre el franctirador enemic.
 - **Accions**
-    1. Situar-s en una terrassa
+    1. Situar-se en una terrassa
     2. El franctirador actua visualitzant amb uns primsmàtics de precisió la seua posició
     3. Aguantar la presió del moment, si dispara al franctirador enemic descobreix la seua posició, encente o no, i la dels seus
     4. Inhibir els estímuls distractors i la presió d'un superior
