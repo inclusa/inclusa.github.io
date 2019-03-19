@@ -1,6 +1,6 @@
 ---
 layout: post # note, post, report, capture
-title: 80 Pense i faças ric
+title: 80 Pense i faça's ric
 date: 2019-03-19
 description: 
 keywords: 
