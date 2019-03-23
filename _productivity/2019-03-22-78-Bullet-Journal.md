@@ -43,11 +43,40 @@ El mètode Bullet Jounal actúa com a un pont entre les nostres creències i les
 >
 > --Richie Norton
 
-El filòsof David Bentley Hart defineix la intencionalitat com `el poder fonamental de la ment per a dirigir-se cap a..., un objecte específic, un propòsit i un fi`.
+El filòsof David Bentley Hart defineix la intencionalitat com **el poder fonamental de la ment per a dirigir-se cap a..., un objecte específic, un propòsit i un fi**.
 
 Si intencionalitat significa actuar asons les pròpies creències, llavors el contrari seria funcinoar amb el pilot automàtic posat. En altres paraules, ¿saps per què fas el que fas?
 
 Viure una vida amb intenció significa mantenir les accions i les creències aliniades. Consisteix en escriure una història en la qual creguem i de la qual ens podam sentir orgullosos.
 
 #### Aclarir la ment
+
+> Per a la majoria de nosaltres, 'estar ocupats' és una manera elegant de dir que estem superats a nivell funcional.
+
+Warren Buffet li va donar un consell a Mike Flint, inversor. Li va emaar que fera una llista de les coses més importants que havia de fer. Després li va fer marcar les cinc coses més importants. Li va dir que s'oblidara de les altres coses.
+
+Barac Obama afirmava: 'Soles porte trajes grisos o blaus. Intente reduir el nombre de decisios que prenc. No vull decidir què ni perquè em pose perquè tinc moltes decisions que prendre.
+
+El psicòleg Roy F. Baumeister escrigué en el llibre Willpower: 'Dóna igual com intentem ser de racionals o rectes que intentem ser, no podem prendre decisions sense pagar un preu biològic. És un procés distint a la fatiga física, no som conscients d'estar cansats però tenim poca energia mental.'
+
+Quantes més decisions prens és més difícil fer-ho bé. La fatiga en prendre decisions pot portar a no prendre decisions. Intentem tractar estos símptomes amb més distraccions. **Necessitem reduir el nombre de decisions que ens rodegen per concentrarnos en el que importa.**
+
+###### Inventari mental
+
+El primer pas per recuperar-nos de la fatiga de decisió és prendre distància. Necessitem una miqueta de distància per identificar i deliminar clarament les opcions que tenim.
+
+Això ho fem escrivint per aclarir la ment.
+
+Parts de l'inventari mental:
+    - Què estic fent
+    - Què hauria de fer
+    - Què m'agradaria fer
+
+Cal respondre a dos preguntes:
+    - És vital?
+    - Importa?
+
+Al final tindrem dos tipus de tasques:
+   - Les que cal fer: les teues responsabilitats
+   - Les que vols fer: els teus objectius
 
