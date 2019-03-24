@@ -37,7 +37,7 @@ Per a navegar amb èxit pel món que ens rodeja, deguem mirar al nostre interior
 
 El mètode Bullet Jounal actúa com a un pont entre les nostres creències i les nostrea accions integrant-se en a les nostres vides
 
-#### El perqué
+#### El perquè
 
 > Viure amb intenció és l'art de prendre les propies decisions abans de que les decisions dels demés ens prenguen a nosaltres.
 >
@@ -79,4 +79,112 @@ Cal respondre a dos preguntes:
 Al final tindrem dos tipus de tasques:
    - Les que cal fer: les teues responsabilitats
    - Les que vols fer: els teus objectius
+
+#### Llibretes
+
+El mètode Bullet Journal és molt més que fer llistes. És una metodologia concreta dissenyada per a plasmar, ordenar i examinar la nostra experiència.
+
+> La nostra llibreta és un santuari mental en el qual som lliures per a pensar, reflexionar, processar i concentrar-nos.
+
+Motius per usar una llibreta:
+
+- Connexió cor-ment.
+- Flexibiitat versus la no flexibilitat del software
+- Cada dia comences de zero
+- Documentem la vida personal i professional, podem reflexionar sobre ella i identificar vitòries i fracasos
+
+#### Escriptura manual
+
+> La tinta més descoloria és millor q eel millor record.
+> -- Proverbi xinés
+
+Un estudi de la Universitat de Washington va demostrar que els alumnes de primària que escrivien els seus treballa a mà tenien més tendència a expresar-se per escrit amb oracions complexes i aprenien a llegir més prompte. Gran part d'això es deu a què la escriptura manual accelera i aprofondeix en la nostra habilitat per a generar i, per tant, reconèixer, caracters.
+
+El moviment tàctil que implica l'escriptura manual estimula la nostra ment de manera més efectiva que usar un teclat. Activa múltiples zones del cervell de manera simultània, de manera que fixa en un nivell més profund allò que aprenem.
+
+El fet de tardar més en escriru a mà es el que aporta les seues avantatges cognitives.
+
+La **teràpia cognitivo-conductual** utilitza l'escriptura per tractar les persoes que s'obsesionen amb pensaments intrusius.
+
+"El camí més llarg és el més curt". Quan prenem dreceres perdem oportunitats per frenar i pensar. La verdadera eficiència no consisteix en la velocitat, sino en invertir més temps en el que de veres importa. En això consisteix el mètode Bullet Journal.
+
+### II. El sistema
+
+- Llista de tasques
+- Diàri
+- Planificador
+
+#### El sistema
+
+La flexibilitat del Bullet Journal es deriva de la seua estructura modular.
+
+Conceptes clau:
+
+- Índex
+- Registre de Futur
+- Registre Mensual
+- Registre Diari
+- Registre Ràpid
+- Col·leccions
+- Migració
+
+#### Registres ràpids
+
+> Els registres ràpids ens ajudaran a capturar de manera eficient la vida a mesura que succeix, per poder començar a estudiar-la.
+
+Portar un diari ens facilita molt el camí del l'autoconeixement.
+
+El problema dels registres tradicionals és que estan poc estructurats i són intensius en el temps.
+
+Els registres ràpids junten els millors aspectes de portar un diari llevant-li tot allò que no és essencial.
+
+#### Temes i paginació
+
+Assignem un tema a una pàgina.
+
+Els temes tenen tres funcions:
+
+1. Identifiquen i descriuen el contingut.
+2. Poden ser una oportunitat per a aclarir les seues intencions.
+3. Estableixen l'ordre dels continguts.
+
+Ens dónen l'oportunitat de:
+
+- Decidir què posarem en aquest espai.
+- Decidir quin serà el seu objectiu.
+- Identificar el valor afegit a la nostra vida.
+
+> De vegades, l'únic que nes fa falta per viure una vida amb intenció és fer una pausa abans d'actuar.
+
+#### Bullets
+
+De vegades, les llistes tradicionals no tenen **context** ni **prioritat**. Els registres ràpids resolen aquest problema així:
+
+- **Taques**: coses que has de fer
+- **Activitats**: experiències
+- **Notes**: informació que no volem olvidar
+
+#### Tasques
+
+#### Activitats
+
+#### Notes
+
+#### Activitats
+
+#### Bullets personalitzats
+
+#### Col·leccions
+
+#### Registre Diari
+
+#### Registre Mensual
+
+#### Registre Futur
+
+#### Índex
+
+#### Migració
+
+#### La Carta
 
