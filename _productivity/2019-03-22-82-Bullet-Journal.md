@@ -166,25 +166,128 @@ De vegades, les llistes tradicionals no tenen **context** ni **prioritat**. Els 
 
 #### Tasques
 
+Es tracta d'accions: `verb + que + per a què`
+
+Les tasques tenen distints estats:
+
+    - Tasques [·]
+    - Tasques completades [X]
+    - Tasques migrades [>]
+    - Tasques agendades [<]
+
+Si atenem a la jerarquia:
+    - Tassques mare
+    - Subtasques
+
+Les tasques tenen un doble propòsit:
+    - Facilita el record
+    - L'estat de les tasques crea un arxiu d'accions
+
+
 #### Activitats
+
+Les activitats entrades amb experiències que poden ser agendades [o].
+
+És convenient escriure-les prompte.
 
 #### Notes
 
-#### Activitats
+Incluen dades, idees, pensaments i observacions [-].
 
-#### Bullets personalitzats
+Convé deixar reposar la infomació, no eixir corrent d'una reunió, sinó reflexionar i apuntar al final.
+
+La història es desplega peça a peça i no és sinó al final quan tot cobra sentit.
+
+Intentar ajustar-se a la informació que puguem treballar, que t'interesse de debó.
+
+#### Vinyetes i Bullets personalitzats
+
+Cal construir els bullets que necessitem: prioritat, revisar...
 
 #### Col·leccions
 
+Són peces de Lego què, insertant-les es comuniquen entre sí i aporten sentit, especificitat i desglosament.
+
+Quatre col·leccions claus:
+
+       - Registre Diari
+       - Registre Mensual
+       - Registre Futur
+       - Índex
+
+
+
 #### Registre Diari
+
+És més que una llista de tasques.
+
+Proporciona context, gràcies al qual podem ser més deliberats amb les nostres accions.
 
 #### Registre Mensual
 
+Ens ajuda a prendre distància, ens ofereix perspectiva.
+
+Dos pàgines:
+    - Pàgina de calendari
+    - Pàgina de tasques (migrades des del Registre Diari)
+
 #### Registre Futur
+
+Conté les entrades que cauen fora del més en curs.
 
 #### Índex
 
+Proporciona el mapa de la llibreta.
+
+Tipus:
+	- Subcol·leccions
+	- Temàtics
+	- Fils
+
 #### Migració
 
+> No hi ha res més inútil que fer de manera molt eficient alguna cosa que no hauria d'haver-se fet.
+> -- Peter Drucker
+
+Bullet utilitzat [>]
+
+> La productivitat consisteix en fer més treballant en menys coses.
+
+Es poden fer migracions:
+   - Setmanals: recopilar cada setmana allò que no hem fet
+   - Mensuals: recopilar les acciones no fetes del més anteior
+
+Si alguna cosa no passa aquest filtre, és que no era important.
+
 #### La Carta
+
+Es tracta de contar un fet per tal de traure'l de la ment.
+
+### III. La Pràctica
+
+#### Començar
+
+#### Reflexió
+
+#### Sentit
+
+#### Objectius
+
+#### Xicotets Passos
+
+#### Temps
+
+#### Gratitud
+
+#### Control
+
+#### Radiació
+
+#### Resilièencia
+
+#### Deconstrucció
+
+#### Inacció
+
+#### Imperfecció
 
