@@ -265,9 +265,46 @@ Es tracta de contar un fet per tal de traure'l de la ment.
 
 ### III. La Pràctica
 
+> Estar ocupat no implica necessàriament ser productiu.
+
+Per ser productiu el primer que cal fer és trencar el cercle: estímul, reacció, estímul, reacció.
+
+Necessitem deixar espai entre les coses que ens passen i com reaccionem a elles. Aquest espai ens dóna l'oportunitat d'examinar la nostra experiència. Així podem saber què depén de nosaltres, què té sentit, qué mereix la nostra atenció i per què. Així és com comencem a definir qui som i en què creiem.
+
+Conceptes clau
+	  - No podem crear temps, sols prenem temps.
+	  - La felicitat és el resultat del sentit.
+	  - Cultivar la curiositat mitjançant objectius.
+	  - Les preguntes i solucions xicotetes porten grans canvis amb el temps.
+	  - Prioritza el que siga important i descarta el que no ho és.
+	  - El fracàs està garantitzat si mai comences.
+	  - Millor és preferible a Perfecte.
+	  - L'únic que pots controlar és comp respons a les coses.
+	  - Per ser útil, tens que tornar-te útil, especialment per a tu.
+	  - Estudia el millor que té la vida.
+	  - Quan creus en el que fas, els teus objectius transformen el teu dolor.
+
 #### Començar
 
+> Fes visible allò que, sense tu, no s'hauria arribat a veure mai.
+
+Hen de responsabilitzar-nos de crèixer.
+
+Creixem quan aprenem, aprenem quan ens atrevim a passar a l'acció.
+
+Els pensaments són la font dels nostres objectius, esperances, somnis i, en última instància, les nostres accions.
+
 #### Reflexió
+
+La reflexió és el viver de la intencionaltat.
+
+Ens proporciona un entorn mental protegit per a assolir la tan necessària perspectiva i començar a preguntar 'per què'.
+
+Mitjançant la reflexió cultivem l'hàbit de passar-nos llista per examinar el nostre progrés, les nostres responsabilitats, les nostres circumstàncies i el nostre estat mental.
+
+Ens ajuda a veure si estem resolent els problemes correctes, responent les preguntes correctes.
+
+Així separem el **per què** del **què**.
 
 #### Sentit
 
