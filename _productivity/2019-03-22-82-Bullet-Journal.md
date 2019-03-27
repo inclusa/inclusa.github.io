@@ -341,6 +341,17 @@ Consistència: Mitjançant la reflexió ens forcem a apagar el pilot automàtic.
 
 #### Sentit
 
+La felicitat és el resulta de les nostres accions dirigides a objectius.
+
+**Ikigai**: És la intersecció enre el que se't dóna bé i el que t'apasiona fer.
+
+La felicitat no es pot perseguir, sols es pot presentar ser sí mateixa. Viktor Frankl.
+
+El camí no elegit, Robert Frost.
+
+- El camí conegut
+- El camí menys transitat
+
 #### Objectius
 
 #### Xicotets Passos
