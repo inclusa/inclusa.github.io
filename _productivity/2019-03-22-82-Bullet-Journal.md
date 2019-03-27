@@ -68,17 +68,20 @@ El primer pas per recuperar-nos de la fatiga de decisió és prendre distància.
 Això ho fem escrivint per aclarir la ment.
 
 Parts de l'inventari mental:
-    - Què estic fent
-    - Què hauria de fer
-    - Què m'agradaria fer
+
+- Què estic fent
+- Què hauria de fer
+- Què m'agradaria fer
 
 Cal respondre a dos preguntes:
-    - És vital?
-    - Importa?
+
+- És vital?
+- Importa?
 
 Al final tindrem dos tipus de tasques:
-   - Les que cal fer: les teues responsabilitats
-   - Les que vols fer: els teus objectius
+
+- Les que cal fer: les teues responsabilitats
+- Les que vols fer: els teus objectius
 
 #### Llibretes
 
@@ -170,18 +173,20 @@ Es tracta d'accions: `verb + que + per a què`
 
 Les tasques tenen distints estats:
 
-    - Tasques [·]
-    - Tasques completades [X]
-    - Tasques migrades [>]
-    - Tasques agendades [<]
+- Tasques [·]
+- Tasques completades [X]
+- Tasques migrades [>]
+- Tasques agendades [<]
 
 Si atenem a la jerarquia:
-    - Tassques mare
-    - Subtasques
+
+- Tassques mare
+- Subtasques
 
 Les tasques tenen un doble propòsit:
-    - Facilita el record
-    - L'estat de les tasques crea un arxiu d'accions
+
+- Facilita el record
+- L'estat de les tasques crea un arxiu d'accions
 
 
 #### Activitats
@@ -210,10 +215,10 @@ Són peces de Lego què, insertant-les es comuniquen entre sí i aporten sentit,
 
 Quatre col·leccions claus:
 
-       - Registre Diari
-       - Registre Mensual
-       - Registre Futur
-       - Índex
+- Registre Diari
+- Registre Mensual
+- Registre Futur
+- Índex
 
 
 
@@ -228,8 +233,9 @@ Proporciona context, gràcies al qual podem ser més deliberats amb les nostres 
 Ens ajuda a prendre distància, ens ofereix perspectiva.
 
 Dos pàgines:
-    - Pàgina de calendari
-    - Pàgina de tasques (migrades des del Registre Diari)
+
+- Pàgina de calendari
+- Pàgina de tasques (migrades des del Registre Diari)
 
 #### Registre Futur
 
@@ -240,9 +246,10 @@ Conté les entrades que cauen fora del més en curs.
 Proporciona el mapa de la llibreta.
 
 Tipus:
-	- Subcol·leccions
-	- Temàtics
-	- Fils
+
+- Subcol·leccions
+- Temàtics
+- Fils
 
 #### Migració
 
@@ -271,18 +278,19 @@ Per ser productiu el primer que cal fer és trencar el cercle: estímul, reacci�
 
 Necessitem deixar espai entre les coses que ens passen i com reaccionem a elles. Aquest espai ens dóna l'oportunitat d'examinar la nostra experiència. Així podem saber què depén de nosaltres, què té sentit, qué mereix la nostra atenció i per què. Així és com comencem a definir qui som i en què creiem.
 
-Conceptes clau
-	  - No podem crear temps, sols prenem temps.
-	  - La felicitat és el resultat del sentit.
-	  - Cultivar la curiositat mitjançant objectius.
-	  - Les preguntes i solucions xicotetes porten grans canvis amb el temps.
-	  - Prioritza el que siga important i descarta el que no ho és.
-	  - El fracàs està garantitzat si mai comences.
-	  - Millor és preferible a Perfecte.
-	  - L'únic que pots controlar és comp respons a les coses.
-	  - Per ser útil, tens que tornar-te útil, especialment per a tu.
-	  - Estudia el millor que té la vida.
-	  - Quan creus en el que fas, els teus objectius transformen el teu dolor.
+Conceptes clau:
+
+- No podem crear temps, sols prenem temps.
+- La felicitat és el resultat del sentit.
+- Cultivar la curiositat mitjançant objectius.
+- Les preguntes i solucions xicotetes porten grans canvis amb el temps.
+- Prioritza el que siga important i descarta el que no ho és.
+- El fracàs està garantitzat si mai comences.
+- Millor és preferible a Perfecte.
+- L'únic que pots controlar és comp respons a les coses.
+- Per ser útil, tens que tornar-te útil, especialment per a tu.
+- Estudia el millor que té la vida.
+- Quan creus en el que fas, els teus objectius transformen el teu dolor.
 
 #### Començar
 
@@ -309,21 +317,23 @@ Així separem el **per què** del **què**.
 > La reflexió ahuda a identificar el que ens nodreix per a poder prendre millors decisions al semblar per a la següent temporada de la vida.
 
 Conceptes:
-	- Reactivitat
-  	  - Estímul
-  	  - Ansietat
-  	  - Reacció
-	- Intencionalitat
-  	  - Estímul
-  	  - Reflexió
-  	  - Resposta
+
+- Reactivitat
+  - Estímul
+  - Ansietat
+  - Reacció
+- Intencionalitat
+  - Estímul
+  - Reflexió
+  - Resposta
 
 Moments:
-	- Reflexió diària
-	  - Reflexió matutina: moment de planificar
-	  - Reflexió vespertina: moment d'analitzar
-	- Reflexió mensual
-	- Reflexió anual
+
+- Reflexió diària
+  - Reflexió matutina: moment de planificar
+  - Reflexió vespertina: moment d'analitzar
+- Reflexió mensual
+- Reflexió anual
 
 Constància: De 5 a 15 minuts diàris.
 
