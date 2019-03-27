@@ -306,6 +306,29 @@ Ens ajuda a veure si estem resolent els problemes correctes, responent les pregu
 
 Així separem el **per què** del **què**.
 
+> La reflexió ahuda a identificar el que ens nodreix per a poder prendre millors decisions al semblar per a la següent temporada de la vida.
+
+Conceptes:
+	- Reactivitat
+  	  - Estímul
+  	  - Ansietat
+  	  - Reacció
+	- Intencionalitat
+  	  - Estímul
+  	  - Reflexió
+  	  - Resposta
+
+Moments:
+	- Reflexió diària
+	  - Reflexió matutina: moment de planificar
+	  - Reflexió vespertina: moment d'analitzar
+	- Reflexió mensual
+	- Reflexió anual
+
+Constància: De 5 a 15 minuts diàris.
+
+Consistència: Mitjançant la reflexió ens forcem a apagar el pilot automàtic.
+
 #### Sentit
 
 #### Objectius
