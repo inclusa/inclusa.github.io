@@ -395,11 +395,51 @@ Característiques dels esprints
 
 Amb els sprints s'augmenta la motivació
 
-#### Models
-
 #### Xicotets Passos
 
+**Kai**: canvi; **zen**: bo. **Kaizen**: canvi bo.
+
+Ferramentes:
+
+- Fes xicotetes preguntes
+- Itera. W. Edwards Deming, el pare del **kaizen** va formular cuatre passos per portar a terme el seu cicle:
+  - Planificar
+  - Fer
+  - Comprovar
+  - Actuar en conseqüència
+- Preguntat quina xicoteta cosa puc fer hui que millore la meua vida
+
 #### Temps
+
+> Al final, el que compta no són els anys de la teua vida, sino la vida dels teus anys. Abraham Lincoln.
+
+> La cruda realitat és que no podem crear temps, sols podem prendre's temps.
+
+> La qualitat del nostre temps està determinada per la capacitat per a estar presents.
+
+Mihaly Csikszentmihalyi. El **fluxe**, com la felicitat és una cosa que no es pot forçar però si som estratègics amb l'ús del temps podrem crear les condicions per tal que siga més senzill que es dóne el fluxe.
+
+```
+Exitació|+     / Fluxe
+        |     /
+        |    /
+        |   /
+        |  /
+        | /
+        |/           +
+        --------------
+	Habilitat
+```
+
+Estratègies:
+
+- Parcelar el temps
+- Programar: no ho posposes, anteposa-ho
+- Memento Mori: recorda que moriràs
+
+> Parcel·lar el temps afegix dos ingredients motivacionals claus a una tasca que has estat posposant: estructura i urgència.
+
+> Podries anar-te ara mateixa, deixa que això determine el que fas, dius i penses. Marco Aurelio.
 
 #### Gratitud
 
