@@ -354,6 +354,49 @@ El camí no elegit, Robert Frost.
 
 #### Objectius
 
+> Els objectius ens donen l'oportunitat de definir el que volem.
+
+#### Col·lecció d'objectius
+
+- 5 anys
+- 4 mesos
+- 3 setmanes
+- 2 dies
+- 1 hora
+
+##### Centra't en les teues prioritats
+
+**Atenció residual**: les persones tenen que deixar de pensar en una tasca per a poder desplaçar la seua atenció completament i rendir bé en altra. Malgrat això, els resultats indiquen que a les persones els costa apartar la seua atenció d'una tasca inacabada i, en conseqüència, el rendiment de la tasca següent es veu afectat. Sophie Leroy.
+
+Quan més fragmentes l'atenció menys concentrat estaràs.
+
+Quan menys concentrat estigues menys avançaràs.
+
+##### Divideix els teus objectius en sripnts
+
+- Objectiu
+- Sprint
+- Tasca
+
+Característiques dels esprints
+
+- No tenir grans barreres d'entrada
+- Tasques definides i realitzables
+- Període curt i acotat per assolir-ho
+
+> El més important és saciar la curiositat de manera segura i provar coses sense perdre temps
+
+##### Pluja d'idees
+
+##### Models
+
+- Tracicional, per fases
+- Per srprints
+
+Amb els sprints s'augmenta la motivació
+
+#### Models
+
 #### Xicotets Passos
 
 #### Temps
