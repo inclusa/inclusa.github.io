@@ -624,3 +624,31 @@ Elements:
 El método Bullet Journal ens pot facilitar el coneixement per a descobrir tot el nostre poder. Ajuda a facilitar el viatge de l'autodescobriment.
 
 Mentre tracem el camí per les sempre desconegudes aigues del demà, podrem estar tranquils sabent que, ens afonem o no, al menys, ens vam atrevir.
+
+
+---
+
+### Apèndix
+
+#### gratitud
+
+Al llibre citen, a la cita 48, **David Steindl-Rast**, monjo benedictí, el qual aporta una conferència TED parlant sobre la gratitud.
+
+Conferencia en TED
+
+https://www.ted.com/talks/david_steindl_rast_want_to_be_happy_be_grateful?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+
+Continguts
+
+- Connecta `gratitut` amb `felicicitat`.
+- Les persones que pateixen desgràcies e irradien **felicitat** és perquè estan agraïdes.
+- L'agraïment sorgeix del **cor**.
+- Per viure amb gratitud **cal fer-la conscient**.
+- El mètode per a desenvolupar la gratitud ens ho varen ensenyar els xiquets, en creuar el carrer:
+  - `Para`: per generar quietud
+  - `Mira`: obri els ulls
+  - `Camina`: fes
+- Si eres agraït, **no tens por**.
+- Si no tens por **no ets violent**.
+- Si ets agraït actues amb **sensació de suficiència**, no d'escasessa.
+- La gent agraïda és gent **alegre**.
