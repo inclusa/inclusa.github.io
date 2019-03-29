@@ -443,6 +443,16 @@ Estratègies:
 
 #### Gratitud
 
+> La vida és tan sutil què, de vegades, no ens donem compte de que estem creuant les portes que haviem pregant que s'obriren. Brianna Wiest
+
+La tradició meditativa del **mindfulness** ens ensenya a centrar la nostra atenció en el moment present.
+
+Els teus assoliments tenen el poder l'alimentar-te i guiar-te, però, per a que això succeïsca, has de prendre un moment per a mostrar gratitud per a ells.
+
+Celebrar les nostres victòries pot generar increíbles millores en la nostra actitud i autopercepció. Fent-ho, la por al fracàs troba menys espai en la nostra ment. No es tracta d'autocomplacència, sino de generar inèrcia, optimisme i resiliència.
+
+Es pot fer en el Bullet Journal enregistrant activitats per les quals estàs agraït en el registre diàri, en el calendari mensual o en un registre de gratitud.
+
 #### Control
 
 #### Radiació
