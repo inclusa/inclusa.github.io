@@ -406,8 +406,7 @@ Ferramentes:
   - Planificar
   - Fer
   - Comprovar
-  - Actuar en conseqüència
-- Preguntat quina xicoteta cosa puc fer hui que millore la meua vida
+  - Actuar en conseqüència- Preguntat quina xicoteta cosa puc fer hui que millore la meua vida
 
 #### Temps
 
@@ -455,13 +454,173 @@ Es pot fer en el Bullet Journal enregistrant activitats per les quals estàs agr
 
 #### Control
 
+> Senyor, concedeix-me serenitat per a acceptar el que no puc canviar, valor per a canviar el que sí puc i sabiduria per distingir entre totes dues. Reinhold Niebuhr
+
+No podem controlar els nosres sentiments, ni a la gent ni els successos externs, però hi ha una cosa que sí podem controlar, i és molt potent.
+
+> Podem controlar com responem al que ens succeeix.
+
+Elements clau:
+
+- Respondre o Reaccionar
+- Procés o Resultat
+
+> Si un problema té solució no té sentit preocupar-se. Y si no la te, preocupar-se no ajuda. Dalai Lama.
+
 #### Radiació
+
+> A mesura que un home canvia la seua naturalesa, també canvia l'actitud del món respecte a ell. Mahatma Gandhi.
+
+Elements:
+
+- Autocompasió: què diria un amic d'aquesta situació
+- Millora mútua: anota les valoracions de les teues interaccions
+- Aprendre: reptes. Què. Per què. Com.
+
+> No pots canviar a la gent que et rodeja, però pots canviar la gent que et rodeja. Joshua Fields. The Minimalists
 
 #### Resilièencia
 
+> Si coneixes el perquè, pots suportar el com. Friedrich Nietze
+
+> Les persones més felices no tenen necessàriament tot, però ho aprofiten tot al màxim. Sam Cawthorn fundador de Speakers Tribe
+
+Elements:
+
+- Registre de claritat: Repte/Sentit
+- Seguiment del progrés
+
 #### Deconstrucció
+
+> El que es creua en el camí es converteix en el camí. Marco Aurelio
+
+Elements:
+
+- Cinc per quès
+- Pla d'atac
+
+La vida està plena de dracs, quan més temps viuen més grans es fan. S'alimenten de la mala sort, el resentiment i la sensació d'impotència. És completament possibile que la teu valentia siga recompensada amb oportunitats de creixement personal i professional, que d'altre mode s'haveren mantés ocultes.
 
 #### Inacció
 
+> Trobaré un camí o el crearé. Aníbal Barca.
+
+Elements:
+
+- Aneguet de goma
+  - Contar el problema
+  - Què és el que no funciona
+  - Què has intentat
+  - Què no has intentat encara
+  - Què t'agradaria que hagués passat
+- Sprints de descans
+
 #### Imperfecció
 
+> Tot té alguna esquerda, així és como es cola la llum. Leonard Cohen
+
+Al Japó existeix un terme `wabi-sabi`, proclama que la bellesa d'un objecte es troba en les seues imperfeccions. El `wabi-sabi` celebra la transitorietat, la individualitat i la naturalesa defectuosa de les coses. Són aquestes qualitats el que les fa úniques, genuines i belles: les esquerdes del jarró, els nusos de la fusta, les línies de la pedra, els esguits de tinta. Reflexa les filosofies budistes, en les que la sabiuria procedeix d'estar en pau amb la nostra natura falible.
+
+Acceptar la imperfecció posa l'accent on hauria d'estar: en la **millora continua**.
+
+> Al celebrar la transitorietat, el canvi univesal de totes les coses, el wabi-sabi promou un camí d'indulgència amb oportunitats il·limitades de progrés.
+
+Elements:
+
+- Practicar la imperfecció
+- Canvi bo
+
+> En acceptar que no podem ser perfectes i que cometem errors, odem tornar a posar-nos a treballar.
+
+La maestria substitueix la idea de perfecció per l'aspiració de millorar-nos mitjançant la dedicació i la pràctica. Quan es tracta d'habilitat, no pot haver un objectiu fixe. Inclús els grans mestres no deixen d'ésser alumnes insaciables. La seua habilitat, com la nostra es desenvolupa amb el temps.
+
+Fes-te xicotetes preguntes cada dia. Troba alguna cosa en el que pugues millorar. Després, formula la resposta com una tasca o un objectiu i registra'l al Bullet Journal. Cada tasca completada és experiència guanyada. Fes seguiment dels teus progressos, així serà fàcil passar a l'acció.
+
+Cada acció és un xicotet pas avant des de on estàs. Dóna igual com siguen de xicotets els pasos o que et caiguen pel camí, el que importa és seguir avant.
+
+> Ésser superior a un company no té res de noble, l'autèntica noblesa consisteix en ser superior al teu antic jo. W. L. Sheldom
+
+
+### El domini
+
+- Forma
+- Funció
+
+#### Conceptes claus
+
+- Amplía el teu Bullet Journal amb col·lecions personalitzades
+- Les col·leccions personalitzades han de tenir una finalitat
+- Defineix les teues motivacions
+- Examina el teu esforç
+- La funció per damunt de la forma
+- Un disseny resistent al pas del temps
+
+> Les col·leccions personalitzades estan disenyades per cobrir necessitats concretes
+
+#### Col·leccions personalitzades
+
+> El contingut precedeix al disseny. El disseny en absència de contingut no es disseny, és decoració. Jeffrey Zeldman
+
+> Les col·leccions personalitzades estan dissenyades per a cobrir necessitats concretes.
+
+Tres fonts de col·leccions:
+
+- Objectius
+- Reptes
+- Tasques
+
+Sintaxi de les tasques: `què` + `per què` + `com`.
+
+#### Disseny
+
+> Un dissenyador sap que ha asslit la perfecció no quan ha no li queda res que afegir, sino quan ja no li queda res per llevar. Antoine de Saint-Exupéry
+
+Criteris:
+
+- Funcinalitat
+- Legibilitat
+- Sostenibilitat
+
+#### Planificació
+
+> Si fracasas en la planificació, estàs planificant un fracàs. Benjamin Franklin
+
+La **parcel·lació del temps** proporcionarà un principi i un final.
+
+#### Listes
+
+Ens permetrà capturar informació ràpidament perquè ens anime a que les entrades siguen curtes i vagen al gra.
+
+Elements:
+
+- Prioritzar
+- Context
+
+#### Horaris
+
+Plantilles.
+
+#### Seguiment
+
+> No es pot gestionar el que no es pot mesurar. Peter Drucker
+
+#### Personalització
+
+Elements:
+
+- Registres extensos
+- Seguiment d'hàbits
+
+#### Comunitat
+
+### V. El Final
+
+#### Com fer bé el Bullet Journal
+
+> No té a veure amb l'aspecte del teu diari, sino com  et fa sentir i quan efectiu ets.
+
+#### Acomiadament
+
+El método Bullet Journal ens pot facilitar el coneixement per a descobrir tot el nostre poder. Ajuda a facilitar el viatge de l'autodescobriment.
+
+Mentre tracem el camí per les sempre desconegudes aigues del demà, podrem estar tranquils sabent que, ens afonem o no, al menys, ens vam atrevir.
