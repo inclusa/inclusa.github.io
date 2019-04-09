@@ -34,3 +34,9 @@ coments:  # Comentaris
 - El Petit Príncep parla que ha vingut del cel
 - El narrador diu que cal una estaca per tal de lligar el corder perquè no s'escape
 - El Petit Príncep diu que no cal perquè el seu planeta és molt xicotet
+
+### Capítol 4
+
+- El seu planeta era un poc més gran que una casa
+- El planeta del qual venia el Petit Príncep era l'asteoroide B612
+- L'asteroide ha estat vits una sola vegada l'any 1919
