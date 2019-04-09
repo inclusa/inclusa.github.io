@@ -26,3 +26,11 @@ coments:  # Comentaris
 - En somnis veu un xiquet, un petit príncep
 - Li demana que li pinte un corder
 - El narrador, en vista que no encerta amb el dibuix dibuixa una caixa i diu que el corder està dins, se l'ha d'imaginar
+
+### Capítol 3
+
+- Parlen sobre un corder que li ha dibuixat al petit príncep
+- Recorden que hi és dins de la caixa per tal que se l'imagine
+- El Petit Príncep parla que ha vingut del cel
+- El narrador diu que cal una estaca per tal de lligar el corder perquè no s'escape
+- El Petit Príncep diu que no cal perquè el seu planeta és molt xicotet
