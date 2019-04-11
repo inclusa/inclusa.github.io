@@ -87,6 +87,11 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">-d</span> a.txt.gpg
 </code></pre></div></div>
 
+<p>Per desxifrar-ho creant un arxiu</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg a.txt.gpg
+</code></pre></div></div>
+
 <p>En cas de voler xifrar una directori el podem comprimir primer i després el podem xifrar.</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">-c</span> secret.zip
@@ -102,19 +107,25 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">--output</span> secret.zip <span class="nt">-d</span> secret.zip.gpg
 </code></pre></div></div>
 
-<<<<<<< HEAD
-<p>Altra manera de fer-ho</p>
+<h3 id="utilitzant-scripts">Utilitzant scripts</h3>
 
-<ol>
-  <li>Comprimix directori</li>
-</ol>
-=======
-<h3 id="altra-manera-de-fer-ho">Altra manera de fer-ho</h3>
+<h4 id="comprimir">Comprimir</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">--yes</span> <span class="nt">--batch</span> <span class="nt">--passphrase</span><span class="o">=</span><span class="s2">"contrasenya"</span> <span class="nt">-c</span> file.txt
+</code></pre></div></div>
+
+<h4 id="descomprimir">Descomprimir</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg <span class="nt">--yes</span> <span class="nt">--batch</span> <span class="nt">--passphrase</span><span class="o">=</span><span class="s2">"contrasenya"</span> <span class="nt">-c</span> file.txt.gpg
+</code></pre></div></div>
+
+<h3 id="comprimix-directori">Comprimix directori</h3>
+
+<h4 id="1-altra-manera-de-fer-ho">1. Altra manera de fer-ho</h4>
 
 <p>Comprimix directori</p>
->>>>>>> 0668088c8b4e7851e87cdaa31c2d3b7852ff5b52
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tar -czvf directori.tar.gz /camí/al/directori
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">tar</span> <span class="nt">-czvf</span> directori.tar.gz /camí/al/directori
 </code></pre></div></div>
 
 <p><code class="highlighter-rouge">c</code>: crea l’arxiu</p>
@@ -125,37 +136,33 @@
 
 <p><code class="highlighter-rouge">f</code>: filename, permet especificar el nom de l’arxiu</p>
 
-<<<<<<< HEAD
-<ol>
-  <li>Xifre aquest directori comprimit</li>
-</ol>
-=======
+<h4 id="2-xifre-aquest-directori-comprimit">2. Xifre aquest directori comprimit</h4>
+
 <p><code class="highlighter-rouge">x</code>: descomprimeix</p>
 
 <p>Xifre aquest directori comprimit</p>
->>>>>>> 0668088c8b4e7851e87cdaa31c2d3b7852ff5b52
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg -c directori.tar.gz
 </code></pre></div></div>
 
-<<<<<<< HEAD
-<ol>
-  <li>Desxifrat</li>
-</ol>
-=======
-<p>Desxifrat</p>
->>>>>>> 0668088c8b4e7851e87cdaa31c2d3b7852ff5b52
+<h4 id="3-desxifrat">3. Desxifrat</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg &lt;nom arxiu desxifrat&gt; &lt;nom arxiu xifrat&gt;
+</code></pre></div></div>
+
+<p>Desxifrat, en cas que vullguerem que ens preguntara com s’anomena l’arxiu:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg directori.tar.gz directori.tar.gz.gpg
+</code></pre></div></div>
+
+<p>Desxifrat, en cas que vullguem que vullguerem especificar com s’anomena l’arxiu:</p>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg --output directori.tar.gz directori.tar.gz.gpg
 </code></pre></div></div>
 
-<<<<<<< HEAD
-<ol>
-  <li>Descomprimisc el directori</li>
-</ol>
-=======
+<h4 id="4-descomprimisc-el-directori">4. Descomprimisc el directori</h4>
+
 <p>Descomprimisc el directori</p>
->>>>>>> 0668088c8b4e7851e87cdaa31c2d3b7852ff5b52
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tar -xvzf directori.tar.gz
 </code></pre></div></div>

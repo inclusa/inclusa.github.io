@@ -9,6 +9,10 @@ coments:  # Comentaris
 
 ![El Petit Príncep](https://www.caracteristicas.co/wp-content/uploads/2018/07/frase-principito-min-e1533006731570.jpg)
 
+### Llibre de Domini Públic
+
+[El Prinpipito](../../txt/principito.txt)
+
 ### Introducció
 
 - El llibre està dedicat a una persona major
