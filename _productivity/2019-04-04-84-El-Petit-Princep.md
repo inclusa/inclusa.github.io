@@ -11,7 +11,7 @@ coments:  # Comentaris
 
 ### Llibre de Domini Públic
 
-[El Prinpipito](../../txt/principito.txt)
+[El Principito](../../txt/principito.txt)
 
 ### Introducció
 
