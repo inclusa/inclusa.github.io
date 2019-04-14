@@ -46,3 +46,11 @@ coments:  # Comentaris
 - El seu planeta era un poc més gran que una casa
 - El planeta del qual venia el Petit Príncep era l'asteoroide B612
 - L'asteroide ha estat vits una sola vegada l'any 1919
+
+### Capítol 5
+
+- Explica el valor de la diciplina referint-se als baobas
+- Els baobabs són grans arbres
+- Quan són xicotets costa de diferenciar-los dels rosals
+- Cal llevar les llavors roïns de seguida
+- Cal endreçar les coses
