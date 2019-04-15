@@ -54,3 +54,13 @@ coments:  # Comentaris
 - Quan són xicotets costa de diferenciar-los dels rosals
 - Cal llevar les llavors roïns de seguida
 - Cal endreçar les coses
+
+### Capítol 6
+
+- Al planeta del Petit Príncep sols cals córrer la cadira per veure la posta de sol
+
+### Capítol 7
+
+- El Petit Príncep planteja la importància les espines en les flors, com a manera d'establir què és important
+- Ens fa reflexionar sobre el significat de sobre quines coses els hi donem importància
+
