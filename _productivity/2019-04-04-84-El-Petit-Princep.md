@@ -64,3 +64,82 @@ coments:  # Comentaris
 - El Petit Príncep planteja la importància les espines en les flors, com a manera d'establir què és important
 - Ens fa reflexionar sobre el significat de sobre quines coses els hi donem importància
 
+### Capítol 8
+
+- 'La meua flor embalsamava el planeta, però jo no savia gaudir amb això...'.
+- 'No vaig saber comprenredre res llavors. Ahuria d'haver-la jutjat pels seus actes, no per les seues paraules'.
+- 'La flor perfumava la meua vida'.
+- 'No vaig saber endivinar la tendresa que ocultaven les seues pobres astúcies'.
+
+### Capítul 9
+
+- 'Sí, jo et vull, va dir la flor, ha segut culpa meua que tu no ho sàpigues'.
+
+### Capítol 10
+
+- Va visitar uns quans asteroides.
+- Es va trobar amb la presència d'un rei.
+- Era monarca absoluto, però com era bo, donava sempre ordres raonables.
+- 'Si aconsegueixes jutjar-te a tu mateix ets un vertader savi'.
+
+### Capítol 11
+
+- El segon planeta estava habitat per un vanidós.
+- Per als vanidosos els demés homens són admiradors.
+
+### Capítols 12
+
+- En altre planeta es troba amb un bebedor.
+- Beu per oblidar que sent vergonya de beure.
+
+### Capítol 13
+
+- El quart planeta estava ocupat per un hom de negocis.
+- Aquest home estava tant distret que no va alçar el cap a l'arribada del petit príncep.
+- L'home de negocis comptava estreles, amb les què no feia res, sols les posseïa.
+
+
+### Capítol 14
+
+- En el cinquè planeta hi havia un farol i un farolero.
+- Era el més xicotet dels planetes.
+- El Petit Príncep va pensar que, al menys, el treball d'aquest home tenia sentit.
+
+
+### Capítol 15
+
+- El sisé planeta era deu vegades més gran.
+- Estava habitat per un ancià que escrivia llibres.
+- Era geògraf.
+- De les flors no prenem nota, perquè són efímeres.
+- Els geògrafs escriuen sobre coses eternes.
+- Efímera significa que està amenaçat de pròxima desaparició.
+
+### Capítol 16
+
+- El seté planeta va ser la Terra.
+
+### Capítol 17
+
+- El Petit Príncep no va veure ningú a Terra.
+- Per què parles amb enigmes? Els resolc tots, va dir la serp.
+
+### Capítol 18
+
+- El Petit Príncep va travessar el desert i va veure una flor.
+
+### Capítol 19
+
+- Va pujar a un volcà extint i va parlar amb l'eco.
+
+### Capítol 20
+
+- Després de travessar arenes, roques, neus, va descobir finalment un camí.
+- Els camins porten sempre a la morada dels hòmens.
+
+
+### Capítol 21
+
+- Va aparèixer una rabosa.
+- Parlen del significat de domesticar.
+
