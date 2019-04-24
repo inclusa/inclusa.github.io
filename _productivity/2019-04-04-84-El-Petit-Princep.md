@@ -143,3 +143,35 @@ coments:  # Comentaris
 - Va aparèixer una rabosa.
 - Parlen del significat de domesticar.
 
+### Capítol 22
+
+- Aparéix un guardavia que organitza paquets.
+- U mai se sent content on està.
+
+### Capítol 23
+
+- Aparéix un venedor de píndoles contra la set perquè enconomitza molt de temps.
+
+### Capítol 24
+
+- L'aviador diu al Petit Príncep que la qüestió és que anaven a morir de set.
+- El que més envellig el desert és el pou que oculta en algun lloc.
+- El que l'envelleig és invisible.
+
+### Capítol 25
+
+- Troben un pou de poble.
+- Els hòmens de la teua terra cultiven cinc mil roses en un jardí i no troben el que busquen.
+- Si ens deixem domesticar ens exposem a plorar...
+
+### Capítol 26
+
+- El més important mai es veu.
+- La gent té estrelles que no són les mateixes. Per als que viatgen, les estrelles són guíes; per a altres sols són llumenetes. Per als sabis les estrelles són problemes. Però totes eixes estrelles se callen.
+- Saps, la meua flor, soc responsable, i ella és tan feble i tan inocent. Sols té quatre espines per a defendre's del món.
+
+### Capitol 27
+ 
+- Ja fa sis anys d'això.
+- El Petit Princep va tornar al seu planeta.
+
