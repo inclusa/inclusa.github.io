@@ -20,3 +20,5 @@ Alguns llibres de referència:
 ![El aprendizaje basado en el pensamiento](https://cdn.ppc-editorial.com/cdn/farfuture/u8Q4LxxkIptcTbjie1tANnfHwsCbZGmOPpX6WdOpl4A/mtime:1477578963/sites/default/files/styles/large/public/externals/f04cd07b0719da92a64fe21346802ad2.jpg)
 
 [El Aprendizaje Basado en el Pensamiento](https://es.ppc-editorial.com/libro/el-aprendizaje-basado-en-el-pensamiento)
+
+[Biblioteca de Innovación Educativa](https://es.ppc-editorial.com/coleccion/biblioteca-innovacion-educativa)
