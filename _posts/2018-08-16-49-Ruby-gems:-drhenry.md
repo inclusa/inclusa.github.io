@@ -24,6 +24,12 @@ Depenent de la nostra instal·lació la podrem trobar en un lloc. Si instal·lem
 /home/user/.rvm/gems/ruby-2.4.0/gems/drhenry-0.4.0/
 ```
 
+En cas d'utilitzar `ruby` amb el paquet compilat per **Ubuntu 18.04**, el trobarem ací:
+
+```bash
+/var/lib/gems/2.5.0/gems/drhenry-0.4.0/
+```
+
 A aquest directori trobarem altres dos directoris: `bin` i `lib`.
 
 Dins del directori `bin` tenim l'arxiu `drhenry` amb aquest contingut:
@@ -118,3 +124,18 @@ coments:  # Comentaris
 ```
 
 Sols queda editar els camps que vullguem i guardar.
+
+
+### Clonant la configuració
+
+Podem clonar la configuració des d'ací:
+
+[Repositori](https://github.com/inclusa/drhenry)
+
+El cas és que la configuració adaptada que utilitze roman al directori ``
+
+Podem baixar l'arxiu de configuració al directori `/var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/` així:
+
+```bash
+sudo wget https://raw.githubusercontent.com/inclusa/drhenry/master/versions/inclusa/lib/drhenrypost.rb -O /var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/
+```
