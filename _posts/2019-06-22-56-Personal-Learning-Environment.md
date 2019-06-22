@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 55 Personal Learning Environment # Generat automàticament
+title: 56 Personal Learning Environment # Generat automàticament
 date: 2019-06-22 # Data
 description:  # Argument
 keywords:  # Paraules clau
