@@ -44,9 +44,9 @@ El propòsit d'aquesta estructura és senzill: ajudar-te a suprimir l'ego abans 
 
 > En resum, es serveix per a ser:
 >
->- **Humils en les aspiracions
->- **Benèbols** en l'èxit
->- **Resilients** en el fracàs
+>- **Humils** en les **aspiracions**
+>- **Benèbols** en l'**èxit**
+>- **Resilients** en el **fracàs**
 
 *Les construccions que estan exposades al clima necessiten bons ciments.  
 -- William Penn*
