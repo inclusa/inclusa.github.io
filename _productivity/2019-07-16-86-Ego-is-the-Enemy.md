@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 86 Ego is the Enemy # Generat automàticament
+title: 86 L'Ego és l'Enemic # Generat automàticament
 date: 2019-07-16 # Data
 description:  # Argument
 keywords:  # Paraules clau
@@ -22,18 +22,17 @@ L'orador **Demóstenes** va dir una vegada que la **virtut*** comença amb la **
 
 ### 0. Introducció ###
 
-*El primer principi és que no has d'enganyar-te i que tu ets la personal a la qual és més fàcil enganyar.*
--- Richart Feyman
+*El primer principi és que no has d'enganyar-te i que tu ets la personal a la qual és més fàcil enganyar.  
+-- Richart Feyman*
 
-    El ego és una creència malsana en la nostra pròpia importància. La necessitat d'ésser millor que, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el sentit de superioritat i certesa que excedeix els límits de la seguretat en un mateix i del talent.
+> El **ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mateix i del talent.
     
-
 Quan la noció de nosaltres mateixos i el món es torna tan forta, comença a distorsionar la realitat que ens rodeja.
 
-*La seguretat en un mateix es torna arrogància, la assertivitat es torna obstinació i la confiança en les nostres capacitats es converteix en descuit.
--- Bill Walsh.
+*La seguretat en un mateix es torna **arrogància**, la assertivitat es torna ***obstinació** i la confiança en les nostres capacitats es converteix en **descuit**.  
+-- Bill Walsh.**
 
-L'**ego** és l'enemic del que desitgem i del que tenim, de la possibilitat d'arribar a dominar un ofici, de la verdadera intuïció creativa, de la possibilitat de treballar bé amb els demés, de construir lleialtat i recolzament, de la longevitat, d'arribar repetides vegades a l'èxit i mantenir-lo. L'**ego** rebutja les avantatges i les oportunitats, és un imà per als problemes i els conflictes, per als enemics i per a les errades.
+L'**ego** és l'enemic del que desitgem i del que tenim, de la possibilitat d'arribar a dominar un ofici, de la verdadera intuïció creativa, de la possibilitat de treballar bé amb els demés, de construir lleialtat i recolzament, de la longevitat, d'arribar repetides vegades a l'èxit i mantenir-lo. L'**ego** *rebutja les avantatges i les oportunitats*, és un imà per als problemes i els conflictes, per als enemics i per a les errades.
 
 Aquest llibre està organitzat en tres parts:
 
@@ -43,14 +42,14 @@ Aquest llibre està organitzat en tres parts:
 
 El propòsit d'aquesta estructura és senzill: ajudar-te a suprimir l'ego abans que els mals hàbits prenguen el control, reemplaçar les tentacions de l'ego per humilitat i disciplina quan estigues experimentant l'èxit, i cultivar l'energia i la fortalesa per a que, quan el destí canvie i es pose en la teua contra, no acabes aplanat pel fracàs.
 
-En resum, es serveix per a ser:
+> En resum, es serveix per a ser:
+>
+>- **Humils en les aspiracions
+>- **Benèbols** en l'èxit
+>- **Resilients** en el fracàs
 
-- Humils en les aspiracions
-- Benèbols en l'èxit
-- Resilients en el fracàs
-
-*Les construccions que estan exposades al clima necessiten bons ciments.* 
--- William Penn
+*Les construccions que estan exposades al clima necessiten bons ciments.  
+-- William Penn*
 
 Sols quan estem lliures de l'ego i de la seua influència podem assolir realment el nostre major potencial.
 
