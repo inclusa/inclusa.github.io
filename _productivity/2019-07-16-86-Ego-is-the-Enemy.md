@@ -1,3 +1,4 @@
+
 ---
 layout: post #
 title: 86 L'Ego és l'Enemic # Generat automàticament
@@ -66,7 +67,8 @@ Isócrates
 
 Els pares i mestres de la nostra generació es concentraren en construir l'*autoestima* de tot el món. A partir d'ahí, els tòpics dels nostres gurús i les nostres figures públiques han buscat quasi esclusixivament plenar-nos d'inspiració, donar-nos ànim i assegurar-nos que podem fer el que sia que ens proposem fer. Però la realitat és que això ens torna dèbils.
 
-> *El talent solxcs és el punt de partida*.
+> *El talent solxc
+s és el punt de partida*.
 > -- Irvin Berlin.
 
 ### 1.1. Parlar, parlar, parlar ###
@@ -104,4 +106,39 @@ Cal deixar els a un constat els interessos egoïsties i preguntar-se:
 
 Cal elegir **Fer**, centrar-se en el procés per tal de forjar-se i millorar. Cal no pensar que som, que ja hem arribat, sinó que cal continuar aprenent.
 
+
+### 1.3. Convertir-se en estudiant ###
+
+> No permetem que el fantasma de cap home torne ací
+> i diga que el va decepcionar el seu entrenament.
+> -- Acadèmia de capacitació del 
+> Departament de Bombers de NY
+
+El poder convertir-se en estudiant no es limita a tenir un període extés d'instrucció, també posa l'ego i l'ambició en les mans d'algú més. Se l'imposa a l'ego una espècie de sostre: u no sap que no és millor que el mestre del qual és aprenent. Es respecta el mestre i s'asumeix una posició inferior. No és possible enganyar o fingir davant del mestre. L'educació no és una cosa que es puga improvisar, no hi ha dreceres a part de treballar cada dia. I si u no ho fa, el mestre el tira.
+
+Avaluar els nostres talents amb criterios que mostres una tendència més bé negativa és una de les coses més difícils de la vida, però és un component del domini d'un ofici.
+
+Fran Shamrock, pioner de les arta marcials mixtes i guanyador de diversos títols deia: *Per a ser gran, cada lluitador necessita tenir algú millor de qui puga aprendre, algú inferior a qui le puga ensenyar i alg igual amb qui es puga medir.*
+
+El propòsit de Fran Shamrock era senzill: **tenir una retroalimentació continua i verdadera del que cada un sap i el que no sap, des de tots els angles.** Aquest sistema elimina l'**ego*** que en fa *envaneixer*, la **por** que ens fa *dubtar* de nosaltres mateixos i la **perea** que pot tentar-nos a *deixar d'esforçar-nos.
+
+Un verdader estudiant és com una esponja. Absorbeix el que succeix al seu voltant,ho filtra, reté el que l'interessa. Un estudiant és autocrític i es motiva a sí mateix, sempre tracta de millorar la seua comprensió per a poder passar al següent tòpic, al següent repte. Un estudiant de veritat també és el se propi professor i el seu propi crític. **No hi ha espai per a l'ego**.
+
+> És impossible aprendre-ho tot el que u pensa que ja sap.
+> -- Epicteto
+
+A l'ego li desagrada la realitat i prefereix fer les seues pròpies avaluacions.
+
+L'ego tampoc permet que tinguem un procés d'incubació apropiat.
+
+La humilitat és el que ens manté ahí, preocupats per no saber suficient i conscients de que hen de seguir estudiant. L'ego s'apresura en arribar al final, pensa que la paciència és per als perdedors (la considera, equivocadament una debilitat**, suposa que som suficientment bons per a demostrar-li al món el nostre talent.
+
+**L'ego és el nostre enemic, ens ofereix una retroalimentació perversa, desconnectada de la realitat. Ens impedeix millorar diguent-nos que no necessitem millorar.**
+
+L'ego ens torna cabuts i hostils a la crítica que allumna totes eixes fonts d'educació o les posa forma del nostre avast.
+
+Per axiò hi ha un vell proverbi que diu:
+
+> El mestre apareixerà
+> quan l'alumne estiga llest.
 
