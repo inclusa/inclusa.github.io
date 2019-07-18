@@ -68,3 +68,6 @@ Els pares i mestres de la nostra generació es concentraren en construir l'*auto
 
 > *El talent sols és el punt de partida*.
 > -- Irvin Berlin.
+
+
+22
