@@ -1,7 +1,7 @@
 
 ---
 layout: post #
-title: 86 L'Ego és l'Enemic # Generat automàticament
+title: 86 L'Ego és l'enemic # Generat automàticament
 date: 2019-07-16 # Data
 description:  # Argument
 keywords:  # Paraules clau
@@ -142,3 +142,36 @@ Per axiò hi ha un vell proverbi que diu:
 > El mestre apareixerà
 > quan l'alumne estiga llest.
 
+### 1.4. No ser apassionat ###
+
+La nostra pasió potser precisament el que ens impedeix assolir el nostre ple poder o la nostra influència o els nostres objectius.
+
+Eleanor Roosevelt tenia un **propòsit**. Tenia una **direcció**. No estava impulsada per la *passió*, sino per la **raó**.
+
+Els psicòlegs anomenen **goalodicy** al *desig obsessiu d'assolir les metes*.
+
+John Wooden parlava de *mantenir el control*, *fer el treball* i no convertir-se en esclau de la *passió*.
+
+La **passió** tracta d'opacar les nostres *funcions crtiques*. Els gossos són apassionats, però tenen un avantatge, *disposen d'una memòria de molt curt temini que mant a ratlla l'horrible sensació de futilitat i impotència*.
+
+El que necessitem els humans és **propòsit** i **realisme**. El **propòsit** és com la **passió** però amb límits. El **realisme** és tenir **distància** i **perspectiva**.
+
+La **passió** sempre té un objecte extern.
+
+El **propòsit** busca arribar a algun lloc. El propòsit lleva l'èmfasi de yo.
+
+> *Grans passions són enfermetats sense esperança*.
+> -- Goethe
+
+Per aquesta raó, una persona **decidida** i plena de **propòsit** opera a un nivell diferent, més enllà de les influències i la enfermetat.
+
+La **passió** és posar la **forma**, el proòpist és pensar en la **funció**, la **funció**, la **funció**.
+
+El treball important requereix **determinació** i **consideració**. No passió. No la ingenuitat.
+
+És molt millor si et senteixes intimidat pel que has d'enfrontar, si et sents humil davant la magnitut de la tasca, però decidit a portar-la a terme. Deixa la passió als perturbats i als aficionats. Pots sentir *passió* pel que deus fer i dir, però no per allò que et preocupa i que desitges que siga.
+
+> Sobretot, sense molt d'entusiasme.
+> -- Talleyrand, diridit a diplomàtics.
+
+Així podràs fer grans coses i deixaràs de ser una persona amb bones intencions però ineficient.
