@@ -169,9 +169,27 @@ La **passió** és posar la **forma**, el proòpist és pensar en la **funció**
 
 El treball important requereix **determinació** i **consideració**. No passió. No la ingenuitat.
 
-És molt millor si et senteixes intimidat pel que has d'enfrontar, si et sents humil davant la magnitut de la tasca, però decidit a portar-la a terme. Deixa la passió als perturbats i als aficionats. Pots sentir *passió* pel que deus fer i dir, però no per allò que et preocupa i que desitges que siga.
+És molt millor si et senteixes intimidat pel que has d'enfrontar, si et sents humil davant la magnitut de la tasca, però decidit a portar-la a terme. Deixa la passió als perturbats i als aficionats. Pots sentir *passió pel que deus fer i dir, però no per allò que et preocupa i que desitges que siga.
 
 > Sobretot, sense molt d'entusiasme.
+
 > -- Talleyrand, diridit a diplomàtics.
 
 Així podràs fer grans coses i deixaràs de ser una persona amb bones intencions però ineficient.
+
+### 1.5. Seguir l'estratègia del llenç ###
+
+> Els grans homens quasi sempre han demostrat tenir
+> la mateixa capaccitat per a obedir
+> que la que demostren tenir per a manar.
+> -- Lord Mahon
+
+En el sistema romano d'arts i ciències existía la figura de l'**anteàmbul**, que significa *aclaridor de camins.
+
+Busca llenços perquè els demés puguen estar bé. Aclarir el camí a la gent que està per damunt de tu, amb el temps t'obri el teu camí.
+
+L'**anteàmbul** aclareix el camí: troba la direció que algú ja va buscar i l'ajuda a empacar, alliberant-lo per a que es puga concentrar en les seues fortaleses. **Fa millor les coses, en compte de pensar que és el millor**.
+
+> La grandesa té origens humils, ve del treball poc qualificat. Significa que tu eres la persona menys qualificada del l'habitació, fins que tu mateix canvies la situació a força de resultats.
+
+
