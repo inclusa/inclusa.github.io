@@ -192,4 +192,3 @@ L'**anteàmbul** aclareix el camí: troba la direció que algú ja va buscar i l
 
 > La grandesa té origens humils, ve del treball poc qualificat. Significa que tu eres la persona menys qualificada del l'habitació, fins que tu mateix canvies la situació a força de resultats.
 
-
