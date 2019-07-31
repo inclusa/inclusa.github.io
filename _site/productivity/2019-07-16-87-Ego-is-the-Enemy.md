@@ -188,7 +188,84 @@ En el sistema romano d'arts i ciències existía la figura de l'**anteàmbul**, 
 
 Busca llenços perquè els demés puguen estar bé. Aclarir el camí a la gent que està per damunt de tu, amb el temps t'obri el teu camí.
 
-L'**anteàmbul** aclareix el camí: troba la direció que algú ja va buscar i l'ajuda a empacar, alliberant-lo per a que es puga concentrar en les seues fortaleses. **Fa millor les coses, en compte de pensar que és el millor**.
+### 1.6 Oblidar-se de sí mateix ###
 
-> La grandesa té origens humils, ve del treball poc qualificat. Significa que tu eres la persona menys qualificada del l'habitació, fins que tu mateix canvies la situació a força de resultats.
+> Una persona que pensa tot el temps
+> no té res més en què pensar
+> llevat dels seus pensaments,
+> així que perd contacte amb la realitat
+> i viu en un món d'il·lusions.
+> -- Alans Watts
 
+J.D. Salinger, escriptor, sofria una esècie d'obsessió amb sí mateix i amb una immaduresa que el van portar a pensar que el món era insorportable i a allumnyar-se  del contacte humà, la qual cosa va paralitzar el seu geni.
+
+McClellan va ser, sens dubte, el pitjor general de la Unió perquè mai va poder deixar de pensar en sí mateix.
+
+Tendim a pensar que l'ego és igual a seguretat en un mateix i que aquests és la raó per la qual hem de mantenir el control. A McClellan, l'ego li va llevar la capacitat de liderar. Li va llevar la capacitat de sentir que tenia que actuar.
+
+Viure de manera clara, en el present, requereix coratge. No hi ha que viure en l'abstracció, hi ha que viure en el que és tangible i real, tot i que siga incòmode. Deguem ser part del que succeix al nostre voltant. No hi ha ningú pendent de la nostra actuació, sols hi ha treball i lliçons per aprendre.
+
+### 1.7. El perill de l'orgull primerenc ###
+
+> L'home orgullós
+> sempre està mirant-ho tota
+> des d'una posició superior,
+> i, clar, mentre u estiga mirant
+> cap avall, és incapaç de veure
+> què hi ha al damunt.
+> -- C. S. Lewis
+
+L'orgull debilitat precisament l'intstrument que necessitem per a tenir èxit: la ment. La capacitat per aprendre, per a adaptar-nos, per a ser flexibles, per a construir relacios, tot això és opacat per l'orgull.
+
+Rockefeller tenia horror del perill que significava l'arrogància. .
+
+L'orgull crea una espècie d'obsessió miope i autosatisfactoria que deforma la perspectiva, la realitat, la veritat i el món que le rodeja a un.
+
+Si no pots tragar-te el teu orgull, no podràs ser líder.
+
+*Inclús les muntanyes més altes tenen animals que són més alts que la muntanya quan testan parats sobre el seu seu cim.*
+
+L'orgull llimita els sentimients de rebre retroalimentació, mantenir l'entusiasme i planejar el camí. En altres casos fortaleix les parts negatives de nostaltres mateixos, com la sensibilitat, el complexe de persecució, la capacitat de fer que tot gire al nostre voltant.
+
+El principal producte del coneixement personal és la **humilitat**.
+
+Montaine deia: *ser molt orgullós de tu mateix serà la teua ruïna. Sols pensa que eres algú*.
+
+El missatge és senzill, no cal presumir, no serveix de res.
+
+### 1.8. Treballar, treballar i treballar ###
+
+> El millor pla es queda en obnes intencions
+> a menys que es convertisca en treball.
+> -- Peter Drucker
+
+Henry Ford deia: *No pots contruir una reputació sobre el que vas a fer*.
+
+10.000 hores per a assolir el domini d'un ofici... significa que tot està al nostre avast, a l'avast de tots, sempre i quan tinguem enteresa i la humilitat de ser pacients, les forces per a treballar.
+
+*Materiam superabat opus*, la cualitat del treball és el millor material.
+
+El basquetbolista Bill Bradley deia: *quan no estàs practicant deus recorcdar que hi ha algú, en algun lloc, que sí està practicant, i quan te'l trobes et guanyarà*.
+
+No hi ha triomf sense esforç.
+
+*Fingeix fins a aconseguir-ho.
+
+La clau és aconseguir l'objectiu per no haver de fingir-ho.
+
+Traball és baixar a la pista a practicar quan el clima manté a tot el món a covert.
+
+El treball no vol ser bo, som nosaltres els que el fem bo.
+
+*Es coneix al treballador pels rastres que deixa.*
+
+### Per al que siga que segisca, l'ego és l'enemic ###
+
+> És cosa sabuda
+> que la humiltat és una escala
+> per l'ambició incipient.
+> -- William Shakespeare
+
+Podem presumir dels nostres progresos o podem cobrer les veitat difícls amb pura força de personalitat e impluls i passió. O podem enfrontar les ontres falencies amb noestitat i dedicarli més temps al treball. Podem deixar que aquesta experiència en torne humils i veure amb claritat on tenim talent i on necesstiem millorar, per dedicar-nos després a treballar amb el fi de tancar l'esquerda.
+
+L'ego és el germà pervers de l'èxit.
