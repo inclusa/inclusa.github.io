@@ -2,8 +2,7 @@
 /**
  * Reset some basic elements
  */
-@import url("https://fonts.googleapis.com/css?family=Nunito");
-@import url("https://fonts.googleapis.com/css?family=Special+Elite");
+@import url("https://fonts.googleapis.com/css?family=Roboto|Special+Elite&display=swap");
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -22,7 +21,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Nunito", Helvetica, sans-serif;
+  font-family: "Roboto", Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5em;
   font-weight: 100;
@@ -118,11 +117,11 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   *  color: #666;
-  background: lightgrey;
+  background: #d5d5d5;
   *  border-left: .25rem solid #e5e5e5;
-  background-color: #faebbc;
-  border-top: 1px solid #e1cc89;
-  border-bottom: 1px solid #e1cc89; }
+  background-color: #e6e6e6;
+  border-top: 1px solid #141414;
+  border-bottom: 1px solid #141414; }
 
 blockquote p:last-child {
   margin-bottom: 0; }

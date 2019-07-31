@@ -98,8 +98,8 @@ detectmem <span class="o">()</span> <span class="o">{</span>
 	<span class="nv">hw_mem</span><span class="o">=</span>0
 	<span class="nv">free_mem</span><span class="o">=</span>0
 	<span class="nv">human</span><span class="o">=</span>1024
-	<span class="nv">mem_info</span><span class="o">=</span><span class="k">$(</span>&lt;/proc/meminfo<span class="k">)</span>
-	<span class="nv">mem_info</span><span class="o">=</span><span class="k">$(</span><span class="nb">echo</span> <span class="k">$(</span><span class="nb">echo</span> <span class="k">$(</span><span class="nv">mem_info</span><span class="o">=</span><span class="k">${</span><span class="nv">mem_info</span><span class="p">// /</span><span class="k">}</span><span class="p">;</span> <span class="nb">echo</span> <span class="k">${</span><span class="nv">mem_info</span><span class="p">//kB/</span><span class="k">})))</span>
+	<span class="nv">mem_info</span><span class="o">=</span><span class="si">$(</span>&lt;/proc/meminfo<span class="si">)</span>
+	<span class="nv">mem_info</span><span class="o">=</span><span class="si">$(</span><span class="nb">echo</span> <span class="si">$(</span><span class="nb">echo</span> <span class="si">$(</span><span class="nv">mem_info</span><span class="o">=</span><span class="k">${</span><span class="nv">mem_info</span><span class="p">// /</span><span class="k">}</span><span class="p">;</span> <span class="nb">echo</span> <span class="k">${</span><span class="nv">mem_info</span><span class="p">//kB/</span><span class="k">}</span><span class="si">)))</span>
 	<span class="k">for </span>m <span class="k">in</span> <span class="nv">$mem_info</span><span class="p">;</span> <span class="k">do
 		if</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">m</span><span class="p">//</span>:<span class="p">*</span><span class="k">}</span> <span class="o">=</span> MemTotal <span class="o">]]</span><span class="p">;</span> <span class="k">then
 			</span><span class="nv">memtotal</span><span class="o">=</span><span class="k">${</span><span class="nv">m</span><span class="p">//*</span>:<span class="k">}</span>
@@ -129,20 +129,20 @@ detectmem <span class="o">()</span> <span class="o">{</span>
 
 detectcpu <span class="o">()</span> <span class="o">{</span>
 	<span class="nv">REGEXP</span><span class="o">=</span><span class="s2">"-r"</span>
-	<span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'BEGIN{FS=":"} /model name/ { print $2; exit }'</span> /proc/cpuinfo | <span class="nb">sed</span> <span class="s1">'s/ @/\n/'</span> | <span class="nb">head</span> <span class="nt">-1</span><span class="k">)</span>
-	<span class="nv">cpun</span><span class="o">=</span><span class="k">$(</span><span class="nb">grep</span> <span class="s2">"physical id"</span> /proc/cpuinfo | <span class="nb">sort</span> | <span class="nb">uniq</span> | <span class="nb">wc</span> <span class="nt">-l</span><span class="k">)</span>
+	<span class="nv">cpu</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="s1">'BEGIN{FS=":"} /model name/ { print $2; exit }'</span> /proc/cpuinfo | <span class="nb">sed</span> <span class="s1">'s/ @/\n/'</span> | <span class="nb">head</span> <span class="nt">-1</span><span class="si">)</span>
+	<span class="nv">cpun</span><span class="o">=</span><span class="si">$(</span><span class="nb">grep</span> <span class="s2">"physical id"</span> /proc/cpuinfo | <span class="nb">sort</span> | <span class="nb">uniq</span> | <span class="nb">wc</span> <span class="nt">-l</span><span class="si">)</span>
 	<span class="k">if</span> <span class="o">[</span> <span class="nt">-z</span> <span class="s2">"</span><span class="nv">$cpu</span><span class="s2">"</span> <span class="o">]</span><span class="p">;</span> <span class="k">then
-		</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'BEGIN{FS=":"} /Hardware/ { print $2; exit }'</span> /proc/cpuinfo<span class="k">)</span>
+		</span><span class="nv">cpu</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="s1">'BEGIN{FS=":"} /Hardware/ { print $2; exit }'</span> /proc/cpuinfo<span class="si">)</span>
 	<span class="k">fi
 	if</span> <span class="o">[</span> <span class="nt">-z</span> <span class="s2">"</span><span class="nv">$cpu</span><span class="s2">"</span> <span class="o">]</span><span class="p">;</span> <span class="k">then
-		</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'BEGIN{FS=":"} /^cpu/ { gsub(/  +/," ",$2); print $2; exit}'</span> /proc/cpuinfo | <span class="nb">sed</span> <span class="s1">'s/, altivec supported//;s/^ //'</span><span class="k">)</span>
+		</span><span class="nv">cpu</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="s1">'BEGIN{FS=":"} /^cpu/ { gsub(/  +/," ",$2); print $2; exit}'</span> /proc/cpuinfo | <span class="nb">sed</span> <span class="s1">'s/, altivec supported//;s/^ //'</span><span class="si">)</span>
 		<span class="k">if</span> <span class="o">[[</span> <span class="nv">$cpu</span> <span class="o">=</span>~ ^<span class="o">(</span>PPC<span class="o">)</span><span class="k">*</span>9.+ <span class="o">]]</span><span class="p">;</span> <span class="k">then
 			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"IBM PowerPC G5 "</span>
 		<span class="k">elif</span> <span class="o">[[</span> <span class="nv">$cpu</span> <span class="o">=</span>~ 740/750 <span class="o">]]</span><span class="p">;</span> <span class="k">then
 			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"IBM PowerPC G3 "</span>
 		<span class="k">elif</span> <span class="o">[[</span> <span class="nv">$cpu</span> <span class="o">=</span>~ ^74.+ <span class="o">]]</span><span class="p">;</span> <span class="k">then
 			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"Motorola PowerPC G4 "</span>
-		<span class="k">elif</span> <span class="o">[[</span> <span class="s2">"</span><span class="k">$(</span><span class="nb">cat</span> /proc/cpuinfo<span class="k">)</span><span class="s2">"</span> <span class="o">=</span>~ <span class="s2">"BCM2708"</span> <span class="o">]]</span><span class="p">;</span> <span class="k">then
+		<span class="k">elif</span> <span class="o">[[</span> <span class="s2">"</span><span class="si">$(</span><span class="nb">cat</span> /proc/cpuinfo<span class="si">)</span><span class="s2">"</span> <span class="o">=</span>~ <span class="s2">"BCM2708"</span> <span class="o">]]</span><span class="p">;</span> <span class="k">then
 			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"Broadcom BCM2835 ARM1176JZF-S"</span>
 		<span class="k">else
 			</span><span class="nv">model</span><span class="o">=</span><span class="s2">"IBM PowerPC G3 "</span>
@@ -151,24 +151,24 @@ detectcpu <span class="o">()</span> <span class="o">{</span>
 	<span class="k">fi
 	</span><span class="nv">loc</span><span class="o">=</span><span class="s2">"/sys/devices/system/cpu/cpu0/cpufreq"</span>
 	<span class="k">if</span> <span class="o">[</span> <span class="nt">-f</span> <span class="k">${</span><span class="nv">loc</span><span class="k">}</span>/bios_limit <span class="o">]</span><span class="p">;</span><span class="k">then
-		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{print $1/1000}'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">loc</span><span class="k">}</span><span class="s2">/bios_limit"</span><span class="k">)</span>
+		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="s1">'{print $1/1000}'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">loc</span><span class="k">}</span><span class="s2">/bios_limit"</span><span class="si">)</span>
 	<span class="k">elif</span> <span class="o">[</span> <span class="nt">-f</span> <span class="nv">$loc</span>/scaling_max_freq <span class="o">]</span><span class="p">;</span><span class="k">then
-		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{print $1/1000}'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">loc</span><span class="k">}</span><span class="s2">/scaling_max_freq"</span><span class="k">)</span>
+		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="s1">'{print $1/1000}'</span> <span class="s2">"</span><span class="k">${</span><span class="nv">loc</span><span class="k">}</span><span class="s2">/scaling_max_freq"</span><span class="si">)</span>
 	<span class="k">else
-		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="nt">-F</span><span class="s1">':'</span> <span class="s1">'/cpu MHz/{ print int($2+.5) }'</span> /proc/cpuinfo | <span class="nb">head</span> <span class="nt">-n</span> 1<span class="k">)</span>
+		</span><span class="nv">cpu_mhz</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="nt">-F</span><span class="s1">':'</span> <span class="s1">'/cpu MHz/{ print int($2+.5) }'</span> /proc/cpuinfo | <span class="nb">head</span> <span class="nt">-n</span> 1<span class="si">)</span>
 	<span class="k">fi
 	if</span> <span class="o">[</span> <span class="nt">-n</span> <span class="s2">"</span><span class="nv">$cpu_mhz</span><span class="s2">"</span> <span class="o">]</span><span class="p">;</span><span class="k">then
-		if</span> <span class="o">[</span> <span class="k">$(</span><span class="nb">echo</span> <span class="nv">$cpu_mhz</span> | <span class="nb">cut</span> <span class="nt">-d</span><span class="nb">.</span> <span class="nt">-f1</span><span class="k">)</span> <span class="nt">-gt</span> 999 <span class="o">]</span><span class="p">;</span><span class="k">then
-			</span><span class="nv">cpu_ghz</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{print $1/1000}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpu_mhz</span><span class="k">}</span><span class="s2">"</span><span class="k">)</span>
+		if</span> <span class="o">[</span> <span class="si">$(</span><span class="nb">echo</span> <span class="nv">$cpu_mhz</span> | <span class="nb">cut</span> <span class="nt">-d</span><span class="nb">.</span> <span class="nt">-f1</span><span class="si">)</span> <span class="nt">-gt</span> 999 <span class="o">]</span><span class="p">;</span><span class="k">then
+			</span><span class="nv">cpu_ghz</span><span class="o">=</span><span class="si">$(</span><span class="nb">awk</span> <span class="s1">'{print $1/1000}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpu_mhz</span><span class="k">}</span><span class="s2">"</span><span class="si">)</span>
 			<span class="nv">cpu</span><span class="o">=</span><span class="s2">"</span><span class="nv">$cpu</span><span class="s2"> @ </span><span class="k">${</span><span class="nv">cpu_ghz</span><span class="k">}</span><span class="s2">GHz"</span>
 		<span class="k">else
 			</span><span class="nv">cpu</span><span class="o">=</span><span class="s2">"</span><span class="nv">$cpu</span><span class="s2"> @ </span><span class="k">${</span><span class="nv">cpu_mhz</span><span class="k">}</span><span class="s2">MHz"</span>
 		<span class="k">fi
 	fi
         if</span> <span class="o">[[</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpun</span><span class="k">}</span><span class="s2">"</span> <span class="nt">-gt</span> <span class="s2">"1"</span> <span class="o">]]</span><span class="p">;</span> <span class="k">then
-               	</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span><span class="nb">sed</span> <span class="nv">$REGEXP</span> <span class="s1">'s/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpun</span><span class="k">}</span><span class="s2">x </span><span class="k">${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span> | xargs<span class="k">)</span>
+               	</span><span class="nv">cpu</span><span class="o">=</span><span class="si">$(</span><span class="nb">sed</span> <span class="nv">$REGEXP</span> <span class="s1">'s/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpun</span><span class="k">}</span><span class="s2">x </span><span class="k">${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span> | xargs<span class="si">)</span>
         <span class="k">else
-               	</span><span class="nv">cpu</span><span class="o">=</span><span class="k">$(</span><span class="nb">sed</span> <span class="nv">$REGEXP</span> <span class="s1">'s/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span> | xargs<span class="k">)</span>
+               	</span><span class="nv">cpu</span><span class="o">=</span><span class="si">$(</span><span class="nb">sed</span> <span class="nv">$REGEXP</span> <span class="s1">'s/\([tT][mM]\)|\([Rr]\)|[pP]rocessor//g'</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cpu</span><span class="k">}</span><span class="s2">"</span> | xargs<span class="si">)</span>
         <span class="k">fi</span>
 <span class="o">}</span>
 <span class="c">############### CPU DETECCION FIN</span>
@@ -186,7 +186,7 @@ lliurex-version <span class="o">&gt;</span> /tmp/test-mod.txt
 else
 	if</span> <span class="o">[</span> <span class="sb">`</span><span class="nb">grep </span>client /tmp/test-mod.txt <span class="nt">-c</span> <span class="sb">`</span> <span class="o">!=</span> 0 <span class="o">]</span><span class="p">;</span> <span class="k">then</span>
 		<span class="c">#EJECUTA=`echo $LTSP_FATCLIENT | grep true| wc -l`</span>
-		<span class="nv">EJECUTA</span><span class="o">=</span><span class="k">$(</span><span class="nb">grep</span> <span class="s2">"true"</span> /tmp/test-mod-fat.txt <span class="nt">-c</span><span class="k">)</span>
+		<span class="nv">EJECUTA</span><span class="o">=</span><span class="si">$(</span><span class="nb">grep</span> <span class="s2">"true"</span> /tmp/test-mod-fat.txt <span class="nt">-c</span><span class="si">)</span>
 		<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$EJECUTA</span><span class="s2">"</span> <span class="o">!=</span> <span class="s2">"0"</span> <span class="o">]</span><span class="p">;</span><span class="k">then
 			</span><span class="nv">SOY</span><span class="o">=</span>Semiligero
 		<span class="k">else

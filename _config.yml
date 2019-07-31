@@ -30,7 +30,8 @@ collections:
     permalink: /productivity/:path/
 
 # Gems
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Port
 port: 4001 # Canvia el port del server al 4001
