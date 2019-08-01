@@ -22,17 +22,22 @@ L'orador **Demóstenes** va dir una vegada que la **virtut** comença amb la **c
 
 ### 0. Introducció ###
 
-> El primer principi és que no has d'enganyar-te  
-> i que tu ets la personal a la qual és més fàcil enganyar.  
+> El primer principi   
+> és que no has d'enganyar-te  
+> i que tu ets la personal   
+> a la qual és més fàcil enganyar.  
 > -- Richart Feyman
 
 > L'**ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mateix i del talent.
     
 Quan la noció de nosaltres mateixos i el món es torna tan forta, comença a distorsionar la realitat que ens rodeja.
 
-> La seguretat en un mateix es torna **arrogància**,  
-> l'assertivitat es torna **obstinació** i la confiança  
-> en les nostres capacitats es converteix en **descuit**.  
+> La seguretat en un mateix  
+> es torna **arrogància**,  
+> l'assertivitat es torna **obstinació**  
+> i la confiança  
+> en les nostres capacitats  
+>es converteix en **descuit**.  
 > -- Bill Walsh
 
 L'**ego** és l'enemic del que desitgem i del que tenim, de la possibilitat d'arribar a dominar un ofici, de la verdadera intuïció creativa, de la possibilitat de treballar bé amb els demés, de construir lleialtat i recolzament, de la longevitat, d'arribar repetides vegades a l'èxit i mantenir-lo. L'**ego** *rebutja les avantatges i les oportunitats*, és un imà per als problemes i els conflictes, per als enemics i per a les errades.
@@ -115,8 +120,10 @@ Cal elegir **Fer**, centrar-se en el procés per tal de forjar-se i millorar. Ca
 
 ### 1.3. Convertir-se en estudiant ###
 
-> No permetem que el fantasma de cap home torne ací  
-> i diga que el va decepcionar el seu entrenament.  
+> No permetem que el fantasma  
+> de cap home torne ací  
+> i diga que el va decepcionar  
+> el seu entrenament.  
 > -- Acadèmia de capacitació del  
 > Departament de Bombers de NY
 
@@ -243,8 +250,10 @@ El missatge és senzill, no cal presumir, no serveix de res.
 
 ### 1.8. Treballar, treballar i treballar ###
 
-> El millor pla es queda en obnes intencions
-> a menys que es convertisca en treball.
+> El millor pla  
+> es queda en obnes intencions  
+> a menys que es convertisca  
+> en treball.
 > -- Peter Drucker
 
 Henry Ford deia: *No pots contruir una reputació sobre el que vas a fer*.
@@ -269,9 +278,9 @@ El treball no vol ser bo, som nosaltres els que el fem bo.
 
 ### Per al que siga que segisca, l'ego és l'enemic ###
 
-> És cosa sabuda
-> que la humiltat és una escala
-> per l'ambició incipient.
+> És cosa sabuda  
+> que la humiltat és una escala  
+> per l'ambició incipient.  
 > -- William Shakespeare
 
 Podem presumir dels nostres progresos o podem cobrer les veitat difícls amb pura força de personalitat e impluls i passió. O podem enfrontar les ontres falencies amb noestitat i dedicarli més temps al treball. Podem deixar que aquesta experiència en torne humils i veure amb claritat on tenim talent i on necesstiem millorar, per dedicar-nos després a treballar amb el fi de tancar l'esquerda.
