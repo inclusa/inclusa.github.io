@@ -1,4 +1,3 @@
-
 ---
 layout: post #
 title: 86 L'Ego és l'enemic # Generat automàticament
@@ -23,15 +22,18 @@ L'orador **Demóstenes** va dir una vegada que la **virtut** comença amb la **c
 
 ### 0. Introducció ###
 
-> *El primer principi és que no has d'enganyar-te i que tu ets la personal a la qual és més fàcil enganyar.  
-> -- Richart Feyman*
+> El primer principi és que no has d'enganyar-te  
+> i que tu ets la personal a la qual és més fàcil enganyar.  
+> -- Richart Feyman
 
-> El **ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mateix i del talent.
+> L'**ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mateix i del talent.
     
 Quan la noció de nosaltres mateixos i el món es torna tan forta, comença a distorsionar la realitat que ens rodeja.
 
-> *La seguretat en un mateix es torna **arrogància**, la assertivitat es torna **obstinació** i la confiança en les nostres capacitats es converteix en **descuit**.  
-> -- Bill Walsh.**
+> La seguretat en un mateix es torna **arrogància**,  
+> l'assertivitat es torna **obstinació** i la confiança  
+> en les nostres capacitats es converteix en **descuit**.  
+> -- Bill Walsh
 
 L'**ego** és l'enemic del que desitgem i del que tenim, de la possibilitat d'arribar a dominar un ofici, de la verdadera intuïció creativa, de la possibilitat de treballar bé amb els demés, de construir lleialtat i recolzament, de la longevitat, d'arribar repetides vegades a l'èxit i mantenir-lo. L'**ego** *rebutja les avantatges i les oportunitats*, és un imà per als problemes i els conflictes, per als enemics i per a les errades.
 
@@ -49,8 +51,10 @@ El propòsit d'aquesta estructura és senzill: ajudar-te a suprimir l'ego abans 
 >- **Benèbols** en l'**èxit**
 >- **Resilients** en el **fracàs**
 
-> *Les construccions que estan exposades al clima necessiten bons ciments.  
-> -- William Penn*
+> Les construccions  
+> que estan exposades al clima  
+> necessiten bons ciments.  
+> -- William Penn
 
 Sols quan estem lliures de l'ego i de la seua influència podem assolir realment el nostre major potencial.
 
@@ -62,19 +66,20 @@ Alguns aprenen humilitat, altres elegeixen l'ego.
 
 L'Ego és l'enemic independentment de quines siguen les teues aspiracions.
 
-*Cap ornament et convé més que la modèstia, la justícia i l'autocontrol*.  
-Isócrates
+> Cap ornament et convé més que la modèstia,  
+> A la justícia i l'autocontrol*.  
+> -- Isócrates
 
 Els pares i mestres de la nostra generació es concentraren en construir l'*autoestima* de tot el món. A partir d'ahí, els tòpics dels nostres gurús i les nostres figures públiques han buscat quasi esclusixivament plenar-nos d'inspiració, donar-nos ànim i assegurar-nos que podem fer el que sia que ens proposem fer. Però la realitat és que això ens torna dèbils.
 
-> *El talent solxc
-s és el punt de partida*.
-> -- Irvin Berlin.
+> El talent sols  
+> és el punt de partida.  
+> -- Irvin Berlin
 
 ### 1.1. Parlar, parlar, parlar ###
 
-> Els que saben no parlen,
-> els que parlen no saben.
+> Els que saben no parlen,  
+> els que parlen no saben.  
 > -- Lao Tzu
 
 Cadascú de nosaltres té un costat feble que, a l'igual que un sindicat, no és exactament malintencionat, però a l'hora de la veritat sempre vol rebre tot el crèdit i l'atenció possible, per fer molt poc. A això anomenem **ego**.
@@ -87,7 +92,8 @@ L'historiador William Durant deia: *Una nació naix estòica i mor sent epicúre
 
 *Quin és el propòsit de la vida? Què vares venir a fer al món?* El **propòsit** ens ajuda a respondre fàcilment la disyuntiva de **ser** o **tenir.
 
-> *Un home és forjat per allò en el que treballa.*
+> Un home és forjat  
+> per allò en el que treballa.  
 > -- Frederick Douglass
 
 El camí de l'egocèntric exigeix moltes concesions.
@@ -109,9 +115,9 @@ Cal elegir **Fer**, centrar-se en el procés per tal de forjar-se i millorar. Ca
 
 ### 1.3. Convertir-se en estudiant ###
 
-> No permetem que el fantasma de cap home torne ací
-> i diga que el va decepcionar el seu entrenament.
-> -- Acadèmia de capacitació del 
+> No permetem que el fantasma de cap home torne ací  
+> i diga que el va decepcionar el seu entrenament.  
+> -- Acadèmia de capacitació del  
 > Departament de Bombers de NY
 
 El poder convertir-se en estudiant no es limita a tenir un període extés d'instrucció, també posa l'ego i l'ambició en les mans d'algú més. Se l'imposa a l'ego una espècie de sostre: u no sap que no és millor que el mestre del qual és aprenent. Es respecta el mestre i s'asumeix una posició inferior. No és possible enganyar o fingir davant del mestre. L'educació no és una cosa que es puga improvisar, no hi ha dreceres a part de treballar cada dia. I si u no ho fa, el mestre el tira.
@@ -124,7 +130,8 @@ El propòsit de Fran Shamrock era senzill: **tenir una retroalimentació continu
 
 Un verdader estudiant és com una esponja. Absorbeix el que succeix al seu voltant,ho filtra, reté el que l'interessa. Un estudiant és autocrític i es motiva a sí mateix, sempre tracta de millorar la seua comprensió per a poder passar al següent tòpic, al següent repte. Un estudiant de veritat també és el se propi professor i el seu propi crític. **No hi ha espai per a l'ego**.
 
-> És impossible aprendre-ho tot el que u pensa que ja sap.
+> És impossible aprendre-ho  
+> tot el que u pensa que ja sap.  
 > -- Epicteto
 
 A l'ego li desagrada la realitat i prefereix fer les seues pròpies avaluacions.
@@ -139,8 +146,8 @@ L'ego ens torna cabuts i hostils a la crítica que allumna totes eixes fonts d'e
 
 Per axiò hi ha un vell proverbi que diu:
 
-> El mestre apareixerà
-> quan l'alumne estiga llest.
+> El mestre apareixerà  
+> quan l'alumne estiga llest.  
 
 ### 1.4. No ser apassionat ###
 
@@ -160,7 +167,8 @@ La **passió** sempre té un objecte extern.
 
 El **propòsit** busca arribar a algun lloc. El propòsit lleva l'èmfasi de yo.
 
-> *Grans passions són enfermetats sense esperança*.
+> Grans passions  
+> són enfermetats sense esperança*.  
 > -- Goethe
 
 Per aquesta raó, una persona **decidida** i plena de **propòsit** opera a un nivell diferent, més enllà de les influències i la enfermetat.
@@ -171,17 +179,17 @@ El treball important requereix **determinació** i **consideració**. No passió
 
 És molt millor si et senteixes intimidat pel que has d'enfrontar, si et sents humil davant la magnitut de la tasca, però decidit a portar-la a terme. Deixa la passió als perturbats i als aficionats. Pots sentir *passió pel que deus fer i dir, però no per allò que et preocupa i que desitges que siga.
 
-> Sobretot, sense molt d'entusiasme.
-
-> -- Talleyrand, diridit a diplomàtics.
+> Sobretot, sense molt d'entusiasme.  
+> -- Talleyrand, diridit a diplomàtics
 
 Així podràs fer grans coses i deixaràs de ser una persona amb bones intencions però ineficient.
 
 ### 1.5. Seguir l'estratègia del llenç ###
 
-> Els grans homens quasi sempre han demostrat tenir
-> la mateixa capaccitat per a obedir
-> que la que demostren tenir per a manar.
+> Els grans homens   
+> quasi sempre han demostrat  
+> tenir la mateixa capaccitat per a obedir  
+> que la que demostren tenir per a manar.  
 > -- Lord Mahon
 
 En el sistema romano d'arts i ciències existía la figura de l'**anteàmbul**, que significa *aclaridor de camins.
@@ -190,11 +198,11 @@ Busca llenços perquè els demés puguen estar bé. Aclarir el camí a la gent q
 
 ### 1.6 Oblidar-se de sí mateix ###
 
-> Una persona que pensa tot el temps
-> no té res més en què pensar
-> llevat dels seus pensaments,
-> així que perd contacte amb la realitat
-> i viu en un món d'il·lusions.
+> Una persona que pensa tot el temps  
+> no té res més en què pensar  
+> llevat dels seus pensaments,  
+> així que perd contacte amb la realitat  
+> i viu en un món d'il·lusions.  
 > -- Alans Watts
 
 J.D. Salinger, escriptor, sofria una esècie d'obsessió amb sí mateix i amb una immaduresa que el van portar a pensar que el món era insorportable i a allumnyar-se  del contacte humà, la qual cosa va paralitzar el seu geni.
@@ -207,12 +215,12 @@ Viure de manera clara, en el present, requereix coratge. No hi ha que viure en l
 
 ### 1.7. El perill de l'orgull primerenc ###
 
-> L'home orgullós
-> sempre està mirant-ho tota
-> des d'una posició superior,
-> i, clar, mentre u estiga mirant
-> cap avall, és incapaç de veure
-> què hi ha al damunt.
+> L'home orgullós  
+> sempre està mirant-ho tota  
+> des d'una posició superior,  
+> i, clar, mentre u estiga mirant  
+> cap avall, és incapaç de veure  
+> què hi ha al damunt.  
 > -- C. S. Lewis
 
 L'orgull debilitat precisament l'intstrument que necessitem per a tenir èxit: la ment. La capacitat per aprendre, per a adaptar-nos, per a ser flexibles, per a construir relacios, tot això és opacat per l'orgull.
