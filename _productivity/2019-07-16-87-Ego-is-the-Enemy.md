@@ -280,9 +280,60 @@ El treball no vol ser bo, som nosaltres els que el fem bo.
 
 > És cosa sabuda  
 > que la humiltat és una escala  
-> per l'ambició incipient.  
+> per l'ambició incipient.  xc
+
 > -- William Shakespeare
 
 Podem presumir dels nostres progresos o podem cobrer les veitat difícls amb pura força de personalitat e impluls i passió. O podem enfrontar les ontres falencies amb noestitat i dedicarli més temps al treball. Podem deixar que aquesta experiència en torne humils i veure amb claritat on tenim talent i on necesstiem millorar, per dedicar-nos després a treballar amb el fi de tancar l'esquerda.
 
 L'ego és el germà pervers de l'èxit.
+
+### 2. Èxit ###
+
+El seny, mantenir la ment oberta, l'organització i el proòsit són els grans estabilitzadors. Fan de contrapés a l'ego o a l'orgull que venen amb els assoliments i el reconeixement.
+
+> L'ego és l'enemic siga quin siga l'èxit que hages assolit.
+
+Sense virtut ni entrenament, va dir Aristòtil, *és difícil gestionar adequadament els resultats de la bona sort*.
+
+L'ego té les mateixes arrels de l'alcoholisme: *inseguretat*, *temor*, *odi a l'objectivitat brutal*. Pensem que *som especials, millors i que les regles no apliquen per a nosaltres*.
+
+L'home és mogut per *impulsos*, Víktor Frankl, però és atret per *valors*. Si no tenim valors, l'èxit és breu.
+
+L'èxit és embriagador, malgrat això, per manternir-ho hem de mantenir-nos sobris.
+
+Hem d'entendre que som una xicoteta part d'un univers interconnectat.
+
+Hem de construir una organització i un **sistema** al voltant del que **fem**, un sistema al voltant del treball, **no al voltant de nosaltres**.
+
+### 2.1. Mantenir sempre la condició d'estudiant ###
+
+> Tot home que conec és,  
+> d'alguna manera, el meu superior,  
+>i així puc aprendre d'ell.  
+>-- RalphWaldo Emerson
+
+Gengis Kan, conqueridor bàrbar, impulsat per la set de sang que aterroritza al món civilitzat. La seua vida va ser *un persistent cicle d'aprenentatge pragmàtic, adaptació experimental i revisió constant, implusat per la voluntat increíblement disciplinada i centrada*.
+
+Quan arribem a l'èxit per primera vegada ens trobem davant situacions noves, nous problemes. El físic John Wheeler deia: *a mesura que creix la nostra illa de conexiement, tamb augmenten les platges de la nostra ignorància*.
+
+Amb els assoliments creix la pressió d'aprendre més del que no sabem. *Scientia infla*, el coneixement unfla.
+
+> La humilitat  engendra aprenentatge  
+> perquè contrarresta l'arrogància  
+> que et fa cego.
+> La gent humil millora, perquè  
+> observa i escolta amb atenció.  
+> No suposa que sap com fer les coses...  
+> -- Wynton Marsalis, guanyador del Grammy   
+> en nou ocasions i premi Pulitzer.
+
+Tan prompte com permetem que l'ego ens diga que ens hem graduat, l'aprenentatge es deté en sec.
+
+> Cal mantenir la condició d'estudiant  
+> perquè aquesta no té fi.
+> -- Frank Shamrock
+
+Un *aficionat* està a la defensiva, però per un *professional*, **l'aprenentatge** és un procés continu i infinit.
+
+Peter Drucker diu que *no és suficient amb sols voler aprendre. A mesura que hom progressa, també deu entendre com aprén i després establir processos per a facilitar l'educació contínua. En cas contrari ens condemnem a una espècie d'ignorància imposada per nosaltres mateixos*.
