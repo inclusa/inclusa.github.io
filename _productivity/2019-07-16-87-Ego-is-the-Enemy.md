@@ -337,3 +337,27 @@ Tan prompte com permetem que l'ego ens diga que ens hem graduat, l'aprenentatge 
 Un *aficionat* està a la defensiva, però per un *professional*, **l'aprenentatge** és un procés continu i infinit.
 
 Peter Drucker diu que *no és suficient amb sols voler aprendre. A mesura que hom progressa, també deu entendre com aprén i després establir processos per a facilitar l'educació contínua. En cas contrari ens condemnem a una espècie d'ignorància imposada per nosaltres mateixos*.
+
+### 2.2. No contar-se contes ###
+
+> Els mites no es converteixen en mites  
+> en viure'ls, sino en contar-los.  
+> -- David Maraniss
+
+Bill Walsh es va fer càrrec d'un equip de futbol americà. Va implantar el que va anomenar **estandars d'acompliment**. Va definir:
+
+- Què es debia fer
+- Quan es debia fer
+- Com es debia fer
+
+Els **estàndars d'acompliment** tenien a veure amb **inculcar en l'equip pràctiques d'exel·lència**. La idea era: *si els jugadors podien complir amb els detalls millorarien per sí mateixa*.
+
+Amb el temps, aquests estandars d'acompliment varen ser els responsables de la transformació de l'equip i de la victòria de la Super Bold.
+
+Amb el temps aquesta situació demostraria els *riscos* de que una història set puge al cap. Això és el que passa quan hom avalúa prematurament i atribueix poders que encara no controla. *Quan van deixar de constar-se contes es van centrar en la tasca que havien d'enfrontar*.
+
+Així, la capacitat d'escoltar, de rebre crítiques, de millorar i de crèixer es torna molt més importnat que abans.
+
+La forma de fer coses realment grans sembla ser começar amb coses enganyosament xicotetes.
+
+Cal centrar-nos en l'**execució** allunyant-nos dels crèdits i corones i mantenir-nos centrats en el que estem fent.
