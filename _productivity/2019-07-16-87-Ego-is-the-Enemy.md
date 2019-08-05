@@ -354,10 +354,67 @@ Els **estàndars d'acompliment** tenien a veure amb **inculcar en l'equip pràct
 
 Amb el temps, aquests estandars d'acompliment varen ser els responsables de la transformació de l'equip i de la victòria de la Super Bold.
 
-Amb el temps aquesta situació demostraria els *riscos* de que una història set puge al cap. Això és el que passa quan hom avalúa prematurament i atribueix poders que encara no controla. *Quan van deixar de constar-se contes es van centrar en la tasca que havien d'enfrontar*.
+Amb el temps aquesta situació demostraria els *riscos* de que una història set puge al cap. Això és el que passa quan hom avalúa prematurament i atribueix poders que encara no controla. *Quan van deixar de constar-se contes es van centrar en la tasca que havien d'enfrontar.
 
 Així, la capacitat d'escoltar, de rebre crítiques, de millorar i de crèixer es torna molt més importnat que abans.
 
 La forma de fer coses realment grans sembla ser começar amb coses enganyosament xicotetes.
 
+
 Cal centrar-nos en l'**execució** allunyant-nos dels crèdits i corones i mantenir-nos centrats en el que estem fent.
+
+### 2.3. Què és el més important per a tu? ###
+
+> Sabem que el que ens agrada
+> és el començament de
+> la saviessa i la vellea.
+> - Robert Louis Stevenson
+
+Mai estem feliços amb el que tenim i també volem el que tenen els demés. Volem tenir més del que tenen els demés.
+
+Tots diguem SÍ sense pensar, per codícia o vanitat, perquè no som capaços de dir NO. Pensem que això ens permetrà assolir més coses, quan en realitat ens impedeix arribar on volem.
+
+L'ego socava la grandesa.
+
+Els assoliments dels altres ens fan sentir insignificants. Així, de manera inconscient, accelerem el ritme per a arribar on estan els altres.
+
+**Euthymia**, paraula grega, significa *tranquilitat* que podem traduir com *el sentit del nostre propi camí i com podem romandre en ell sense dixar-nos distraure pels altres camins que el creuen*.
+
+Es tracta del que nosaltres som i d'ésser tan bons com siga possible, sense rendir-nos a la presió de totes les coses que ens allunyen del nostre objectiu. Es tracta de dirigir-nos on ens vàrem proposar arribar. Es tracta d'assolir tot quan podam en el camp que hem elegit.
+
+L'ego rebutja els intercanvis, l'ego ho vol tot.
+
+Només estem començant a dominar una cosa, l'ego ens pregunta per què no començar una altra.
+
+Necessitem saber què volem i el que aquestes desicions deixen fora.
+
+Quantes més coses tingues més difícil va a ser mantenir la fidelitat al teu futur propòsit.
+
+Cal descobrir què és el que vols i fer cas omís als que vullguen alterar el teu pas.
+
+### 2.4. Privilegis, control i paranoia ###
+
+> Una de les senyals de que ens acostem
+> a una crisi nerviosa
+> és creure que el nostre treball
+> és terriblement important.
+> -- Bertrand Russell
+
+Amb l'èxit, particularment amb el poder, arriben algunes de les fantasies més grans i perilloses: les dels *privilegis*, el *control* i la *paranoia*.
+
+L'èxit ens llança una maldició.
+
+L'home i la dona intel·ligents han dre recordar-se regularment que el seu poder i el seu alcanç tenen límits.
+
+El que es sent privilegiat sobrestima les seues capacitats, jutja massa generosament les seues perspectives i crea expectatives ridícules.
+
+El **control** diu que tot s'ha de fer a la nostra manera, inclús les coses més xicotetes i anodines. El control es pot convertir en **perfeccionisme paralitzant** sols pel benefici de mostrar que teniem raó.
+
+La **paranoia** diu que no pots confiar en ningú.
+
+> Tot aquell que és conscient
+> de pors insubstancials
+> es guanya pors reals.
+> -- Sèneca
+
+En el seu frenesí de protegir-se, la paranoia crea la sensació de persecució per fer de la seua víctima una pressonera dels seus propis enganys i del caos.
