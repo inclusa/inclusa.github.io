@@ -28,7 +28,8 @@ L'orador **Demóstenes** va dir una vegada que la **virtut** comença amb la **c
 > a la qual és més fàcil enganyar.  
 > -- Richart Feyman
 
-> L'**ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mateix i del talent.
+> L'**ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mat
+eix i del talent.
     
 Quan la noció de nosaltres mateixos i el món es torna tan forta, comença a distorsionar la realitat que ens rodeja.
 
@@ -461,7 +462,7 @@ L'ego necessita honors amb el fi de sentir-se validat.
 
 Després que hem assolit una cosa la tendència és passar-se a la mentalitat d'**obtenir el que ens pertany per dret**. Ara, de forma inesperada, els premis i el reconeixement importen, tot i que, no va ser el que ens va portar fins ací.
 
-**Mai ens guanyem el dret a ser codiciosos o a perseguir els nostres interessos a costa de tots els demés.
+**Mai ens guanyem el dret a ser codiciosos o a perseguir els nostres interessos a costa de tots els demés.**
 
 Cal no pensar en nosaltres mateixos, cal moderar-nos pel sentit dela humiltat i la generositat.
 
@@ -492,7 +493,7 @@ L'experiència de grandesa fa impossible l'ego.
 
 La **por** és mala consellera.
 
-L'**ego** ens diu que *som invencibles, que tenim força il·limitada que mai va a desaparèixer**.
+L'**ego** ens diu que *som invencibles, que tenim força il·limitada que mai va a desaparèixer*.
 
 > La sobrietat és l'art de l'autocontrol.
 
@@ -522,3 +523,4 @@ Cal fomentar:
 - Mantenir la humiltat.
 - Mantenir el sentit del propòsit.
 - Connectar-nos amb el món que ens rodeja.
+
