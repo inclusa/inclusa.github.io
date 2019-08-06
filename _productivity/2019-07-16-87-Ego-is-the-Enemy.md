@@ -418,3 +418,107 @@ La **paranoia** diu que no pots confiar en ningú.
 > -- Sèneca
 
 En el seu frenesí de protegir-se, la paranoia crea la sensació de persecució per fer de la seua víctima una pressonera dels seus propis enganys i del caos.
+
+### 2.5. Saber portar-se ###
+
+> No és suficient tenir grans cualialitats
+> també hem de saber-les gestionar.
+> -- François de la Rochefoucauld
+
+Eisenhower sabía diferenciar entre **urgent** i **important**.
+
+DeLorean vivia constantment distret i abandonava un projecte per altre. No gestionava correctament les situacions. El resultat va ser que ningú seguia les regles, ningú responia a res, es feia molt poc.
+
+No sabia com gestionar-se a sí mateix i menys als demés. Convertir-se en un gran líder és difícil.
+
+Eisenhower va entendre que el que el país necessitava era ordre i responsabilitat. Y que era molt més importante que els seus capritxos.
+
+En el cas de DeLorean, el que va impedir que els ingredients es convinaren va ser l'ego i la desorganització que produeix.
+
+Quan tens èxit cal tornar a avaluar i actualitzar la teua identitat. Significa que, potser hi ha persones que poden estar més qualificades que tu per fer la feina que feies abans.
+
+El que importa és que aprengues a comportat-te i a dirigir els demés.
+
+La responsabilitat exigeix un reajust i després requereix que hi haja més claretat de propòsit.
+
+En primer lloc cal establir els principals objectius i prioritats de l'organització i de la teua vida. Després, cal perseguir-los amb disciplina. Per produir resultats, sols resultats.
+
+### 2.6. Compte amb l'enfermetat del jo ###
+
+> Si jo no sóc per a mí,
+> qui ho serà?
+> Si sóc sols per a mí,
+> qui sóc?
+> -- Hillel
+
+Els grans equips soles seguir una trajectòria. Quan un equip comença a guanyar, abans d'haver guanyat, l'equip és inocent, s'uneix, els seus compoments es cuiden mútuament, treballen junts. Anomenem a aquesta etapa **escalada inocent.
+
+Quan l'equip comença a guanyar els llaços senzills que unien els individus es van debilitant. Aparèixen els egos.
+
+Al general Marshall li agradava desincentivar activament els ascensos.
+
+L'ego necessita honors amb el fi de sentir-se validat.
+
+Després que hem assolit una cosa la tendència és passar-se a la mentalitat d'**obtenir el que ens pertany per dret**. Ara, de forma inesperada, els premis i el reconeixement importen, tot i que, no va ser el que ens va portar fins ací.
+
+**Mai ens guanyem el dret a ser codiciosos o a perseguir els nostres interessos a costa de tots els demés.
+
+Cal no pensar en nosaltres mateixos, cal moderar-nos pel sentit dela humiltat i la generositat.
+
+### 2.7. Meditar sobre la immensitat ###
+
+> Un monge és un home
+> separat de tot,
+> en armonia amb tot.
+> -- Evagrio Pontico
+
+Els *estoics* anomenaven **synmatheia**, la connexió amb el cosmos. Es tracta de la sensació de sentit de pertenència a una cosa més gran.
+
+L'ego ens separa de la bellesa i de la història del món. S'interposa en el camí.
+
+Els grans líders s'han centrat en la natura, perquè en fer-ho, han trobat perspectiva.
+
+La **creativitat** és un instrument dereceptivitat i reconeixement. No pot ocorrer si estem comvençuts de que el món gira al voltant nostre.
+
+És difícil ser egocèntric i estar convençut de la pròpia grandesa dins de la colitat i el silènci en un tanc de deprivació sensorial.
+
+L'experiència de grandesa fa impossible l'ego.
+
+### 2.8. Mantenir la sobrietat ###
+
+> El major refinament
+> deriva cap a la simplicitat.
+> -- Bruce Lee
+
+La **por** és mala consellera.
+
+L'**ego** ens diu que *som invencibles, que tenim força il·limitada que mai va a desaparèixer**.
+
+> La sobrietat és l'art de l'autocontrol.
+
+L'ego nuvola la ment, justament quan necessita claretat. La discreció és un contrapús, una cura contra la resaca o, encara millor, un mètode preventiu.
+
+L'Europa de Churchil requeria una classe de líder. El món interconnectat de hui requereix un altra. Perquè hi ha molta informació que processar, molta competència, molts canvis. Si no tenim claredat mental tot està perdut.
+
+> Si vos viure feliç, viu amagat.
+
+La gent més exitosa és la gent de la qual mai hem sentit parlar. Perquè ells així ho volen. Això els permet mantenir la sobrietat. Els ajuda a fer el seu treball.
+
+### 2.9. Per al que sol venir desrpés, l'ego és l'enemic ###
+
+> La evidència està entregada
+> i vosté és el veredicte.
+> -- Anne Lamott
+
+Aristòtil parla del *punt mitjà*.
+
+- El **valor** està entre la *cobardía* i la *imprudència*.
+- La **generositat** ha de denindre's abans de convertir-se en **despilfarro* o en *mesquintat**, amb el fi de ser útil.
+
+Cal fomentar:
+
+- Una actitut sòbria i discreta.
+- Evitar la codícia i la paranoia.
+- Mantenir la humiltat.
+- Mantenir el sentit del propòsit.
+- Connectar-nos amb el món que ens rodeja.
