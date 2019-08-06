@@ -570,3 +570,42 @@ El que estaven fent tant Katherin Graham com Bill Walsh era **interpretar un con
 La gent humil no té tan de problema amb les situacions de fracàs com els egocèntrics. Es queixen molt menys i hi ha moltes menys inmolacons. En lloc d'això, acudeixen a la resistència estoica, inclús entusiasta. La compassió no és necessària, la seua identitat no està amenaçada. Ells poden seguir avant sense rebre validació constant.
 
 El que importa és poder respondre al que ens ve per davant.
+
+### 3.1. Temps Viu i o Temps Mort ###
+
+Segons Robert Green hi ha dos tipus de temps:
+
+- **Temps mort**: quan adoptem una actitut passiva i ens seiem a esperar.
+- **Temps viu**: quan adoptem una actitud activa aprenent i actuant, utilitzant cada segon.
+
+**Molts pensadors imporants se han format en les prisions, un lloc on no tenim res que fer excepte pensar.** La clau estaria en pensar en coses que ens tornen millors.
+
+En la vida tots tenim un poc de **temps mort**, això no ho podem controlar. Cal no permetre que la situació empitjore.
+
+### 3.2. Que l'esforç siga suficient ###
+
+> El que l'importa a un home actiu  
+> és fer el que siga correcte;
+> si el que siga correcte arriba
+> o no a fer-ser realitat
+> no ens deuria de preocupar.
+> -- Joham Wolfgang Goethe
+
+**Fer el que siga correcte ha de ser suficient.
+
+Quan estem menys apegats als resultats estarem millor.
+
+**L'esforç, no els resultats, ha de ser sufient**.
+
+L'ego necessita rebre reconeixement, l'esforç no és suficient. Necessita comparar-se.
+
+> L'èxit és la pau mental,  
+> la qual és el resultat directe de  
+> la satisfacció de saber que u va fer l'esforç  
+> per convertir-se en la millor persona  
+> en que hom es pot convertir.
+> -- John Wooden
+
+Insistim en desitjar, en necessitar, sols ens estem posan en una posició proclive al resentiment.
+
+**Fer el treball és suficient.***
