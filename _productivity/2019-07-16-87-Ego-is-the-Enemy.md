@@ -524,3 +524,49 @@ Cal fomentar:
 - Mantenir el sentit del propòsit.
 - Connectar-nos amb el món que ens rodeja.
 
+
+### 3. El Fracàs ###
+
+L'eixida, la forma de tornar-se a alçar, requereix **reorientació** i un **nivell augmentat d'autoconsciència**. No necessitem compassió, necessitem **propòsit, aplom i paciència**.
+
+> Exhibim les nostres riqueses  
+> i amaguem nostra pobresa  
+> perquè la humanitat està disposada  
+> a simpatitzar més completament  
+> amb el nostre goig,  
+> que amb la nostra tristesa.  
+> Res és tan mortificant  
+> com vore'ns forçats a exposar  
+> a la vista del públic  
+> les nostres angoixes,  
+> i sentir que, encara que  
+> la nostra situació està  
+> davant dels ulls  
+> de la nostra humanitat, 
+> ningun mortal és capaç  
+> d'imaginar-se ni la meitat  
+> del que patim.
+> -- Adam Smith
+
+Bill Walsh va dir: *Quasi sempre el cam a la victria passa per un lloc anomenat fracàs*.
+
+La vida no és justa.
+
+Els psicòlegs parlen de **ferida narcicista** aquest concepte: a l'ego li encanta la idea de que una cosa és justa o no.
+
+Però, quina importància té l'atribució la culpa de les dificultats, igualment haurem de passar per elles.
+
+> La gran errada consisteix en  
+> vore's a u mateix  
+> com més del que se és  
+> y valorar-se com menys  
+> del que valem de veritat.  
+> -- Goethe
+
+En el cas de Katherin Graham, ella va fer un judici de valor: amb l'ajuda de Buffett, va poder vore objectivament que el mercat no li reconeixia el vertader valor dels recursos de la companyia.
+
+El que estaven fent tant Katherin Graham com Bill Walsh era **interpretar un conjunt de mesures internes que els va permetre avaluar i calcular el progrés intern, mentre tot el món de fora estava distret per les suposades senyals de fracs o debilitat**. Això és el que ens guia a través de les dificultats.
+
+La gent humil no té tan de problema amb les situacions de fracàs com els egocèntrics. Es queixen molt menys i hi ha moltes menys inmolacons. En lloc d'això, acudeixen a la resistència estoica, inclús entusiasta. La compassió no és necessària, la seua identitat no està amenaçada. Ells poden seguir avant sense rebre validació constant.
+
+El que importa és poder respondre al que ens ve per davant.
