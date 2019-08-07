@@ -608,4 +608,74 @@ L'ego necessita rebre reconeixement, l'esforç no és suficient. Necessita compa
 
 Insistim en desitjar, en necessitar, sols ens estem posan en una posició proclive al resentiment.
 
-**Fer el treball és suficient.***
+**Fer el treball és suficient.**
+
+### 3.3. Moments de El Club de la Pelea ###
+
+> Si hom tanca la veritat  
+> i l'amaga sota terra,  
+> aquesta creixerà i reunirà  
+> un poder tan explosiu  
+> que el dia que esclate
+> farà volar tot el que  
+> trobe al seu pas.
+> -- Émile Zola
+
+En la mitologia grega, els personatges soles experimentar *katabasis** o *descensos. Es veuen forçats a retirar-se, experimentant una depresió o, en alguns casos, descendeixen literalment a l'inframon. Quan ixen, ho fan amb major saviessa i comprensió.
+
+Quan més gran és l'ego, més dura és la caiguda.
+
+> Sols podem ser humils  
+> quan sofrim humiliacions duraderes.
+> -- William A. Sutton
+
+Molts canvis vitals significatius provenen de moments en els quals una persona està totalment destroida.
+
+Aquests moments soles ser definits per tres trets:
+
+- Quasi sempre ve de la mà d'una força o d'una persona.
+- Amb freqüència involucren coses de nosaltres que ja sabíem, però que teniem por a admetre.
+- D'aquests runes sorgeix l'oportunitat de fer grans progressos i millores.
+
+El món pot mostrar-nos la veritat, però ningú pot forçar-nos a acceptar-la.
+
+Els psicòlegs solen dir que, quan està sota amenaça, l'egocentrisme és una de les forces més perilloses de la Terra.
+
+Aquestes són persones de les que ningú vol estar prop quan estan arraconades.
+
+> Doncs tot el que fa coses roïns  
+> aborreix la llum i no s'acosta  
+> a ella per temor a que les seues obres  
+> queden al descobert*.
+> -- Joan 3:20
+
+Enfrontar els símptomes, curar l'enfermetat. L'ego posa mols obstacles, doncs és més fàcil demorar, redoblar esforços, evitar deliberament veure els canvis que hem de fer en la nostra vida.
+
+> Als equips, com als homes,  
+> cal engenollar-los abans  
+> que es puguen tornar a alçar.
+> -- Vince Lombardi
+
+### 3.4. Posar Límits ###
+
+> Pot arruïnar la teua vida  
+> sol si arruina el teu caràcter.
+> -- Marco Aurelio
+
+Steave Jobs va treballar no sols fins demostrar-se a sí mateix les seues capacitats, sino fins resoldre de manera significativa les errades que havien causat el seu promer fracàs.
+
+Quan un equip té cara de perdre un partit, l'entrenador no els crida per dir-los mentides. Les recorda qui són i del que són capaços i els insta a tornar al camp i explorar les seues capacitats.
+
+La majoria dels problemes són temporals...
+
+La recuperació no és una apoteosis, sino posar un peu davant de l'altre.
+
+L'ego és l'únic que pensa que la vergonya o el fracàs són més del que són.
+
+L'ego diu que sóm un objecte inamobible, una força imparable. Aquesta fantasia causa problemes. Fa que el fracàs i l'adversitat es convertisquen en un atac en tota regla.
+
+> Aquell que li tem a la mort  
+> mai es farà digne  
+> d'un home que està viu.
+> -- Sèneca
+
