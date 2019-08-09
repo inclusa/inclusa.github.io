@@ -679,3 +679,84 @@ L'ego diu que sóm un objecte inamobible, una força imparable. Aquesta fantasia
 > d'un home que està viu.
 > -- Sèneca
 
+### 3.5. Porta el teu propi puntatge ###
+
+> Mai mire cap arrere,
+> execpte per investigar
+> sobre algun error...
+> Sols veig perill
+> en reflexionar sobre
+> les coses de les que
+> em senc orgullosa.
+> -- Elisabeth Noelle-Newman
+
+Dave Stachelski deia que hom no és tan bo com creu. Cal mantenir la concentració. Treballar cada vegada millor.
+
+John Wooden deia que el puntatge no era el que jutjava si ell o l'equip havien assolit l'èxit, això no era el que constituïa guanyar.
+
+El que és característici de com la gent bona pensa. No és que troben errades en cada triomf, es que es regeixen per un estándard que execeix el que la societat pot considerar un èxit objectiu. Degut a això, no els importa molt el que pensen els demés, els importa acomplir els **seus propis estàndards** i aquest són més alts que els dels demés.
+
+Els Patriots, equip de fútbol americà, en no donen credit a la sort, en lloc de felicitar-se, baixaren el cap de nou i es concentrarne en com ser encara millors. Això va fer que de la humiltat una força tan poderosa, organitzacional, personal i professionalment.
+
+L'ego no pot fer cas d'això. No pot millorar perquè sols veu la validació. Recorda que *els hòmens vanidosos más escolten més que els elogis*. Sols poden vore el que va be, no el que no va be. Aquesta és la raó de per què és possible vore alguns egocèntrics com a caps de feina, però rarament duren.
+
+El teu potencia, el millor del que eres capaç de ser, eixe és el metro amb el qual t'has de mesurar. Els teus propis estàndards.
+
+La gent pot tindre un colp de sort i guanyar, però no totes les persones poden ser les millors versions de sí mateix.
+
+Una persona que es jutja a sí mateixa amb base en els seus propis estàndards no anhela estar en primera plana tant com algú que deixa que els aplaudiments siguen el que contabilitzen els seus èxits.
+
+Una persona que valora el treball d'equip pot compartir el crèdit i sotmetre els seus propis interessos a la majoria de la gent que no pot fer-ho.
+
+Avancem cap a una milloria de veritat amb **disciplina** més que amb **disposició**.
+
+### 3.6. Amar sempre ###
+
+> I per què hauriem de sentir  
+> ràbia amb el món?  
+> Com si al món l'importara.  
+> -- Eurípides
+
+La millor resposta cap a un atac és **l'amor**.
+
+L'odi sempre et va a alcançar, però pots, al menys, no donar-li importància.
+
+**L'amor afavoreix les transformacions, l'odi és debilitant.
+
+En el fracàs o l'adversitat és molt més fàcil odicar, l'**odi posposa la culpa**, converteix en responsable a un altre. Deté per complet el desenvolupament.
+
+Entretant, l'amor està ahí. Lliure de l'ego, obert, positiu, vulnerable, pacífic i productiu.
+
+### 3.7. Per a tot el que segueix, l'ego és l'enemic... ###
+
+> No m'agrada treballa,  
+> a cap home li agrada,  
+> però m'agrada el que hi ha  
+> en el treball:
+> L'oportunitat de trobar-te  
+> a tu mateix.
+> -- Joseph Conrad
+
+Segons Harond Geneen, *la gent aprén de les seues errades. Rarament aprén res del seu èxit**.
+
+**Saviessa o ignorància?** L'ego posa el vot decissiu.
+
+L'aspiració condueix a l'èxit (i a l'adversitat). L'èxit crea la seua pròpia adversitat (y, amb sort, noves ambicions). I l'adversitat porta a noves aspiracions i èxits.
+
+### Epílog ###
+
+Una persona que s'ha donat per vençuda no arribarà més enllà.
+
+Bismark diu *qualsevol tonto pot aprendre de l'experiència. El truc consisteix en aprendre de l'experiència dels demés*.
+
+Plutarco va dir *no obtenim tant coneixment de les coses a travé de les paraules com paraules a través de l'experiència que tenim de les coses*.
+
+Cada dia, durant la resta de la teua vida, et vas a trobar en una d'aquestes tres fases:
+
+- Aspiració
+- Èxit
+- Fracàs
+
+Cal combatre l'ego en cadascuna d'elles.
+
+Car agranar el terra cada minut de cada dia... i, després, tornar a agranar.
