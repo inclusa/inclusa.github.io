@@ -139,3 +139,13 @@ Podem baixar l'arxiu de configuració al directori `/var/lib/gems/2.5.0/gems/drh
 ```bash
 sudo wget https://raw.githubusercontent.com/inclusa/drhenry/master/versions/inclusa/lib/drhenrypost.rb -O /var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/
 ```
+
+### Mac OS X ###
+
+El directori on es guarden les gemes per editar-les, segons versió, a Mac OS X és aquest:
+
+```bash
+cd /Library/Ruby/Gems/2.3.0/gems/
+```
+
+Fem notar que la ruta està referida a la versió `2.3.0` de les gemes de Ruby.
