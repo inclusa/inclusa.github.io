@@ -54,9 +54,10 @@ Els tres casos són membres d'un grup molt selecte de líders: **ens motiven**.
 
 La gent que **estima anar a treballar** és més productiva i creativa; torna a casa més feliç i té famílies més joioses; tracta millor els seus companys, clients i compradors. El seu objectiu no és proporcionar una línea d'actuació, sino oferir la **causa** per a actuar.
 
-### Primera Part: Un món que no comença pel PER QUÈ ###
+### Primera Part: Un món que no comen
+ça pel PER QUÈ ###
 
-#### 1.1. Assumeix el que saps ####
+#### 1. Assumeix el que saps ####
 
 La nostra conducta es veu condicionada per suposicions que fem o pel que percivim com cert. Premen decisions basades en el que *creguem saber*. Tots volem prendre *decisions correctes*.
 
@@ -67,7 +68,7 @@ Cada línia d'actuació que implantem, cada resultat que desitgem, comença amb 
 El que fonamenta l'èxit durader és el **PER QUÈ**.
 
 
-#### 1.2. Carlotes i Pals ####
+#### 2. Carlotes i Pals ####
 
 Hi ha dues maneres d'influir en la conducta humana: **manipulant** o **motivant**.
 
@@ -100,7 +101,7 @@ Amb massa freqüència no són els sistemes no són el que fallen, sinó la capa
 
 Recordar-te que podries estar deixant passar alguna cosa, o que tots excepte tu ho saben, també és un mecanisme potent de manipulació.
 
-#### Novetat (també coneguda com innovació) ####
+##### Novetat (també coneguda com innovació) #####
 
 La **innovació** en realitat canvia el curs de la indústria o inclús de la societat.
 
@@ -108,7 +109,7 @@ Moltes empreses disfresen d'innovació el que en realitat és una **novetat**.
 
 El mecanisme funciona però rarament es consolida.
 
-#### El preu que pagues pel que guanyes ####
+##### El preu que pagues pel que guanyes #####
 
 Aquesta és una altra manipulació. Ni una sola manipulació d'aquestes genera fidelitat, amb el temps costen cada vegada més, les ganancies es limiten a curt termini, augmenta el nivell de tensió tant per al comprador com per al venedor.
 
@@ -120,17 +121,34 @@ La **clientela freqüent** es produeix quan les persones fan negocis amb tu freq
 
 La **fidelització es produeix quan la gent està disposada a rebutjar un producte millor per a seguir fent negocis amb tu. Els clients fidels ni tan sols es molesten en investigar a la compatència o en considerar altres opcions.
 
-#### Les manipulacions condueixen a les transaccioins, no a la fidelització ####
+##### Les manipulacions condueixen a les transaccions, no a la fidelització #####
 
-En les transaccions que es produeixen una vegada per terme mig, la millora manera de provocar la conducta desitjada és la tènica del pal i la **pastanaga**.
+En les transaccions que es produeixen una vegada per terme mig, la millora manera de provocar la conducta desitjada és la **tènica del pal i la **carlota**.
 
 La consciència de fidelització dels clients i tenir uns empleats fidels redueix costos i proporciona pau mental. Millora la salut. Aquest és un tret dels grans líders.
 
 ### Segona Part: Una Perspectiva Alternativa ###
 
-#### El cercle daurat ####
+#### 3. El cercle daurat ####
 
+Hi ha pocs líders que en lloc de manipular opten per **inspirar** o **motivar** a les persones per alentar-les. Cacascú dels líders exemplars *pensa*, i *actúa*, s'*expressa* de la mateixa manera.
 
+El **Cercle Daurat** està inspirat en la secció àurea, una senzilla relació matemàtica que ha fascinat matemàtics, biòlegs, arquitectes, artistes, músics i naturalistes.
 
+Hi ha més ordre en la natura del que creguem.
 
+El **Cercle Daurat** troba ordre i previsibilitat en la conducta humana. Ens ajuda a comprendre tot el que fem preguntant-nos en primer lloc **per què**.
 
+El **Cercle Daurat** no sol és útil per canviar el món: també existeixen aplicacions pràctiques per la capacitat de motiva. Es poden utilitzar com a guia per a millorar immensament el lideratge, la cultura empresarial, la contratació, la creació de productes, les vendes i la mercadotècnia, fins i to la fidelitat i com generar la suficient inèrcia a fi de convertir una idea en un moviment social.
+
+Tres preguntes:
+
+- Què? Descripció del producte.
+- Com? Despripció del procés.
+- Per què? Despripció de la finalitat, motiu o creència.
+
+Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
+
+> La gent no compra QUÈ fas, compra PER QUÈ ho fas.
+
+En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
