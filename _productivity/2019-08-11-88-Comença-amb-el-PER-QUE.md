@@ -152,3 +152,4 @@ Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
 > La gent no compra QUÈ fas, compra PER QUÈ ho fas.
 
 En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
+
