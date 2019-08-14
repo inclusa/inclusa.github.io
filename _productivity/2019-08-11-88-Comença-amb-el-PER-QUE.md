@@ -153,3 +153,35 @@ Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
 
 En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
 
+La manca de la transmisió del PER QUÈ no genera més que estrés i dubtes.
+
+L'estratègia sempre ha d'anar de dins a fora. Cal comencemçar pel PER QUÈ, *l'element emocional de la decisió*, més avant cal introduir els *elements racionals*.
+
+L'habilitat per guanyar els cors abans que les ments no és fàcil.
+
+El nostre sistema límbic privat de llenguatge ens envia per ajudar-nos a veure l'art de liderar té a veure amb els dictats del cor. Potser que els nostres cervells estiguen tractant de dir-nos el PER QUÈ ha de ser el primer.
+
+
+> Els grans líders són conquesten els cors abans que les ments. Comencen pel PER QUÈ.
+
+#### El que importa és el que no pots veure ####
+
+Els fabricants de detergents preguntaven **QUÈ** era el que la gent volia d'un detergent. Els consumidors deien que blancs més blancs.
+
+La gent volia que la seua roba no eixira neta sinó molt neta, així que les marques varen intentar diferenciar-se amb el **COM** aconseguir blancs més blancs.
+
+Cap de les empreses es preguntaven **PER QUÈ** els seus clients volien tenir la seua roba neta.
+
+El primer que feia la gent quan treia la seua roba de la llavadora era orolar-la. Per a la gent *sentir* la neteja era **molt més important que el fet de que estaguera neta.
+
+El poder del sistema límbic és asombrós, no sols controla les nostres decisions viscerals, sino que pot influir-nos per a que fem coses que se'ns antoixen més ilògiques o irracionals.
+
+Prenem les decisions des del cervell límbic, el cervell que controla la conducta, però non el llenguatge.
+
+La gent està convençuda del que hi ha darrere de l'èxit d'Apple és únicament la qualitat dels productes. Però internament, a tots ens encanta formar part d'alguna cosa més gran que nosaltres mateixos.
+
+Això transcendeix el que és racional. És qüestió de fe.
+
+> Tots els productes amb una idea clara de PER QUÈ proporcionen a les persones una manera de dir-li al món exterior qui són i què és el que creuen.
+
+**La gent no compra **QUÈ** fas, compra **PER QUÈ** ho fas.
