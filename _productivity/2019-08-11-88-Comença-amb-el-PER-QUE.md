@@ -121,15 +121,7 @@ La **clientela freqüent** es produeix quan les persones fan negocis amb tu freq
 
 La **fidelització es produeix quan la gent està disposada a rebutjar un producte millor per a seguir fent negocis amb tu. Els clients fidels ni tan sols es molesten en investigar a la compatència o en considerar altres opcions.
 
-<<<<<<< HEAD
 ##### Les manipulacions condueixen a les transaccions, no a la fidelització #####
-=======
-<<<<<<< HEAD
-#### Les manipulacions condueixen a les transaccions, no a la fidelització ####
-=======
-##### Les manipulacions condueixen a les transaccions, no a la fidelització #####
->>>>>>> Segona part
->>>>>>> development
 
 En les transaccions que es produeixen una vegada per terme mig, la millora manera de provocar la conducta desitjada és la **tènica del pal i la **carlota**.
 
@@ -161,8 +153,6 @@ Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
 > La gent no compra QUÈ fas, compra PER QUÈ ho fas.
 
 En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
-=======
->>>>>>> development
 
 El **Cercle Daurat** no sol és útil per canviar el món: també existeixen aplicacions pràctiques per la capacitat de motiva. Es poden utilitzar com a guia per a millorar immensament el lideratge, la cultura empresarial, la contratació, la creació de productes, les vendes i la mercadotècnia, fins i to la fidelitat i com generar la suficient inèrcia a fi de convertir una idea en un moviment social.
 
