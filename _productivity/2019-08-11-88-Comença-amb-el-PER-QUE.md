@@ -121,19 +121,7 @@ La **clientela freqüent** es produeix quan les persones fan negocis amb tu freq
 
 La **fidelització es produeix quan la gent està disposada a rebutjar un producte millor per a seguir fent negocis amb tu. Els clients fidels ni tan sols es molesten en investigar a la compatència o en considerar altres opcions.
 
-<<<<<<< HEAD
-##### Les manipulacions condueixen a les transaccions, no a la fidelització #####
-=======
-<<<<<<< HEAD
-##### Les manipulacions condueixen a les transaccions, no a la fidelització #####
-=======
-<<<<<<< HEAD
-#### Les manipulacions condueixen a les transaccions, no a la fidelització ####
-=======
-##### Les manipulacions condueixen a les transaccions, no a la fidelització #####
->>>>>>> Segona part
->>>>>>> development
->>>>>>> 5bfac9bad5fbd02d3dfafb9a848fdf348b8be0d7
+### Les manipulacions condueixen a les transaccions, no a la fidelització ###
 
 En les transaccions que es produeixen una vegada per terme mig, la millora manera de provocar la conducta desitjada és la **tènica del pal i la **carlota**.
 
@@ -150,7 +138,6 @@ El **Cercle Daurat** està inspirat en la secció àurea, una senzilla relació 
 Hi ha més ordre en la natura del que creguem.
 
 El **Cercle Daurat** troba ordre i previsibilitat en la conducta humana. Ens ajuda a comprendre tot el que fem preguntant-nos en primer lloc **per què**.
-<<<<<<< HEAD
 
 El **Cercle Daurat** no sol és útil per canviar el món: també existeixen aplicacions pràctiques per la capacitat de motiva. Es poden utilitzar com a guia per a millorar immensament el lideratge, la cultura empresarial, la contratació, la creació de productes, les vendes i la mercadotècnia, fins i to la fidelitat i com generar la suficient inèrcia a fi de convertir una idea en un moviment social.
 
@@ -165,22 +152,4 @@ Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
 > La gent no compra QUÈ fas, compra PER QUÈ ho fas.
 
 En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
-<<<<<<< HEAD
-=======
-=======
->>>>>>> development
->>>>>>> 5bfac9bad5fbd02d3dfafb9a848fdf348b8be0d7
 
-El **Cercle Daurat** no sol és útil per canviar el món: també existeixen aplicacions pràctiques per la capacitat de motiva. Es poden utilitzar com a guia per a millorar immensament el lideratge, la cultura empresarial, la contratació, la creació de productes, les vendes i la mercadotècnia, fins i to la fidelitat i com generar la suficient inèrcia a fi de convertir una idea en un moviment social.
-
-Tres preguntes:
-
-- Què? Descripció del producte.
-- Com? Despripció del procés.
-- Per què? Despripció de la finalitat, motiu o creència.
-
-Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
-
-> La gent no compra QUÈ fas, compra PER QUÈ ho fas.
-
-En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
