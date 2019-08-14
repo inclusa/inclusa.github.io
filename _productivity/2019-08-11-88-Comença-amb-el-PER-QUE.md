@@ -153,7 +153,6 @@ Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
 
 En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
 
-<<<<<<< HEAD
 La manca de la transmisió del PER QUÈ no genera més que estrés i dubtes.
 
 L'estratègia sempre ha d'anar de dins a fora. Cal comencemçar pel PER QUÈ, *l'element emocional de la decisió*, més avant cal introduir els *elements racionals*.
@@ -186,5 +185,136 @@ Això transcendeix el que és racional. És qüestió de fe.
 > Tots els productes amb una idea clara de PER QUÈ proporcionen a les persones una manera de dir-li al món exterior qui són i què és el que creuen.
 
 **La gent no compra **QUÈ** fas, compra **PER QUÈ** ho fas.
-=======
->>>>>>> 5d9cac54a9bb10b116442814c07d24e02522d001
+
+
+### 5. Claredat, Disciplina i Coherència ###
+
+Quan el **PER QUÈ** està absent floreixen les manipulacions. Quan aquestes prosperen augmenta la incertesa per als compradors.
+
+Començar pel **PER QUÈ** és sols el principi. Queda molt de treball abans de que una persona o una organització es guany el dret o es guanye la capacitat per a motivar. **Per a que el Cercle Daurat funcione cadascuna de les peses han d'estar en equilibri i en l'ordre correcte.
+
+#### 5.1. Claredat en el PER QUÈ ####
+
+Si tu no saps el PER QUÈ fas les coses, com ho van a saber els demés?
+
+El lideratge requereix seguiment voluntari; necessita a aquells que creuen en alguna cosa major que un sol problema.
+
+**Motivar** comença amb la claredat en el **PER QUÈ**.
+
+#### 5.2. Disciplina amb el COM ####
+
+Els COM són els valors o principis que orienten COM fas realitat la teua causa.
+
+Es tracta de tenir **disciplina** per a no desviar-te de la teua causa.
+
+El **Cercle Daurat** aporta una explicació per a l'èxit durader, peró la naturalesa inherent de fer les coses amb una visió de futur sovint implica inversinos o costos a cur termini.
+
+#### 5.3. Coherència del QUÈ ####
+
+El **PER QUÈ** sols és la *creència*.
+
+El **COM** són les *mesures* que prens per fer realitat aquesta creència.
+
+La única manera que la gent sàpiga què és el que creus és a través de les coses que *dius* i que *fas*. Si no ets coherent entre les coses que dius i que fas *ningú sabrà què creus*.
+
+És en l'àmbit del **QUÈ** on es produeix *l'autenticitat**.
+
+L'**autenticitat** significa que el **CERCLE DAURAT** està equilibrat, el que implica que tot el que digues i el que faces *t'ho cregues**.
+
+L'**autenticitat** no es pot aconseguir sense **claredat** en el PER QUÈ.
+
+Les **relacions** generen **confiança** i amb la confiança arriba la **fidelitat**.
+
+Ser **autèntic** no és una condició per assolir l'èxit, però sí ho és si el que es vol és que aquest dure.
+
+#### 5.4. L'ordre correcte ####
+
+El PER QUÈ proporciona el **context** per a tot el demés.
+
+El PER QUÈ exerceix un profund i durader efecte sobre el resultat. Començar pel PER QUÈ és el que motiva les persones a actuar.
+
+#### 5.5. Si no saps el PER QUÈ, no pots saber el COM ####
+
+El mero fet d'oferir un producte d'alta qualitat amb més funcionalitats o en un servei millor a un preu més barat no crea la diferència. Fer això no garantitza l'èxit. La diferència es produeix en el **QUÈ** i en el **COM** ho fas.
+
+> Hi ha moltes maneres de motivar a la gent a fer coses, però la fidelitat es deriva de la capacitat per a motivar-la.
+
+#### 5.6. La manipulació i la motivació són paregudes, però no són el mateix ####
+
+La *manipulació* i la *motivació* estimulen el sistema límbic.
+
+Quan **el sentimient és més profund** que la inseguretat, la incertesa o els somnis, llavors la relació emocional s'armonitza amb la percepció que tenim en nosaltres mateixos, i en eixe moment és quan la conducta passa ser fruït de la **incitació** a ser-ho de la **motivació**.
+
+Quan **sentim** que les nostres decicions són correctes, *estem disposats a pagar un preu major o patir inconvenients per a aconseguir aquests productes o serveis*.
+
+El preu, la qualitat, la funcionalitat i el servei són importants. Són els **sentiments límbics viscerals** els que generen la **fidelitat**.
+
+La **fidelitat** és un **valor emocional**, sorgeix de la ment de comprador, no del venedor.
+
+Quan el PER QUÈ, el COM i el QUÈ estan en equilibri es consegueix l'**autenticitat**, i el comprador es sent satisfet.
+
+Sense el PER QUÈ sorgeix la por i la inseguretat en el comprador.
+
+El **Cercle Daurat** proporciona una manera de transmetre que és coherent amb la forma en que els individus reben la informació.
+
+Si els tres nivells del **Cercle Daurat** estan equilibrats tots els que compartisquen la mateixa visió de la empresa es sentiran atrets cap a ella.
+
+#### 5.7. Fer negocis és com tenir una cita ####
+
+El QUÈ no impulsa la presa de decisions, sinó que ha d'utilitzar-se com a prova del PER QUÈ.
+
+Els QUÈ representen les probes tangibles del PER QUÈ.
+
+#### 5.8. Tres graus de certesa ####
+
+La capacitat per a expressar en paraules el PER QUÈ brinta el context emocional per a les decisions, i ofereix una seguretat mahor que el *crec que és correcta*.
+
+Quan coneixes el PER QUÈ, el major grau de certidumbre que pots oferir és: **Sé que és correcta**.
+
+### Tercera Part: Els dirigens necessiten que els seguisquen ###
+
+#### 6. El sorgiment de la confiança ####
+
+Si una empresa maltracta la seua gent només has de veure com els empleats tracten els seus clients.
+
+No pots tenir un bon producte si no disposes d'unes persones que estimen anar a treballar.
+
+La primera responsabilitat d'una empresa comença per cuidar els seus empleats.
+
+La **confiança** no sorgeix sense més per què un venedor argumente racionalment els motius pels que el client hauria de comprar un producte o servei.
+
+La **confiança** és un sentiment, no una experiència racional. Confiem en les persones i en les empreses inclús quan les coses van malament, i no confiem en altres encara que tot puga haver eixit exactament com deuria.
+
+> La confiança comporta un sentit del valor, d'un valor verdader, no sols del alor equiparat dels diners. El valor, per definició és la transferència de la confiança.
+
+- El PER QUÈ és la **creència**.
+- El COM son les **mesures** que adoptem per fer realitat eixa creència.
+- Els QUÈ és el **resultat** de les mesures.
+
+Un **gran lideratge** no es basa únicament en una gran capacitat operativa. Liderar no és ser el cap. Ser el cap de la feina significa que ostentes la **màxima autoritat**.
+
+**Liderar** significa que els demés et segueixen de bona gana, no perquè hagen de fer-ho sinó perquè elegixen fer-ho.
+
+**Els que lideren** poden fer-ho perquè *els que els segueixen confien en que les decisions que prendràn en l'autoritat del seu rol serà el més convenient per al seu grup*. A canvi, els que **confien*** senten que *estan treballant per a alguna cosa major que per a ells mateixos*.
+
+#### 6.1. L'única diferència entre tu i un cavernícola és el cotxe que condueixes ####
+
+Hem prosperat com a espècie gràciea a la capacitat de **crear cultura**.
+
+Les **cultures** són grups de persones que es congregen al voltant d'una sèrie de valors i creències comuns. Quan compartim valors i creències amb els demés, generem **confiança**. Els demés ens permeten recórrer a ells per a que ens ajuden a protegir els nostres fill i garantir-nos la nostra superfivència personal. La possibilitat d'abandonar la guarida per eixir a caçar o explorar, amb la seguretat de que la comunitat protegirà la teua família i els teus enses fins que tornes, és un dels elements mésimportants de la supervivència d'un individu i de l'avanç de la nostra espècie.
+
+Una empresa és una **cultura**, un grup de persones reunides en torn a una sèrie de valors i creències comuns. L'**objectiu** no consisteix en contractar personesque es limiten a tenir una sèrie d'aptituts que es necessiten; **la lògica consisteix en contractar a persones que creen en el mateix que tu**.
+
+
+#### 6.2. Trobar les persones que creguen el mateix que tu ####
+
+A principis del segle XX [Ernest Shackleton](https://ca.wikipedia.org/wiki/Ernest_Shackleton) es va proposar explorar l'Antàrtida. **Roald Amundsen**, era un norueg que acabava de convertir-se en el primer explorador en arribar al Pol Sud, deixent pendent una conquesta: creuar el continent a través del punt més meridional de la Terra.
+
+Anunci de l'expedició de l'[Endurance](https://ca.wikipedia.org/wiki/Ernest_Shackleton#CITEREFWatkins1993):
+
+> Es busquen homes: Per viatge perillós.  
+> Sou baix, fred intens, 
+> llargs mesos de foscor completa,  
+> perill constant, retorn segur dubtós.  
+> Honor i reconeixement en cas d'èxit. 
+> -- Sir Ernets Shackleton
