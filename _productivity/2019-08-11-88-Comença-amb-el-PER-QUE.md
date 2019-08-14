@@ -153,7 +153,6 @@ Els líders pensen i actuen de dins a fora PER QUÈ --> COM --> QUÈ.
 
 En lloc de preguntar-nos QUÈ cal fer per a competir? Cal preguntar-se PER QUÈ comencem fent el que fem i QUÈ caldria fer per a reviure la nostra causa.
 
-<<<<<<< HEAD
 La manca de la transmisió del PER QUÈ no genera més que estrés i dubtes.
 
 L'estratègia sempre ha d'anar de dins a fora. Cal comencemçar pel PER QUÈ, *l'element emocional de la decisió*, més avant cal introduir els *elements racionals*.
@@ -186,5 +185,3 @@ Això transcendeix el que és racional. És qüestió de fe.
 > Tots els productes amb una idea clara de PER QUÈ proporcionen a les persones una manera de dir-li al món exterior qui són i què és el que creuen.
 
 **La gent no compra **QUÈ** fas, compra **PER QUÈ** ho fas.
-=======
->>>>>>> 5d9cac54a9bb10b116442814c07d24e02522d001
