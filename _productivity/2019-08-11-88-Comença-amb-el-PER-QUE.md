@@ -185,6 +185,7 @@ Això transcendeix el que és racional. És qüestió de fe.
 > Tots els productes amb una idea clara de PER QUÈ proporcionen a les persones una manera de dir-li al món exterior qui són i què és el que creuen.
 
 **La gent no compra **QUÈ** fas, compra **PER QUÈ** ho fas.
+<<<<<<< HEAD
 
 
 ### 5. Claredat, Disciplina i Coherència ###
@@ -318,3 +319,5 @@ Anunci de l'expedició de l'[Endurance](https://ca.wikipedia.org/wiki/Ernest_Sha
 > perill constant, retorn segur dubtós.  
 > Honor i reconeixement en cas d'èxit. 
 > -- Sir Ernets Shackleton
+=======
+>>>>>>> fcf4f079f1d6f592c7f5e60723a0b628f452ac6b
