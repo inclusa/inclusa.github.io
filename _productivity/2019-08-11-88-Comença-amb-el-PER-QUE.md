@@ -376,6 +376,7 @@ Orville i Wilbur predicaban allò que creïen, aconseguint motivara altres perso
 
 Els germans Wight varen començar pel PER QUÈ, a Langley el motivava el QUÈ.
 
+<<<<<<< HEAD
 #### 6.5. La innovació es produeix en els límits ####
 
 Els equips ideals no són tan meravellosos. Quan un equip d'experts es reuneix sole treballar per a sí mateixos i no pel bé comú.
@@ -415,4 +416,6 @@ Els liderats confien en els líder perquè saben que estan compromesos a cuidar-
 La **confiança invisible** és la que dóna al líder els seguidors que necessiten per què les coses es facen.
 
 L'equilibri del **Cercle Daurat** dóna claredat, disciplina i confiança.
+=======
+>>>>>>> 21f3cd63c4f1d43e228dca134a023979b78aea6d
 
