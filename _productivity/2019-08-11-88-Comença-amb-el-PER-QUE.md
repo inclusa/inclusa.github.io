@@ -376,4 +376,43 @@ Orville i Wilbur predicaban allò que creïen, aconseguint motivara altres perso
 
 Els germans Wight varen començar pel PER QUÈ, a Langley el motivava el QUÈ.
 
+#### 6.5. La innovació es produeix en els límits ####
+
+Els equips ideals no són tan meravellosos. Quan un equip d'experts es reuneix sole treballar per a sí mateixos i no pel bé comú.
+
+Reunir un equip de persones en idees afins i oferir-los una causa garantitza que es done el major sentitment de col·laboració i camaraderia.
+
+Langley va reunir un equpo ideal i els va prometre riquesa. Els germans Wright van motivar un equip de persones que es reunien en la consecució d'una cosa major que cada un dels membres.
+
+La llavor d'un líder no consisteix en tenir totes les grans idees. El paper d'un gran líder és el de crear un enton en el qual puguen produir-se grans idees.
+
+Si als empleats se'ls recorda constantment PER QUÈ es va fndar l'empresa i se'ls diu que busquen sempre les maeres de dar fia a aquesta causa mentre realitzaben la seua llavor, llavors faran alguna cosa més que el seu treball.
+
+A Steave Jobs no se li va ocórrer personalment l'iPod, iTunes o iPhone, però va proporcionar un context, un fin més elevat en torn al qual crear la innovació. Els empleats d'Apple se limiten a buscar maneres de donar vida a la seua causa. I funciona.
+
+Les empreses que donen a la seua gent una finalitat o se'ls planteja un dessafament en torn al qual desenvolupar idees, en llod de limitar-se a ordenar-li que facen una trampa per a ratolins millor.
+
+> Les empreses amb una idea clara del PER QUÈ tendeixen a ignorar la seua competència.
+
+Quan la gent acudeix al treball amb una idea superior de la finalitat, les resulta més fàcil capejar els moments difícils o incús trobar oportunitats amb ells.
+
+
+#### 6.6. La definició de confiança ####
+
+La **confiança** permet que recuperem els demés. És fonamental per al progrés en les nostres vides, les nostres famílies, les nostres empreses, les nostres societats i la nostra espècie.
+
+> Únicament quan les persones poden confiar en la cultura o la organització assumiran riscos personals per a fer avançar eixa cultura u organització en el seu conjunt.
+
+
+#### 6.6. La verdadera confiança és fruit de les coses que no es poden veure ####
+
+Un gran lideratge no té res a veure amb el fet presumir ni d'intimidar; els grans líders lideren amb el PER QUÈ.
+
+Algunes persones que ocupen llocs de direcció actúen com si estigueren en un arbre de mones: ens asseguren de que tot el que està en el lloc més alt de l'arbre sols veja somriures quan mire cap avall. Però les demés persones la majoria de vegades, els que esta en la part inferior sols veuen culs quan alcen la vista.
+
+Els liderats confien en els líder perquè saben que estan compromesos a cuidar-los.
+
+La **confiança invisible** és la que dóna al líder els seguidors que necessiten per què les coses es facen.
+
+L'equilibri del **Cercle Daurat** dóna claredat, disciplina i confiança.
 
