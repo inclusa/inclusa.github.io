@@ -319,5 +319,61 @@ Anunci de l'expedició de l'[Endurance](https://ca.wikipedia.org/wiki/Ernest_Sha
 > perill constant, retorn segur dubtós.  
 > Honor i reconeixement en cas d'èxit. 
 > -- Sir Ernets Shackleton
-=======
->>>>>>> fcf4f079f1d6f592c7f5e60723a0b628f452ac6b
+
+La tripulació del *Endurance* mai arribaria al continent de l'Antàrtida. Shackleton i la seua tripulació van quedar atrapats deu mesos mentre l'*Endurance* es desviava lentament cap al nord, fins que finalment la prsió del gel va aplastar el vaixell. El *21 de novembre de 1915, la tripulació va assistir a l'afonament de la nau en les aigues gèlides del mar de Wedell.
+
+Aillada pel gel, Shackleton i part de la tripulació en tres xicotets vaixells a eixir rumb a Illa Elefant, a 1.290 km de mar tempestuós per buscar ajuda. Cosa que finalment van aconseguir.
+
+**No va ser qüestió de sort**. *Shackleton* va trobar els homes adients per la misió. Quan elegixes persones que creuen en el que tu creus, l'èxit arriba.
+
+A la tripulació li encantaven els desafiaments. Quan els empleats encaixen, garanteixen l'èxit. No s'esforçaran per cercar solucions innovadores per tu, ho faran per ells mateixos.
+
+Un dels **trets del grans líders** *és l'habilitat per trobar persones adients per a que incorporen a les seues organitzacions aquells que creuen en el que ells creuen*. No contractes *aptituts*, contractes **actituds**. Les aptituds sempre pots ensenyar-les.
+
+Quan pregunte a les empreses a qui els agrada contractar una de les respostes que obtinc és *sols contactem persones apassionades*.
+
+Començar pel **PER QUÈ** quan es contracta augmenta espectacularment la teua capacitat per atraure a aquells que ssenten passió pel que creuen.
+
+L'**objectiu** és contractar a aquelles persones que siguen apassionades del teu **PER QUÈ**, del teu propòsit, causa o creència i que tinguen l'actitud que encaixe en la teua cultura. **Una vegada determinat això sols llavors es deuria avaluar el conjunt de les seues aptitus i la seua experiència*.
+
+Les persones estan animades o no . Però a manys que els dones a les que estan animades alguna cosa en que creure, alguna cosa major  per a que treballen en pro de l'empresa, s'animaran a sí mateixes a troba un nou treball i tu et quedaràs amb les restes.
+
+#### 6.3. Dóna'ls hi una catedral ####
+
+Història de dos canters. T'acostes al primer i li preguntes: *T'agrada el teu treball?*
+
+L'home alça la vista i respon: *Porte treballant en aquest mur més temps del que sóc capaç de recordar. És un treball monòton. Treballe sota un sol abrassador tot el sant dia. Les pedres pesen molt, alçar-les cada dia pot ser esgotador. No estic segur de que l'obra vaja a acabar-se en el que em queda de vida. El treball PAGA LES MEUES FACTURES*.
+
+Li dónes les gràcies pel seu temps i segueixes caminant. A nou metres de distància, et pares junt al segon canter i li tornes a fer la pregunta: *T'agrada el teu treball?*
+
+El canter alça la vista i respon: *Estic contruint una catedral. Per suposat porte treballlant en aquest mur més temps del que sóc capaç de recordar, i axí, de vegades el treball em resulta monòton. Treballe sota un sol abrassador tot el dia. Les pedres pesen molt, alçar-les un dia rere l'atre pot ser esgotador. No estic segur de que aquesta obra vaja a acabar-se en el que em queda de vida. Però estic construint una CATEDRAL*.
+
+Tots dos estan fent exactament el mateix, la diferència està en que un té una **finalitat**. Sent que encaixa. Va a formar part d'una cosa més gran que ell. **El fet de tenir un PER QUÈ li canvia per complet la perspectiva**. Això el converteix en un treball més productiu i, sens dubte, més lleial.
+
+El canter motivat probablement treballarà més hores i rebutjaria un treball més fàcil, millor pagat per quedar-se i formar part d'una causa més elevada.
+
+Tots treballen units per construir la catedral, aquesta camaraderia els portarà a l'èxit. Les persones treballen unides per una causa comú.
+
+Les empreses que posen gran sentit en el **PER QUÈ** són capaços de motivar els seus empleats.
+
+Quan les persones de deins de l'empresa saben **PER QUÈ** acodeixen al treball és molt més probable que entenguen PER QUÈ l'empresa és especial.
+
+#### 6.4. Quan estàs motiva pel PER QUÈ, l'èxit arriva sense més ####
+
+A finals del segle XIX, la nova tecnologia era l'avió. Samuel Pierpot Langley, secretari de l'Institut Smithsonià, col·laborador de l'Observatori de la Universitat de Hardvard i preofessor de matemàtiques de l'Academia Naval d'Estats Units es va proposar com a objectiu construir la primera màquina voladora. Era un home ben relacionat, entre els seus amics estaven Andrew Carnegie i Alexander Graham Bell. Els diners no eren problema.
+
+Langley va reunir les millors ments del moment. S'havia proposat una meta audaç, però no tenia una idea clara del PER QUÈ. El seu objectir de volr construir l'avió estava definit en funció del QUÈ estava fent i del QUE  podia lograr.
+
+Volia ser ric, volia ser famós, era el que impulsava la seua motivació.
+
+A una quants cents de quilòmetres, en Dayton, Ohio, Orville i Wilbur Wight també volien fabricar una màquina voladora. No tenien la recepta de l'èxit. Els germans tenien una cosa molt especial: **tehien un somni**. Estaven segurs de que podrien descobrir eixa màquina voladora que canviar el món.
+
+Wilbur i Orville eren uns verdades científics als què els preocupava profunda i verdaderament el problema físic que tractaven de resoldre: el problema de l'equilibri i del vol.
+
+Langley no sentia la passió de volar, sino més bé alcançar l'èxit.
+
+Orville i Wilbur predicaban allò que creïen, aconseguint motivara altres persones de la seua comunitat per a que es sumaren a la causa.
+
+Els germans Wight varen començar pel PER QUÈ, a Langley el motivava el QUÈ.
+
+
