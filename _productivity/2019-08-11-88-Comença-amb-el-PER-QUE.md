@@ -429,11 +429,11 @@ Les opinions dels demés importen. I les que més, les d'aquells amb els quals c
 
 Malcon Gladwell, en l'any 2000, va provocar el seu punt d'inflexió quan ens va contar com es produeixen els punts d'inflexió en els negocis i en la societat en el seu llibre [The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point). Identifica els grups de poblacions necessàries què denomina connectors influents. Pocs són els que saben influir en els influients.
 
-|[The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point#/media/File:Thetippingpoint.jpg)
+![The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point#/media/File:Thetippingpoint.jpg)
 
 En el llibre publicat en 1962, Everett M. Rogers va ser el primer en descriure formalment com es difonen les innovacions en la societat. Trenta anys més tard, Geoffrey Moore va ampliar les idees de Rogers, en el seu llibre [Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) per aplicar el principi de a la comercialització dels productes de tecnologia. Però la Llei de la Difusió de les Innovacions va molt més enllà de la propagació de la innovació i la tecnologia: **explica la difusió de les idees**.
 
-#[Crossing The Charm](https://en.wikipedia.org/wiki/Crossing_the_Chasm#/media/File:Chossing-the-chasm-cover.jpg)
+![Crossing The Charm](https://en.wikipedia.org/wiki/Crossing_the_Chasm#/media/File:Chossing-the-chasm-cover.jpg)
 
 
 
