@@ -416,6 +416,24 @@ Els liderats confien en els líder perquè saben que estan compromesos a cuidar-
 La **confiança invisible** és la que dóna al líder els seguidors que necessiten per què les coses es facen.
 
 L'equilibri del **Cercle Daurat** dóna claredat, disciplina i confiança.
-=======
->>>>>>> 21f3cd63c4f1d43e228dca134a023979b78aea6d
+
+#### 6.7. La influencia dels demés ####
+
+El **sentiment de confiança** s'allotja directament en el mateix lloc que el PER QUÈ, en el *sistema límbic.
+
+Les opinions dels demés importen. I les que més, les d'aquells amb els quals confiem.
+
+### 7. Com desnivella un punt d'inflexió ###
+
+**Lei de la Difusió de les Innovacions**.
+
+Malcon Gladwell, en l'any 2000, va provocar el seu punt d'inflexió quan ens va contar com es produeixen els punts d'inflexió en els negocis i en la societat en el seu llibre [The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point). Identifica els grups de poblacions necessàries què denomina connectors influents. Pocs són els que saben influir en els influients.
+
+|#[The Tipping Point](https://en.wikipedia.org/wiki/The_Tipping_Point#/media/File:Thetippingpoint.jpg)
+
+En el llibre publicat en 1962, Everett M. Rogers va ser el primer en descriure formalment com es difonen les innovacions en la societat. Trenta anys més tard, Geoffrey Moore va ampliar les idees de Rogers, en el seu llibre [Crossing the Chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm) per aplicar el principi de a la comercialització dels productes de tecnologia. Però la Llei de la Difusió de les Innovacions va molt més enllà de la propagació de la innovació i la tecnologia: **explica la difusió de les idees**.
+
+#![Crossing The Charm](https://en.wikipedia.org/wiki/Crossing_the_Chasm#/media/File:Chossing-the-chasm-cover.jpg)
+
+
 
