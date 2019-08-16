@@ -435,5 +435,28 @@ En el llibre publicat en 1962, Everett M. Rogers va ser el primer en descriure f
 
 <img src="https://upload.wikimedia.org/wikipedia/en/e/e7/Chossing-the-chasm-cover.jpg">
 
+La nostra població e divideix en cinc segments, els quals es distribueixen en una campana de Gauss.
 
+- 2,5%: Innovadors
+- 13.5%: Adoptants Inicals
+- 34%: Majoria Inicial
+- 34%: Majoria Tardana
+- 16%: Endarrerits
 
+Els **innovadors**, com diu Moore, busquen decididament els nous productes i idees i es senten intrigats per qualsevol avanç fonamental: *ser els primers és part fonamental de les seues vides*.
+
+Els **adoptants inicials** es pareixen als innovadors en que valoren els avantatges generats per les noves tecnologies. Aquestes persones reconeiexen precoçment les noves idees i estan disposats a toleara la imprerfecció gràcies a que veuen el potencial. Encara que disposats a adoptar les idees no generen idees com els *innovadors*. Però tots dos grups es pareixen en que confien considerablement en la intuició. *Estan disposats a pagar un recàrrec o patir cert grau d'inconveniència per a posseir el producte o avançar en la idea que els semble adequada*.
+
+La **majoria inicial** i la **majoria tardana** els factors racionals tenen més importància. Necessiten fiar-se d'altres persones per adoptar noves propostes.
+
+Segons la **Llei de la Difusió**, *l'èxit del mercat de consum massiu sols es pot assolir després d'introduir entre el 15 i el 18 per cent del mercat. La raó cal buscar-la en que la majoria inicial no provarà res nou fins que algú ho haja provat primer*.
+
+L'objectiu de l'empresa no hauria de ser simplement vendre a qualsevol que desitge el que tens, la majoria, sinó més bé trobar a les persones que creguen en el que tu creus, això les situa en el costa esquerre de la campana de Gauss.
+
+Eixe **15-18%** no està composada sols per persones que simplement estan disposades a comprar el producte; *és el percentatge de persones que estan disposades a compartir les teues creències i desitgen incorporar les teues idees, prouctes i serveis a les seues vides com els QUÈ dels seus PER QUÈ*. El 10% no és suficient per desnivellar el sistema.
+
+*Si tens suficient disciplina per centrar-te en els adoptants inicials, al final la majoria apareixerà. Però, això ha de començar amb el PER QUÈ. No basta centrar-se en els anomenats influients.*
+
+No volem sols influents, sinó algú que crega amb el que creus tu. Sols llavors parlaran de tu sense necessitat de cap indicació o incentiu.
+
+Tot acte d'incentivar a un influent és **manipulació**, i desacredita automàticament a l'influent davant el seu grup. No passarà molt de temps abans que el grup esbrine que una recomendació no va ser feta pensant en el que més convenia al grup, sinó, més bé per l'interés personal d'un individu. I, en conseqǘència la confiança es devalua i el valor de l'influent es torna inservible.
