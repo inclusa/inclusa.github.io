@@ -460,3 +460,5 @@ Eixe **15-18%** no està composada sols per persones que simplement estan dispos
 No volem sols influents, sinó algú que crega amb el que creus tu. Sols llavors parlaran de tu sense necessitat de cap indicació o incentiu.
 
 Tot acte d'incentivar a un influent és **manipulació**, i desacredita automàticament a l'influent davant el seu grup. No passarà molt de temps abans que el grup esbrine que una recomendació no va ser feta pensant en el que més convenia al grup, sinó, més bé per l'interés personal d'un individu. I, en conseqǘència la confiança es devalua i el valor de l'influent es torna inservible.
+
+

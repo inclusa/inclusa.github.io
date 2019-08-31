@@ -1,0 +1,95 @@
+I"�<p><a href="https://www.jabber.org/">Jabber</a> és un protocol de missatgeria instantània basat en el protocol obert <a href="https://xmpp.org/">XMPP</a>.</p>
+
+<p>El podem instal·lar fàcilment amb la versió escrita en el llenguatge <strong>Erlang</strong>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo install </span>erlang ejabberd
+</code></pre></div></div>
+
+<p>Podem crear l’usuari administrador així:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ejabberdctl register admin localhost password
+</code></pre></div></div>
+
+<p>Podrem revisar la configuració de forma manual en aquest arxiu:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/etc/ejabberd/ejabberd.yml
+</code></pre></div></div>
+
+<p>Per defecte es crearà un arxiu de configuració</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/etc/ejabberd/ejabberd.cfg
+</code></pre></div></div>
+
+<p>En cas de voler reconfigurar el servei manualment podem fer-ho des d’ací:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>dpkg-reconfigure ejabberd
+</code></pre></div></div>
+
+<p>Podem utilitzar l’usuari <code class="highlighter-rouge">admin@localhost</code> i modificar les línies:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>%% Admin user
+<span class="o">{</span>acl, admin, <span class="o">{</span>user, <span class="s2">"admin"</span>, <span class="s2">"localhost"</span><span class="o">}}</span><span class="nb">.</span>
+
+%% Hostname
+<span class="o">{</span>hosts, <span class="o">[</span><span class="s2">"localhost"</span><span class="o">]}</span><span class="nb">.</span>
+</code></pre></div></div>
+
+<p>Reiniciarem servei</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>service ejabberd restart
+</code></pre></div></div>
+
+<p>Entrarem en la configuració. Podem administrar el lloc des d’allí mateix.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>http://10.0.1.254:5280/admin
+</code></pre></div></div>
+
+<p>Alcem el servei:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>service ejabberd restart
+</code></pre></div></div>
+
+<p>Ja tenim el servidor alçat.</p>
+
+<p>Ara caldrà instal·lar un client.</p>
+
+<p>A l’ordinador instal·larem algun d’aquest clients:</p>
+
+<ul>
+  <li>Adium</li>
+  <li>ChatSecure</li>
+  <li>Conversations</li>
+  <li>Gajim</li>
+  <li>Jitsi</li>
+  <li>Messages</li>
+  <li>Pidgin</li>
+  <li>Psi</li>
+  <li>Swift</li>
+</ul>
+
+<p>Trobarem més aplicacions en <a href="https://xmpp.org/software/clients.html">xmpp.org</a>.</p>
+
+<p>Configurarem el client així:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>username: usuari
+domain: localhost
+password: password
+</code></pre></div></div>
+
+<p>Si volem que es xifre la informació que es transmeteix cal buscar les característiques avançades del client i posar:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Connect port: 5222
+Connect server
+</code></pre></div></div>
+
+<p>Fonts:</p>
+
+<ul>
+  <li><a href="https://ugeek.github.io/028-instala-un-servidor-de-mensajeria/">uGeek</a></li>
+  <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-ejabberd-xmpp-server-on-ubuntu">Digital Ocean</a></li>
+  <li><a href="">Jabber</a></li>
+  <li><a href="https://xmpp.org/">XMPP</a></li>
+  <li><a href="https://www.process-one.net/en/ejabberd/">ejabberd</a></li>
+  <li><a href="https://docs.ejabberd.im/">ejabberd docs</a></li>
+  <li><a href="https://xmpp.org/software/clients.html">Jabber Clients</a></li>
+</ul>
+:ET

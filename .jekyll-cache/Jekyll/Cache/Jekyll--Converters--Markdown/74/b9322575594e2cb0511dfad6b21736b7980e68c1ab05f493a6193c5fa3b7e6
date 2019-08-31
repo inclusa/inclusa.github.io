@@ -1,0 +1,68 @@
+I"�<p><a href="http://pandoc.org">Pandoc</a> és una utilitat creada per <a href="http://johnmacfarlane.net/">John MacFarlane</a>, professor de filosofia a la Universitat de California.</p>
+
+<p>Podem utilitzar <a href="http://pandoc.org">pandoc</a> per generar documents en molts formats. Actualment s’està veien el gran esforç de desenvolupar codi font, així com la necessitat de ferramentes que faciliten la generació de codi complexe.</p>
+
+<p>D’aquesta manera podriem escriure un document en un llenguatge codificat molt senzill, com és <a href="https://daringfireball.net/projects/markdown/">markdown</a>, aquest llenguatge fou crear inicialment per <a href="http://daringfireball.net/">John Gruber</a>. Es tracta d’un llenguatge de programació que necessita una utilitat per generar documents estandars.</p>
+
+<p>Algun del programari existen que utilitza aquest llenguatge:</p>
+
+<ul>
+  <li><a href="https://stackedit.io/">Stackedit</a></li>
+  <li><a href="http://dillinger.io/">Dilinger</a></li>
+</ul>
+
+<p>Alguns dels tutorials per aprendre el llenguatge:</p>
+
+<ul>
+  <li><a href="http://www.markdowntutorial.com/">MarkdownTutorial</a></li>
+  <li><a href="http://joedicastro.com/pages/markdown.html">Blog de Joe Di Castro</a></li>
+</ul>
+
+<p>D’aquesta manera, podriem crear un document en un processador de text pla com ara Vim, Emacs, TextEdit o Notepad.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Títol de primer nivell
+
+## Títol de segon nivell
+
+*cursiva*
+**negreta**
+~tatxat~
+&gt;blockquote
+`code`
+[link](http://#)
+![imatge](http://#.image.png)
+</code></pre></div></div>
+
+<p>Per tal de generar el codi del fitxer que conté aquesta informació, que anomenarem input.md farem el següent:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ pandoc input.md -o output.pdf
+</code></pre></div></div>
+
+<p>D’aquesta manera obtindrem un fitxer en pdf, amb una formatació <code class="highlighter-rouge">standalone</code> bàsica.</p>
+
+<p>En cas de que vullguerem utilitzar una <a href="http://pandoc.org/demo/mytemplate.tex">template</a>, en aquest cast de <a href="https://latex-project.org/intro.html">latex</a> caldria primer obtenir-la i modificar-la al nostre gust. Podeu veure un exemple a l’<a href="http://pandoc.org/demos.html#examples">exemple número 14 de la pàgina de pandoc</a>. Primer obtindriem la <em>template</em>.</p>
+
+<blockquote>
+  <p>Cal baixar la plantilla (template) i posar-la en el mateix directori on anem a generar el document final.</p>
+</blockquote>
+
+<p>Amb aquest senzill comandament generariem un document <em>output.pdf</em> amb índex, enllaços i interns a partir de dos documents escrits en markdown <em>input1.md</em> i <em>input2.md</em>. Tot escrit en lletra de 12 punts.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pandoc --template mytemplate.tex --toc -V fontsize=12pt -o output.pdf input1.md input2.md 
+</code></pre></div></div>
+
+<p>En cas de que vullguerem modificar la font caldria editar el fitxer <em>mytemplate.tex</em> i variar la font de la lletra així:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>\usepackage[default]{cantarell} %% Use option "defaultsans" to use cantarell as sans serif only
+</code></pre></div></div>
+
+<p>Així hem canviat la font de lletra <em>modern</em> per <em>cantarell</em> més pareguda a la que solem utilitzar en paper. Per revisar les fonts que es poden utilitzar cliqueu en el següent enllaç.</p>
+
+<p>Per tal que tot funcione cal tenir instal·lades les fonts de lletra LaTeX a Ubuntu, el paquet <a href="https://launchpad.net/ubuntu/trusty/+package/texlive-fonts-extra">lextlive-fonts-extra</a>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get install texlive-fonts-extra
+</code></pre></div></div>
+
+<p>També cal tenir instal·lat LaTeX, però al tant, això ocupa 1 GB de disc dur.</p>
+
+:ET

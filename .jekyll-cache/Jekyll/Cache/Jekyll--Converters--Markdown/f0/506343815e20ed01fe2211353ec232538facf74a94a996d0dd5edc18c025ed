@@ -1,0 +1,93 @@
+I"<h1 id="1-teoria">1. Teoria</h1>
+
+<p><strong>Scrum</strong> és un <strong>marc de treball basat en un cicle de vida iteratiu i incremental per gestionar desenvolupament de productes i projectes</strong>. L’escenari natural són <strong>projectes on és difícil planificar</strong> amb una mínima consistència.</p>
+
+<p>A diferència de la gestió de projectes tradicionals, el model de gestió no es basa en una planificació detallada i un control posterior sobre l’acompliment de la planificació. La <strong>gestió</strong> es basa en una <strong>planificació poc detallada</strong>, bàsicament dels <strong>objectius del projecte</strong> i el <strong>volum de recursos</strong> dedicat, però per contra estableix un <strong>calendari de lliuraments periòdic</strong> i transparent que facilita la comunicació i la compartició de l’<strong>estat del projecte</strong> entre totes les parts.</p>
+
+<p>Scrum es basa en la teoria empírica de control de processos. L’<strong>empirisme</strong> afirma que el <strong>coneixement ve de l’experiència i de fer decisions basades en fets coneguts</strong>.</p>
+
+<p>Scrum fa servir un enfocament iteratiu i incremental per optimitzar la predictibilitat i el control del risc. Els tres pilars en els quals es basa una implementació del procés de control empíric són transparència, inspecció i adaptació.</p>
+
+<h1 id="2-rols">2. Rols</h1>
+
+<ul>
+  <li>Propietari del producte (product owner)</li>
+  <li>Mestre Scrum (Scrum Master)</li>
+  <li>Equip de desenvolupament (Development Team)</li>
+</ul>
+
+<h1 id="3-events">3. Events</h1>
+
+<p><strong>3.1. Iteració (Sprint)</strong></p>
+
+<ul>
+  <li>Cicles d’un màxim de 30 dies (2, 3, 4 setmanes).</li>
+  <li>Són de la mateixa durada durant el projecte.</li>
+</ul>
+
+<p><strong>3.2. Planificació (Sprint Planning)</strong></p>
+
+<ul>
+  <li>Durant la planificació l’equip de desenvolupament analitza conjuntament le contingut de l’Sprint backlog per assegurar un enteniment comú dels elements que s’han d’afegir al producte,  que es pode reestimar i desglosar en tasques més petites.</li>
+  <li>Això pot comportar un ajustamén de la previsió dels resultats de l’Sprint.</li>
+  <li>No pot durar més de 8 hores.</li>
+</ul>
+
+<p><strong>3.3. Scrum diari (Daily Scrum)</strong></p>
+
+<ul>
+  <li>Reunió diària de 15 minuts, realitzada sempre de peu, en el mateix lloc i a la mateixa hora, on es revisa l’estat del projecte per avaluar si s’aconsegueix l’avanç esperat i formentar la coordinació.</li>
+</ul>
+
+<p>Cada membre de l’equip respon a les preguntes:</p>
+
+<ol>
+  <li>Què vaig fer ahir?</li>
+  <li>Què feré hui?</li>
+  <li>Quins impediments tinc?</li>
+</ol>
+
+<p><strong>3.4. Revisió (Sprint Review)</strong></p>
+
+<ul>
+  <li>L’últim dia es realitza una reunió entre l’equip de desenvolupament i el propietari del producte per demostrar-li l’increment aconseguit al producte.</li>
+  <li>El propietari valida que s’ha aconseguit l’objectiu i proporciona la retroalimentació sobre els requeriments que no s’han implementat correctament o aquells nous que s’han identificat sobre la base dels existents.</li>
+  <li>Duració: 4 hores.</li>
+</ul>
+
+<p><strong>3.5. Retrospectiva (Sprint Retrospective)</strong></p>
+
+<ul>
+  <li>Reunió on s’identifica de les millores possibles sobre el funcionament de l’equip respecte les seves pràctiques.</li>
+  <li>Duració: màxim 4 hores.</li>
+</ul>
+
+<h1 id="4-artefactes">4. Artefactes</h1>
+
+<p><strong>4.1. Llista d’Sprint (Sprint Backlog)</strong></p>
+
+<ul>
+  <li>Llista on s’inclouen els elments que s’estima que es podran incorporar al producte dins de l’iteració en curs.</li>
+  <li>Els items han estat desglosat a un nivell on s’han pogut analitzar i estimar amb detall.</li>
+  <li>Aquesta llista no pateix modificacions durant l’Sprint, excepte si l’equip de desenvolupament ho demana degut a que el ritme de treball és més alt o més baix de l’estimat.</li>
+</ul>
+
+<p><strong>4.2. Increment (Sprint)</strong></p>
+
+<ul>
+  <li>Millores del producte.</li>
+  <li>Tots els elements acompleixen la “definició de fet”.</li>
+</ul>
+
+<p><strong>4.3. Recta d’avanç (Burndown Chart)</strong></p>
+
+<ul>
+  <li>Recta ideal que suposa un avanç constant fins el dia de finalització de l’Sprint.</li>
+</ul>
+
+<h1 id="5-definició-de-fet">5. Definició de fet</h1>
+
+<p>Cal deixar molt clar sota quin criteri es pot donar un element de la llista del Sprint com “fet” independentment de quin desenvolupador se n’encarregue.</p>
+
+<p>Font: <a href="http://www.scrum.cat/">Scrum.cat</a></p>
+:ET

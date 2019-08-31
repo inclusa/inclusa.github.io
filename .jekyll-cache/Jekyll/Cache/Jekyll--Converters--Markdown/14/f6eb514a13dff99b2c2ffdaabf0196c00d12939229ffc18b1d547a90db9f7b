@@ -1,0 +1,13 @@
+I"s<p>Podem redimensionar les imatges des del terminal seguit aquest patró:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>convert imatge.jpg -resize 700 -quality 50 imatge_nova.jpg
+</code></pre></div></div>
+
+<p>La tecnologia que hi ha per baix és Image Magic. Adaptant els paràmetres a les necessitats es poden obtenir les dimensions pertinents.</p>
+
+<p>També podem diverses imatges a un sol fitxer <strong>PDF</strong>.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>convert imatge01.jpg imatge02.jpg comipacio.pdf
+</code></pre></div></div>
+
+:ET

@@ -1,0 +1,20 @@
+I"n<p>Sovint em passa que arranque l’ordinador i oblide que el router està apagat.</p>
+
+<p>A Ubuntu 18.04 la cosa es soluciona, al cap d’un minut, sembla que hi ha un cron que revisa constantment la xarxa.</p>
+
+<p>El procediment de reiniciar la xarxa ha anat canviant al llarg dels anys, supose que el canvi a System D també ha tingut alguna cosa a veure.</p>
+
+<p>El cas és que cal saber com reiniciar la xarxa de forma efectiva. Ací recollim alguns procediments:</p>
+
+<ol>
+  <li><strong>netplan</strong> <code class="highlighter-rouge">sudo netplan apply</code></li>
+  <li><strong>systemctl</strong> <code class="highlighter-rouge">sudo systemrestart NetworkManager.service</code></li>
+  <li><strong>service</strong> <code class="highlighter-rouge">sudo service network-manager restart</code></li>
+  <li><strong>nmcli</strong> <code class="highlighter-rouge">sudo nmcli networking off &amp;&amp; sudo nmcli networking on</code></li>
+  <li><strong>system V init</strong> <code class="highlighter-rouge">sudo /etc/init.d/networking restart</code> o <code class="highlighter-rouge">sudo /etc/init.d/network-manager restart</code></li>
+  <li><strong>ifup/ifdown</strong> <code class="highlighter-rouge">sudo ifdown -a &amp;&amp; sudo ifup -a</code></li>
+</ol>
+
+<p>Font: <a href="https://linuxconfig.org/how-to-restart-network-on-ubuntu-18-04-bionic-beaver-linux">linuxconfig.org</a></p>
+
+:ET

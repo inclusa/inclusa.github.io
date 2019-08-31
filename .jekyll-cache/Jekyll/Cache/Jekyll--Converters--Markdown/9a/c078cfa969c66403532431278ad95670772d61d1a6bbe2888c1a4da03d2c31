@@ -1,0 +1,7 @@
+I"�<p><a href="https://github.com/nvbn/thefuck">The Fuck</a> és una utilitat que té com a objectiu corregir els comandaments de terminal.</p>
+
+<p>Quan escrius un comandament malament en terminal cal escriure <code class="highlighter-rouge">fuck</code> per tal que et faça una proposta de correcció. A continuació cal acceptar-la o no.</p>
+
+<p>Es pot instal·lar l’extensió de <a href="https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/thefuck">Oh My Zsh</a> tot i que ja ve per defecte en aquesta utilitat, senzillament cal activar-la en l’arxiu <code class="highlighter-rouge">.zshrc</code> afegint aquesta ordre: <code class="highlighter-rouge">plugins=(thefuck)</code>.</p>
+
+:ET

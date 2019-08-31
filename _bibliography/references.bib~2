@@ -1,0 +1,30 @@
+---
+---
+Biblioggrafia
+=============
+
+
+@book{ego,
+	author = {Holiday, Ryan},
+	booktitle = {Ego is the enemy},
+	homepublished = {\url{https://www.amazon.es/El-Ego-Es-Enemigo/dp/6077473944?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=6077473944}},
+	keywords = {ego},
+	publisher = {Paid{\'o}s},
+	title = {El EGO es el enemigo},
+	year = {2017}
+}
+
+@book{why,
+	author = {Sinek, Simon},
+	publisher = {Empresa Activa},
+	title = {Empieza por el POR QU{\'E}},
+	year = {2018}
+}
+
+@book{de2014principito,
+	  title={El Principito: Le Petit Prince},
+	    author={de Saint-Exup{\'e}ry, Antoine},
+	      year={2014},
+	        publisher={Editorial Verbum}
+}
+

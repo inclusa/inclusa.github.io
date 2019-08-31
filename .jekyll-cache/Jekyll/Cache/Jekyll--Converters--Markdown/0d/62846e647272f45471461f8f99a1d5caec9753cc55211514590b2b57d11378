@@ -1,0 +1,135 @@
+I"�-<p>La gema de Ruby <code class="highlighter-rouge">drhenry</code> és una d’aquestes utilitats que si utilitzes <strong>Jekyll</strong> sovint no has de desconèixer, ja que automatitza l’escriptura de posts.</p>
+
+<p>Tenim accés al codi de la gema al GitHub de <a href="https://github.com/JuanjoSalvador/drhenry">JuanjoSalvador</a>, el seu autor.</p>
+
+<p>Podem instal·lar aquesta gema així:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="n">install</span> <span class="n">drhenry</span>
+</code></pre></div></div>
+
+<p>Depenent de la nostra instal·lació la podrem trobar en un lloc. Si instal·lem <a href="https://rvm.io/">RVM</a>, la trobarem ací:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/home/user/.rvm/gems/ruby-2.4.0/gems/drhenry-0.4.0/
+</code></pre></div></div>
+
+<p>En cas d’utilitzar <code class="highlighter-rouge">ruby</code> amb el paquet compilat per <strong>Ubuntu 18.04</strong>, el trobarem ací:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/var/lib/gems/2.5.0/gems/drhenry-0.4.0/
+</code></pre></div></div>
+
+<p>A aquest directori trobarem altres dos directoris: <code class="highlighter-rouge">bin</code> i <code class="highlighter-rouge">lib</code>.</p>
+
+<p>Dins del directori <code class="highlighter-rouge">bin</code> tenim l’arxiu <code class="highlighter-rouge">drhenry</code> amb aquest contingut:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">#!/usr/bin/env ruby</span>
+
+<span class="nb">require</span> <span class="s1">'drhenrypost'</span>
+
+  <span class="n">post</span> <span class="o">=</span> <span class="no">DrHenryPost</span><span class="p">.</span><span class="nf">new</span>
+
+	<span class="nb">name</span>  <span class="o">=</span> <span class="n">post</span><span class="p">.</span><span class="nf">name</span>
+	<span class="n">date</span>  <span class="o">=</span> <span class="n">post</span><span class="p">.</span><span class="nf">date</span>
+	<span class="n">title</span> <span class="o">=</span> <span class="n">post</span><span class="p">.</span><span class="nf">title</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+
+  	<span class="n">post</span><span class="p">.</span><span class="nf">create</span><span class="p">(</span><span class="n">date</span><span class="p">,</span> <span class="nb">name</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Al directori <code class="highlighter-rouge">lib</code> trobarem aquest contingut, el qual he modificat adaptant-lo a les meues necessitats:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">DrHenryPost</span>
+
+  <span class="c1"># Gets today's date</span>
+  <span class="k">def</span> <span class="nf">date</span>
+    <span class="n">time</span> <span class="o">=</span> <span class="no">Time</span><span class="p">.</span><span class="nf">new</span>
+    <span class="n">date</span> <span class="o">=</span> <span class="n">time</span><span class="p">.</span><span class="nf">strftime</span><span class="p">(</span><span class="s2">"%Y-%m-%d"</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">date</span><span class="p">.</span><span class="nf">to_s</span>
+  <span class="k">end</span>
+
+  <span class="c1"># Sets post filename</span>
+  <span class="k">def</span> <span class="nf">name</span>
+    <span class="n">string</span> <span class="o">=</span> <span class="p">[]</span>
+
+    <span class="k">if</span> <span class="no">ARGV</span><span class="p">.</span><span class="nf">empty?</span>
+      <span class="nb">puts</span> <span class="s2">"You have not provided a title for the post. Please introduce a title."</span>
+      <span class="nb">print</span> <span class="s2">"&gt; "</span>
+      <span class="no">STDOUT</span><span class="p">.</span><span class="nf">flush</span>
+      <span class="n">joinName</span> <span class="o">=</span> <span class="nb">gets</span><span class="p">.</span><span class="nf">chomp</span>
+	<span class="n">nameArray</span> <span class="o">=</span> <span class="n">joinName</span><span class="p">.</span><span class="nf">split</span><span class="p">(</span><span class="s1">' '</span><span class="p">)</span>
+	  <span class="n">nameArray</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">s</span><span class="o">|</span>
+	    <span class="n">string</span><span class="p">.</span><span class="nf">push</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+	  <span class="k">end</span>
+    <span class="k">else</span>
+      <span class="no">ARGV</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">a</span><span class="o">|</span>
+        <span class="n">string</span><span class="p">.</span><span class="nf">push</span><span class="p">(</span><span class="n">a</span><span class="p">)</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+
+    <span class="n">joinName</span> <span class="o">=</span> <span class="n">string</span><span class="p">.</span><span class="nf">join</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">joinName</span>
+  <span class="k">end</span>
+
+  <span class="c1"># Sets post title (into the file)</span>
+  <span class="k">def</span> <span class="nf">title</span><span class="p">(</span><span class="n">postName</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">postName</span><span class="p">.</span><span class="nf">tr</span><span class="p">(</span><span class="s1">'-'</span><span class="p">,</span> <span class="s1">' '</span><span class="p">)</span>
+  <span class="k">end</span>
+
+  <span class="c1"># Creates the file</span>
+  <span class="k">def</span> <span class="nf">create</span><span class="p">(</span><span class="n">date</span><span class="p">,</span> <span class="n">filename</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
+    <span class="n">output</span> <span class="o">=</span> <span class="no">File</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="s2">"</span><span class="si">#{</span><span class="n">date</span><span class="si">}</span><span class="s2">-</span><span class="si">#{</span><span class="n">filename</span><span class="si">}</span><span class="s2">.md"</span><span class="p">,</span> <span class="s2">"w"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"---"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"layout: post #"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"title: "</span> <span class="o">+</span> <span class="s2">"</span><span class="si">#{</span><span class="n">title</span><span class="si">}</span><span class="s2">"</span> <span class="o">+</span> <span class="s2">" # Generat automàticament"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"date: "</span> <span class="o">+</span> <span class="s2">"</span><span class="si">#{</span><span class="n">date</span><span class="si">}</span><span class="s2">"</span> <span class="o">+</span> <span class="s2">" # Data"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"description: "</span> <span class="o">+</span> <span class="s2">" # Argument"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"keywords: "</span> <span class="o">+</span> <span class="s2">" # Paraules clau"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"coments: "</span> <span class="o">+</span>  <span class="s2">" # Comentaris"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">puts</span><span class="p">(</span><span class="s2">"---"</span><span class="p">)</span>
+    <span class="n">output</span><span class="p">.</span><span class="nf">close</span>
+  <span class="k">end</span>
+
+<span class="k">end</span>
+</code></pre></div></div>
+
+<p>Així, en escriure un nou post seguisc aquesta rutina:</p>
+
+<ol>
+  <li>Primer en situen en el directori <code class="highlighter-rouge">cd _post</code></li>
+  <li>Escric el nom de l’arxiu: <code class="highlighter-rouge">drhenry 49 Ruby gem: drhenry</code></li>
+  <li>Edite l’arxiu <code class="highlighter-rouge">vim 49</code> i polse el tabulador, el qual em torna aquest a línia: <code class="highlighter-rouge">2018-08-16-49-Ruby-gems:-drhenry.md</code></li>
+  <li>En obrir l’arxiu em trobe amb aquest contingut:</li>
+</ol>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">---</span>
+<span class="ss">layout: </span><span class="n">post</span> <span class="c1">#</span>
+<span class="ss">title: </span><span class="mi">49</span> <span class="no">Ruby</span> <span class="ss">gems: </span><span class="n">drhenry</span> <span class="c1"># Generat automàticament</span>
+<span class="ss">date: </span><span class="mi">2018</span><span class="o">-</span><span class="mi">08</span><span class="o">-</span><span class="mi">16</span> <span class="c1"># Data</span>
+<span class="ss">description:  </span><span class="c1"># Argument</span>
+<span class="ss">keywords:  </span><span class="c1"># Paraules clau</span>
+<span class="ss">coments:  </span><span class="c1"># Comentaris</span>
+<span class="o">---</span>
+</code></pre></div></div>
+
+<p>Sols queda editar els camps que vullguem i guardar.</p>
+
+<h3 id="clonant-la-configuració">Clonant la configuració</h3>
+
+<p>Podem clonar la configuració des d’ací:</p>
+
+<p><a href="https://github.com/inclusa/drhenry">Repositori</a></p>
+
+<p>El cas és que la configuració adaptada que utilitze roman al directori ``</p>
+
+<p>Podem baixar l’arxiu de configuració al directori <code class="highlighter-rouge">/var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/</code> així:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>wget https://raw.githubusercontent.com/inclusa/drhenry/master/versions/inclusa/lib/drhenrypost.rb <span class="nt">-O</span> /var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/
+</code></pre></div></div>
+
+<h3 id="mac-os-x">Mac OS X</h3>
+
+<p>El directori on es guarden les gemes per editar-les, segons versió, a Mac OS X és aquest:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> /Library/Ruby/Gems/2.3.0/gems/
+</code></pre></div></div>
+
+<p>Fem notar que la ruta està referida a la versió <code class="highlighter-rouge">2.3.0</code> de les gemes de Ruby.</p>
+:ET
