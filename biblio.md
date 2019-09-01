@@ -2,7 +2,7 @@
 layout: page
 title: biblio
 description: Bibliografia
-permalink: biblio
+permalink: biblio/
 ---
 
 <br />
