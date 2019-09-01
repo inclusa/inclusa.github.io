@@ -1,0 +1,101 @@
+---
+---
+Biblioggrafia
+=============
+
+
+@book{ego,
+	author = {Holiday, Ryan},
+	booktitle = {Ego is the enemy},
+	homepublished = {\url{https://www.amazon.es/El-Ego-Es-Enemigo/dp/6077473944?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=6077473944}},
+	keywords = {ego},
+	publisher = {Paid{\'o}s},
+	title = {El EGO es el enemigo},
+	year = {2017}
+}
+
+@book{why,
+	author = {Sinek, Simon},
+	publisher = {Empresa Activa},
+	title = {Empieza por el POR QU{\'E}},
+	year = {2018}
+}
+
+@book{principito,
+	author = {Saint-Exup{\'e}ry, Antoine de},
+	publisher = {Editorial Verbum},
+	title = {El Principito: Le Petit Prince},
+	year = {2014}
+}
+
+@book{carroll2018metodo,
+	author = {Carroll, Ryder},
+	publisher = {Editora Schwarcz-Companhia das Letras},
+	title = {O m{\'e}todo Bullet Journal: Registre o passado, organize o presente, planeje o futuro},
+	year = {2018}
+}
+
+@book{sun2012arte,
+	author = {Sun, Tzu and others},
+	publisher = {Bubok},
+	title = {El arte de la guerra},
+	year = {2012}
+}
+
+@book{hill2012piense,
+	author = {Hill, Napoleon},
+	publisher = {Penguin},
+	title = {Piense y h{\'a}gase rico},
+	year = {2012}
+}
+
+@book{wooden1997wooden,
+	author = {Wooden, John and Jamison, Steve},
+	publisher = {Contemporary Books Chicago, IL},
+	title = {Wooden: A lifetime of observations and reflections on and off the court},
+	year = {1997}
+}
+
+@book{holiday2014obstacle,
+	author = {Holiday, Ryan},
+	publisher = {Penguin},
+	title = {The obstacle is the way: The timeless art of turning trials into triumph},
+	year = {2014}
+}
+
+@book{bolivar2015productividad,
+	author = {Bolivar, Jos{\'e} Miguel},
+	publisher = {Conecta},
+	title = {Productividad personal: Aprende a liberarte del estr{\'e}s con GTD},
+	year = {2015}
+}
+
+@book{dweck2017mindset,
+	author = {Dweck, Carol},
+	publisher = {EDITORIAL SIRIO SA},
+	title = {Mindset: la actitud del {\'e}xito},
+	year = {2017}
+}
+
+@book{de1988seis,
+	author = {Bono, Edward De and Di{\'e}guez, Remedios Di{\'e}guez},
+	publisher = {Granica},
+	title = {Seis sombreros para pensar},
+	year = {1988}
+}
+
+@article{allen2011haz,
+	author = {Allen, David},
+	journal = {Alienta Editorial},
+	title = {Haz que funcione},
+	year = {2011}
+}
+
+@book{richard2014manual,
+	author = {Richard, Rich Richie},
+	publisher = {Universidad De Millonarios},
+	title = {Manual Del Idiota Millonario: Tips Financieros y Empresariales Concretos y Sin Rodeos Resumido en Im{\'a}genes de los Mejores Autores del Mundo},
+	volume = {1},
+	year = {2014}
+}
+
