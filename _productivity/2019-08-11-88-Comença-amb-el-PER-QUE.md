@@ -529,6 +529,68 @@ Per a que això funcione es necessita **confiança**.
 
 És possible tenir la capacitat per a crear un punt d'inflexió sense generar un canvi durader.
 
-La clau no és difundir un missatge per tal que la gent es veja obligada a fer-ho, sinó que la gent **desitge** fer-ho.
+La clau no és difundir un missatge per tal que la gent es veja obligada a fer-ho, sinó que la gent **desitge fer-ho.
 
+
+##### Crear un megáfono que funcione #####
+
+Un líder amb una causa ha de tenir un megàfon atraves del qual difondre el seu missatge. La claredat de la finalita, la causa o la creència és important, però igual d'important és que et senten.
+
+##### Dis-ho sols si ho creus #####
+
+Les grans esmpreses no sols generen ganàncies sino que lideren persones, canvien el curs de la indústria i, de vegades, el de les nostres vides.
+
+Les empreses d'èxit com Apple no funcionen com societats mercantils sino com movimients socials.
+
+##### Repetició de la grandesa #####
+
+El PER QUÈ no canvia mai.
+
+##### Tots els moviments són personals #####
+
+La funció del líder consisteix en motiva, en posar en marxa el moviment.
+
+#### 9. Coneix el PER QUÈ. I després, QUÈ? ####
+
+El PER QUÈ no el canvies mai. El QUÈ fas que canvie amb el temps, però no el PER QUÈ.
+
+Apple sempre conta el PER QUÈ en la seua publicitat.
+
+##### Parla amb claredat i seràs comprés amb claredat #####
+
+Si els consumidors compren el PER QUÈ i, aquest no està clar, llavors la capacitat per a motivar es veu clarament danyada.
+
+El CEO d'una empresa ha d'estar enfocat en l'interior de l'empresa, ha de preocupar-se perquè la gent que ha de desenvolupar el producte entenga el PER QUÈ per tal de desenvolupar el COM.
+
+Els empleats de la empresa són els responsables de desenvolupar el COM, la dificultat estriba en comunicar aquest COM amb claredat.
+
+La part del servei que controla els sentiments i la que controla el llenguatge no són les mateixes.
+
+### Cinquena Part: El major repte és l'èxit ###
+
+#### 11. Quan el PER QUÈ es torna confús ####
+
+##### Goliat es va acobardir #####
+
+Si no es transmet el PER QUÈ tot deixa de tenir sentit i perd empenta.
+
+##### Tenir èxit en contraposició de sentir l'èxit #####
+
+El QUÈ ha d'estar connectat amb el PER QUÈ.
+
+##### L'assoliment en contraposició a l'èxit #####
+
+L'**assoliment** és una cosa que acompleixes com a objectiu, és tangible, clarament definit i avaluable.
+
+L'**èxit** és un sentiment, un estat del ser.
+
+L'**assoliment** arriba quan persegueixes i assoleixes el QUÈ.
+
+L'**èxit** es produex quan tens clara la cerca del PER QUÈ.
+
+L'**assoliment** primer està motivat per factors externs, mentre que l'**èxit** està motivat per una cosa més profunda en el cervell, que està desconnectat del llenguatge.
+
+Per avançar cal que el PER QUÈ i el QUÈ estiguen en la mateixa sintonia.
+
+#### 12. L'esquerda ocorre ####
 
