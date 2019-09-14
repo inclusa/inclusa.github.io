@@ -84,7 +84,7 @@ Biblioggrafia
 	year = {1988}
 }
 
-@article{allen2011haz,
+@book{allen2011haz,
 	author = {Allen, David},
 	journal = {Alienta Editorial},
 	title = {Haz que funcione},
@@ -92,9 +92,65 @@ Biblioggrafia
 }
 
 @book{tracy200321,
-	author = {Tracy, Brian and tomada del Sitio Web, Rese{\~n}a and del {\'E}xito, Taller},
+	author = {Tracy, Brian},
 	publisher = {Taller del {\'E}xito, Incorporated},
 	title = {Las 21 leyes absolutamente inquebrantables del dinero},
 	year = {2003}
+}
+
+@book{Adams,
+	author = {Adams, Scott},
+	isbn = {8496627896},
+	title = {C{\'o}mo fracasar en todo y a{\'u}n as\'{\i} triunfar},
+	year = {2014}
+}
+
+@book{sinek2016lideres,
+	author = {Sinek, Simon},
+	journal = {Barcelona: Empresa activa},
+	title = {Los L\'{\i}deres comen al final},
+	year = {2016}
+}
+
+@book{tracy2004metas,
+	author = {Tracy, Brian},
+	journal = {Espa{\~n}a, Editorial Empresa Activa},
+	title = {Metas},
+	year = {2004}
+}
+
+@book{cialdini1990influencia,
+	author = {Cialdini, Robert B},
+	journal = {Barcelona, Universidad de Barcelona},
+	title = {Influencia: ciencia y pr{\'a}ctica},
+	year = {1990}
+}
+
+@book{kawasaki2011arte,
+	author = {Kawasaki, Guy},
+	publisher = {Grupo Planeta Spain},
+	title = {El arte de cautivar: c{\'o}mo se cambian los corazones, las mentes y las acciones},
+	year = {2011}
+}
+
+@book{hill2012leyes,
+	author = {Hill, Napoleon},
+	publisher = {Obelisco},
+	title = {Las leyes del {\'e}xito: en diecis{\'e}is lecciones},
+	year = {2012}
+}
+
+@book{renvoise2007neuromarketing,
+	author = {Renvois{\'e}, Patrick and Morin, Christophe},
+	publisher = {HarperCollins Leadership},
+	title = {Neuromarketing: Understanding the buy buttons in your customer's brain},
+	year = {2007}
+}
+
+@book{brown2010brene,
+	author = {Brown, Bren{\'e}},
+	publisher = {TED},
+	title = {Bren{\'e} Brown: The power of vulnerability},
+	year = {2010}
 }
 

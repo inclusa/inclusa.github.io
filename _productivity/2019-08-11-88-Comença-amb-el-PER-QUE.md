@@ -423,7 +423,7 @@ El **sentiment de confiança** s'allotja directament en el mateix lloc que el PE
 
 Les opinions dels demés importen. I les que més, les d'aquells amb els quals confiem.
 
-### 7. Com desnivella un punt d'inflexió ###
+#### 7. Com desnivella un punt d'inflexió ####
 
 **Lei de la Difusió de les Innovacions**.
 
@@ -459,6 +459,76 @@ Eixe **15-18%** no està composada sols per persones que simplement estan dispos
 
 No volem sols influents, sinó algú que crega amb el que creus tu. Sols llavors parlaran de tu sense necessitat de cap indicació o incentiu.
 
-Tot acte d'incentivar a un influent és **manipulació**, i desacredita automàticament a l'influent davant el seu grup. No passarà molt de temps abans que el grup esbrine que una recomendació no va ser feta pensant en el que més convenia al grup, sinó, més bé per l'interés personal d'un individu. I, en conseqǘència la confiança es devalua i el valor de l'influent es torna inservible.
+Tot acte d'incentivar a un influent és **manipulació, i desacredita automàticament a l'influent davant el seu grup. No passarà molt de temps abans que el grup esbrine que una recomendació no va ser feta pensant en el que més convenia al grup, sinó, més bé per l'interés personal d'un individu. I, en conseqǘència la confiança es devalua i el valor de l'influent es torna inservible.
+
+
+### Quarta Part: Com aunar als que creuen ###
+
+#### 8. Comença pel PER QUÈ, però entén COM ####
+
+##### L'energia estimula. El carisma motiva #####
+
+**Steave Ballmer** demostra que la **energia** pot estimular la multitut, però pot motivar un poble?
+
+**Bill Gates** no infon ànim, però motiva. Els que l'escolten recorden les seues paraules durant molt de temps.
+
+> L'energia entusisma, el carisma motiva.
+
+La **energia** és fàcil de mesurar, però el **carisma** no es pot mesurar.
+
+El que ens motiva de Bill Gates no és la seua passió. El seu **optimisme** és el que ens atrau.
+
+No va ser **QUÈ** feien les computadores sinó **PER QUÈ** les necessitàvem.
+
+> El CARISMA no té que veure amb l'energia sinó que deriva de la CLAREDAT del PER QUÈ.
+
+L'**energia** pot *entusiasmar*, el **carisma** *motiva**.
+
+> El CARISMA es fa acreedor de la LLEIALTAT, la ENERGIA no.
+
+##### El camí elegit #####
+
+**Neil Amstrong** es va criar amb una considerable ració d'històries dels **germans Wright**, vivia a uns centenars de kilòmetres d'ells.
+
+No és el **QUÈ** fa la gent els que els trau del llit, sinó el *PER QUÈ*.
+
+Amb independència del **QUE** és el que fem a les nostres vides, el nostre **PER QUÈ**, la nostra finalitat, causa o creència motriu, **no canvia durant tota la vida**.
+
+Però la motivació és sols el principi del procés, es necessiten més coses per assolir l'èxit.
+
+##### Ampliar la font de motivació #####
+
+- PER QUÈ: El cap de l'empresa
+- COM: Directius motivats per la visió del seu cap de feina i implementen mesures
+- QUÈ: Resultat de les mesure preses
+
+Si en l'empresa no hi ha persones motivades que facen realitat eixa visió, que creen una infraestructura amb sistemes i processos, esdevé el fracàs.
+
+##### Tinc un somni i ell té un pla #####
+
+El Dr. King tenia un somni, Ralph Abernathy sabia el que seria necessari per fer realitat aqust pla. Va ajudar a la gent a comprendre les mesures concretes que havien de prendre.
+
+> El líder imagina el destí i altres s'encarreguen de trobar el camí per arribar allí.
+
+La **visió** i el **carisma**, la claredat del per què, basten per atrare als innovadors i als adoptadors inicial.
+
+##### Aquells que saben PER QUÈ necessiten a aquells que saben COM #####
+
+Els **pesimistes** solen tenir raó, encara que són els **optimistes** els que canvien el món.
+
+El PER QUÈ té la capacitat de canviar la indústria (Bill Gates, Germans Wight), sempre i quan sàpiguen COM.
+
+Exemple: Steave Jobs, PER QUÈ, Steave Wozniak, COM. Bill Gates i Paul Allen.
+
+- **PER QUÈ**: declara la **idea**.
+- **COM**: declara la **missió**.
+
+Per a que això funcione es necessita **confiança**.
+
+##### Dirigir o liderar #####
+
+És possible tenir la capacitat per a crear un punt d'inflexió sense generar un canvi durader.
+
+La clau no és difundir un missatge per tal que la gent es veja obligada a fer-ho, sinó que la gent **desitge** fer-ho.
 
 
