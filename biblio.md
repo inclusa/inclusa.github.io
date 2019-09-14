@@ -5,11 +5,9 @@ description: Bibliografia
 permalink: /biblio/
 ---
 
-<br />
 
 Bibliografia del Blog
 ------------------------
-<br />
 
 {% bibliography %}
 
