@@ -594,3 +594,25 @@ Per avançar cal que el PER QUÈ i el QUÈ estiguen en la mateixa sintonia.
 
 #### 12. L'esquerda ocorre ####
 
+El fracàs de tantes xicotetes empreses es deu a que la passió per sí sola no és prou. Per que la passió sobrevisca és necessari una estructura. Un PER QUÈ, sense els COM, una passió sense estructura, té moltes possibilitats de fracasar.
+
+Cal no centrar-se en el QUÈ. Si el PER QUÈ es torna confús i ens centrem en el QUÈ és probable que fracassem. Es produeix una esquerda.
+
+Línies:
+
+1. Els QUÈ són tangibles i fàcils de quantificar.
+2. El PER QUÈ, la claredat de la finalitat ha d'estar sempre present.
+
+El volum del megàfon es centra en el QUÈ, però la capacitat de motivar està en el PER QUÈ.
+
+En el moment en el qual la claredat comença a fer-se confusa es produeix una esquerda.
+
+El valor és una sensació, un sentiment, no un càlcul, no té a veure amb els diners.
+
+Les bones successions mantenen viu el PER QUÈ.
+
+En l'època d'Sculley Apple va ignorar el PER QUÈ.
+
+No superava la **Prova de l'Api**.
+
+226
