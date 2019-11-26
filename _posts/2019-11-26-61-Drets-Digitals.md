@@ -19,7 +19,7 @@ coments:  # Comentaris
 - Article 86. Dret a l'actualització d'informacions en mitjans de comunicació digitals.
 - Article 87. Dret a la intimitat i ús de dispositius digitals en l'àmbit laboral.
 - Article 88. Dret a la desconnexió digital en l'àmbit laboral.
-- Article 89. Dret a la intimitat davant de l'us de dispositius de videovigilància i de gravació de sons al lloc de treball.
+- Article 89. Dret a la intimitat davant de l'ús de dispositius de videovigilància i de gravació de sons al lloc de treball.
 - Article 90. Dret a la intimitat davant de la utilització de sistemes de geolocalització en l'àmbit laboral.
 - Article 91. Drets digitals de negociació col·lectiva.
 - Article 92. Protecció de dades dels menors a internet.
@@ -27,6 +27,6 @@ coments:  # Comentaris
 - Article 94. Dret a l'oblit de xarxes socials i serveis equivalents.
 - Article 95. Dret de portabilitat de xarxes socials i serveis equivalents.
 - Article 96. Dret al testament digital.
-- Article 97. Polítiques d'impuls desl drets digitals.
+- Article 97. Polítiques d'impuls dels drets digitals.
 
 -- [Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals](https://www.boe.es/eli/es/lo/2018/12/05/3)
