@@ -615,4 +615,44 @@ En l'època d'Sculley Apple va ignorar el PER QUÈ.
 
 No superava la **Prova de l'Api**.
 
-226
+Els diners són una prova legítima de quantificar el mercat de les vendes o serveis prestats, però no és un càlcul del valor. El fet de que una persona no guanye molt diners no implica necessàriament que el valor aportat siga xicotet.
+
+El **valor** és un **sentiment**, no una quantificació. Eś una **sensació**.
+
+Si els que estan fora del megàfon comparteixen el **PER QUÈ**, i eres capaç de transmetre amb claredat eixa creència en tot el que dius i fas, la confiança sorgeix i el valor es percebut. Els compradors leials sempre racionalitzaran el major preu que paguen o els inconvenients que apareixen per obtenir eixa sensació.
+
+El sentiment que obtenen procedeix exclussivament de l'interior.
+
+Les bones successions mantenen viu el PER QUÈ.
+
+L'èxit de la successió està en trobar algú que mantinga viu el PER QUÈ de l'empresa.
+
+Quan el per què desaparega, l'únic que et quedarà serà el QUÈ.
+
+### Sisena Part: Descobrir el PER QUÈ ###
+
+#### 12. Els origens d'un PER QUÈ ####
+
+El **per què** prové de mirar enrere.
+
+Descobrir el **per què** és un procés d'**exploració***, no d'invenció.
+
+Cal motivar a les persones per tal que facen les coses que els motiven.
+
+Tres conceptes clau:
+
+1. Cercle Daurat
+2. Ley de la Difusió
+3. Prova de l'Api
+
+#### 14. La nova competència ####
+
+Si segueixes el teu **PER QUÈ**, llavors els demés et seguiran a tu.
+
+> Quan competeixes contra tots els demés ningú pot ajudar-te, però quan competeixes contra tu mateix tots volen fer-ho.
+
+Quan comences una carrera pensant *el meu objectiu no és guanyar a ningú sinó superar-me*, el sentit del **PER QUÈ** proporciona la força per seguir avant, per seguir insistint.
+
+Totes les organitzacions comencen per un **PER QUÈ**, però soles les grans mantenen la claredat del seu **PER QUÈ**. Les que obliden el **PER QUÈ** varen ser fundades participen en la carrera, tots els dies, per què han perdut la visió de superar-se a sí mateixa, el seu objectiu és derrotar l'altre.
+
+El nostre objectiu és trobar clients que creguen el mateix que nosaltres i treballar junts perquè, junts, tots podem tenir èxit.
