@@ -7,21 +7,21 @@ keywords: Snowden # Paraules clau
 coments:  # Comentaris
 ---
 
-Dir que tant se te'n dóna 
-la privacitat per què 
-no tens res a amagar 
-no és diferent de dir 
-que tant se te'n dóna 
-la llibertat d'expressió 
-per què no tens res a dir. 
+Dir que tant se te'n dóna <br /> 
+la privacitat per què <br />
+no tens res a amagar <br />
+no és diferent de dir <br />
+que tant se te'n dóna <br />
+la llibertat d'expressió <br />
+per què no tens res a dir. <br />
 
 [...] 
 
-Només perquè una llibertat 
-concreta no signifique 
-res per a tu hui 
-no vol dir que no 
-puga arribar a significar 
-alguna cosa demà. 
+Només perquè una llibertat <br />
+concreta no signifique <br />
+res per a tu hui <br />
+no vol dir que no <br />
+puga arribar a significar <br /> 
+alguna cosa demà. <br />
 
 <small>Edward Snowden</small> 
