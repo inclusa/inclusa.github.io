@@ -12,7 +12,6 @@ coments:  # Comentaris
 **Subtítol**: Por qué ser compoetente importa más que la pasion para alcanzar el trabajo de tus sueños
 **Editorial***: Asertos
 **Any***: 2017
-```
 
 ### Introducció. La passió del monge
 
