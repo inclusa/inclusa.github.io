@@ -69,11 +69,11 @@ Si Jobs hagués seguit la seua passió, el més provable és que fora un dels me
 
 Sinopsi: Mentre més exemples es busquen de la hipòtesi de la passió, més es descobreix com és d'infreqüent.
 
-> Les carreres professionals interessants tenen, moltes vegades, origens complexes, que contradiuen la idea simple de que l'únic que hi ha que fer és el que ens apassiona.
+> Les carreres professionals interessants tenen, moltes vegades, orígens complexes, que contradiuen la idea simple de que l'únic que hi ha que fer és el que ens apassiona.
 
 #### Ciència de la passió
 
-Amu Wrzesniewski, professora de conducta organizatcional de la Universitat de Yale, ha dedicat la seua trajectòria professional a investigar el que pensa la gent del seu treball. Conclusions:
+Amy Wrzesniewski, professora de conducta organitzacional de la Universitat de Yale, ha dedicat la seua trajectòria professional a investigar el que pensa la gent del seu treball. Conclusions:
 
 **1. Les carreres vocacionals són infreqüents**
 
