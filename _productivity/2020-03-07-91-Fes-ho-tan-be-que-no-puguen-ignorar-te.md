@@ -23,7 +23,7 @@ Un **koan**, en la tradició zen, és una endevinalla, exposat, de vegades com u
 
 Exemple de **koan**: `Mostram un arbre inamovible front a un vent impetuós`.
 
-```txt
+```
 Un peregrí va preguntar al mestre Zhaozshou:
 Té un gos la naturalesa de Buda?
 Zhaozhou va respondre:
@@ -32,8 +32,9 @@ Mu
 
 En xinés `mu` vol dir més o menys `no`. Zhaozhou no estava responent a la pregunta sinó que li la estava tornant.
 
-```txt
-Un dia, passejant pel bosc, em vaig sentir ausent durant un moment. Habia estat observant les fulles, i el meu 'jo' havia desaparegut. Vaig caure en el compte de que això és el 'koan'```.
+```
+Un dia, passejant pel bosc, em vaig sentir ausent durant un moment. Habia estat observant les fulles, i el meu 'jo' havia desaparegut. Vaig caure en el compte de que això és el 'koan'.
+```
 
 El que oferia la vida com un monge zen era *una contemplació més elaborada d'una intuïció fonamental**.
 
