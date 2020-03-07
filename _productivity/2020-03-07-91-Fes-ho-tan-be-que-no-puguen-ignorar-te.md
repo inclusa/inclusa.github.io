@@ -13,7 +13,7 @@ Titol: Hazlo tan bien que no puedan ignorarte
 Subtítol: Por qué ser compoetente importa más que la pasion para alcanzar el trabajo de tus sueños
 Editorial: Asertos
 Any: 2017
-``
+```
 
 ### Introducció. La passió del monge
 
@@ -55,7 +55,42 @@ Cita d'Steave Martin:
 
 ### REGLA 1: No seguisquen els teus somnis
 
-### Capítol 1: La passió d'Steave Jobs
+### Capítol 1. La passió d'Steave Jobs
 
 Sinopsi: Es qüestiona la idea de que la passió siga la clau de la felicitat
 
+Hipòtesi de la passió
+
+> La clau per a la fecilitat enel treball es descobrir primer què és el que t'apassiona, i després tro ar unt reball que concorde amb aquesta passió.
+
+Potser **seguit la teua passió és un pèssim consell.
+
+Si Jobs hagués seguit la seua passió, el més provable és que fora un dels mestres més coneguts del centre zen de Los Altos.
+
+### Capítol 2. La passió és infreqüent
+
+Sinopsi: Mentre més exemples es busquen de la hipòtesi de la passió, més es descobreix com és d'infreqüent.
+
+> Les carreres professionals interessants tenen, moltes vegades, origens complexes, que contradiuen la idea simple de que l'únic que hi ha que fer és el que ens apassiona.
+
+#### Ciència de la passió
+
+Amu Wrzesniewski, professora de conducta organizatcional de la Universitat de Yale, ha dedicat la seua trajectòria professional a investigar el que pensa la gent del seu treball. Conclusions:
+
+**1. Les carreres vocacionals són infreqüents**
+
+**2. La passió porta temps***
+
+  - **Treball**: Activitat que dóna diners a canvi d'una acció.
+  - **Carrera**: Trajectòria cap a treballs cada vegada millors.
+  - **Vocació**: Treball que forma part de la vida.
+  
+  > Els empleats més feliços i apassionats no són els que varen perseguir els seus somnis fins que aquests els varen conduir a un treball, sinó aquells que havien dedicat suficient temps per a aconseguir ser molt competents en el que feien.
+  
+**3. La passió és un efecte secundari de l'habilitat** 
+
+Daniel Pink en el seu llibre *Drive* formula la Teoria de l'Autodeterminació. (TAD) per la qual uns objectius ens fan movilitzar-nos i altres ens deixen indiferents. La Teoria de l'Autodeterminació precisa que es satisfagen tres necessitats psicològiques; són factors nutrients indispensables, per a sentir-se intrínsecament motivat en el treball:
+
+- **Autonomia**: Sentiment de control sobre el dia a dia, i de que les accinos tenen importància.
+- **Competència**: Sentiment de ser bo en el que es fa.
+- **Connexió**: Sentiment de connectar amb les persones.
