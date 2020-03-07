@@ -31,7 +31,7 @@ En xinés **mu** vol dir més o menys **no**. Zhaozhou no estava responent a la 
 
 > Un dia, passejant pel bosc, em vaig sentir ausent durant un moment. Habia estat observant les fulles, i el meu 'jo' havia desaparegut. Vaig caure en el compte de que això és el 'koan'.
 
-El que oferia la vida com un monge zen era *una contemplació més elaborada d'una intuïció fonamental**.
+El que oferia la vida com un monge zen era **una contemplació més elaborada d'una intuïció fonamental***.
 
 Complir els sons, convertir-se en un adepte al zen a temps complet no va fer que la seua vida fora meravellosa per art de màgia. El camí de la felicitat és més complicat.
 
@@ -58,7 +58,7 @@ Hipòtesi de la passió
 
 > La clau per a la fecilitat enel treball es descobrir primer què és el que t'apassiona, i després tro ar unt reball que concorde amb aquesta passió.
 
-Potser **seguit la teua passió és un pèssim consell.
+Potser **seguit la teua passió és un pèssim consell**.
 
 Si Jobs hagués seguit la seua passió, el més provable és que fora un dels mestres més coneguts del centre zen de Los Altos.
 
