@@ -51,7 +51,7 @@ Cita d'Steave Martin:
 
 > Sigues tan bo que no puguen ignorar-te.
 
-### REGLA 1: No seguisquen els teus somnis
+> REGLA 1: No seguisquen els teus somnis
 
 ### Capítol 1. La passió d'Steave Jobs
 
