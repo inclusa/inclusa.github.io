@@ -19,7 +19,7 @@ coments:  # Comentaris
 
 Un **koan**, en la tradició zen, és una endevinalla, exposat, de vegades com una historieta o una pregunta, i que tracta de desafiar a les respostes lògiques, forzant a accedir a una compensió més intuïtiva de la realitat.
 
-Exemple de **koan**: `Mostram un arbre inamovible front a un vent impetuós`.
+Exemple de **koan**: *Mostram un arbre inamovible front a un vent impetuós*.
 
 
 > Un peregrí va preguntar al mestre Zhaozshou:
