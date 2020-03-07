@@ -86,6 +86,6 @@ Amy Wrzesniewski, professora de conducta organitzacional de la Universitat de Ya
 
 Daniel Pink en el seu llibre *Drive* formula la Teoria de l'Autodeterminació. (TAD) per la qual uns objectius ens fan movilitzar-nos i altres ens deixen indiferents. La Teoria de l'Autodeterminació precisa que es satisfagen tres necessitats psicològiques; són factors nutrients indispensables, per a sentir-se intrínsecament motivat en el treball:
 
-- **Autonomia**: Sentiment de control sobre el dia a dia, i de que les accinos tenen importància.
+- **Autonomia**: Sentiment de control sobre el dia a dia, i de que les accions tenen importància.
 - **Competència**: Sentiment de ser bo en el que es fa.
 - **Connexió**: Sentiment de connectar amb les persones.
