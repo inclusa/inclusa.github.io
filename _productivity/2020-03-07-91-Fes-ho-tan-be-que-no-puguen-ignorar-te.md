@@ -47,7 +47,7 @@ El llibre desenvolupa la idea de **la importància de les aptituds**.
 
 Cita d'Steave Martin: **Sigues tan bo que no puguen ignorar-te.**
 
-> REGLA 1:
+> REGLA 1
 > No seguisquen els teus somnis
 
 ### Capítol 1. La passió d'Steave Jobs
@@ -88,4 +88,68 @@ Daniel Pink en el seu llibre *Drive* formula la Teoria de l'Autodeterminació. (
 
 - **Autonomia**: Sentiment de control sobre el dia a dia, i de que les accions tenen importància.
 - **Competència**: Sentiment de ser bo en el que es fa.
-- **Connexió**: Sentiment de connectar amb les persones.
+- **Connexió: Sentiment de connectar amb les persones.
+
+### Capítol 3. La passió és perillosa
+
+Sinopsi: Apuntar-se a la hipòtesi de la passió ens fa menys feliços
+
+**La hipòtesi de la passió no sols és falsa. També és perillosa**. Dir-li a algú que perseguisca els seus somnis no sols és un acte d'optimisme innocent, pot ser la base d'una carrera guiada per la confusió i l'angoixa.
+
+> REGLA 2
+> Fes-ho tan bé que no puguen ignorar-te
+> La importància de les pròpies habilitats
+
+### Capítol 4. La claredat de l'artesà
+
+Sinopsi: En aquest capítol es presenten dues formes distinges de pensar sobre el treball: la de l'artesà, centrada en el valor que produeix el nostre treball, i la perspectiva de la pasió, centrada en el valora que el nostre treball ens aportra.
+
+#### La perpectiva de l'artesà
+
+La clau de l'artesà està en la forma d'enfocar el treball del dia a dia.
+
+Steave Martin acunya l'eslogan: **Sigues tan bo que no puguen ignorar-te**.
+
+Steave Martin defén aquest consell: **Si penses en ser realment bo, la gent acabarà acudint a tu**.
+
+> Deixa de centrar-te en coses xicotetes,
+> fes-ho em millorar.
+
+**Quantificar les hores que hi dediquem a problemes o processos importants.**
+
+Per entendre la frase d'Steave Martin cal entendre que la gent viu d'acord amb ella.
+
+> L'arrogància no té sentit.
+> Crear alguna cosa amb sentit
+> i, després, mostrar-se-la al món.
+
+La idea és **si no et centres en fer-ho tan bé que no puguen ignorar-te et quedaràs darrere**.
+
+Independentment del tipus de treball que desenvolupes, la perspectiva de l'artesà és crucial per a assolir el treball somiat.
+
+#### La perspectiva de la passió
+
+Aquesta perspectiva parteix de l'afirmació: **Es progressa centrant-nos en qui eres, connectant-lo amb el treball que et fa somiar**.
+
+Si la perspectiva de l'*artesà* es centra en **què podem aportar al món**, la perspectiva de la *passió* es centra **en el que el món pot aportar a u mateix**.
+
+Dues raons per no centrar-se en la perspectiva de la passió:
+
+1. Quan ens centrem en el que el treball ens aporta ens tornem hipersensibles al que no ens agrada. Creem **insatisfacció crònica**.
+2. Les preguntes íntimes que guien la perspectiva de la passió *Qui sóc?** o *Què vull en el fons?* no es poden respondre. *Què faig a la meua vida?*, genera un **sentiment d'estar perduts**.
+
+La **perspectiva de l'artesà** ens fa eixir de l'EGO. Ens obliga a deixar enrere les preocupacions egoistes sobre si el treball que es té és el 'correcte** i, al mateix temps, insisteix en **preservar, en fer-ho realment bé**.
+
+> Cal estar disposat a repetir
+> una cosa mecànicament durant hores,
+> sense cap reconeixement.
+
+Posem un nom per les *preocupacions pel que fan els demés*, **núvol de distraccions externes**.
+
+Des de la perspectiva de l'artesà importa el que produïsques, les gravacions no menteixen, cal depurar-les.
+
+**La perspectiva de passió ho ralentitza tot**.
+
+> Si s'adopta la perspectiva de l'artesà
+> la passió arribarà després.
+
