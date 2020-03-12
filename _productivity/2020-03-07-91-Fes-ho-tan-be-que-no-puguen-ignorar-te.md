@@ -153,3 +153,47 @@ Des de la perspectiva de l'artesà importa el que produïsques, les gravacions n
 > Si s'adopta la perspectiva de l'artesà
 > la passió arribarà després.
 
+### Capítol 5. El Poder del Capital Laboral
+
+Sinopsi: Si vols tenir un treball genial, hauràs d'adquirir habilitats escasses i valuoses (capital laboral) per oferir-les a canvi.
+
+- **Perspectiva de la passió**: *Què em pot aportar el món*.
+- **Perspectiva de l'artesà**: *Què puc oferir-li al món.
+
+Característiques del treball genial:
+
+- Creativitat
+- Impacte
+- Control
+
+La majoria de llocs de treball no ofereixen aquestes característiques.
+
+Si vols un treball genial, hauràs de donar a canvi un gran valor.
+
+El més important és obligar-te a treballar, forçar les habilitats a emergir.
+
+Convertir-se en un treballador decidit a desenvolupar les seues qualitats fins que foren massa bones per ser ignorades.
+
+**Teoria del Capital Laboral dels grans treballs**
+
+- Les característiques que defineixen un treball genial són **escasses** i **valuoses**.
+- La llei de l'oferta i la demanda ensenya que, si es vol un treball així, caldrà oferir a canvi habilitats escasses i valuoses, ser molt competents en alguna àrea. Aquestes habilitats es poden anomenar **Capital Laboral**.
+- La **perspectiva de l'artesà**, amb el seu *implacable focus en fer-ho tan bé que no puguen ignorar-te**, és una estratègia que s'adapta bé a l'adquisició d'eixe capital laboral. Pot ser això venç la perspectiva de la passió si l'objectiu és assolir el lloc de treball somiat.
+
+L'**objectiu** és adquirir tant capital laboral com siga possible.
+
+El revers de la passió és que elimina el concepte de mèrit.
+
+La **teoria del capital laboral** no sols exigeix valor, sinó també habilitats valuoses.
+
+Segons vas convertint-te en més competent, es van incrementant les seues opcions.
+
+Robert Frost: *Dos camins es bifurcaben en un bosc groc**, i un dels caminants va elegir el camí de l'**habilitat**, metre que l'altre el resplendor de la **passió**. El primer va acabar aclamant per la indústria, controlant el seu treball i passant caps de setmana amb la seua familia en ls boscos. El segon va acabar amb vales de menjar.
+
+> Les característiques d'un treball genial es compren amb capital laboral, so s'adquireixen al trobar un lloc de treball que coincideix amb una passió innata.
+
+Tres circumstàncies que desaconsellen aplicar la perspectiva de l'artesà:
+
+- Que el treball oferisca poques oportunitats de destacar al desenvolupar habilitats rellevants que siguen escases i valuoses i que ens facen competents en una àrea.
+- Es centra en alguna cosa que parega inútil, e inclús activament perjudicial per al món.
+- T'obliga a treballar amb persones que et produïsquen rebuig.
