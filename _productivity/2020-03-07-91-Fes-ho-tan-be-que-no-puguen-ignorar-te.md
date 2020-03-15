@@ -197,3 +197,35 @@ Tres circumstàncies que desaconsellen aplicar la perspectiva de l'artesà:
 - Que el treball oferisca poques oportunitats de destacar al desenvolupar habilitats rellevants que siguen escases i valuoses i que ens facen competents en una àrea.
 - Es centra en alguna cosa que parega inútil, e inclús activament perjudicial per al món.
 - T'obliga a treballar amb persones que et produïsquen rebuig.
+
+### Capítol 6. Capistalistes del treball
+
+Sinopsi: Dos persones que varen saber com sacar partir a la perspectiva de l'artesà per tal de construir-se la trajectòria professional somiada.
+
+Personatges:
+    - Alex Berger, 31 anys, exitós guionista de televisió.
+    - Mike Jacson, 29 anys, inversor en tecnologies netes.
+    
+#### Alex Berger
+
+Un treball atractiu posseix tres qualitats que fan que la gent l'ame:
+    - Impacte
+    - Creativitat
+    - Control
+    
+La clau en aquesta història és **es va col·locar en el centre de l'acció**, en el lloc en el que aprendre com funcionen les coses de veritat.
+
+Es va adonar de que escriure bons guions costa molt.
+
+Es va limitar a entendre el valor i la dificultat de ser bo i de fer les coses molt bé.
+
+#### Mike Jackon
+
+No va arribar al seu lloc de treball perseguint els seus somnis. En lloc d'això va anar **acumulant -de forma elaborada i persistent- capital laboral, confiant  en que les seues valuoses destreces es convertirien en valuoses oportunitats**.
+
+De les moltes destreces adquirides fins aleshores, una d'elles va estar **desenvolupar una comprensió extensa del funcionament del mercat internacional**.
+
+Va adoptar la perspectiva de l'artesà per a dedicar-se a allò que se li donava bé, garantint-se així que de cada experiència extreia tot el capital laboral possible.
+
+Mike **enregistra** tot el que fa al llarg del dia en un full de càlcul, en blocs d'un quart d'hora, **buscant així centrar la seua atenció en el que realment importa**.
+
