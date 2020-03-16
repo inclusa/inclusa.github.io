@@ -229,3 +229,46 @@ Va adoptar la perspectiva de l'artesà per a dedicar-se a allò que se li donava
 
 Mike **enregistra** tot el que fa al llarg del dia en un full de càlcul, en blocs d'un quart d'hora, **buscant així centrar la seua atenció en el que realment importa**.
 
+
+### Capítol 7. Convertir-se en un artesà
+
+Síntesi: S'exposa la pràctica conscient, l'estratègia clau per acumular capital laboral, i la forma d'integrar-la en el treball diari
+
+Jordan Tice és músic.
+
+> La diferència que mostra un músic entre tocar bé, nivell aficionat, a tocar com un professional no és la quantitat d'hores invertides, sinó la mentalitat d'enfocar-se en el progrés. L'assumpció de repetir i repetir una cosa fins dominar-la. La dedicació constant de forçar les destreses. La dedicació de millorar les destreses i rebre una crítica innediata suposa la base d'un principi més universal, és la clau per adquirir amb èxit capital laborar en quasi qualsevol àrea.
+
+#### La regla de les 10.000 hores
+
+> La idea de que l'excel·lència en l'execució de tasques complexes requereix un nivell crític de pràctica mínim emergeix una i altra vegada en els estudis dels experts. De fet, els investigaors han determinat la que creuen que és la xifra màgina per la verdadera maestria: 10.000 hores.
+
+Algunes persones que citen aquesta regla: K Anders Ericsson i Malcolm Gradwell en 2008 amb el seu llibre *Fuera de serie*.
+
+La idea, segons Charness és que **poden elegir-se i adaptar-se deliberadament els exercicis que cal resoldre per tal d'assolir un nivell de dificultat adient. La progressió de la destresa és molt probable que siga mínima. En un estudi més profund la retroalimentació és immediata**. Aquests xicotets passos amb la retroalimentació adient marquen la diferència a llarg termini.
+
+Així, **es centren en les activitats més difícils, elegides minuciosament per fortaleir les destreses que més falta fan, reben la retroalimentació a l'instant.**
+
+Aquest tipus d'estudi, en 1990, Anders Ericsson, colega de Neil Charness en la Universiat Estatal de Florida va acunyar com **entrenament deliberat**, el qual, **a través d'un professor, l'únic objectiu estaria en millorar aspectes determinats de l'activitat d'un individu**.
+
+Quan un expert exhibeix en públic la seua enorme habilitat, la conducta sembla innata, però quan els científics tracten de quantificar aquest suposat talent innat no troben cap conducta excel·lent. El que determina l'excel·lència és l'acumulació de pràctica deliberada, una i altra vegada.
+
+El número d'anys de pràctica no prediu adequadament el nivell que s'alcançarà. **Si te limites a seure i treballar dur, prompte assoliràs un nivell de destresa que no seràs capaç de superar, tota acabem estancats.
+
+> L'entrenament deliberat és la clau per arribar ràpidament a fer-ho tan bé que no pugen ignorar-te.
+
+#### Els cinc hàbits de l'artesà
+
+1. Definir el mercat de capital en el qual estàs
+2. Identificar el tipus de capital
+3. Definir què és bon
+4. Estirar i destruir
+5. Sigues pacient
+
+> Fer allò que coneguem bé es entretingut, però també és exactament oposat al que exigeix l'entrenament deliberat.. L'entrenament deliberat és, sobretot, esforç de concentració i enfoc. Això fa que siga deliberat, una cosa ben distinta a la pràctica descuidada de escales o a les raquetades als que es dedica tot el món.
+
+**L'entrenament deliberat, amb freqüència és el contrari de l'entrenament.**
+
+El concepte fonamental és que cal **estirar**. Una de les claus potser rebre **crítica constant**, *la teua opinió no és la que compta*.
+
+La **pràctica deliberada** és ENFOC + INCOMODITAT + CRÍTICA.
+
