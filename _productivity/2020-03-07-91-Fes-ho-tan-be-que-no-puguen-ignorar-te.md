@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 91 Fes ho tan bé que no puguen ignorar te # Generat automàticament
+title: 91 Fes-ho tan bé que no puguen ignorar te # Generat automàticament
 date: 2020-03-07 # Data
 description:  # Argument
 keywords:  # Paraules clau
@@ -285,7 +285,7 @@ Recopilem...
 - Regla 2. Sigues bo en una cosa escassa i valuosa
 - Regla 3. Manté el control del teu treball
 
-El **control és un tret fonamental per arribar al treball simiat.
+El **control és un tret fonamental per arribar al treball somiat**.
 
 > Cedir el control a la gent sobre el que fa i sobre com ho fa incrementa la satisfacció, el compromís i la realització personal.
 
