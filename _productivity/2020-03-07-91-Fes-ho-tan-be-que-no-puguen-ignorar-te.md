@@ -272,3 +272,39 @@ El concepte fonamental és que cal **estirar**. Una de les claus potser rebre **
 
 La **pràctica deliberada** és ENFOC + INCOMODITAT + CRÍTICA.
 
+> REGLA 3
+> Rebutja un ascens
+
+### Capítol 8. L'elixir del treball somiat
+
+Sinopsi: El control sobre el que es fa i sobretot com es fa és una de les característiques més importants per a arribar al treball somiat
+
+Recopilem...
+
+- Regla 1. Seguir els teus somnis és un mal consell
+- Regla 2. Sigues bo en una cosa escassa i valuosa
+- Regla 3. Manté el control del teu treball
+
+El **control és un tret fonamental per arribar al treball simiat.
+
+> Cedir el control a la gent sobre el que fa i sobre com ho fa incrementa la satisfacció, el compromís i la realització personal.
+
+La **meta** és **amar el que fas**, el primer pas és invertir el teu capital en aquelles característiques que defineixen un treball genial. El **control és un dels valors** més importants pel qual s'ha optar a l'hora de fer aquesta inversió.
+
+### Capítol 9. La primera trampa del control
+
+Sinopsi: És perillós tractar de guanyar més control en el treball abans de disposar de capital per entregar-ho a canvi.
+
+> El control sense capital laborar no és sostenible.
+
+Dos arguments:
+
+1. Primer cal generar **capital laboral** en una cosa escassa i valuosa.
+2. El **control** és **poder**.
+
+Cal seguir l'ordre d'aquests dos passos.
+
+L'**entusiasme** sol **no genera una cosa escassa i valuosa**, no suma massa al capital laboral.
+
+Cal **donar a l'audiència continguts pels quals està disposat a pagar**.
+
