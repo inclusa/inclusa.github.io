@@ -308,3 +308,47 @@ L'**entusiasme** sol **no genera una cosa escassa i valuosa**, no suma massa al 
 
 Cal **donar a l'audiència continguts pels quals està disposat a pagar**.
 
+
+### CApítol 10. La segona trampa del control
+
+Sinopsi: Quan s'ha acumulat suficient capital laboral com per a adquirir més control laboral, hom es torna tan valuós per al seu cap que tractarà de contrarestar l'esforç per guanyar més autonomia.
+
+Lulu Young, programadora informàtica. Persona que ha dedicat molt de temps en pensar en la seua carrera. Això li havia donat un resultat: Lulu ha acabat sent una de les persones més satisfetes i amb més auto-confiança. La base d'eixa satisfacció és el **control**.
+
+Es va assegurar de **disposar capital laboral suficient abans de demanar més control**.
+
+Primera trampa del control: en estar estancat en un treball avorrit és quan resulta temptador deixar-ho tot per seguir el camí de l'inconformisme. Ella va elegir acumular el capital laboral necessari per arribar a un millor lloc.
+
+Les coses van anar així. Lulu va començar hackejar el sistema operatiu UNIX que utilitzava la seua empresa, i va aprendre pel seu compte a automatitzar les proves de qualitat, estalviant temps i diners a la seua companyia. Eixa innovació no va passar desapercebuda, i pocs anys després la varen ascendir a ingeniera de qualitat.
+
+Ella va demanar una reducció de jornada per tal d'estudiar Filosofia. Quan ja era ingeniera *sènior* i dirigia l'automatització dels processos, no podien dir-li que no.
+
+Després de llicenciar-se va deixar l'empresa. Es va emportar els seus coneixements sobre processos a una nova empresa. Tenia un ampli despatx amb tres pantalles, més diners, més poder i més prestigi.
+
+Li varen oferir un lloc d'executiva, però el va rebutjar. Se'n va anar a una altra empresa que li oferia un treball nou, sense un pla detallat. El gerent de l'empresa estava entusiasmat per poder contractar algú tant competent.
+
+Però amb el capital laborar que posseïa va començar a xocar amb les regles dels nous empresaris. Va demanar una excedència i va començar a desenvolupar software pel seu compte.
+
+Poc després va deixar el seu treball començant a desenvolupar software pel seu compte.
+
+El més important va estar que aquell treball autònom li va atorgar gran flexibilitat per treballar com va voler.
+
+El control genera resistències. Lulu va necessitar sang freda per mantenir la seua demanda. El seu entorn no ho va entendre.
+
+Tenia una experiència tan valuosa que els seus caps ho varen intentar tot per mantenir-la abord. No volien ninguna persona externa, perquè no hi havia ningú que pogués fer aquest treball.
+
+Quan més gent veiem que pren el control de la seua carrera més exemples de resistència entre els seus caps, familiars i amics es dóna.
+
+> SEGONA TRAMPA DEL CONTROL
+> En el moment en el que s'adquireix suficient capital laboral com per a disposar d'un control efectiu sobre el teu treball serà això mateix tan valuós que t'hauràs tornat tant valuós pel teu cap que tractarà d'evitar que dónes el pas.
+
+Adquirir major control sobre el treball és una cosa que et beneficia a tu però no al teu cap.
+
+L'errada de la cultura del valor és subestimar greument la complexitat que suposa posar-lo en pràctica d'una forma útil.
+
+Així, resumint, els dos perills a l'hora de trobar el treball somiat serien:
+
+1. No disposar del suficient capital laboral.
+2. En disposar del suficient capital laboral no tingues el coratge de deixar el teu treball per millorar el teu procés.
+
+Els dos escenaris són molt pareguts, però la resposta correcta és diferent.
