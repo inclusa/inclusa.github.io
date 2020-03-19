@@ -352,3 +352,24 @@ Així, resumint, els dos perills a l'hora de trobar el treball somiat serien:
 2. En disposar del suficient capital laboral no tingues el coratge de deixar el teu treball per millorar el teu procés.
 
 Els dos escenaris són molt pareguts, però la resposta correcta és diferent.
+
+### Capítol 11. Evitar les trapes del control
+
+Sinopsi: Llei de l'economia. Sols hauries d'arriscar-te a buscar més control si existeixen proves de que la gent està disposada a pagar-te pel que tens.
+
+> Fes allò pel que la gent estiga disposada a pagar-te.
+
+Els diners són un indicador de valor neutre. Quan tractes de guanyar-lo, estàs intentant ser valuós.
+
+#### Resúmen
+
+Regles
+
+1. REGLA 1. Descartem la **Hitpòtesi de la Pasió**. *Primer esbrina quina és la teua vocació i després troba un treball ajustat a ella.*
+2. REGLA 2. **Teoria del Capital Laboral**. *Les característiques d'un treball genial són escasses i valuoses, per tant, per tal que existeixen en la nostra vida professional, primer han de ser desenvolupades destreses també escases i valuoses, que puguen oferir-se a canvi*.
+3. REGLA 3. **Importància d'obtenir el control sobre el que es fa**. Trampes del control:
+  a. **Primera Trampa**. *És perillós tractar d'obtenir major el control sense tenir suficient capital per sostenir-lo.**
+  b. **Segona trampa**: *Obtenir més control ens fa valuosos per als nostres caps. Obtenir el control és bo per a tu però no per als nostres caps*.
+
+**Llei de la viabilitat econòmica**. *Fes allò pel que la gent estiga disposada a pagar-te*.
+
