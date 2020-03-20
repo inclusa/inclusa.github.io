@@ -373,3 +373,36 @@ Regles
 
 **Llei de la viabilitat econòmica**. *Fes allò pel que la gent estiga disposada a pagar-te*.
 
+> REGLA 4
+> Pensa en xicotet,
+> actua en gran.
+> (O la importància de la missió
+
+### Capítol 12. La vida amb sentit de Pardis Sabeti
+
+Sinopsi: Una missió que unifique la vida professional pot produir una gran satisfacció.
+
+**La felicitat naix del fet de que ha alçat la seua carrera sobre una missió clara i emocionant**, dóna sentit no sols al seu treball sinó també a la seua vida.
+
+**Missió***: aspira a lliurar al món de les seues infermetats més antigues.
+
+Tenir una **missió** és tenir un centre que unifique una trajectòria professional. Respon a la pregunta: Què hem de fer amb la nostra vida?
+
+Tenir una missió és un concepte poderós perquè centra la energia de manera útil, que, al mateix temps maximitza l'impacte que causa la nostra presència en el món, factor crucial per amar el que es fa.
+
+Les persones que perceben que el seu treball importa de veres es mostren més satisfetes amb la seua vida labora i resisteixen millor el seu esforç.
+
+Resum del contingut vist fins ara:
+
+1. **Perseguir els teus somnis** és un mal consell, perquè la majoria de la gent no té una passió preexistent a l'espera de ser descoberta.
+2. Si la teua meta és amar el que fas has d'acumular primer **capital laboral** dominant activitats escasses i valuoses.
+3. Rentabilitzar eixe capital adquirint habilitats que fan genial eixe treball. La missió és una d'eixes qualitats què si no es té en compte les accions acaben apagant-se.
+4. El **capital laboral** no és suficient per a convertir la missió en realitat.
+5. Cal **posar a prova** la missió per **ajustar**.
+6. Tenir una missió pot fluctuar segons s'estudie i es comprenga la mentalitat del mercat en cada moment.
+
+Aquestes subtileses expliquen per que molta gent no té una **guia** que done ordre a la seua trajectòria.
+
+Tenir una missió és dur. La duresa espanta als somiadors i als apocats, els quals deixen més oportunitats als que estan disposats a dedicar-li temps a dissenyar amb cura la millor ruta i després posar-se en marxa amb confiança.
+
+
