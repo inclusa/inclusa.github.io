@@ -309,7 +309,7 @@ L'**entusiasme** sol **no genera una cosa escassa i valuosa**, no suma massa al 
 Cal **donar a l'audiència continguts pels quals està disposat a pagar**.
 
 
-### CApítol 10. La segona trampa del control
+### Capítol 10. La segona trampa del control
 
 Sinopsi: Quan s'ha acumulat suficient capital laboral com per a adquirir més control laboral, hom es torna tan valuós per al seu cap que tractarà de contrarestar l'esforç per guanyar més autonomia.
 
@@ -401,8 +401,26 @@ Resum del contingut vist fins ara:
 5. Cal **posar a prova** la missió per **ajustar**.
 6. Tenir una missió pot fluctuar segons s'estudie i es comprenga la mentalitat del mercat en cada moment.
 
-Aquestes subtileses expliquen per que molta gent no té una **guia** que done ordre a la seua trajectòria.
+Aquestes subtileses expliquen per que molta gent no té una **guia que done ordre a la seua trajectòria.
 
 Tenir una missió és dur. La duresa espanta als somiadors i als apocats, els quals deixen més oportunitats als que estan disposats a dedicar-li temps a dissenyar amb cura la millor ruta i després posar-se en marxa amb confiança.
 
+### Capítol 13. Tenir una missió requereix capital
 
+Sinopsi: Elegir una missió abans de tenir capital laborar no sembla molt sostenible
+
+Les missions comporten riscos. El fet de que el treball gire al voltant d'una missió no pressuposa que tot va a ser senzill.
+
+L'**adjacent possible** concepte que suposa una recerca sistemàtica. Després de molta recerca es troba el camí a seguir. No es pot trobar l'objectiu a seguir si no es recorre primer aquest camí.
+
+> Si vols identificar una missió en la vida professional, hauràs de posicionar-te primer en l'avantguarda, l'únic lloc des del qual es pot veure la missió.
+
+Grans descobriments exigeixen primer **estar a l'avantguarda**, cosa que resulta dur i solem evitar en el nostre treball.
+
+**Estar a l'avantguarda** és similar a la idea de **capital laboral**, en forma d'**habilitats escasses i valuoses** en ser molt competent en alguna cosa, el que suposa el principal element a l'hora de crear un treball somiat.
+
+La majoria de persones que adoren el seu treball han arribat fins allí acumulant capital, e intercanviant-lo després per característiques que defineixen un treball genial.
+
+Si cerques una **missió** primer cal adquirir **capital laboral**.
+
+> Pensar en xicotet exigeix centrar-se en una cosa específica durant un temps prolongant. Actuar en gran suposa perseguir un objectiu amb molta intensitat.
