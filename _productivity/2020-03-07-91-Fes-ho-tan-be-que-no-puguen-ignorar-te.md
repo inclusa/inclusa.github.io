@@ -424,3 +424,18 @@ La majoria de persones que adoren el seu treball han arribat fins allí acumulan
 Si cerques una **missió** primer cal adquirir **capital laboral**.
 
 > Pensar en xicotet exigeix centrar-se en una cosa específica durant un temps prolongant. Actuar en gran suposa perseguir un objectiu amb molta intensitat.
+
+### Capítol 14. La missió requereix apostes baixes
+
+Sinopsi: Una missió gran acaba sent un èxit mitjançant projectes xicotets i assequibles, que serveixen per a explorar les possibilitats que rodegen una idea atractiva.
+
+Molta gent disposa d'un gran capital laboral, i pot, tant identificar diverses missions potencials en les seues professions, però són pocs els que acaben desenvolupant una carrera al voltant d'aquestes missions. Aquesta pràctica exigeix alguna cosa més que situar-se a l'avantguarda. Una vegada acumulat el capital laboral necessari per identificar la missió, encara fa falta esbrinar com portar-la a la pràctica. Si no es disposa d'una estratègia contrastada per a passar de la idea a l'execució, s'evitarà donar aquest pas.
+
+En lloc de començar per una gran idea cal realitzar xicotetes apostes. Els xicotets fracassos combinats amb xicotetes victòries proporcionen informació precisa necessària per acabar oferint un producte extraordinari.
+
+El més important de les xicotetes apostes és que són assequibles. Són les xicotetes apostes les que permeten tantejar les vies que rodegen la missió general, i cercar quina és la més important.
+
+Si el capital laborar és el que permet identificar una missió atractiva, l'estratègia de les xicotetes apostes és la que ofereix majors possibilitats d'acomplir-la amb èxit.
+
+### Capítol 15. Una missió requereix un mercat
+
