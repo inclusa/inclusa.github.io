@@ -439,3 +439,17 @@ Si el capital laborar és el que permet identificar una missió atractiva, l'est
 
 ### Capítol 15. Una missió requereix un mercat
 
+Sinopsi: Les grans missions es converteixen en grans èxits quan es troba un projecte que acompleix amb la **llei de l'interés, que exigeix que una idea suscite l'interés de la gent, i es llance en un entorn en el qual facilite l'interés.
+
+> Llei de l'interés
+> Per a que un projecte orientat a una missió tinga èxit, ha de ser intresant en dos sentit. En primr lloc, ha d'animar a la gent que el conega a fer que altres s'interessen per ell. En segons lloc, ha de donar-se a conèixer en un àmbit que reba bé aquest interés.
+
+#### Resum de a Regla 4
+
+Per assolir el treball dels teus somnis:
+
+1. Primer cal acumular un bon capital laboral mitjançant l'exercici d'habilitats escasses i valuoses.
+2. Intercanviar eixe capital per les característiques que defineixen a una trajectòria professional com interessant. Una d'aquestes característiques és la **missió**.
+3. Les millors idees per a una missió estan en l'**adjacent possible**, la zona en la qual es troba després de l'**avantguarda**. Situar-se en l'**avantguarda**, identificar la teua **missió** i realitzar xicotetes **apostes**.
+4. Adoptar la perspectiva del venedor, la qual porta a la **llei de l'interés**, es a dir, **generar interés** en la gent i llançar-se en un **entorn** en el qual aquest interés es difonga.
+
