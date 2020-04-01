@@ -453,3 +453,97 @@ Per assolir el treball dels teus somnis:
 3. Les millors idees per a una missió estan en l'**adjacent possible**, la zona en la qual es troba després de l'**avantguarda**. Situar-se en l'**avantguarda**, identificar la teua **missió** i realitzar xicotetes **apostes**.
 4. Adoptar la perspectiva del venedor, la qual porta a la **llei de l'interés**, es a dir, **generar interés** en la gent i llançar-se en un **entorn** en el qual aquest interés es difonga.
 
+### Conclusió
+
+Si el teu objectiu és amar el que fas, el consell de perseguir els teus somnis no és bo. És més important ser bo en alguna cosa escassa i valuosa, e invertir després el **capital laboral** que obtingues en la classe de condicions que fan d'un treball una cosa genial. Per començar, el **control** i la **missió** són dues qualitats interessants.
+
+#### Regla 1
+
+Persegueix els teus somnis és un mal consell. El camí que porta al treball somiat sol ser més complexe.
+
+#### Regla 2
+
+El que fa que un treball siga genial és escàs i valuós.
+
+*Fes-ho tan bé que no puguen ignorar-te*, Steave Martin.
+
+Les coses **escasses** i **valuoses**, per definició no són fàcils d'obtenir. La **pràctica deliberada** és un mètode per desenvolupar habilitats a base d'esforçar-se més enllà de la zona de confort.
+
+Els músics, atletes i jugadors d'escacs, entre d'altres, són conscients de la pràctica deliberada, però altres treballadors no.
+
+La *mediocritat* és perillosa perquè limita el **capital laboral**, y per tant redueix la capacitat d'autodefinir la trajectòria professional.
+
+Aquesta classe de desenvolupament d'activitats és dura, cal enfrontar-se a la resistència interna.
+
+L'autor, en el treball d'un article, desenvolupa tres estructures per avançar:
+
+1. La pràctica per vèncer la resistència consistia en afirmar: *vaig a dedicar una hora a estudiar aquest tema, dóna igual si em desmaie per l'esforç o si no progrese*. L'autor va descobrir que les onades de resistència tardaven uns 10 minuts en apagar-se. Aquest lapse de temps era difícil, però saber que els seus esforços tenien un límit de temps contribuïa a gestionar la dificultat.
+2. Va agrupar els resultats dels seus esforços de **manera útil**. Va dibuixar un mapa de connexions entre les diferents parts de l'article.
+3. Finalment calia **sintetitzar** l'article amb les seues paraules.
+
+En acabar el procés, l'autor havia dedicat 15 hores en total a la **pràctica deliberada.
+
+Més importants que xicotetes victòries el nou marc mental em va proporcionar la prova. Va entendre que l'esforç era bo. Un esportista entén el dolor muscular com a prova de que està fent les coses correctes.
+
+Proposa tres hàbits:
+
+1. **Rutina bíblia de l'investigador**. Fer un resum, bíblia de l'investigador, on sintetitze el resultat de treballs previs.
+2. **Rutina quadrant d'hores**. Enregistrar i sumar les hores mensuals de pràctica deliberada.
+3. **Rutina del quadern de teories**. Enregistrar el quadern per prendre notes durant les pluges d'idees.
+
+Conclusions:
+
+1. Es fa convertir en una persona que posa el focus en la **destresa**.
+2. Per ser millor calia **esforç**, **pràctica deliberada**.
+3. Adoptar aquesta forma de treballar genera **canvis profunds**.
+
+#### Regla 3
+
+Comprendre el paper del **control canvia la forma d'avaluar les oportunitats**.
+
+Avaluar la situació amb la lent del **control** canvia les coses.
+
+Randy Pauch, de Carnegie Mellon, va reflexar molt bé com agafar el control de la situació. Els investigadors junior li preguntaven com havia aconseguit la titularitat en la universitat tan depresa, ell deia *cridem al despatx qualsevol divendres a les 10 de la nit i l'ho explicaré*.
+
+Trampes del control:
+
+1. Disposar de poc capital laboral. Sense habilitats escasses i valuoses que oferir a canvi el fracàs és molt provable.
+2. Quan disposem de capital laboral per intercanviar-lo és molt provable que trobes resistències entre els que et rodegen, donat que el control sols el beneficia a tu.
+
+Ferramenta per esquivar aquestes dos trampes: **Llei de la viabilitat econòmica**. En decidir perseguir una meta atractiva, que aportarà més control a la teua vida professional, cal preguntar-se *si la gent estarà disposada a pagar-te per fer-ho*. En cas contrari, deixa-la passar.
+
+#### Regla 4
+
+Tenir una **missió** professional és disposar d'un propòsit organitzat en la teua vida professional.
+
+Les verdaderes missions exigeixen dues coses:
+
+1. Necessita capital laboral, exigeix paciència.
+2. És possible observar d'un mode incessant l'avanç possible de la teua especialitat.
+
+Combinats aquest dos propòsits porten a una forma de vida, i no a una sèrie de passos que porten automàticament a disposar d'una missió.
+
+Rutines que porten a l'obtenció d'una missió:
+
+1. Nivell superior: la missió exploratòria. Aplicar la teoria de la distribució d'algoritmes a altres camps interessants, amb la finalitat d'assolir resultats nous interessants.
+2. Nivell bàsic: investigació a fons. Cada setmana entrar en un nou aspecte de l'especialitat. Segons Steven Johnson cita el concepte de **adjacent possible**. L'accés a noves idees i a *connexions líquides* facilita que entren en cntacte entre elles el catalitzador per al naixement de més idees.
+3. Nivell intermedi: projectes d'exploració. Xicotetes apostes.
+
+Peter Sims (2010) diu que una xicoteta aposta té tres característiques:
+
+1. És un projecte que pot completar-se en un més.
+2. Oblita a crear un nou valor.
+3. Produeix un resultat concret.
+
+Aspectes a tenir en compte:
+
+1. Xicotetes apostes.
+2. Plaços concrets.
+3. Sensació d'urgència.
+4. Enregistrar i comptabilitzar les hores dedicades a l'aposta.
+5. Pràctica deliberada.
+6. Missió.
+
+El sistema és un bucle d'informació, avança constantment cap una visió més clara i millor fonamentada del treball.
+
+> Importa més treballar bé que tenir un bon treball.
