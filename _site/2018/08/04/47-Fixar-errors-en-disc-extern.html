@@ -35,10 +35,6 @@
           
         
           
-          <a class="page-link" href="/biblio/">biblio</a>
-          
-        
-          
         
           
         
@@ -76,19 +72,19 @@
   <article class="post-content">
     <p>M’he trobat en la circumstància de connectar un disc dur extern que no podia arrancar.</p>
 
-<p>Mitjançant <code class="highlighter-rouge">gparted</code> he pogut observar que tenia un format <code class="highlighter-rouge">NTFS</code>, en utilitzar GNU/Linux necessitarem aquestes utilitats per tal de gestionar aquest format:</p>
+<p>Mitjançant <code class="language-plaintext highlighter-rouge">gparted</code> he pogut observar que tenia un format <code class="language-plaintext highlighter-rouge">NTFS</code>, en utilitzar GNU/Linux necessitarem aquestes utilitats per tal de gestionar aquest format:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install ntfs-3g ntfsprogs
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install ntfs-3g ntfsprogs
 </code></pre></div></div>
 
-<p>Per tal de fixar les errades en el disc amb format <code class="highlighter-rouge">NTFS</code> caldrà serguir aquesta lògica:</p>
+<p>Per tal de fixar les errades en el disc amb format <code class="language-plaintext highlighter-rouge">NTFS</code> caldrà serguir aquesta lògica:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo ntfsfix /dev/partitionName
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo ntfsfix /dev/partitionName
 </code></pre></div></div>
 
 <p>Així que l’apliquem:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo ntfsfix /dev/sdd1
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo ntfsfix /dev/sdd1
 </code></pre></div></div>
 
 <p>L’errada podria haver estat causada perquè el portàtil que estava sincronitzant el backup s’havera quedat sense energia.</p>
@@ -96,9 +92,9 @@
 <p>En cas de trobar-nos amb errades en un pendrive:</p>
 
 <ol>
-  <li>Obririem un terminal i mirem les unitats muntades:<code class="highlighter-rouge">$ df -h</code></li>
-  <li>Desmuntem la unita <code class="highlighter-rouge">$ sudo umount /dev/sdd1</code></li>
-  <li>Reparem els permisos de la unitat <code class="highlighter-rouge">$ sudo fsck -r /dev/sdd1</code></li>
+  <li>Obririem un terminal i mirem les unitats muntades:<code class="language-plaintext highlighter-rouge">$ df -h</code></li>
+  <li>Desmuntem la unita <code class="language-plaintext highlighter-rouge">$ sudo umount /dev/sdd1</code></li>
+  <li>Reparem els permisos de la unitat <code class="language-plaintext highlighter-rouge">$ sudo fsck -r /dev/sdd1</code></li>
 </ol>
 
 <p>Font:</p>

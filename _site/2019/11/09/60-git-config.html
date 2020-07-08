@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>60 git config</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2019/11/09/60-git-config.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">60 git config</h1>
+    <p class="post-meta">November 9, 2019 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>A l’hora d’arrancar git en una màquina nova cal tenir en compte diferents coses:</p>
+
+<h1 id="1-configuració">1. Configuració</h1>
+
+<p><code class="language-plaintext highlighter-rouge">git-config</code> et permet obtenir i establir variables de configuració que controlen l’especte i funcionament de <code class="language-plaintext highlighter-rouge">Git</code>.</p>
+
+<p>Aquestes variables tenen tres llocs direrents:</p>
+
+<h4 id="system">–system</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">/etc/gitconfig/</code>: conté valors per a tots els ususaris i tots els seus repositoris. Si executes l’opció <code class="language-plaintext highlighter-rouge">git config --system</code> les configuracions s’escriuen a aquest arxiu.</li>
+</ul>
+
+<h4 id="global">–global</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">~/.gitconfig</code> específic de cada usuari, roman dins del seu <code class="language-plaintext highlighter-rouge">/home</code>. Fent servir el comandament <code class="language-plaintext highlighter-rouge">git confit --global</code> es llegirà o s’escriurà en aquest arxiu.</li>
+</ul>
+
+<h4 id="local">–local</h4>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">.git/config</code>: directori específic d’un repositori. Cada nivell sobrescriu valors del nivell anterior, així els valors <code class="language-plaintext highlighter-rouge">.git/config</code> tenen preferència sobre el nivell anterior <code class="language-plaintext highlighter-rouge">/etc/gitcofig</code>.</li>
+</ul>
+
+<h1 id="2-la-teua-identitat">2. La teua identitat</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git config <span class="nt">--global</span> user.name John Doe
+<span class="nv">$ </span>git config <span class="nt">--global</span> user.email johndoe@example.com
+</code></pre></div></div>
+
+<h1 id="3-el-teu-editor">3. El teu editor</h1>
+
+<p>Per fer que siga <code class="language-plaintext highlighter-rouge">Vim</code>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git config <span class="nt">--global</span> core.editor vim
+</code></pre></div></div>
+
+<p>Per fer que siga <code class="language-plaintext highlighter-rouge">emacs</code>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git config <span class="nt">--global</span> core.editor emacs
+</code></pre></div></div>
+
+<h1 id="4-ferramenta-per-gestionar-les-diferències">4. Ferramenta per gestionar les diferències</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git config <span class="nt">--global</span> merge.tool vimdiff
+</code></pre></div></div>
+
+<h1 id="5-comprova-la-configuració">5. Comprova la configuració</h1>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git config <span class="nt">--list</span>
+user.name<span class="o">=</span>John Doe
+user.email<span class="o">=</span>jondoe@server.com
+color.status<span class="o">=</span>auto
+color.branch<span class="o">=</span>auto
+color.interactive<span class="o">=</span>auto
+color.diff<span class="o">=</span>auto
+</code></pre></div></div>
+
+<p>Per comprovar una clau específica:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git config user.name
+John Doe
+</code></pre></div></div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

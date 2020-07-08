@@ -35,10 +35,6 @@
           
         
           
-          <a class="page-link" href="/biblio/">biblio</a>
-          
-        
-          
         
           
         
@@ -74,7 +70,7 @@
   </header>
 
   <article class="post-content">
-    <p>La gema de Ruby <code class="highlighter-rouge">drhenry</code> és una d’aquestes utilitats que si utilitzes <strong>Jekyll</strong> sovint no has de desconèixer, ja que automatitza l’escriptura de posts.</p>
+    <p>La gema de Ruby <code class="language-plaintext highlighter-rouge">drhenry</code> és una d’aquestes utilitats que si utilitzes <strong>Jekyll</strong> sovint no has de desconèixer, ja que automatitza l’escriptura de posts.</p>
 
 <p>Tenim accés al codi de la gema al GitHub de <a href="https://github.com/JuanjoSalvador/drhenry">JuanjoSalvador</a>, el seu autor.</p>
 
@@ -88,14 +84,14 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/home/user/.rvm/gems/ruby-2.4.0/gems/drhenry-0.4.0/
 </code></pre></div></div>
 
-<p>En cas d’utilitzar <code class="highlighter-rouge">ruby</code> amb el paquet compilat per <strong>Ubuntu 18.04</strong>, el trobarem ací:</p>
+<p>En cas d’utilitzar <code class="language-plaintext highlighter-rouge">ruby</code> amb el paquet compilat per <strong>Ubuntu 18.04</strong>, el trobarem ací:</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/var/lib/gems/2.5.0/gems/drhenry-0.4.0/
 </code></pre></div></div>
 
-<p>A aquest directori trobarem altres dos directoris: <code class="highlighter-rouge">bin</code> i <code class="highlighter-rouge">lib</code>.</p>
+<p>A aquest directori trobarem altres dos directoris: <code class="language-plaintext highlighter-rouge">bin</code> i <code class="language-plaintext highlighter-rouge">lib</code>.</p>
 
-<p>Dins del directori <code class="highlighter-rouge">bin</code> tenim l’arxiu <code class="highlighter-rouge">drhenry</code> amb aquest contingut:</p>
+<p>Dins del directori <code class="language-plaintext highlighter-rouge">bin</code> tenim l’arxiu <code class="language-plaintext highlighter-rouge">drhenry</code> amb aquest contingut:</p>
 
 <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">#!/usr/bin/env ruby</span>
 
@@ -110,7 +106,7 @@
   	<span class="n">post</span><span class="p">.</span><span class="nf">create</span><span class="p">(</span><span class="n">date</span><span class="p">,</span> <span class="nb">name</span><span class="p">,</span> <span class="n">title</span><span class="p">)</span>
 </code></pre></div></div>
 
-<p>Al directori <code class="highlighter-rouge">lib</code> trobarem aquest contingut, el qual he modificat adaptant-lo a les meues necessitats:</p>
+<p>Al directori <code class="language-plaintext highlighter-rouge">lib</code> trobarem aquest contingut, el qual he modificat adaptant-lo a les meues necessitats:</p>
 
 <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">DrHenryPost</span>
 
@@ -169,9 +165,9 @@
 <p>Així, en escriure un nou post seguisc aquesta rutina:</p>
 
 <ol>
-  <li>Primer en situen en el directori <code class="highlighter-rouge">cd _post</code></li>
-  <li>Escric el nom de l’arxiu: <code class="highlighter-rouge">drhenry 49 Ruby gem: drhenry</code></li>
-  <li>Edite l’arxiu <code class="highlighter-rouge">vim 49</code> i polse el tabulador, el qual em torna aquest a línia: <code class="highlighter-rouge">2018-08-16-49-Ruby-gems:-drhenry.md</code></li>
+  <li>Primer en situen en el directori <code class="language-plaintext highlighter-rouge">cd _post</code></li>
+  <li>Escric el nom de l’arxiu: <code class="language-plaintext highlighter-rouge">drhenry 49 Ruby gem: drhenry</code></li>
+  <li>Edite l’arxiu <code class="language-plaintext highlighter-rouge">vim 49</code> i polse el tabulador, el qual em torna aquest a línia: <code class="language-plaintext highlighter-rouge">2018-08-16-49-Ruby-gems:-drhenry.md</code></li>
   <li>En obrir l’arxiu em trobe amb aquest contingut:</li>
 </ol>
 
@@ -195,7 +191,7 @@
 
 <p>El cas és que la configuració adaptada que utilitze roman al directori ``</p>
 
-<p>Podem baixar l’arxiu de configuració al directori <code class="highlighter-rouge">/var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/</code> així:</p>
+<p>Podem baixar l’arxiu de configuració al directori <code class="language-plaintext highlighter-rouge">/var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/</code> així:</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>wget https://raw.githubusercontent.com/inclusa/drhenry/master/versions/inclusa/lib/drhenrypost.rb <span class="nt">-O</span> /var/lib/gems/2.5.0/gems/drhenry-0.4.0/lib/
 </code></pre></div></div>
@@ -207,7 +203,7 @@
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> /Library/Ruby/Gems/2.3.0/gems/
 </code></pre></div></div>
 
-<p>Fem notar que la ruta està referida a la versió <code class="highlighter-rouge">2.3.0</code> de les gemes de Ruby.</p>
+<p>Fem notar que la ruta està referida a la versió <code class="language-plaintext highlighter-rouge">2.3.0</code> de les gemes de Ruby.</p>
 
   </article>
 

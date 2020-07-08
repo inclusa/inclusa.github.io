@@ -35,10 +35,6 @@
           
         
           
-          <a class="page-link" href="/biblio/">biblio</a>
-          
-        
-          
         
           
         
@@ -78,64 +74,64 @@
 
 <ol>
   <li>Instal·lar el programari
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt instal vagrant
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt instal vagrant
 </code></pre></div>    </div>
   </li>
   <li>Creem un directori que contindrà l’arxiu vagrant</li>
   <li>Inicialitzem aquest directori</li>
   <li>Cal elegir la imatge, ja preparada a la web <a href="https://app.vagrantup.com/boxes/search">vagrantcloud.com</a></li>
   <li>Inicialitzem vagrant
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant init debian/contrib-jessie64
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant init debian/contrib-jessie64
 </code></pre></div>    </div>
   </li>
   <li>Alcem vagrant
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant up
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant up
 </code></pre></div>    </div>
   </li>
   <li>Verifiquem que el sistema s’ha alçat
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>127.0.0.1:2200
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>127.0.0.1:2200
 </code></pre></div>    </div>
   </li>
   <li>Tombem vagram
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant halt
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant halt
 </code></pre></div>    </div>
   </li>
   <li>Editem l’arxiu Vagrantfile i posem una IP que no estiga al nostre rang
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>config.vm.network "private_network", ip: "10.0.0.80"
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>config.vm.network "private_network", ip: "10.0.0.80"
 </code></pre></div>    </div>
   </li>
   <li>Alcem vagrant
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant up
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant up
 </code></pre></div>    </div>
   </li>
   <li>Verifiquem la IP des del navegador per veure que funciona
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>10.0.0.8
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>10.0.0.8
 </code></pre></div>    </div>
   </li>
   <li>Entrem dins de la distro
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant ssh
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant ssh
 </code></pre></div>    </div>
   </li>
   <li>Instal·lem un servidor
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install nginx
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install nginx
 </code></pre></div>    </div>
   </li>
   <li>Comandaments per provisionar
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant --provision
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant --provision
 </code></pre></div>    </div>
   </li>
   <li>Llistem comandaments
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant list-commands
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant list-commands
 </code></pre></div>    </div>
   </li>
   <li>Distro alternatives
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>server.vm.box ="debian/contrib-jessie64" 
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>server.vm.box ="debian/contrib-jessie64" 
 </code></pre></div>    </div>
-    <p>Té les virtualbox guest additions instalades i munta <code class="highlighter-rouge">/vagrant</code>.</p>
+    <p>Té les virtualbox guest additions instalades i munta <code class="language-plaintext highlighter-rouge">/vagrant</code>.</p>
   </li>
   <li>Optimizant
-Afegir en el fitxer <code class="highlighter-rouge">Vagrantfile</code> estas líneas, al final del fichero, antes de <code class="highlighter-rouge">end</code>. El final del fitxer quedaria així:
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  # Enable provisioning with a shell script. Additional provisioners such as
+Afegir en el fitxer <code class="language-plaintext highlighter-rouge">Vagrantfile</code> estas líneas, al final del fichero, antes de <code class="language-plaintext highlighter-rouge">end</code>. El final del fitxer quedaria així:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  # Enable provisioning with a shell script. Additional provisioners such as
   # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
   # documentation for more information about their specific syntax and use.
    config.vm.provision "shell", inline: &lt;&lt;-SHELL
@@ -147,7 +143,7 @@ Afegir en el fitxer <code class="highlighter-rouge">Vagrantfile</code> estas lí
 </code></pre></div>    </div>
   </li>
   <li>Alçem vagrant així
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant up; curl http://10.0.0.8
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vagrant up; curl http://10.0.0.8
 </code></pre></div>    </div>
   </li>
 </ol>

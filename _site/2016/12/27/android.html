@@ -35,10 +35,6 @@
           
         
           
-          <a class="page-link" href="/biblio/">biblio</a>
-          
-        
-          
         
           
         
@@ -76,27 +72,27 @@
   <article class="post-content">
     <p>Utilitats per accedir de forma remota a sistemes Android. Aquesta utilitat ve a ser una menera d’implementació per accedir a un altre sistema com accedim mitjançant el protocol <em>ssh</em>.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>android-tools-adb - Android Debug Bridge CLI tool
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>android-tools-adb - Android Debug Bridge CLI tool
 android-tools-fastboot - Android Fastboot protocol CLI tool
 </code></pre></div></div>
 
 <p>Per accedir al telèfon cal punxar-lo a l’ordinador via USB, però la cosa no funciona perquè cal desinstal·lar aquesta utilitat:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>modemmanager - D-Bus service for managing modems
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>modemmanager - D-Bus service for managing modems
 </code></pre></div></div>
 
 <p>Desinstal·la a nivell de kernel.</p>
 
-<p>Podria ser que <code class="highlighter-rouge">cdc_acm</code> deixara de funcionar…</p>
+<p>Podria ser que <code class="language-plaintext highlighter-rouge">cdc_acm</code> deixara de funcionar…</p>
 
 <p>Per assegurar-nos:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lsmod | grep cdc_acm
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lsmod | grep cdc_acm
 </code></pre></div></div>
 
 <p>Si ho torna buit, caldrà posar-ho en marxa:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo modprobe cdc_acm
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo modprobe cdc_acm
 </code></pre></div></div>
 
 <p>Així, cal desinstal·lar aquesta utilitat per poder accedir d’aquesta manera:</p>

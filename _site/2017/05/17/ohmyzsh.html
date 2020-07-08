@@ -35,10 +35,6 @@
           
         
           
-          <a class="page-link" href="/biblio/">biblio</a>
-          
-        
-          
         
           
         
@@ -87,7 +83,7 @@
 
 <p>Referència del projecte <a href="http://ohmyz.sh/">ohmyz.sh</a>.</p>
 
-<p>Per gaudir d’aquestes funcionalitats cal primer instal·lar des del repositori <code class="highlighter-rouge">zsh</code> i després executar aquesta línia:</p>
+<p>Per gaudir d’aquestes funcionalitats cal primer instal·lar des del repositori <code class="language-plaintext highlighter-rouge">zsh</code> i després executar aquesta línia:</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>sh <span class="nt">-c</span> <span class="s2">"</span><span class="si">$(</span>curl <span class="nt">-fsSL</span> https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh<span class="si">)</span><span class="s2">"</span>
 </code></pre></div></div>
@@ -101,22 +97,22 @@
 
 <h3 id="afegir-nous-alias">Afegir nous alias</h3>
 
-<p>Per tal d’arrancar un programa com <code class="highlighter-rouge">Emacs</code> amb una funcionalita concreta com que òbriga un arxiu concret caldrà editar l’arxiu <code class="highlighter-rouge">.zshrc</code> escrivint:</p>
+<p>Per tal d’arrancar un programa com <code class="language-plaintext highlighter-rouge">Emacs</code> amb una funcionalita concreta com que òbriga un arxiu concret caldrà editar l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code> escrivint:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alias bujo="emacs ~/Documents/bulletjournal.org"
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alias bujo="emacs ~/Documents/bulletjournal.org"
 </code></pre></div></div>
 
 <h3 id="programari-que-funciona-amb-bash">Programari que funciona amb Bash</h3>
 
-<p>Hi ha certs programes que necessiten <code class="highlighter-rouge">bash</code> per arrancar.</p>
+<p>Hi ha certs programes que necessiten <code class="language-plaintext highlighter-rouge">bash</code> per arrancar.</p>
 
-<p>Quan passa això, cal executar <code class="highlighter-rouge">bash</code> en terminal, cal escriure la paraula <code class="highlighter-rouge">bash</code> i després el programa.</p>
+<p>Quan passa això, cal executar <code class="language-plaintext highlighter-rouge">bash</code> en terminal, cal escriure la paraula <code class="language-plaintext highlighter-rouge">bash</code> i després el programa.</p>
 
 <h3 id="ruby-en-ohmyzsh">Ruby en .ohmyzsh</h3>
 
-<p>Si instal·lem <code class="highlighter-rouge">Ruby</code> des de <a href="https://rvm.io/">https://rvm.io/</a> cal incloure aquestes línies al final de l’arxiu <code class="highlighter-rouge">.zshrc</code>:</p>
+<p>Si instal·lem <code class="language-plaintext highlighter-rouge">Ruby</code> des de <a href="https://rvm.io/">https://rvm.io/</a> cal incloure aquestes línies al final de l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code>:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Thanks for the awesome idea batasrki
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Thanks for the awesome idea batasrki
 function gemdir {
   if [[ -z "$1" ]] ; then
     echo "gemdir expects a parameter, which should be a valid RVM Ruby selector"
@@ -137,34 +133,34 @@ function gemdir {
 
 <p>La font de la informació l’hem treta d’aquest artícle <a href="[https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins">https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins</a></p>
 
-<p>Per tal d’activar els plugins anirem a l’arxiu <code class="highlighter-rouge">.zshrc</code>. On posarem tots els plugins que volem utilitzar així:</p>
+<p>Per tal d’activar els plugins anirem a l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code>. On posarem tots els plugins que volem utilitzar així:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>plugins=(git debian ruby rails)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>plugins=(git debian ruby rails)
 </code></pre></div></div>
 
-<p>Com què el plugin <code class="highlighter-rouge">debian</code> està activat descriurem el procés d’actualització d’un sistema Debian/Ubuntu:</p>
+<p>Com què el plugin <code class="language-plaintext highlighter-rouge">debian</code> està activat descriurem el procés d’actualització d’un sistema Debian/Ubuntu:</p>
 
 <p>Sense alies ho feiem així:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt upgrade -y
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt upgrade -y
 </code></pre></div></div>
 
 <p>Ara ho farem així:</p>
 
-<p><code class="highlighter-rouge">sudo apt update</code> → <code class="highlighter-rouge">ad</code> y me pide la contraseña de superusuario</p>
+<p><code class="language-plaintext highlighter-rouge">sudo apt update</code> → <code class="language-plaintext highlighter-rouge">ad</code> y me pide la contraseña de superusuario</p>
 
-<p><code class="highlighter-rouge">sudo apt upgrade</code> → <code class="highlighter-rouge">ag</code></p>
+<p><code class="language-plaintext highlighter-rouge">sudo apt upgrade</code> → <code class="language-plaintext highlighter-rouge">ag</code></p>
 
 <p>D’aquesta manera s’executarà així:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ad &amp;&amp; ag
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ad &amp;&amp; ag
 </code></pre></div></div>
 
-<p>Per tal de consultar els plugins i els alies caldrà anar al directori <code class="highlighter-rouge">.ohmyzsh/plugins/</code> on mirarem l’arxiu.</p>
+<p>Per tal de consultar els plugins i els alies caldrà anar al directori <code class="language-plaintext highlighter-rouge">.ohmyzsh/plugins/</code> on mirarem l’arxiu.</p>
 
 <h3 id="llistat-de-plugins">Llistat de plugins</h3>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb
 ant
 apache2-macports
 arcanist

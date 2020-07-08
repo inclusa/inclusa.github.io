@@ -35,10 +35,6 @@
           
         
           
-          <a class="page-link" href="/biblio/">biblio</a>
-          
-        
-          
         
           
         
@@ -74,7 +70,7 @@
   </header>
 
   <article class="post-content">
-    <p>La migració de la versió d’Ubuntu 17.10 a Ubuntu 18.04 va ser molt ràpida. Com sempre em va preguntar sobre la configuració del dimoni *ssh<strong>, l’arxiu <code class="highlighter-rouge">ssh_config</code> i també em va prengutar sobre la capa de transport del mail **posix</strong>.</p>
+    <p>La migració de la versió d’Ubuntu 17.10 a Ubuntu 18.04 va ser molt ràpida. Com sempre em va preguntar sobre la configuració del dimoni *ssh<strong>, l’arxiu <code class="language-plaintext highlighter-rouge">ssh_config</code> i també em va prengutar sobre la capa de transport del mail **posix</strong>.</p>
 
 <p>Tot senzill, però com en qualsevol migració alguna cosa es passa per alt.</p>
 
@@ -101,9 +97,9 @@
 <p>Localitzat el problema vàrem emprendre les següents accions:</p>
 
 <ol>
-  <li>Verificar el mòdul carregat <code class="highlighter-rouge">a2query -m php7.2.3</code></li>
-  <li>Carregar el mòdul<code class="highlighter-rouge">sudo a2enmod php7.2.3</code></li>
-  <li>Reiniciar Apache <code class="highlighter-rouge">sudo systemctl restart apache2.service</code></li>
+  <li>Verificar el mòdul carregat <code class="language-plaintext highlighter-rouge">a2query -m php7.2.3</code></li>
+  <li>Carregar el mòdul<code class="language-plaintext highlighter-rouge">sudo a2enmod php7.2.3</code></li>
+  <li>Reiniciar Apache <code class="language-plaintext highlighter-rouge">sudo systemctl restart apache2.service</code></li>
 </ol>
 
 <p>Resolt el problema ja funcina correctament <strong>Nextcloud</strong>, <strong>Kanboard</strong>, <strong>Dokuwiki</strong>  i alguns serveis.</p>
@@ -112,28 +108,28 @@
 
 <p>Actualitzem el repositori.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get update
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get update
 sudo apt-get upgrade
 </code></pre></div></div>
 
 <p>Afagim el repositori d’Oracle.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:webupd8team/java
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo add-apt-repository ppa:webupd8team/java
 </code></pre></div></div>
 
 <p>Actualitzem.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install update
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install update
 </code></pre></div></div>
 
 <p>Instal·lem versió 8 de Java.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install oracle-java8-installer
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt install oracle-java8-installer
 </code></pre></div></div>
 
 <p>Verifiquem versió de Java.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>java -version
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>java -version
 </code></pre></div></div>
 
   </article>

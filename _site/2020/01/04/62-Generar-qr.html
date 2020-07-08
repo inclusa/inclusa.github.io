@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>62 Generar qr</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2020/01/04/62-Generar-qr.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">62 Generar qr</h1>
+    <p class="post-meta">January 4, 2020 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Instal·lem la utilitat:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt <span class="nb">install </span>qrencode
+</code></pre></div></div>
+
+<p>Generem la imatge a partir d’una url:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>qrencode <span class="nt">-m</span> 5 <span class="nt">-o</span> qrcode.png <span class="s1">'https://inclusa.github.io'</span>
+</code></pre></div></div>
+
+<p>Obtenim:</p>
+
+<p><img src="/img/inclusa.png" alt="inclusa.png" /></p>
+
+<p>Visualitzem la imatge:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>feh inclusa.png
+</code></pre></div></div>
+
+<p>Es pot inclouredirectament un text curt.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>qrencode <span class="nt">-o</span> hello.png <span class="s1">'Hello World!'</span>
+</code></pre></div></div>
+
+<p>Obtenim:</p>
+
+<p><img src="/img/hello.png" alt="hello.png" /></p>
+
+<p>Per altra banda podem generar un contacte per tal que s’importe a la nostra llibreta de contactes:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>qrencode <span class="nt">-o</span> address.png <span class="s1">'BEGIN:VCARD VERSION:4.0 FN: N:Doe;John;;; ADR:;;Putzbrunner Str. 71;London;;81739; END:VCARD'</span>
+</code></pre></div></div>
+
+<p>Obtenim:</p>
+
+<p><img src="/img/address.png" alt="address.png" /></p>
+
+<p>Podem llegir també un arxiu de text i generar el codi:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat </span>b.txt | qrencode  <span class="nt">-v</span> 1 <span class="nt">-l</span> L <span class="nt">-o</span> b.png 
+</code></pre></div></div>
+
+<p>L’arxiu <code class="language-plaintext highlighter-rouge">b.txt</code> tindria la següent informació:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>BEGIN:VCARD VERSION:4.0 
+FN: Doe, John
+ADR:Carrer La Font, 5
+CITY: Alacant
+TEL: 96123123123
+END:VCARD
+</code></pre></div></div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

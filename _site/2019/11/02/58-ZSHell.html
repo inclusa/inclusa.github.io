@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>58 ZSH</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2019/11/02/58-ZSHell.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">58 ZSH</h1>
+    <p class="post-meta">November 2, 2019 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p><img src="http://zshwiki.org/home/wp-content/uploads/2018/10/zshwiki-logo.gif" alt="Z Shell" /></p>
+
+<h3 id="z-shell">Z Shell</h3>
+
+<p><strong>ZSH</strong> és un <em>shell</em> dissenyat per a un ús interactiu, tot i que també és un llenguatge de script molt potent. Moltes de les característiques útils de <em>bash</em>, <em>ksh</em> i <em>tcsh</em> es van incorporar a zsh; es van afegir moltes funcions originals.</p>
+
+<p>Una de les característiques que té <strong>ZSH</strong> és que ens podem loguejar en entrar.</p>
+
+<p>Per saber si estem loguejats caldrà escriure el següent codi:</p>
+
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">if</span> <span class="o">[[</span> <span class="nt">-o</span> login <span class="o">]]</span><span class="p">;</span> <span class="k">then
+      </span>print <span class="nb">yes
+    </span><span class="k">else
+      </span>print no
+    <span class="k">fi</span>
+</code></pre></div></div>
+
+<p>Si la resposta és <code class="language-plaintext highlighter-rouge">no</code>, doncs no estarem loguejats.</p>
+
+<p>Fitxers de configuració:</p>
+
+<div class="language-zsh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/etc/zshenv
+</code></pre></div></div>
+<p>Corre sempre per cada zsh.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/.zshenv
+</code></pre></div></div>
+<p>Normalment s’executa per cada zsh.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/etc/zprofile
+</code></pre></div></div>
+<p>Executar per iniciar la sessió.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/.zprofile
+</code></pre></div></div>
+<p>Executar per iniciar la sessió.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/etc/zshrc
+</code></pre></div></div>
+<p>Executar per iniciar la interactivitat del shell.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/.zshrc
+</code></pre></div></div>
+<p>Executar per iniciar la interactivitat del shell.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/etc/zlogin
+</code></pre></div></div>
+<p>Executar per obtenir shells d’inici de sessió.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~/.zlogin
+</code></pre></div></div>
+<p>Executar per obtenir shells d’inici de sessió.</p>
+
+<p>Per què és bo <strong>ZSH</strong>:</p>
+
+<ul>
+  <li>Per editar en línia de comandaments</li>
+  <li>Globalment es extremadament potent</li>
+  <li>Per escriure múltiples redireccions</li>
+  <li>Per utilitzar moltes opcions</li>
+  <li>Per expandir els directoris (=foo -&gt; /usr/bin/foo)</li>
+  <li>Per adaptar missatges</li>
+  <li>Per cridar els directoris</li>
+  <li>Per operar de forma comprensiva</li>
+  <li>Per manipular arrays</li>
+  <li>Per associar arrays (clau-valor hashes)</li>
+  <li>Per corregir errors de sintaxi</li>
+</ul>
+
+<p>Implementacions més importants:</p>
+
+<ul>
+  <li><a href="https://ohmyz.sh/">Oh my zsh</a></li>
+  <li><a href="https://github.com/unixorn/awesome-zsh-plugins">Col·leció de plugins</a></li>
+  <li><a href="https://github.com/n1trux/awesome-sysadmin">Awesome Sysadmin</a></li>
+  <li><a href="https://github.com/k4m4/terminals-are-sexy">Terminals are sexy</a></li>
+</ul>
+
+<h3 id="plugins">Plugins</h3>
+
+<p>Els plugins més importants que conec són:</p>
+
+<ul>
+  <li><a href="https://ohmyz.sh/">Oh my zsh</a>: col·lecció d’alies, themes i direccionament ràpid.</li>
+  <li><a href="https://github.com/zsh-users/zsh-autosuggestions">Zsh-autossuggestion</a>: plugin per a predir el que escriuràs al terminal. <a href="https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md">Install</a>. <a href="https://ugeek.github.io/blog/post/2019-07-23-plugin-zsh-autosuggestions-autocompletado-en-la-terminal.html">uGeek</a>.</li>
+  <li><a href="https://github.com/zsh-users/antigen">Antigen</a>: és un carregador de plugins, el que seria <em>Patogen</em> o <em>Vundle</em> a Vim.</li>
+  <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">zsh-syntax-highthing</a>: Pinta el codi.</li>
+  <li><a href="https://github.com/srijanshetty/zsh-pandoc-completion">Pandoc-completion</a>: Anticipa scripts Pandoc. Aquest ja s’instal·la a partir d’Antigen de forma automàtica.</li>
+</ul>
+
+<p>A l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code> afegirem aquest codi:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c"># Path to your oh-my-zsh installation.</span>
+<span class="nb">export </span><span class="nv">ZSH</span><span class="o">=</span><span class="s2">"/home/alfons/.oh-my-zsh"</span>
+
+<span class="c"># Set name of the theme to load --- if set to "random", it will</span>
+<span class="c"># load a random theme each time oh-my-zsh is loaded, in which case,</span>
+<span class="c"># to know which specific one was loaded, run: echo $RANDOM_THEME</span>
+<span class="c"># See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes</span>
+<span class="nv">ZSH_THEME</span><span class="o">=</span><span class="s2">"robbyrussell"</span>
+
+<span class="c"># Set list of themes to pick from when loading at random</span>
+<span class="c"># Setting this variable when ZSH_THEME=random will cause zsh to load</span>
+<span class="c"># a theme from this variable instead of looking in ~/.oh-my-zsh/themes/</span>
+<span class="c"># If set to an empty array, this variable will have no effect.</span>
+<span class="c"># ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )</span>
+
+<span class="c"># Uncomment the following line to use case-sensitive completion.</span>
+<span class="c"># CASE_SENSITIVE="true"</span>
+
+<span class="c"># Uncomment the following line to use hyphen-insensitive completion.</span>
+<span class="c"># Case-sensitive completion must be off. _ and - will be interchangeable.</span>
+<span class="c"># HYPHEN_INSENSITIVE="true"</span>
+
+<span class="c"># Uncomment the following line to disable bi-weekly auto-update checks.</span>
+<span class="c"># DISABLE_AUTO_UPDATE="true"</span>
+
+<span class="c"># Uncomment the following line to automatically update without prompting.</span>
+<span class="c"># DISABLE_UPDATE_PROMPT="true"</span>
+
+<span class="c"># Uncomment the following line to change how often to auto-update (in days).</span>
+<span class="c"># export UPDATE_ZSH_DAYS=13</span>
+
+<span class="c"># Uncomment the following line if pasting URLs and other text is messed up.</span>
+<span class="c"># DISABLE_MAGIC_FUNCTIONS=true</span>
+
+<span class="c"># Uncomment the following line to disable colors in ls.</span>
+<span class="c"># DISABLE_LS_COLORS="true"</span>
+
+<span class="c"># Uncomment the following line to disable auto-setting terminal title.</span>
+<span class="c"># DISABLE_AUTO_TITLE="true"</span>
+
+<span class="c"># Uncomment the following line to enable command auto-correction.</span>
+<span class="c"># ENABLE_CORRECTION="true"</span>
+
+<span class="c"># Uncomment the following line to display red dots whilst waiting for completion.</span>
+<span class="c"># COMPLETION_WAITING_DOTS="true"</span>
+
+<span class="c"># Uncomment the following line if you want to disable marking untracked files</span>
+<span class="c"># under VCS as dirty. This makes repository status check for large repositories</span>
+<span class="c"># much, much faster.</span>
+<span class="c"># DISABLE_UNTRACKED_FILES_DIRTY="true"</span>
+
+<span class="c"># Uncomment the following line if you want to change the command execution time</span>
+<span class="c"># stamp shown in the history command output.</span>
+<span class="c"># You can set one of the optional three formats:</span>
+<span class="c"># "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"</span>
+<span class="c"># or set a custom format using the strftime function format specifications,</span>
+<span class="c"># see 'man strftime' for details.</span>
+<span class="c"># HIST_STAMPS="mm/dd/yyyy"</span>
+
+<span class="c"># Would you like to use another custom folder than $ZSH/custom?</span>
+<span class="c"># ZSH_CUSTOM=/path/to/new-custom-folder</span>
+
+<span class="c"># Which plugins would you like to load?</span>
+<span class="c"># Standard plugins can be found in ~/.oh-my-zsh/plugins/*</span>
+<span class="c"># Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/</span>
+<span class="c"># Example format: plugins=(rails git textmate ruby lighthouse)</span>
+<span class="c"># Add wisely, as too many plugins slow down shell startup.</span>
+<span class="nv">plugins</span><span class="o">=(</span>git<span class="o">)</span>
+
+<span class="nb">source</span> <span class="nv">$ZSH</span>/oh-my-zsh.sh
+
+<span class="c"># User configuration</span>
+
+<span class="c"># export MANPATH="/usr/local/man:$MANPATH"</span>
+
+<span class="c"># You may need to manually set your language environment</span>
+<span class="c"># export LANG=en_US.UTF-8</span>
+
+<span class="c"># Preferred editor for local and remote sessions</span>
+<span class="c"># if [[ -n $SSH_CONNECTION ]]; then</span>
+<span class="c">#   export EDITOR='vim'</span>
+<span class="c"># else</span>
+<span class="c">#   export EDITOR='mvim'</span>
+<span class="c"># fi</span>
+
+<span class="c"># Compilation flags</span>
+<span class="c"># export ARCHFLAGS="-arch x86_64"</span>
+
+<span class="c"># Set personal aliases, overriding those provided by oh-my-zsh libs,</span>
+<span class="c"># plugins, and themes. Aliases can be placed here, though oh-my-zsh</span>
+<span class="c"># users are encouraged to define aliases within the ZSH_CUSTOM folder.</span>
+<span class="c"># For a full list of active aliases, run `alias`.</span>
+<span class="c">#</span>
+<span class="c"># Example aliases</span>
+<span class="c"># alias zshconfig="mate ~/.zshrc"</span>
+<span class="c"># alias ohmyzsh="mate ~/.oh-my-zsh"</span>
+<span class="nb">source</span> ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+<span class="nb">source</span> /usr/share/zsh-antigen/antigen.zsh
+
+<span class="c"># Load the oh-my-zsh's library.</span>
+antigen use oh-my-zsh
+
+<span class="c"># Bundles from the default repo (robbyrussell's oh-my-zsh).</span>
+antigen bundle git
+antigen bundle heroku
+antigen bundle pip
+antigen bundle lein
+antigen bundle command-not-found
+
+<span class="c"># Syntax highlighting bundle.</span>
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+<span class="c"># Load the theme.</span>
+antigen theme robbyrussell
+
+<span class="c"># Tell Antigen that you're done.</span>
+antigen apply
+</code></pre></div></div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
