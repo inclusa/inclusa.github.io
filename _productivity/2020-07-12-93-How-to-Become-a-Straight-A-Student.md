@@ -3,7 +3,7 @@ layout: post # Sustituye el layout si lo usas uno diferente
 title: 93 How to Become a Straight A Student # Nombre generado automáticamente
 ---
 
-### Introducció ###
+### 0. Introducció ###
 
 Claus:
 
@@ -26,7 +26,7 @@ Què saben els estudiants intel·ligents, by Princeton Review:
 6. Presenten la informació en forma de dibuix.
 7. Construeixen gràfiques i mnemotècniques.
 
-### Part 1. Studi bàsic ###
+### A. Estudi bàsic ###
 
 Molts estudiants dediquen molt de temps diari a estudiar però sembla que no hi ha prou hores al dia per tal d'arribar a saber-se tot el que es proposa.
 

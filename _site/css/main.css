@@ -161,11 +161,11 @@ strong { font-weight: bold; color: #424242; }
 
 @media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
 
-.post-content h4 { font-size: 20px; color: deeppink; margin-top: 0.83em; margin-bottom: 0.83em; }
+.post-content h4 { font-size: 20px; color: blue; margin-top: 0.83em; margin-bottom: 0.83em; }
 
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
-.post-content h5 { font-size: 18px; color: darkred; margin-top: 0.83em; margin-bottom: 0.83em; }
+.post-content h5 { font-size: 18px; color: deepskyblue; margin-top: 0.83em; margin-bottom: 0.83em; }
 
 @media screen and (max-width: 800px) { .post-content h5 { font-size: 16px; } }
 
