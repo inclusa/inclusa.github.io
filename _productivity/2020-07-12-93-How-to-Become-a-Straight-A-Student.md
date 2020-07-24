@@ -124,3 +124,5 @@ Eixe és el vedades poder de **recordar coses**, la columna de la teua llista. L
 
 ##### Rearrancat després d'un període de negligència #####
 
+Quan passes períodes de negligència cal tornar a buidar la ment en un full de paper recollint les tasques a fer (TODOS) i canlendaritzar, posar els terminis de les tasques al calendari.
+
