@@ -98,4 +98,29 @@ Cada matí utilitza uns minuts per tal de proposar-te el que hauries d'aconsegui
 
 Aquesta seria la proposta seriosa que hauries de plantejar-te sense oblidar que, aquesta proposta hauria d'ésser raonable.
 
-Revisa la llista del dia anterior
+**Necessites concentració per a estudiar.**
+
+Revisa la llista del dia anterior i mou els TODOS planificats per ahir, sense completar a hui. Descriu els TODOS planificas el dia abans.
+
+Utilitza un full nou amb dues columnes:
+
+|Agenda (hui)|Recorda|
+|10.00 Classe|Estudiar en grup a les 9 pm|
+|11.00 Reunió|Comprar llibre|
+
+Necessites ser intel·ligent en la gestió del temps.
+
+> Assigna un temps a cada tasca amb el temps que vas a tardar per completar-la.
+
+Deixa temps per completar les transicions, necessitaràs descansar, no ajustes molt els temps per deixar espai al descans.
+
+Si no assignes temps no podràs valorar el que tardes en fer les coses. Sovint sobreestimem el temps que tenim per fer les coses o aquestes costen més de fer el que pensàvem.
+
+##### Usa una llista durant el dia #####
+
+Els TODOS i els terminis que sols existeixen en el teu cap drenen la teua energia, et distreuen, creen estrés i probablement els oblides.
+
+Eixe és el vedades poder de **recordar coses**, la columna de la teua llista. La clau és que la llista és una gran peça de magatzemament.
+
+##### Rearrancat després d'un període de negligència #####
+
