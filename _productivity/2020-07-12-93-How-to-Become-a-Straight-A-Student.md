@@ -126,3 +126,15 @@ Eixe és el vedades poder de **recordar coses**, la columna de la teua llista. L
 
 Quan passes períodes de negligència cal tornar a buidar la ment en un full de paper recollint les tasques a fer (TODOS) i canlendaritzar, posar els terminis de les tasques al calendari.
 
+##### Cas d'estudi: Dilluns amb Stephen #####
+
+Veurem com el usa un sistema per mantenir el control de les seues obligacions.
+
+Ell li recorda a un amic que necessita fer les coses una per una. Pensa com pot incrementa l'estrés i la seua eficiència decreix en cas de no tenir un calendari que guie les seues accions i capturar les noves tasques amb els terminis que constantment li sorgeixen.
+
+El cas conta com va capturant les tasques i com va reorganitzant i prioritzant la el que ha de fer per tal d'arribar a tot. És important destacar que, en tindre-ho al paper ho té a la consciència, i amb un xicotet repàs mental pot cercar el moment oportú, sense deixar de prioritzar les tasques importants.
+
+El més important és que té un sistema per analitzar i prioritzar tasques. Finalment troba la manera d'encaixar les tasques que li van sorgint.
+
+La conseqüència més important és que baixa el nivell d'estrés en gestionar tasques.
+
