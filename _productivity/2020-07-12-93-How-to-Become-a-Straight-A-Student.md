@@ -177,3 +177,47 @@ Si has de passar un dissabte treballant dur, pots pensar que diumenge descansar�
 
 #### Pas 3. Canvia Quan, On i Quant de Temps ####
 
+##### Pregunta: Quan és el millor temps d'estudi? Resposta: Prompte #####
+
+Primer cal reunir els materials, després cal tenir clar que s'ha d'estudiar dur.
+
+##### Pregunta: On s'estudia millor? Resposta: Sol #####
+
+Pot mirar al llarg del campus, on pot estudiar tot sol i tenir localitzats els llocs.
+
+Necessites múltiples localitzacions per dues raons:
+
+1. Per exprimir el temps d'estudi entre les classes.
+2. Millor conèixer un lloc adient que tingues prop.
+
+##### Pregunta: Quan de temps estudie? Resposta: No més d'una hora sense descans #####
+
+La web de IPFW Center ofr Academic Support and Advanced states diu: *L'estudi suggerit és de 40-50 minuts incrementaràs la retenció. Després de 40 minuts cal fer un descans de 5 minuts. Si no es fa un descans la retenció és de 30% cap a les 2 hores.*
+
+```txt
+
+Resum
+
+Pas 1. Gestiona el teu temps en 5 minuts
+
+- Anota els terminis
+- Transfereix TODOS al calendari
+- Planeja el teu dia cada matí
+
+Pas 2. Declara la guerra a la procrastinació
+
+- Mantín un diari del progrés
+- Menja sa
+- Transforma horribles tasques en gratificants
+- Construeix rutines de progrés
+- Els dies durs pensa en la recompensa
+
+Pas 3. Quan, On, Quant de temps
+
+- Ajusta el teu treball al matí, vesprada i nit
+- Estudia en llocs on estigues sol
+- Fes un descans cada hora
+
+```
+
+### Part 2. Qüestionaris i Examens ###
