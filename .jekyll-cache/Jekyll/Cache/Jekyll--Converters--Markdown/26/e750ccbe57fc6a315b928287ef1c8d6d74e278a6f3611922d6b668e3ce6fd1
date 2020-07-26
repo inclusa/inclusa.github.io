@@ -1,0 +1,22 @@
+I"5<p>Lorem Ipsum és un text habitualment utilitzat en disseny gràfic i en demostracions tipogràfiques. Es tracta d’un text derivat d’un obra de Ciceró.</p>
+
+<p>Per tal de generar el text i provar la formatació del mateix en diferents contextos hem arribat a aquest recurs <a href="https://getlorem.com/">getlorem</a>, el qual deixa generar en la mateixa web el bloc de text en diverses modalitats.</p>
+
+<p>Però també es pot instal·lar a l’ordinador per mig de <code class="language-plaintext highlighter-rouge">npm</code>, així:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>npm <span class="nt">-g</span> <span class="nb">install </span>getlorem
+</code></pre></div></div>
+
+<p>Després el podrem cridar des de la terminal indicant els paràmetres conveients:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>getlorem <span class="nt">--units</span> words <span class="nt">--count</span> 50
+</code></pre></div></div>
+
+<p>Així obtindriem:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Donec suscipit aliquet class tellus, pellentesque volutpat quisque.
+</code></pre></div></div>
+
+<p>Podem canviar els parametres <code class="language-plaintext highlighter-rouge">words</code>, <code class="language-plaintext highlighter-rouge">paragraphs</code>, <code class="language-plaintext highlighter-rouge">bites</code> o <code class="language-plaintext highlighter-rouge">lists</code>.</p>
+
+:ET
