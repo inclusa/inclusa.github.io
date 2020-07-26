@@ -138,3 +138,42 @@ El més important és que té un sistema per analitzar i prioritzar tasques. Fin
 
 La conseqüència més important és que baixa el nivell d'estrés en gestionar tasques.
 
+#### Pas 2. Declara la guerra a la procrastinació ####
+
+Els bons estudiants també procrastinen, tot i que, en són conscients i posen mesures. Es té una percepció de que és inevitable, així que més val estar preparat perquè, mentre procrastinen el seus iguals no ho faran.
+
+##### Batalla a la Procrastinació Plan #1: Mantín un diari de progrés #####
+
+Sempre tenim una excusa per procrastinar, així que per fer front a aquesta situació cal anotar perquè ho hem fet. Costa trobar excuses, així que, mitjançant aquesta tècnica posem a ratlla el nostre EGO, el qüestionem.
+
+Aquesta tècnica necessita hàbit diari per tal de posar-la en marxa.
+
+##### Batalla a la Procrastinació Plan #2: Alimenta la màquina #####
+
+Molts estudiants manifesten que l'arranc mental és lent, costa començar. Són conscients de les propostes de l'agenda. Per guanyar la batalla necessiten una sèrie de regles nutricionals:
+
+1. **Beu constantment**. La hidratació incrementa la energia.
+2. **Monitoritza la ingesta de café cuidadosament**. La cafeína et fa estar més activat, però una ingesta excessiva ens fa perdre el focus.
+3. **Tracta el menjar com a font d'energia, no de satisfacció**
+4. **No et botes les hores del menjar**.
+
+##### Batalla a la Procrastinació Plan #3: Fes un event de la teua pitjor tasca #####
+
+Canviar d'escenari ajuda a treballar sense els referents contextuals que ens hem construït.
+
+Comprometre's amb els demés fa que la cancel·lació de l'event siga més difícil.
+
+##### Batalla a la Procrastinació Plan #4: Construeix una rutina #####
+
+Construeix l'hàbit de fer una revisió setmanal dels teus objectius.
+
+Si la programes a l'agenda evitaràs que algú et distraga amb alguna proposta.
+
+##### Batalla a la Procrastinació Plan #5: Canvia la teua percepció #####
+
+Quan no pugues evitar un dur dia de treball potser ajuda mantenir el focus en la recompensa.
+
+Si has de passar un dissabte treballant dur, pots pensar que diumenge descansaràs. Mantenir el focus en la recompensa ajuda a passar el dur dia de treball.
+
+#### Pas 3. Canvia Quan, On i Quant de Temps ####
+
