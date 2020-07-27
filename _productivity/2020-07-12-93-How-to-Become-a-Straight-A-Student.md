@@ -218,6 +218,37 @@ Pas 3. Quan, On, Quant de temps
 - Estudia en llocs on estigues sol
 - Fes un descans cada hora
 
-```
+``**
 
-### Part 2. Qüestionaris i Examens ###
+### Part 2. Qüestionaris i Exàmens ###
+
+La majoria d'universitaris són uns terribles estudiants. Ningú els ensenya a estudiar. No revisen les notes importants, no fan descansos, etc.
+
+Identifiquem dos problemes:
+
+1. Pseudotreball
+2. Tècnica deficient, estudien de memòria
+
+La millor manera d'estudiar seria:
+
+1. Mai estudies tota la nit
+2. Respecta el teu temps lliure
+3. Equilibra les coses importants per a tu
+4. Tin estones de temps lliure prop del dia important
+5. Treballa dur des del principi
+6. Utilitza relativament poc temps per a fer els deures o llegir
+7. Desenvolupa un treball de qualitat ininterromput les primeres hores del matí
+
+**Hi ha diferents maneres d'estudiar, estudiar de memòria no és una de les millors.**
+
+Els millors estudiants han desenvolupat un domini de l'estudi simplement per **assaig-error** o amb interaccions amb altres bons estudiants que han desenvolupat estratègies de revisió superiors.
+
+Dos aspectes importants:
+
+1. Quan trauen bona nota, pensen, milloren l'efectivitat de la tècnica.
+2. Cada semestres redefineixen quina és la millor manera d'estudiar amb una ment oberta.
+
+Cal recordar que **aquestes pràctiques no són arbitraries**, estan basades en l'experiència, es van millorant a mesura que en són conscients, desenvolupades sota dures demandes de càrrega de treball.
+
+#### Pas 1. Pren notes intel·ligent ####
+
