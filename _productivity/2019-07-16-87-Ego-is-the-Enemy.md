@@ -24,21 +24,18 @@ L'orador **Demóstenes** va dir una vegada que la **virtut** comença amb la **c
 
 > El primer principi   
 > és que no has d'enganyar-te  
-> i que tu ets la personal   
+> i que tu ets la persona   
 > a la qual és més fàcil enganyar.  
 > -- Richart Feyman
 
-> L'**ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mat
-eix i del talent.
+> L'**ego** és una creència malsana en la nostra pròpia importància. La **necessitat de ser millor que**, més que, reconegut per, més ellà de qualsevol utilitat raonable. És el **sentit de superioritat i certesa** que excedeix els límits de la seguretat en un mateix i del talent.
     
 Quan la noció de nosaltres mateixos i el món es torna tan forta, comença a distorsionar la realitat que ens rodeja.
 
-> La seguretat en un mateix  
-> es torna **arrogància**,  
+> La seguretat en un mateix es torna **arrogància**,  
 > l'assertivitat es torna **obstinació**  
-> i la confiança  
-> en les nostres capacitats  
->es converteix en **descuit**.  
+> i la confiança en les nostres capacitats  
+> es converteix en **descuit**.  
 > -- Bill Walsh
 
 L'**ego** és l'enemic del que desitgem i del que tenim, de la possibilitat d'arribar a dominar un ofici, de la verdadera intuïció creativa, de la possibilitat de treballar bé amb els demés, de construir lleialtat i recolzament, de la longevitat, d'arribar repetides vegades a l'èxit i mantenir-lo. L'**ego** *rebutja les avantatges i les oportunitats*, és un imà per als problemes i els conflictes, per als enemics i per a les errades.
@@ -64,7 +61,7 @@ El propòsit d'aquesta estructura és senzill: ajudar-te a suprimir l'ego abans 
 
 Sols quan estem lliures de l'ego i de la seua influència podem assolir realment el nostre major potencial.
 
-Quan suprimim l'ego ens queda el que és real. El que **reemplaça l'ego és la humilitat**, una humilitat sòlida i una gran seguretat en nosaltres mateixos. Mentre que l'ego és artificial, aquesta classe de seguretat no pot aguantar molt de pes. L'ego és furtat. La seguretat en un mateix és guanya. L'ego s'autoproclama, el seu pavoneig és artificial. **La humilitat ens restringeix, l'ego ens torna bojos**. És la diferència entre una cosa potent i altra verinosa.
+Quan suprimim l'ego ens queda el que és real. El que **reemplaça l'ego és la humilitat**, una humilitat sòlida i una gran seguretat en nosaltres mateixos. Mentre que l'ego és artificial, aquesta classe de seguretat no pot aguantar molt de pes. L'ego és furtat. La seguretat en un mateix es guanya. L'ego s'autoproclama, el seu pavoneig és artificial. **La humilitat ens restringeix, l'ego ens torna bojos**. És la diferència entre una cosa potent i altra verinosa.
 
 Alguns aprenen humilitat, altres elegeixen l'ego.
 
@@ -73,13 +70,12 @@ Alguns aprenen humilitat, altres elegeixen l'ego.
 L'Ego és l'enemic independentment de quines siguen les teues aspiracions.
 
 > Cap ornament et convé més que la modèstia,  
-> A la justícia i l'autocontrol*.  
+> A la justícia i l'autocontrol.  
 > -- Isócrates
 
-Els pares i mestres de la nostra generació es concentraren en construir l'*autoestima* de tot el món. A partir d'ahí, els tòpics dels nostres gurús i les nostres figures públiques han buscat quasi esclusixivament plenar-nos d'inspiració, donar-nos ànim i assegurar-nos que podem fer el que sia que ens proposem fer. Però la realitat és que això ens torna dèbils.
+Els pares i mestres de la nostra generació es concentraren en construir l'*autoestima* de tot el món. A partir d'ahí, els tòpics dels nostres gurús i les nostres figures públiques han buscat quasi esclusixivament plenar-nos d'inspiració, donar-nos ànim i assegurar-nos que podem fer el que siga que ens proposem fer. Però la realitat és que això ens torna dèbils.
 
-> El talent sols  
-> és el punt de partida.  
+> El talent sols és el punt de partida.  
 > -- Irvin Berlin
 
 #### 1.1. Parlar, parlar, parlar ####
@@ -92,11 +88,11 @@ Cadascú de nosaltres té un costat feble que, a l'igual que un sindicat, no és
 
 #### 1.2 Ser o Fer? ####
 
-Les apariències són enganyoses. *Tenir* autoritat no és el mateix que *ser* una autoritat. *Tenir dret* i **estar en el que és cert* tampoc és el mateix. *Impressionar a la gent és totalment diferente a ser verdaderament impressionant*.
+Les apariències són enganyoses. *Tenir* autoritat no és el mateix que *ser* una autoritat. *Tenir dret* i *estar en el que és cert* tampoc és el mateix. *Impressionar a la gent és totalment diferente a ser verdaderament impressionant*.
 
 L'historiador William Durant deia: *Una nació naix estòica i mor sent epicúrea*. 
 
-*Quin és el propòsit de la vida? Què vares venir a fer al món?* El **propòsit** ens ajuda a respondre fàcilment la disyuntiva de **ser** o **tenir.
+*Quin és el propòsit de la vida? Què vares venir a fer al món?* El **propòsit** ens ajuda a respondre fàcilment la disyuntiva de **ser** o **tenir**.
 
 > Un home és forjat  
 > per allò en el que treballa.  
@@ -132,21 +128,32 @@ El poder convertir-se en estudiant no es limita a tenir un període extés d'ins
 
 Avaluar els nostres talents amb criterios que mostres una tendència més bé negativa és una de les coses més difícils de la vida, però és un component del domini d'un ofici.
 
-Fran Shamrock, pioner de les arta marcials mixtes i guanyador de diversos títols deia: *Per a ser gran, cada lluitador necessita tenir algú millor de qui puga aprendre, algú inferior a qui le puga ensenyar i alg igual amb qui es puga medir.*
+> Per a ser gran, cada lluitador necessita 
+> tenir algú millor de qui puga aprendre, 
+> algú inferior a qui le puga ensenyar 
+> i algú igual amb qui es puga medir.
+> -- Fran Shamrocck
+> Pioner de les arts marcials
 
-El propòsit de Fran Shamrock era senzill: **tenir una retroalimentació continua i verdadera del que cada un sap i el que no sap, des de tots els angles.** Aquest sistema elimina l'**ego*** que en fa *envaneixer*, la **por** que ens fa *dubtar* de nosaltres mateixos i la **perea** que pot tentar-nos a *deixar d'esforçar-nos.
+El propòsit de Fran Shamrock era senzill: **tenir una retroalimentació continua i verdadera del que cada un sap i el que no sap, des de tots els angles.** Aquest sistema elimina l'**ego** que en fa **envaneixer**, la **por** que ens fa **dubtar** de nosaltres mateixos i la **perea** que pot tentar-nos a **deixar d'esforçar-nos**.
 
-Un verdader estudiant és com una esponja. Absorbeix el que succeix al seu voltant,ho filtra, reté el que l'interessa. Un estudiant és autocrític i es motiva a sí mateix, sempre tracta de millorar la seua comprensió per a poder passar al següent tòpic, al següent repte. Un estudiant de veritat també és el se propi professor i el seu propi crític. **No hi ha espai per a l'ego**.
+Un **verdader estudiant** és com una esponja. Absorbeix el que succeix al seu voltant, ho filtra, reté el que l'interessa. 
 
-> És impossible aprendre-ho  
+Un **estudiant és autocrític** i es motiva a sí mateix, sempre tracta de millorar la seua comprensió per a poder passar al següent tòpic, al següent repte. 
+
+Un **estudiant de veritat** també és el se propi professor i el seu propi crític. **No hi ha espai per a l'ego**.
+
+> És impossible aprendre  
 > tot el que u pensa que ja sap.  
 > -- Epicteto
 
-A l'ego li desagrada la realitat i prefereix fer les seues pròpies avaluacions.
+A l'**ego** li **desagrada la realitat i prefereix fer les seues pròpies avaluacions**.
 
 L'ego tampoc permet que tinguem un procés d'incubació apropiat.
 
-La humilitat és el que ens manté ahí, preocupats per no saber suficient i conscients de que hen de seguir estudiant. L'ego s'apresura en arribar al final, pensa que la paciència és per als perdedors (la considera, equivocadament una debilitat**, suposa que som suficientment bons per a demostrar-li al món el nostre talent.
+La **humilitat** és el que ens manté ahí, preocupats per no saber suficient i conscients de que hen de seguir estudiant.
+
+L'**ego** s'apresura en arribar al final, pensa que la **paciència** és per als perdedors (la considera, equivocadament una debilitat, suposa que som suficientment bons per a demostrar-li al món el nostre talent.
 
 **L'ego és el nostre enemic, ens ofereix una retroalimentació perversa, desconnectada de la realitat. Ens impedeix millorar diguent-nos que no necessitem millorar.**
 
@@ -167,7 +174,7 @@ Els psicòlegs anomenen **goalodicy** al *desig obsessiu d'assolir les metes*.
 
 John Wooden parlava de *mantenir el control*, *fer el treball* i no convertir-se en esclau de la *passió*.
 
-La **passió** tracta d'opacar les nostres *funcions crtiques*. Els gossos són apassionats, però tenen un avantatge, *disposen d'una memòria de molt curt temini que mant a ratlla l'horrible sensació de futilitat i impotència*.
+La **passió** tracta d'opacar les nostres *funcions crítiques*. Els gossos són apassionats, però tenen un avantatge, *disposen d'una memòria de molt curt temini que manté a ratlla l'horrible sensació de futilitat i impotència*.
 
 El que necessitem els humans és **propòsit** i **realisme**. El **propòsit** és com la **passió** però amb límits. El **realisme** és tenir **distància** i **perspectiva**.
 
@@ -176,16 +183,16 @@ La **passió** sempre té un objecte extern.
 El **propòsit** busca arribar a algun lloc. El propòsit lleva l'èmfasi de yo.
 
 > Grans passions  
-> són enfermetats sense esperança*.  
+> són enfermetats sense esperança.  
 > -- Goethe
 
 Per aquesta raó, una persona **decidida** i plena de **propòsit** opera a un nivell diferent, més enllà de les influències i la enfermetat.
 
-La **passió** és posar la **forma**, el proòpist és pensar en la **funció**, la **funció**, la **funció**.
+La **passió** és posar la **forma**, el propòsit és pensar en la **funció**, la **funció**, la **funció**.
 
 El treball important requereix **determinació** i **consideració**. No passió. No la ingenuitat.
 
-És molt millor si et senteixes intimidat pel que has d'enfrontar, si et sents humil davant la magnitut de la tasca, però decidit a portar-la a terme. Deixa la passió als perturbats i als aficionats. Pots sentir *passió pel que deus fer i dir, però no per allò que et preocupa i que desitges que siga.
+És molt millor si et senteixes intimidat pel que has d'enfrontar, si et sents humil davant la magnitut de la tasca, però decidit a portar-la a terme. Deixa la passió als perturbats i als aficionats. Pots sentir passió pel que deus fer i dir, però no per allò que et preocupa i que desitges que siga.
 
 > Sobretot, sense molt d'entusiasme.  
 > -- Talleyrand, diridit a diplomàtics
@@ -196,11 +203,11 @@ Així podràs fer grans coses i deixaràs de ser una persona amb bones intencion
 
 > Els grans homens   
 > quasi sempre han demostrat  
-> tenir la mateixa capaccitat per a obedir  
+> tenir la mateixa capacitat per a obedir  
 > que la que demostren tenir per a manar.  
 > -- Lord Mahon
 
-En el sistema romano d'arts i ciències existía la figura de l'**anteàmbul**, que significa *aclaridor de camins.
+En el sistema romano d'arts i ciències existía la figura de l'**anteàmbul**, que significa aclaridor de camins.
 
 Busca llenços perquè els demés puguen estar bé. Aclarir el camí a la gent que està per damunt de tu, amb el temps t'obri el teu camí.
 
