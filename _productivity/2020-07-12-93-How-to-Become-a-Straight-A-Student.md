@@ -218,7 +218,7 @@ Pas 3. Quan, On, Quant de temps
 - Estudia en llocs on estigues sol
 - Fes un descans cada hora
 
-``**
+```
 
 ### Part 2. Qüestionaris i Exàmens ###
 
