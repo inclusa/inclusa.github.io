@@ -1,6 +1,6 @@
 ---
 layout: post #
-title: 86 L'Ego és l'enemic # Generat automàticament
+title: 87 L'Ego és l'enemic # Generat automàticament
 date: 2019-07-16 # Data
 description:  # Argument
 keywords:  # Paraules clau
@@ -82,7 +82,7 @@ Els pares i mestres de la nostra generació es concentraren en construir l'*auto
 > és el punt de partida.  
 > -- Irvin Berlin
 
-### 1.1. Parlar, parlar, parlar ###
+#### 1.1. Parlar, parlar, parlar ####
 
 > Els que saben no parlen,  
 > els que parlen no saben.  
@@ -90,7 +90,7 @@ Els pares i mestres de la nostra generació es concentraren en construir l'*auto
 
 Cadascú de nosaltres té un costat feble que, a l'igual que un sindicat, no és exactament malintencionat, però a l'hora de la veritat sempre vol rebre tot el crèdit i l'atenció possible, per fer molt poc. A això anomenem **ego**.
 
-### Ser o Fer? ###
+#### 1.2 Ser o Fer? ####
 
 Les apariències són enganyoses. *Tenir* autoritat no és el mateix que *ser* una autoritat. *Tenir dret* i **estar en el que és cert* tampoc és el mateix. *Impressionar a la gent és totalment diferente a ser verdaderament impressionant*.
 
@@ -119,7 +119,7 @@ Cal deixar els a un constat els interessos egoïsties i preguntar-se:
 Cal elegir **Fer**, centrar-se en el procés per tal de forjar-se i millorar. Cal no pensar que som, que ja hem arribat, sinó que cal continuar aprenent.
 
 
-### 1.3. Convertir-se en estudiant ###
+#### 1.3. Convertir-se en estudiant ####
 
 > No permetem que el fantasma  
 > de cap home torne ací  
@@ -157,7 +157,7 @@ Per axiò hi ha un vell proverbi que diu:
 > El mestre apareixerà  
 > quan l'alumne estiga llest.  
 
-### 1.4. No ser apassionat ###
+#### 1.4. No ser apassionat ####
 
 La nostra pasió potser precisament el que ens impedeix assolir el nostre ple poder o la nostra influència o els nostres objectius.
 
@@ -192,7 +192,7 @@ El treball important requereix **determinació** i **consideració**. No passió
 
 Així podràs fer grans coses i deixaràs de ser una persona amb bones intencions però ineficient.
 
-### 1.5. Seguir l'estratègia del llenç ###
+#### 1.5. Seguir l'estratègia del llenç ####
 
 > Els grans homens   
 > quasi sempre han demostrat  
@@ -204,7 +204,7 @@ En el sistema romano d'arts i ciències existía la figura de l'**anteàmbul**, 
 
 Busca llenços perquè els demés puguen estar bé. Aclarir el camí a la gent que està per damunt de tu, amb el temps t'obri el teu camí.
 
-### 1.6 Oblidar-se de sí mateix ###
+#### 1.6 Oblidar-se de sí mateix ####
 
 > Una persona que pensa tot el temps  
 > no té res més en què pensar  
@@ -221,7 +221,7 @@ Tendim a pensar que l'ego és igual a seguretat en un mateix i que aquests és l
 
 Viure de manera clara, en el present, requereix coratge. No hi ha que viure en l'abstracció, hi ha que viure en el que és tangible i real, tot i que siga incòmode. Deguem ser part del que succeix al nostre voltant. No hi ha ningú pendent de la nostra actuació, sols hi ha treball i lliçons per aprendre.
 
-### 1.7. El perill de l'orgull primerenc ###
+#### 1.7. El perill de l'orgull primerenc ####
 
 > L'home orgullós  
 > sempre està mirant-ho tota  
@@ -249,7 +249,7 @@ Montaine deia: *ser molt orgullós de tu mateix serà la teua ruïna. Sols pensa
 
 El missatge és senzill, no cal presumir, no serveix de res.
 
-### 1.8. Treballar, treballar i treballar ###
+#### 1.8. Treballar, treballar i treballar ####
 
 > El millor pla  
 > es queda en obnes intencions  
@@ -277,7 +277,7 @@ El treball no vol ser bo, som nosaltres els que el fem bo.
 
 *Es coneix al treballador pels rastres que deixa.*
 
-### Per al que siga que segisca, l'ego és l'enemic ###
+#### 1.9. Per al que siga que segisca, l'ego és l'enemic ####
 
 > És cosa sabuda  
 > que la humiltat és una escala  
@@ -307,7 +307,7 @@ Hem d'entendre que som una xicoteta part d'un univers interconnectat.
 
 Hem de construir una organització i un **sistema** al voltant del que **fem**, un sistema al voltant del treball, **no al voltant de nosaltres**.
 
-### 2.1. Mantenir sempre la condició d'estudiant ###
+#### 2.1. Mantenir sempre la condició d'estudiant ####
 
 > Tot home que conec és,  
 > d'alguna manera, el meu superior,  
@@ -339,7 +339,7 @@ Un *aficionat* està a la defensiva, però per un *professional*, **l'aprenentat
 
 Peter Drucker diu que *no és suficient amb sols voler aprendre. A mesura que hom progressa, també deu entendre com aprén i després establir processos per a facilitar l'educació contínua. En cas contrari ens condemnem a una espècie d'ignorància imposada per nosaltres mateixos*.
 
-### 2.2. No contar-se contes ###
+#### 2.2. No contar-se contes ####
 
 > Els mites no es converteixen en mites  
 > en viure'ls, sino en contar-los.  
@@ -364,7 +364,7 @@ La forma de fer coses realment grans sembla ser começar amb coses enganyosament
 
 Cal centrar-nos en l'**execució** allunyant-nos dels crèdits i corones i mantenir-nos centrats en el que estem fent.
 
-### 2.3. Què és el més important per a tu? ###
+#### 2.3. Què és el més important per a tu? ####
 
 > Sabem que el que ens agrada
 > és el començament de
@@ -393,7 +393,7 @@ Quantes més coses tingues més difícil va a ser mantenir la fidelitat al teu f
 
 Cal descobrir què és el que vols i fer cas omís als que vullguen alterar el teu pas.
 
-### 2.4. Privilegis, control i paranoia ###
+#### 2.4. Privilegis, control i paranoia ####
 
 > Una de les senyals de que ens acostem
 > a una crisi nerviosa
@@ -420,7 +420,7 @@ La **paranoia** diu que no pots confiar en ningú.
 
 En el seu frenesí de protegir-se, la paranoia crea la sensació de persecució per fer de la seua víctima una pressonera dels seus propis enganys i del caos.
 
-### 2.5. Saber portar-se ###
+#### 2.5. Saber portar-se ####
 
 > No és suficient tenir grans cualialitats
 > també hem de saber-les gestionar.
@@ -444,7 +444,7 @@ La responsabilitat exigeix un reajust i després requereix que hi haja més clar
 
 En primer lloc cal establir els principals objectius i prioritats de l'organització i de la teua vida. Després, cal perseguir-los amb disciplina. Per produir resultats, sols resultats.
 
-### 2.6. Compte amb l'enfermetat del jo ###
+#### 2.6. Compte amb l'enfermetat del jo ####
 
 > Si jo no sóc per a mí,
 > qui ho serà?
@@ -466,7 +466,7 @@ Després que hem assolit una cosa la tendència és passar-se a la mentalitat d'
 
 Cal no pensar en nosaltres mateixos, cal moderar-nos pel sentit dela humiltat i la generositat.
 
-### 2.7. Meditar sobre la immensitat ###
+#### 2.7. Meditar sobre la immensitat ####
 
 > Un monge és un home
 > separat de tot,
@@ -485,7 +485,7 @@ La **creativitat** és un instrument dereceptivitat i reconeixement. No pot ocor
 
 L'experiència de grandesa fa impossible l'ego.
 
-### 2.8. Mantenir la sobrietat ###
+#### 2.8. Mantenir la sobrietat ####
 
 > El major refinament
 > deriva cap a la simplicitat.
@@ -505,7 +505,7 @@ L'Europa de Churchil requeria una classe de líder. El món interconnectat de hu
 
 La gent més exitosa és la gent de la qual mai hem sentit parlar. Perquè ells així ho volen. Això els permet mantenir la sobrietat. Els ajuda a fer el seu treball.
 
-### 2.9. Per al que sol venir desrpés, l'ego és l'enemic ###
+#### 2.9. Per al que sol venir desrpés, l'ego és l'enemic ####
 
 > La evidència està entregada
 > i vosté és el veredicte.
@@ -571,7 +571,7 @@ La gent humil no té tan de problema amb les situacions de fracàs com els egoc�
 
 El que importa és poder respondre al que ens ve per davant.
 
-### 3.1. Temps Viu i o Temps Mort ###
+#### 3.1. Temps Viu i o Temps Mort ####
 
 Segons Robert Green hi ha dos tipus de temps:
 
@@ -582,7 +582,7 @@ Segons Robert Green hi ha dos tipus de temps:
 
 En la vida tots tenim un poc de **temps mort**, això no ho podem controlar. Cal no permetre que la situació empitjore.
 
-### 3.2. Que l'esforç siga suficient ###
+#### 3.2. Que l'esforç siga suficient ####
 
 > El que l'importa a un home actiu  
 > és fer el que siga correcte;
@@ -610,7 +610,7 @@ Insistim en desitjar, en necessitar, sols ens estem posan en una posició procli
 
 **Fer el treball és suficient.**
 
-### 3.3. Moments de El Club de la Pelea ###
+#### 3.3. Moments de El Club de la Baralla ####
 
 > Si hom tanca la veritat  
 > i l'amaga sota terra,  
@@ -656,7 +656,7 @@ Enfrontar els símptomes, curar l'enfermetat. L'ego posa mols obstacles, doncs �
 > que es puguen tornar a alçar.
 > -- Vince Lombardi
 
-### 3.4. Posar Límits ###
+#### 3.4. Posar Límits ####
 
 > Pot arruïnar la teua vida  
 > sol si arruina el teu caràcter.
@@ -679,7 +679,7 @@ L'ego diu que sóm un objecte inamobible, una força imparable. Aquesta fantasia
 > d'un home que està viu.
 > -- Sèneca
 
-### 3.5. Porta el teu propi puntatge ###
+#### 3.5. Porta el teu propi puntatge ####
 
 > Mai mire cap arrere,
 > execpte per investigar
@@ -710,7 +710,7 @@ Una persona que valora el treball d'equip pot compartir el crèdit i sotmetre el
 
 Avancem cap a una milloria de veritat amb **disciplina** més que amb **disposició**.
 
-### 3.6. Amar sempre ###
+#### 3.6. Amar sempre ####
 
 > I per què hauriem de sentir  
 > ràbia amb el món?  
@@ -727,7 +727,7 @@ En el fracàs o l'adversitat és molt més fàcil odicar, l'**odi posposa la cul
 
 Entretant, l'amor està ahí. Lliure de l'ego, obert, positiu, vulnerable, pacífic i productiu.
 
-### 3.7. Per a tot el que segueix, l'ego és l'enemic... ###
+#### 3.7. Per a tot el que segueix, l'ego és l'enemic... ####
 
 > No m'agrada treballa,  
 > a cap home li agrada,  
