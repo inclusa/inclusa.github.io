@@ -252,3 +252,17 @@ Cal recordar que **aquestes pràctiques no són arbitraries**, estan basades en 
 
 #### Pas 1. Pren notes intel·ligent ####
 
+- Reuneix tots els materials.
+- Formata les teues notes de forma agressiva.
+- Captura les notes utilitzant aquesta estructura: Pregunta-Evidència-Conclusió.
+- Anota les conclusions clarament.
+- Anota breus exemples.
+- Recopila lectures exactes, textos explicatius.
+- Amb els cursos tècnics:
+  - Recull molts exemples.
+  - No lligues els llibres del text, però mantint-los prop.
+  - Prioritza les teus notes:
+    1. Escriu la pregunta i la resposta
+    2. Pregunta de confusió
+    3. Recopila problemes exemples
+    4. Anota tots els passos
