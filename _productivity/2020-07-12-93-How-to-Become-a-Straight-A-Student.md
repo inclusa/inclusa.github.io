@@ -266,3 +266,21 @@ Cal recordar que **aquestes pràctiques no són arbitraries**, estan basades en 
     2. Pregunta de confusió
     3. Recopila problemes exemples
     4. Anota tots els passos
+
+
+#### Pas 2. Deixa de mirar les tasques assignades ####
+
+Deixa de mirar les tasques pendents, has de preparar grans examens i projectes.
+
+##### Centrat en acabar #####
+
+- No revises les tasques constantment, centrat en acabar.
+- Planifica la setmana diumenge per la vesprada per estructurar i prioritzar tasques per tal que no tingues en ment constantment que has de fer aquesta revisió i priorització.
+- Ho ho llisques tot, selecciona els llibres a llegir per argument, persona i context.
+- Anar a classe redueix la necessitat de llegir.
+- Confirma les teues decisions.
+- Prendre notes de les lectures afavoreix la presa de decisions.
+- Concentra't en pocs problemes, evita la fatiga mental.
+- Resol problemes pel camí.
+- Escriu prompte, ja aniràs depurant el contingut.
+
