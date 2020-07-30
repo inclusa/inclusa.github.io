@@ -284,3 +284,54 @@ Deixa de mirar les tasques pendents, has de preparar grans examens i projectes.
 - Resol problemes pel camí.
 - Escriu prompte, ja aniràs depurant el contingut.
 
+#### Pas 3. Domina els teus recursos ####
+
+La majoria dels estudiants de 10 no pensen que estudiar és un problema important. Ells realitzen el treball requerit per fer els examens acomplir els objectius a través de les lectures requerides i solventar els conjunts de problemes. Estudiant que quan arriben els examens han aprés idees des de zero. Aquest que pateixen son i fan maratonianes sessions d'estudi.
+
+> Els estudiants intel·ligents entenen que si estudies dur, llavors alguna cosa estàs fent malament.
+
+Preparar un examen ho ha de ser tan dolorós. Si poses en pràctica el pas 1, prens notes de forma intel·ligent, el el pas 2, deixes de mirar les tasques assignades perquè les has organitzat, no deus patir.
+
+A l'inici d'un qüestionari o examen has de fer dues coses:
+
+1. Organitzar el teu material eficientment.
+2. Centrar-te en la revisió del material.
+
+##### Defineix el desafiament #####
+
+Enfocat a classes no tècniques, material d'estudi.
+
+Abans de posar-te a estudiar has de definir l'àmbit d'estudi. Has de saber què vol el professor que conegues.
+
+- Lectures assignades.
+- Preguntes que et faran.
+- Si a l'examen es poden mirar apunts o llibres.
+- Fórmules que hauràs de saber.
+- Temps disponible.
+
+##### Construeix una guia d'estudi #####
+
+Enfocat a classes no tècniques, material d'estudi.
+
+- Lectures que has de llegir.
+- Apunts que has pres.
+
+##### Construeix un gran conjunt de problemes #####
+
+Enfocat a classes tècniques, material d'estudi.
+
+- Lectures.
+- Exemples de lectures.
+- Fulls de paper amb data de lectura.
+- Fixeu aquestes idees en la pàgina 1.
+
+##### Prepara ajuda per a la memorització #####
+
+Utilitza flashcards per memoritzar fórmules, equacions químiques, obres d'art, dates i cronologies.
+
+##### Agenda la teua organització sàviament #####
+
+No t'organitzes i estudies el mateix dia. Si ho fas així la teua ment estarà massa cansada per fer-ho efectivament.
+
+Si mantens les dues tasques separades acabaràs el treball amb és efectivitats, amb menys temps i millors resultats.
+
