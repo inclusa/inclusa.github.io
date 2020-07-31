@@ -335,3 +335,25 @@ No t'organitzes i estudies el mateix dia. Si ho fas així la teua ment estarà m
 
 Si mantens les dues tasques separades acabaràs el treball amb és efectivitats, amb menys temps i millors resultats.
 
+#### Pas 4. Conquesta el material ####
+
+Cal que et passes qüestionaris per tal de comprovar que estàs assolint la matèria que se't proposa.
+
+#### Pas 5. Investiga el desastre acadèmic ####
+
+Cal previndre el desastre acadèmic amb quatre passos:
+
+1. Pregunta durant la classe
+2. Desenvolupa l'hàbit de parlar breument amb el professor per tal d'aclarir conceptes
+3. Pregunta als companys
+4. Prepara l'examen revisant les sessions
+
+#### Pas 6. Construeix-te "A+" respostes ####
+
+1. Revisa primer, respon després
+2. Fes un pressupost de temps
+3. Procedeix de més fàcil a més difícil
+4. Esbossa l'assaig
+5. Comprova el teu treball
+
+#### El Plan en Acció ####
