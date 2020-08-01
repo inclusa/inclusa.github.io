@@ -357,3 +357,115 @@ Cal previndre el desastre acadèmic amb quatre passos:
 5. Comprova el teu treball
 
 #### El Plan en Acció ####
+
+Comentarem situacions d'estudiants hipotètics per tal de mostrar decisions i línies d'accions.
+
+> Un sistema d'estudi sols és útil si la teua habilitat s'adapta a la teua única situació.
+
+##### Cas d'estudi 01 - Història del semestre de Julie #####
+
+###### a. Dilluns dues setmanes abans de l'examen ######
+
+El professor diu que segueixen aquestes indicacions:
+
+- L'examen consistirà principalment en desenvolupar un assaig a partir de qüestions. Els tòpics seran amples, però els estudiants necessitaran citar les fonts.
+- Es presentarà un timeline d'història dels events i es preguntarà a l'estudiant que ordenen els ordenen cronològicament.
+
+Cal desenvolupar un plan d'abordatge per evitar l'estrés.
+
+Es programa al calendari:
+
+- Dissabte: Imprimir apunts rellevants i preparar les estratègies de memorització.
+- Diumenge: Enfocar la energia construint qüestionaris a partir de les seues notes.
+
+Després del diumenge es dóna compte de que ha iniciat un important pas respecte a la internalització del contingut i de tota la informació necessària.
+
+###### b. De dilluns a divendres - Una setmana abans de l'examen ######
+
+- Dilluns: Treballa 2 hores per respondre dues preguntes d'un qüestionari que ella mateixa es proposa.
+- Dimarts: Treballa en la memorització de Flash Cards durant 25 minuts.
+- Dimecres: Treball 2:30 h responent a dues preguntes.
+- Dijous: Dedica 1 h per memorització de Flash Cards.
+- Divendres: Dedica 2h per acabar dues preguntes del qüestionari.
+
+Al final del divendres Julie no queda satisfeta de les repostes del qüestionari. Anota a la llibreta que ha de millorar aquestes més avant.
+
+###### c. Dissabte - Dos dies abans de l'examen ######
+
+Espera acabar d'estudiar aquest cap de setmana.
+
+Prepara la seua **inversió d'assegurança de desastres acadèmics**: *fa una llista de preguntes de les quals no té la resposta i les envia per email als seus companys esperant que li proposen millores*.
+
+###### d. Dilluns - El dia de l'examen ######
+
+Ha sacrificat el cap de setmana estudiant.
+
+Ha enviat uns pocs emails als companys. Aquest matí ha repassat les qüestions i les flash cards per augmentar la seua confiaça.
+
+Finalment, s'enfronta a l'examen saben exactament què ha de fer:
+
+1. Escriu correctament la cronologia.
+2. Revisa les quatre qüestions que ha seguit i les sigua en ordre de dificultat.
+3. Cita les fonts.
+4. Revisa els arguments paraula per paraula.
+
+Julie clava la cronologia i trau una nota A.
+
+Una amiga que trau una nota B, es queixa de la seua nota perquè ella ha estudiat una hora el cap de setmana i unes poques hores abans.
+
+Julie no esmenta el desplegament de recursos que ha fet per traure la nota A.
+
+##### Cas d'estudi 02 - Examen de Càlcul de Michael #####
+
+Michael té un examen de càlcul, però admiteix que no li agrada el càlcul.
+
+L'examen consistirà en un conjunt de problemes.
+
+###### a. Dilluns - 4 dies abans de l'examen ######
+
+Un sistema es pot adaptar i aplicar a altres contextos amb més limitacions.
+
+Cal recordar que en acabar l'examen cal tenir consciència de què és el que hem fet per arribar.
+
+Michael desenvolupa estrés al principi, però, aquest estrés, es pot mitigar significativament amb el coneixement del nostre sistema.
+
+Michael té assignat un problema cada setmana.
+
+Passos:
+
+1. Recopilar els apunts on pot mirar els exemples dels problemes.
+2. Escriu en un tros de paper un exemple de cada problema.
+3. Revisa els problemes anotant comentaris significatius en els mateixos.
+4. Cada full de paper representa un conjunt de problemes.
+
+###### b. Dimarts - 3 dies abans de l'examen ######
+
+S'alça a les 8:30 am i estudia 2 h.
+
+Com que ha utilitzat el mètode del qüestionari, ha recopilat en aquest cas els problemes necessaris, s'enfoca ràpidament en el que ha d'estudiar.
+
+###### c. Dimecres - 2 dies abans de l'examen ######
+
+Continua estudiant de manera sistemàtica seguint el conjunt de problemes que prèviament ha classificat i ha escrit comentaris.
+
+###### d. Dijous - 1 dia abans de l'examen ######
+
+Després de revisar el conjunt de problemes escriu en un paper: *no entenc el pas 4 en la resolució del problema del dia 28/09/05.
+
+Michael pregunta específicament el seu dubte a un company, que després de revisar moltes notes durant molt de temps arriba a la solució i aclareixen el dubte.
+
+###### e. Divendres - Dia de l'examen ######
+
+Michael seu a part durant 5 minuts i revisa els comentaris marcats dels problemes tipus.
+
+Després que li entregen l'exament Michael revisa els passos del seu sistema:
+
+1. Ordena les preguntes per ordre de dificultat.
+2. Mira les preguntes però ràpidament queda bloquejat. El temps avança i comença a sentir pànic.
+3. Respira profundament i recorda l'estrategia.
+4. Demostra la seua sòlida comprensió i les estratègies subjacents.
+5. Elimina de la seua ment altres distraccions centrant-se en el problema.
+6. Pensa clarament en el procediment.
+7. En uns minuts revisa amb molta cura els seus records.
+
+Mai pergues la calma.
