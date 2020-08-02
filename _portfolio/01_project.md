@@ -2,7 +2,7 @@
 layout: post
 title: Llagostí
 description: couching escolar<br />acompanyament
-img: ..//img/12.jpg
+img: https://images.unsplash.com/photo-1467649165350-bdae46d9779b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1234&q=80
 redirect: http://llagosti.wordpress.com
 ---
 
