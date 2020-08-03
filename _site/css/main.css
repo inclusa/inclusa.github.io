@@ -169,6 +169,10 @@ strong { font-weight: bold; color: #424242; }
 
 @media screen and (max-width: 800px) { .post-content h5 { font-size: 16px; } }
 
+.post-content h6 { font-size: 16px; color: blue; margin-top: 0.83em; margin-bottom: 0.83em; }
+
+@media screen and (max-width: 800px) { .post-content h6 { font-size: 16px; } }
+
 .post-meta { font-size: 14px; color: #828282; margin-bottom: 0px; }
 
 .post-link { display: block; font-size: 42px; }
