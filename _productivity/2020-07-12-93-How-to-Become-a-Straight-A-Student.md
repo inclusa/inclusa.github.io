@@ -470,7 +470,7 @@ Després que li entregen l'exament Michael revisa els passos del seu sistema:
 
 Mai pergues la calma.
 
-### Assajos i Papers ###
+### Part 3. Assajos i Papers ###
 
 Per escriure una tesi doctoral separa aquests components:
 
