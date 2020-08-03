@@ -469,3 +469,12 @@ Després que li entregen l'exament Michael revisa els passos del seu sistema:
 7. En uns minuts revisa amb molta cura els seus records.
 
 Mai pergues la calma.
+
+### Assajos i Papers ###
+
+Per escriure una tesi doctoral separa aquests components:
+
+1. Tamisa els teus arguments.
+2. Dóna forma al teu argument.
+3. Comunica el teu argument amb claredat.
+
