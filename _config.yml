@@ -36,6 +36,7 @@ collections:
 plugins:
         - jekyll-paginate
         - jekyll-scholar
+        - jekyll-toc
 
 # Port
 port: 4001 # Canvia el port del server al 4001

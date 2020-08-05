@@ -478,3 +478,43 @@ Per escriure una tesi doctoral separa aquests components:
 2. Dóna forma al teu argument.
 3. Comunica el teu argument amb claredat.
 
+#### Pas 1. Orientat cap a un títol ####
+
+Mantín en teu interés enfocat a mesura que lliges.
+
+#### Pas 2. Realitza una expedició de caça de tesis ####
+
+Dos objectius:
+
+1. Busca una tesi interessant que puga ser suportada pels àmbits d'assignament.
+2. Minimitza el temps requerit a la conducta que estàs buscant.
+
+#### Pas 3. Busca una segona opinió ####
+
+Plantejat aquestes qüestions:
+
+1. És la meua idea apropiada per a les tasques?
+2. És massa ampla?
+3. Es massa simple?
+
+#### Pas 4. Investiga com una màquina ####
+
+Segueix aquests 4 passos:
+
+1. Busca recursos.
+   Estratègies:
+       1. Divideix les qüestions en parts més xicotetes.
+       2. Usa un diari de bases de dades.
+       3. Quan tingues un dubte, Google.
+       4. Pregunta en una llibreria.
+2. Fes còpies de totes les fonts.
+3. Anota el material.
+4. Decideix si ho has fet.
+
+#### Pas 5. Treballa de forma atesana la història ####
+
+#### Pas 6. Consulta a un expert ####
+
+#### Pas 7. Escriu sense angoixa ####
+
+#### Pas 8. Arregla, no remendar ####
