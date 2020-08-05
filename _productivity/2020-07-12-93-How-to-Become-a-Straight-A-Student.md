@@ -1,6 +1,7 @@
 ---
 layout: post # Sustituye el layout si lo usas uno diferente
 title: 93 How to Become a Straight A Student # Nombre generado automáticamente
+toc: true
 ---
 
 ### 0. Introducció ###
