@@ -1,210 +1,6 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>92 Com aprenem</title>
-    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
-">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/productivity/2020-07-09-92-Com-aprenem/">
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-
-
-  <body>
-
-    <header class="site-header">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- inclusa instead of blog -->
-        <a class="page-link" href="/">blog</a>
-
-        
-          
-          <a class="page-link" href="/about/">id</a>
-          
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/poetry/">sen</a>
-          
-        
-          
-          <a class="page-link" href="/portfolio/">por</a>
-          
-        
-          
-          <a class="page-link" href="/productivitat/">pro</a>
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">92 Com aprenem</h1>
-    <p class="post-meta">July 8, 2020 — 00:00</p>
-  </header>
-
-  <article class="post-content">
-    <ul class="section-nav">
-<li class="toc-entry toc-h3"><a href="#introducció">Introducció</a></li>
-<li class="toc-entry toc-h3"><a href="#bloc-1-la-ciència-de-com-aprenem">Bloc 1. La ciència de com aprenem</a>
-<ul>
-<li class="toc-entry toc-h4"><a href="#1-estudi-científic-de-laprenentatge-i-de-lensenyament">1. Estudi científic de l’aprenentatge i de l’ensenyament</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#lexperiència-personal-i-els-biaix-cognitius">L’experiència personal i els biaix cognitius</a></li>
-<li class="toc-entry toc-h5"><a href="#biaix-de-confirmació-i-disonància-cognitiva">Biaix de confirmació i disonància cognitiva</a></li>
-<li class="toc-entry toc-h5"><a href="#el-mètode-científic-com-a-antídot-dels-biaixos">El mètode científic com a antídot dels biaixos</a></li>
-<li class="toc-entry toc-h5"><a href="#nivells-dinvestigació-de-laprenentatge-o-lensenyament">Nivells d’investigació de l’aprenentatge o l’ensenyament</a></li>
-<li class="toc-entry toc-h5"><a href="#experiments-a-laula">Experiments a l’aula</a></li>
-<li class="toc-entry toc-h5"><a href="#la-correlació-no-implica-causalitat">La correlació no implica causalitat</a></li>
-<li class="toc-entry toc-h5"><a href="#ensenyament-informat-per-levidència">Ensenyament informat per l’evidència</a></li>
-<li class="toc-entry toc-h5"><a href="#mites-pseudocientífics">Mites pseudocientífics</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toc-entry toc-h3"><a href="#bloc-2-els-processos-cognitius-de-laprenentatge">Bloc 2. Els processos cognitius de l’aprenentatge</a>
-<ul>
-<li class="toc-entry toc-h4"><a href="#21-els-components-de-la-memòria">2.1. Els components de la memòria</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#memòries-múltiples">Memòries múltiples</a></li>
-<li class="toc-entry toc-h5"><a href="#memòria-a-curt-termini-i-memòria-a-llarg-termini">Memòria a Curt Termini i Memòria a Llarg Termini</a></li>
-<li class="toc-entry toc-h5"><a href="#sistemes-de-memòria-a-llarg-termini">Sistemes de Memòria a Llarg Termini</a></li>
-<li class="toc-entry toc-h5"><a href="#memòria-explícita">Memòria Explícita</a></li>
-<li class="toc-entry toc-h5"><a href="#memòria-implícita">Memòria Implícita</a></li>
-<li class="toc-entry toc-h5"><a href="#memòria-procedimental">Memòria Procedimental</a></li>
-<li class="toc-entry toc-h5"><a href="#condicionament-clàssic-i-condicionament-emocional">Condicionament Clàssic i Condicionament Emocional</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#22-organització-de-la-memòria">2.2. Organització de la memòria</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#analogies-de-la-memòria-humana">Analogies de la memòria humana</a></li>
-<li class="toc-entry toc-h5"><a href="#un-model-de-memòria">Un Model de Memòria</a></li>
-<li class="toc-entry toc-h5"><a href="#coneixements-previs">Coneixements Previs</a></li>
-<li class="toc-entry toc-h5"><a href="#creant-connexions">Creant connexions</a></li>
-<li class="toc-entry toc-h5"><a href="#la-teoria-dels-nivells-de-processament">La Teoria dels Nivells de Processament</a></li>
-<li class="toc-entry toc-h5"><a href="#aprenentatge-actiu">Aprenentatge Actiu</a></li>
-<li class="toc-entry toc-h5"><a href="#activació-dels-coneixements-previs">Activació dels coneixements previs</a></li>
-<li class="toc-entry toc-h5"><a href="#avaluació-dels-coneixements-previs">Avaluació dels coneixements previs</a></li>
-<li class="toc-entry toc-h5"><a href="#aprenentatge-amb-comprensió">Aprenentatge amb comprensió</a></li>
-<li class="toc-entry toc-h5"><a href="#disseny-dactivitats">Disseny d’activitats</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#23-els-processos-de-la-memòria">2.3. Els Processos de la Memòria</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#un-magatzem-virtualment-infinit">Un magatzem virtualment infinit</a></li>
-<li class="toc-entry toc-h5"><a href="#evocar-el-que-aprenem">Evocar el que aprenem</a></li>
-<li class="toc-entry toc-h5"><a href="#practicar-levocació">Practicar l’evocació</a></li>
-<li class="toc-entry toc-h5"><a href="#dificultats-desitjables">Dificultats Desitjables</a></li>
-<li class="toc-entry toc-h5"><a href="#què-succeeix-quan-evoquem-un-record-o-coneixement">¿Què succeeix quan evoquem un record o coneixement?</a></li>
-<li class="toc-entry toc-h5"><a href="#levocació-no-sols-millora-laprenentatge-factual">L’evocació no sols millora l’aprenentatge factual</a></li>
-<li class="toc-entry toc-h5"><a href="#mètodes-per-a-practicar-levocació">Mètodes per a practicar l’evocació</a></li>
-<li class="toc-entry toc-h5"><a href="#evocació-espaiada">Evocació espaiada</a></li>
-<li class="toc-entry toc-h5"><a href="#evocació-entrellaçada">Evocació entrellaçada</a></li>
-<li class="toc-entry toc-h5"><a href="#repetició">Repetició</a></li>
-<li class="toc-entry toc-h5"><a href="#loblit-pèrdua-dinformació-o-incapacitat-per-evocar-la">L’oblit: ¿Pèrdua d’informació o incapacitat per evocar-la?</a></li>
-<li class="toc-entry toc-h5"><a href="#la-memòria-no-és-un-múscul">La memòria no és un múscul</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#24-la-reorganització-de-la-memòria">2.4. La reorganització de la memòria</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#persistència-de-les-idees">Persistència de les Idees</a></li>
-<li class="toc-entry toc-h5"><a href="#aprendre-fet-i-aprendre-conceptes">Aprendre Fet i Aprendre Conceptes</a></li>
-<li class="toc-entry toc-h5"><a href="#aprendre-nous-conceptes">Aprendre nous conceptes</a></li>
-<li class="toc-entry toc-h5"><a href="#tipus-de-canvi-conceptual">Tipus de Canvi Conceptual</a></li>
-<li class="toc-entry toc-h5"><a href="#el-canvi-conceptual-i-la-classe-expositiva">El Canvi Conceptual i la Classe Expositiva</a></li>
-<li class="toc-entry toc-h5"><a href="#promoure-el-canvi-conceptual-a-laula">Promoure el Canvi Conceptual a l’aula</a></li>
-<li class="toc-entry toc-h5"><a href="#guiar-els-alumnes-cap-al-canvi-conceptual">Guiar els alumnes cap al canvi conceptual</a></li>
-<li class="toc-entry toc-h5"><a href="#autoexplicacions">Autoexplicacions</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#25-la-transferència-de-laprenentatge">2.5. La Transferència de l’Aprenentatge</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#aprendre-per-a-transferir">Aprendre per a transferir</a></li>
-<li class="toc-entry toc-h5"><a href="#la-doctrina-de-la-disciplina-formal">La doctrina de la disciplina formal</a></li>
-<li class="toc-entry toc-h5"><a href="#factors-que-facilien-la-trasferència">Factors que facilien la trasferència</a></li>
-<li class="toc-entry toc-h5"><a href="#aprenentatge-amb-comprensió-1">Aprenentatge amb comprensió</a></li>
-<li class="toc-entry toc-h5"><a href="#aprendre-és-transferir">Aprendre és transferir</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#26-la-memòria-de-treball">2.6. La Memòria de Treball</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#más-allá-de-una-memoria-a-corto-plazo">Más allá de una memoria a corto plazo</a></li>
-<li class="toc-entry toc-h5"><a href="#les-limitacions-de-la-memòria-de-treball">Les limitacions de la memòria de treball</a></li>
-<li class="toc-entry toc-h5"><a href="#els-compoents-de-la-memòria-de-treball">Els compoents de la memòria de treball</a></li>
-<li class="toc-entry toc-h5"><a href="#la-teoria-de-la-càrrega-cognitiva">La Teoria de la Càrrega Cognitiva</a></li>
-<li class="toc-entry toc-h5"><a href="#la-capacitat-de-la-memòria-de-treball-com-a-característica-de-lalumne">La capacitat de la memòria de treball com a característica de l’alumne</a></li>
-<li class="toc-entry toc-h5"><a href="#la-memòria-de-treball-i-laprenentatge-en-lescola">La memòria de treball i l’aprenentatge en l’escola</a></li>
-<li class="toc-entry toc-h5"><a href="#mesurar-la-memòria-de-treball">Mesurar la memòria de treball</a></li>
-<li class="toc-entry toc-h5"><a href="#gestionar-la-càrrega-cognitiva-en-laula">Gestionar la càrrega cognitiva en l’aula</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#a-reduir-la-càrrega-cognitiva-aliena">a. Reduir la càrrega cognitiva aliena</a></li>
-<li class="toc-entry toc-h6"><a href="#b-regular-la-càrrega-cognitiva-intrínseca">b. Regular la càrrega cognitiva intrínseca</a></li>
-<li class="toc-entry toc-h6"><a href="#c-optimitzar-la-càrrega-cognitiva-rellevant">c. Optimitzar la càrrega cognitiva rellevant</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#27-laprenentatge-profund">2.7. L’aprenentatge profund</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#talent-o-pràctica">Talent o pràctica?</a></li>
-<li class="toc-entry toc-h5"><a href="#què-diferencia-els-experts-dels-novells">Què diferencia els experts dels novells?</a></li>
-<li class="toc-entry toc-h5"><a href="#percepció">Percepció</a></li>
-<li class="toc-entry toc-h5"><a href="#raonament">Raonament</a></li>
-<li class="toc-entry toc-h5"><a href="#resolució-de-problemes">Resolució de Problemes</a></li>
-<li class="toc-entry toc-h5"><a href="#anàlisi-crític">Anàlisi Crític</a></li>
-<li class="toc-entry toc-h5"><a href="#creativitat">Creativitat</a></li>
-<li class="toc-entry toc-h5"><a href="#com-sassoleix-la-condició-dexpert">Com s’assoleix la condició d’expert?</a></li>
-<li class="toc-entry toc-h5"><a href="#la-pràctica-fa-al-mestre">La pràctica fa al mestre</a></li>
-<li class="toc-entry toc-h5"><a href="#descompondre-i-integrar">Descompondre i integrar</a></li>
-<li class="toc-entry toc-h5"><a href="#la-pràctica-escolar">La pràctica escolar</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toc-entry toc-h3"><a href="#3-els-factors-socioemocionals-de-laprenentatge">3. Els Factors Socioemocionals de l’Aprenentatge</a>
-<ul>
-<li class="toc-entry toc-h4"><a href="#31-el-paper-de-les-emocions-en-lapenentatge">3.1. El Paper de les Emocions en l’Apenentatge</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#aprenentatge-i-emocions">Aprenentatge i Emocions</a></li>
-<li class="toc-entry toc-h5"><a href="#a-què-ens-referim-quan-parlem-democions-en-educació">A què ens referim quan parlem d’emocions en educació?</a></li>
-<li class="toc-entry toc-h5"><a href="#què-són-les-emocions">Què són les emocions</a></li>
-<li class="toc-entry toc-h5"><a href="#com-modula-lemoció-laprenentatge-i-la-memòria">Com modula l’emoció l’aprenentatge i la memòria</a></li>
-<li class="toc-entry toc-h5"><a href="#lefecte-sorpresa-i-la-curiositat-de-la-memòria">L’Efecte Sorpresa i la Curiositat de la Memòria</a></li>
-<li class="toc-entry toc-h5"><a href="#emocions-per-a-aprendre">Emocions per a Aprendre</a></li>
-<li class="toc-entry toc-h5"><a href="#emocions-i-assoliment">Emocions i Assoliment</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul><p><strong>Títol:</strong> ¿Com aprenem?<br>
-<strong>Subtítol:</strong> Una aproximació científica a l’aprenetatge i l’ensenyament.<br>
-<strong>Autor:</strong> Héctor Ruiz Martín<br>
+I"�<p><strong>Títol:</strong> ¿Com aprenem?<br />
+<strong>Subtítol:</strong> Una aproximació científica a l’aprenetatge i l’ensenyament.<br />
+<strong>Autor:</strong> Héctor Ruiz Martín<br />
 <strong>Editorial:</strong> Interntational Scicence Teaching Foundation. Graó.</p>
 
 <pre><code class="language-txt">Bloc 1. La cinència de com aprenem
@@ -241,18 +37,17 @@ Annex. Mites pseudocientífics sobre l'aprenentatge
 Referències
 </code></pre>
 
-<p><br>
+<p><br />
 <a href="https://www.youtube.com/embed/EqCEbhHuTQs">Vídeo</a>
-<br>
-<br></p>
+<br />
+<br /></p>
 
-<h3 id="introducció">
-<a class="anchor" href="#introducci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introducció</h3>
+<h3 id="introducció">Introducció</h3>
 
-<p><em>L’aprenentage és el resultat del que l’alumne fa  <br>
-i pensa, i sols del que l’alumne fa i pensa.  <br>
-El professor sols pot promoure l’aprenentage  <br>
-influint sobre le que l’alumne fa i pensa.</em>  <br>
+<p><em>L’aprenentage és el resultat del que l’alumne fa  <br />
+i pensa, i sols del que l’alumne fa i pensa.  <br />
+El professor sols pot promoure l’aprenentage  <br />
+influint sobre le que l’alumne fa i pensa.</em>  <br />
 <small>Herbert A. Simon</small></p>
 
 <p>Idees:</p>
@@ -264,8 +59,7 @@ influint sobre le que l’alumne fa i pensa.</em>  <br>
   <li>No naixem saben com aprén el cervell, es dóna espontàniament.</li>
 </ul>
 
-<h3 id="bloc-1-la-ciència-de-com-aprenem">
-<a class="anchor" href="#bloc-1-la-ci%C3%A8ncia-de-com-aprenem" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bloc 1. La ciència de com aprenem</h3>
+<h3 id="bloc-1-la-ciència-de-com-aprenem">Bloc 1. La ciència de com aprenem</h3>
 
 <p>Idees:</p>
 
@@ -274,8 +68,7 @@ influint sobre le que l’alumne fa i pensa.</em>  <br>
   <li>Per què aquesta recerca aporta informació única per corroborar les decisions que prenem.</li>
 </ul>
 
-<h4 id="1-estudi-científic-de-laprenentatge-i-de-lensenyament">
-<a class="anchor" href="#1-estudi-cient%C3%ADfic-de-laprenentatge-i-de-lensenyament" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Estudi científic de l’aprenentatge i de l’ensenyament</h4>
+<h4 id="1-estudi-científic-de-laprenentatge-i-de-lensenyament">1. Estudi científic de l’aprenentatge i de l’ensenyament</h4>
 
 <blockquote>
   <p>És increïble tot el que no saps sobre el joc
@@ -284,8 +77,7 @@ al que has estat jugant tota la vida.
 Jugador de Béisbol</p>
 </blockquote>
 
-<h5 id="lexperiència-personal-i-els-biaix-cognitius">
-<a class="anchor" href="#lexperi%C3%A8ncia-personal-i-els-biaix-cognitius" aria-hidden="true"><span class="octicon octicon-link"></span></a>L’experiència personal i els biaix cognitius</h5>
+<h5 id="lexperiència-personal-i-els-biaix-cognitius">L’experiència personal i els biaix cognitius</h5>
 
 <p>Els docents, prenem decisions a diari per tal de millorar el nostre treball.</p>
 
@@ -298,20 +90,16 @@ Jugador de Béisbol</p>
 <p>Les <strong>fal·làcies</strong> són raonaments, que avaluats amb calma, sota la ment lògica no són realment correctes.</p>
 
 <ul>
-  <li>
-<strong>Fal·làcia ad hominem</strong>. Quan l’argument no regat la posició o les afirmacions de l’interlocutor, sinó que cerca desqualifcar el propi interlocutor amb l’objectiu de desacreditar la seua posició.</li>
-  <li>
-<strong>Fal·làcia at verecundiam</strong>. Argument que apel·la al prestigi o a l’autoritat d’algú o d’alguna institució per a recolzar una afirmació, malgrat no aportar evidències o raons que la justifiquen.</li>
-  <li>
-<strong>Fal·làcia ad populum</strong>. Quan atribuïm la nostra opinió a l’opinió de la majoria i a partir d’ací argumentem que si la majoria pensa tal cosa, és que deu ser certa.</li>
+  <li><strong>Fal·làcia ad hominem</strong>. Quan l’argument no regat la posició o les afirmacions de l’interlocutor, sinó que cerca desqualifcar el propi interlocutor amb l’objectiu de desacreditar la seua posició.</li>
+  <li><strong>Fal·làcia at verecundiam</strong>. Argument que apel·la al prestigi o a l’autoritat d’algú o d’alguna institució per a recolzar una afirmació, malgrat no aportar evidències o raons que la justifiquen.</li>
+  <li><strong>Fal·làcia ad populum</strong>. Quan atribuïm la nostra opinió a l’opinió de la majoria i a partir d’ací argumentem que si la majoria pensa tal cosa, és que deu ser certa.</li>
 </ul>
 
 <p>Els <strong>biaixos cognitius</strong> influeixen en la nostra manera de veure el món.</p>
 
 <p>Els <strong>biaixos cognitius</strong> són fenòmens psicològics involuntaris que distorsionen el processament de la informació: com percebem, com la interpretem i com la recordem.</p>
 
-<h5 id="biaix-de-confirmació-i-disonància-cognitiva">
-<a class="anchor" href="#biaix-de-confirmaci%C3%B3-i-dison%C3%A0ncia-cognitiva" aria-hidden="true"><span class="octicon octicon-link"></span></a>Biaix de confirmació i disonància cognitiva</h5>
+<h5 id="biaix-de-confirmació-i-disonància-cognitiva">Biaix de confirmació i disonància cognitiva</h5>
 
 <p>El <strong>biaix</strong> provoca que interpretem la mateixa informació de manera totalment distinta a com ho farien altres persones, veient-la alineada amb les nostres conviccions.</p>
 
@@ -331,13 +119,11 @@ que prefereixen que siga cert.
 
 <p>Per a aquest propòsit no existeix millor remei que el <strong>mètode científic</strong>.</p>
 
-<h5 id="el-mètode-científic-com-a-antídot-dels-biaixos">
-<a class="anchor" href="#el-m%C3%A8tode-cient%C3%ADfic-com-a-ant%C3%ADdot-dels-biaixos" aria-hidden="true"><span class="octicon octicon-link"></span></a>El mètode científic com a antídot dels biaixos</h5>
+<h5 id="el-mètode-científic-com-a-antídot-dels-biaixos">El mètode científic com a antídot dels biaixos</h5>
 
 <p>La ciència mai ens dirà què deguem fer o no. Solament ens pot informar de què és més probable que passe quan fem una cosa o altra.</p>
 
-<h5 id="nivells-dinvestigació-de-laprenentatge-o-lensenyament">
-<a class="anchor" href="#nivells-dinvestigaci%C3%B3-de-laprenentatge-o-lensenyament" aria-hidden="true"><span class="octicon octicon-link"></span></a>Nivells d’investigació de l’aprenentatge o l’ensenyament</h5>
+<h5 id="nivells-dinvestigació-de-laprenentatge-o-lensenyament">Nivells d’investigació de l’aprenentatge o l’ensenyament</h5>
 
 <p>La <strong>neurobiologia</strong> investiga com es produeix l’aprenentatge a nivell molecular, cel·lular i d’òrgans i sistemes. Estudia com el sistema nerviós actua en qualitat de suport físic dels fenòmens relacionats amb l’aprenentatge.</p>
 
@@ -345,45 +131,36 @@ que prefereixen que siga cert.
 
 <p>La <strong>neurociència</strong> investiga l’estructura i funcionament del sistema nerviós des d’una perspectiva fisiològica, així, la <strong>neurociència educativa</strong> seria l’equivalent a la branca neurobiològica.</p>
 
-<h5 id="experiments-a-laula">
-<a class="anchor" href="#experiments-a-laula" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experiments a l’aula</h5>
+<h5 id="experiments-a-laula">Experiments a l’aula</h5>
 
 <p>Dos tipus d’aproximacions:</p>
 
 <ul>
-  <li>
-<strong>Descriptiva</strong>. Es limita a obtenir dades, bé numèriques o qualitatives, que li permeten descriure com són les coses. Permeten descriure objectivament com són les coses. Aquest tipus de recerca fa possible detectar correlacions.</li>
-  <li>
-<strong>Experimental</strong>. Permet analitzar la relació que existeix entre diferents variables e identificar relacions de causa-efecte.</li>
+  <li><strong>Descriptiva</strong>. Es limita a obtenir dades, bé numèriques o qualitatives, que li permeten descriure com són les coses. Permeten descriure objectivament com són les coses. Aquest tipus de recerca fa possible detectar correlacions.</li>
+  <li><strong>Experimental</strong>. Permet analitzar la relació que existeix entre diferents variables e identificar relacions de causa-efecte.</li>
 </ul>
 
 <p>Per afirmar alguna cosa cienfíficament hi ha que aportar evidències, no val la fal·làcia que si no s’ha pogut demostrar el contrari, lalvors es que no ha de ser així, <strong>fal·làcia ad ignorantiam</strong>.</p>
 
-<h5 id="la-correlació-no-implica-causalitat">
-<a class="anchor" href="#la-correlaci%C3%B3-no-implica-causalitat" aria-hidden="true"><span class="octicon octicon-link"></span></a>La correlació no implica causalitat</h5>
+<h5 id="la-correlació-no-implica-causalitat">La correlació no implica causalitat</h5>
 
 <p>La causalitat implica correlació, però a la inversa no és necessàriament correcte.</p>
 
-<h5 id="ensenyament-informat-per-levidència">
-<a class="anchor" href="#ensenyament-informat-per-levid%C3%A8ncia" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ensenyament informat per l’evidència</h5>
+<h5 id="ensenyament-informat-per-levidència">Ensenyament informat per l’evidència</h5>
 
 <p>Es tracta d’utilitzar la ciència per ajudar-nos a identificar com es produeixen els millors aprenentatges.</p>
 
-<h5 id="mites-pseudocientífics">
-<a class="anchor" href="#mites-pseudocient%C3%ADfics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mites pseudocientífics</h5>
+<h5 id="mites-pseudocientífics">Mites pseudocientífics</h5>
 
 <p>Són un problema perquè ens confundeixen i ens porten a prendre decisions i a dedicar esforços en favor de pràctiques que no conten amb cap evidència.</p>
 
-<h3 id="bloc-2-els-processos-cognitius-de-laprenentatge">
-<a class="anchor" href="#bloc-2-els-processos-cognitius-de-laprenentatge" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bloc 2. Els processos cognitius de l’aprenentatge</h3>
+<h3 id="bloc-2-els-processos-cognitius-de-laprenentatge">Bloc 2. Els processos cognitius de l’aprenentatge</h3>
 
 <p>Els processos cognitius de l’aprenentatge són els mecanismes implicant en el processament de la informació que arriba al cervell a través dels sentits, i, especialment, els relacionats amb la forma enque aquesta infomració és codificada, emmagatzemada i recuperada posteriorment.</p>
 
-<h4 id="21-els-components-de-la-memòria">
-<a class="anchor" href="#21-els-components-de-la-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.1. Els components de la memòria</h4>
+<h4 id="21-els-components-de-la-memòria">2.1. Els components de la memòria</h4>
 
-<h5 id="memòries-múltiples">
-<a class="anchor" href="#mem%C3%B2ries-m%C3%BAltiples" aria-hidden="true"><span class="octicon octicon-link"></span></a>Memòries múltiples</h5>
+<h5 id="memòries-múltiples">Memòries múltiples</h5>
 
 <p>Tot el que aprenem ho aprenem amb la memòria.</p>
 
@@ -393,8 +170,7 @@ que prefereixen que siga cert.
 
 <p>Una funció important de la memòria sensorial, per tant, és permetre al nostre cervell analitzar quanta més informació externa millor, en la cerca d’estímuls significatius que siguen mereixedors de resposta immediata i que requerisquen de la nostra atenció.</p>
 
-<h5 id="memòria-a-curt-termini-i-memòria-a-llarg-termini">
-<a class="anchor" href="#mem%C3%B2ria-a-curt-termini-i-mem%C3%B2ria-a-llarg-termini" aria-hidden="true"><span class="octicon octicon-link"></span></a>Memòria a Curt Termini i Memòria a Llarg Termini</h5>
+<h5 id="memòria-a-curt-termini-i-memòria-a-llarg-termini">Memòria a Curt Termini i Memòria a Llarg Termini</h5>
 
 <p>La <strong>memòria a curt termini</strong>, hui coneguda com a <strong>memòria de treball</strong>, constitueix el procés mental pel qual mantenim i manipulem la informació a la qual estem prestant atenció.</p>
 
@@ -404,8 +180,7 @@ que prefereixen que siga cert.
 
 <p>La <strong>memòria a llarg termini</strong> no sols es refereix a la nostra habilitat per a guardar records i coneixements del que experimentem conscientment, també inclou la nostra capacitat per aprendre habilitats motores.</p>
 
-<h5 id="sistemes-de-memòria-a-llarg-termini">
-<a class="anchor" href="#sistemes-de-mem%C3%B2ria-a-llarg-termini" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sistemes de Memòria a Llarg Termini</h5>
+<h5 id="sistemes-de-memòria-a-llarg-termini">Sistemes de Memòria a Llarg Termini</h5>
 
 <p>Els psicòlegs cognitius distingueixen dos tipus de memòria a llarg termini:</p>
 
@@ -418,22 +193,18 @@ que prefereixen que siga cert.
 
 <p>La segon està conformada per <strong>múltiples sistemes</strong> que deriven de la capacitat de modular, a partir de l’experiència, els circuits neurals que <strong>controlen les nostres respostes</strong>.</p>
 
-<h5 id="memòria-explícita">
-<a class="anchor" href="#mem%C3%B2ria-expl%C3%ADcita" aria-hidden="true"><span class="octicon octicon-link"></span></a>Memòria Explícita</h5>
+<h5 id="memòria-explícita">Memòria Explícita</h5>
 
 <p>S’encarrega de crear i conservar representacions del món que ens rodeja, en forma de records i coneixements (Roediger et al., 2008).</p>
 
 <p>Dos subtipus de memòria explícita:</p>
 
 <ol>
-  <li>
-<strong>Memòria Episòdica</strong>. Enregistra els records de la nostra vida vinculats a llocs i moments.</li>
-  <li>
-<strong>Memòria Semàntica</strong>. Enregistra o dota de significat als coneixements de com és i de com funciona el món.</li>
+  <li><strong>Memòria Episòdica</strong>. Enregistra els records de la nostra vida vinculats a llocs i moments.</li>
+  <li><strong>Memòria Semàntica</strong>. Enregistra o dota de significat als coneixements de com és i de com funciona el món.</li>
 </ol>
 
-<h5 id="memòria-implícita">
-<a class="anchor" href="#mem%C3%B2ria-impl%C3%ADcita" aria-hidden="true"><span class="octicon octicon-link"></span></a>Memòria Implícita</h5>
+<h5 id="memòria-implícita">Memòria Implícita</h5>
 
 <p>Ens permet adaptar la conducta als entorns canviats, fer prediccions per a guiar les nostres decisions, desenvolupar habilitats útils per al nostre benefici e intervenir sobre el medi amb solucions creatives.</p>
 
@@ -443,8 +214,7 @@ que prefereixen que siga cert.
 
 <p>També resulta interessant el condicionament clàssic i el condicionament emocional.</p>
 
-<h5 id="memòria-procedimental">
-<a class="anchor" href="#mem%C3%B2ria-procedimental" aria-hidden="true"><span class="octicon octicon-link"></span></a>Memòria Procedimental</h5>
+<h5 id="memòria-procedimental">Memòria Procedimental</h5>
 
 <p>La <strong>memòria procedimental</strong> explica la nostra capacitat per aprendre tot tipus d’habilitats.</p>
 
@@ -452,27 +222,23 @@ que prefereixen que siga cert.
 
 <p>Una de les diferències importants entre la <strong>memòria procedimental</strong> i la <strong>memòria explícita</strong> és que la <strong>memòria explícita</strong> pot generar aprenentatges de manera immediata, mentre que la <strong>memòria procedimental</strong> és lenta i gradual (Ullman, 2016)</p>
 
-<h5 id="condicionament-clàssic-i-condicionament-emocional">
-<a class="anchor" href="#condicionament-cl%C3%A0ssic-i-condicionament-emocional" aria-hidden="true"><span class="octicon octicon-link"></span></a>Condicionament Clàssic i Condicionament Emocional</h5>
+<h5 id="condicionament-clàssic-i-condicionament-emocional">Condicionament Clàssic i Condicionament Emocional</h5>
 
 <p>L’aprenentatge per condicionament opera al marge de l’aprenentatge explícit.</p>
 
 <p>Hi ha estímuls que ens poden provocar reaccions emocionals quan ens els trobem.</p>
 
-<p><img src="/img/memoria.png" alt="Memòria"></p>
+<p><img src="/img/memoria.png" alt="Memòria" /></p>
 
-<h4 id="22-organització-de-la-memòria">
-<a class="anchor" href="#22-organitzaci%C3%B3-de-la-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.2. Organització de la memòria</h4>
+<h4 id="22-organització-de-la-memòria">2.2. Organització de la memòria</h4>
 
-<h5 id="analogies-de-la-memòria-humana">
-<a class="anchor" href="#analogies-de-la-mem%C3%B2ria-humana" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analogies de la memòria humana</h5>
+<h5 id="analogies-de-la-memòria-humana">Analogies de la memòria humana</h5>
 
 <p>La memòria no tindria res paregut a les prestatgeries d’una biblioteca, que es poden emplenar amb llibres nous. Els coneixements que tenim constitueixen el substrat sobre el que podem situar nous coneixements.</p>
 
 <p>Els coneixements formen xarxes on cada element es connecta amb els que manté una relació de significat. Per incorporar coneixements nous, aquests deuen connectar-se a estructures de coneixments existents amb les que guarden una relació semàntica.</p>
 
-<h5 id="un-model-de-memòria">
-<a class="anchor" href="#un-model-de-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>Un Model de Memòria</h5>
+<h5 id="un-model-de-memòria">Un Model de Memòria</h5>
 
 <p><strong>Lev Vygotsky (1896-1934)</strong> afirmava <strong>les persones connecten el que aprenen amb el que ja saben, interpretant la nova informació a través de la lent dels seus coneixements previs.</strong></p>
 
@@ -482,8 +248,7 @@ que prefereixen que siga cert.
 
 <p>Bartlett va hipotetizar que els nostres esquemes constitueixen el substrat sobre el qual incorporem nous coneixements, deformant-los per a acomodar-los a aquestes estructures.</p>
 
-<h5 id="coneixements-previs">
-<a class="anchor" href="#coneixements-previs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Coneixements Previs</h5>
+<h5 id="coneixements-previs">Coneixements Previs</h5>
 
 <p>Els nostres coneixements previs influeixen en la nostra capacitat per a aprendre.</p>
 
@@ -491,8 +256,7 @@ que prefereixen que siga cert.
 
 <p>Quan més sabem, més podem aprendre. Per aquest motiu, una de les diferències més importants entre els alumnes són els coneixements previs amb els que arriben a classe.</p>
 
-<h5 id="creant-connexions">
-<a class="anchor" href="#creant-connexions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Creant connexions</h5>
+<h5 id="creant-connexions">Creant connexions</h5>
 
 <p>Aprenem connectant la nova informació als nostres coneixements previs. I les connexions que podem realitzar són de tipus semàntic: són relacions de significat que sorgeixen a partir de l’experiència, quan apreciem que l’objecte d’aprenentatge comparteix propietats, contextos o relacions de causa-efecte. entre d’altres, amb els nostres coneixements previs.</p>
 
@@ -502,8 +266,7 @@ que prefereixen que siga cert.
 
 <p>Així, aprenem quan activem els coneixements previs rellevants i els connectem amb el’objecte d’aprenentatge. Quan més connexions realitzem, més sòlid serà l’aprenentatge, i més fàcil resultarà recuperar-lo quan resulte necessari, perquè més contextos diferents l’activaran.</p>
 
-<h5 id="la-teoria-dels-nivells-de-processament">
-<a class="anchor" href="#la-teoria-dels-nivells-de-processament" aria-hidden="true"><span class="octicon octicon-link"></span></a>La Teoria dels Nivells de Processament</h5>
+<h5 id="la-teoria-dels-nivells-de-processament">La Teoria dels Nivells de Processament</h5>
 
 <p>En 1973, <strong>Thomas Hyde</strong> i <strong>James Jenkins</strong> estaven analitzant si la voluntat explícita de recordar alguna cosa tenia algun efecte sobre la nostra capacitat de recordar-lo.</p>
 
@@ -515,8 +278,7 @@ que prefereixen que siga cert.
 
 <p>Pensar sobre alguna cosa en termes de significat implica vincular la nova informació als nostres coneixements previs. A majors relacions, més sòlida serà la nostra assimilació.</p>
 
-<h5 id="aprenentatge-actiu">
-<a class="anchor" href="#aprenentatge-actiu" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprenentatge Actiu</h5>
+<h5 id="aprenentatge-actiu">Aprenentatge Actiu</h5>
 
 <p>L’<strong>aprenentatge actiu</strong> no és <em>fer coses</em>. Això podria respondre al concepte d’<strong>aprendre fent</strong>.</p>
 
@@ -536,18 +298,15 @@ que prefereixen que siga cert.
   <p>Els nostres alumnes no són tabula rasa, venen a la classe amb coneixements, que usaran per dotar de significat als nous coneixements relacionant el que ja saben amb el nou coneixement.</p>
 </blockquote>
 
-<h5 id="activació-dels-coneixements-previs">
-<a class="anchor" href="#activaci%C3%B3-dels-coneixements-previs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Activació dels coneixements previs</h5>
+<h5 id="activació-dels-coneixements-previs">Activació dels coneixements previs</h5>
 
 <p>Per a que l’estudiant relacione el que aprén amb el que sap, és necessari que active els seus coneixements previs. La majoria d’alumnes no fan aquest exercici, per això és molt important realitzar activitats que ajuden a relacionar aquests coneixements.</p>
 
-<h5 id="avaluació-dels-coneixements-previs">
-<a class="anchor" href="#avaluaci%C3%B3-dels-coneixements-previs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Avaluació dels coneixements previs</h5>
+<h5 id="avaluació-dels-coneixements-previs">Avaluació dels coneixements previs</h5>
 
 <p>Conèixer els coneixements previs dels alumnes és una cosa més important del que sembla a priori.</p>
 
-<h5 id="aprenentatge-amb-comprensió">
-<a class="anchor" href="#aprenentatge-amb-comprensi%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprenentatge amb comprensió</h5>
+<h5 id="aprenentatge-amb-comprensió">Aprenentatge amb comprensió</h5>
 
 <p>Si els coneixements previs no es connecten s’incorporen com coneixements inerts, impossibles d’activar en altres contextos, el seu destí acaben sent oblidats.</p>
 
@@ -555,35 +314,27 @@ que prefereixen que siga cert.
 
 <p>Les bases que uns coneixements ben consolidats proporcionen per a construir nous coneixements sobre ells són més sòlides quan millor connectats estan.</p>
 
-<h5 id="disseny-dactivitats">
-<a class="anchor" href="#disseny-dactivitats" aria-hidden="true"><span class="octicon octicon-link"></span></a>Disseny d’activitats</h5>
+<h5 id="disseny-dactivitats">Disseny d’activitats</h5>
 
 <p>El disseny d’activitats haurà de garantir que els alumnes dediquen més temps a pensar sobrel els objectius de l’aprenentatge, i no tant perdre’s amb detalls superflus.</p>
 
 <p>Les millors activitats seran aquelles que, al llarg del seu desenvolupament, ens porten als alumnes a pensar sobre l’objecte de l’aprenentatge, ja siga perquè han d’usar-lo, interpretar-lo, discutir-lo, explicar-lo amb les seues pròpies paraules, o a través de qualsevol activitat que requerisca donar-li significat.</p>
 
-<h4 id="23-els-processos-de-la-memòria">
-<a class="anchor" href="#23-els-processos-de-la-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.3. Els Processos de la Memòria</h4>
+<h4 id="23-els-processos-de-la-memòria">2.3. Els Processos de la Memòria</h4>
 
-<h5 id="un-magatzem-virtualment-infinit">
-<a class="anchor" href="#un-magatzem-virtualment-infinit" aria-hidden="true"><span class="octicon octicon-link"></span></a>Un magatzem virtualment infinit</h5>
+<h5 id="un-magatzem-virtualment-infinit">Un magatzem virtualment infinit</h5>
 
 <p>Quanta més informació guardem més difícil pot resultar trobar un detall concret i recuperar-lo quan resulte necessari.</p>
 
-<h5 id="evocar-el-que-aprenem">
-<a class="anchor" href="#evocar-el-que-aprenem" aria-hidden="true"><span class="octicon octicon-link"></span></a>Evocar el que aprenem</h5>
+<h5 id="evocar-el-que-aprenem">Evocar el que aprenem</h5>
 
 <p>Nivells per rescatar un record:</p>
 
 <ol>
-  <li>
-<strong>Familiaritat</strong>. Quan ens sona alguna cosa.</li>
-  <li>
-<strong>Reconeixement</strong>. Reconeguem que sabem alguna cosa però no som capaços d’evocar-la espontàniament.</li>
-  <li>
-<strong>Record mediat per pistes</strong>. Podem evocar records si obtenim els indicis adients que ens permeten trobar-lo a la memòria.</li>
-  <li>
-<strong>Record lliure</strong>. El podem aconseguir a partir d’una única pista.</li>
+  <li><strong>Familiaritat</strong>. Quan ens sona alguna cosa.</li>
+  <li><strong>Reconeixement</strong>. Reconeguem que sabem alguna cosa però no som capaços d’evocar-la espontàniament.</li>
+  <li><strong>Record mediat per pistes</strong>. Podem evocar records si obtenim els indicis adients que ens permeten trobar-lo a la memòria.</li>
+  <li><strong>Record lliure</strong>. El podem aconseguir a partir d’una única pista.</li>
 </ol>
 
 <p>La <strong>consolidació</strong> i l’<strong>evocació</strong> són processos distints.</p>
@@ -591,16 +342,12 @@ que prefereixen que siga cert.
 <p>Quan parlem d’<strong>aprenentatge</strong> és molt important apreciar que aprendre implcia tres processos necessàriament distints:</p>
 
 <ol>
-  <li>
-<strong>Codificació</strong>. Obtenir informació.</li>
-  <li>
-<strong>Consolidació i emmagatzemament</strong>. Conservar la informació.</li>
-  <li>
-<strong>Evocació</strong>. Ser capaços d’evocar-la.</li>
+  <li><strong>Codificació</strong>. Obtenir informació.</li>
+  <li><strong>Consolidació i emmagatzemament</strong>. Conservar la informació.</li>
+  <li><strong>Evocació</strong>. Ser capaços d’evocar-la.</li>
 </ol>
 
-<h5 id="practicar-levocació">
-<a class="anchor" href="#practicar-levocaci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Practicar l’evocació</h5>
+<h5 id="practicar-levocació">Practicar l’evocació</h5>
 
 <p>Per a aprendre és necessari practicar.</p>
 
@@ -619,8 +366,7 @@ que prefereixen que siga cert.
 
 <p>Que siguem capaços de recordar una cosa just després d’haver-la estudiat no significa que siguem capaços de recordar-la més avant.</p>
 
-<h5 id="dificultats-desitjables">
-<a class="anchor" href="#dificultats-desitjables" aria-hidden="true"><span class="octicon octicon-link"></span></a>Dificultats Desitjables</h5>
+<h5 id="dificultats-desitjables">Dificultats Desitjables</h5>
 
 <p>Practicar l’evocació és més costós mentalment (i frustrant) que repetir l’assimilació.</p>
 
@@ -634,20 +380,17 @@ que prefereixen que siga cert.
   <p>Quan posem en pràctica el que hem aprés, el fet d’afrontar una sèrie de circumstàncies que cognitivament ens ho posen més difícil, però no impossible, repercutirà en una millor consolidació de l’aprenentatge a llarg termini.</p>
 </blockquote>
 
-<h5 id="què-succeeix-quan-evoquem-un-record-o-coneixement">
-<a class="anchor" href="#qu%C3%A8-succeeix-quan-evoquem-un-record-o-coneixement" aria-hidden="true"><span class="octicon octicon-link"></span></a>¿Què succeeix quan evoquem un record o coneixement?</h5>
+<h5 id="què-succeeix-quan-evoquem-un-record-o-coneixement">¿Què succeeix quan evoquem un record o coneixement?</h5>
 
 <p>L’analogia de que la ment és com un biblioteca no és bona, la ment no reprodueix records amb la fidelitat amb el que ho fa un llibre o un ordinador.</p>
 
 <p>En activar un record vinculem relacions de significat i conduïm a una reconstrucció diferent.</p>
 
-<h5 id="levocació-no-sols-millora-laprenentatge-factual">
-<a class="anchor" href="#levocaci%C3%B3-no-sols-millora-laprenentatge-factual" aria-hidden="true"><span class="octicon octicon-link"></span></a>L’evocació no sols millora l’aprenentatge factual</h5>
+<h5 id="levocació-no-sols-millora-laprenentatge-factual">L’evocació no sols millora l’aprenentatge factual</h5>
 
 <p>La pràctica de l’evolcació no es limita a millorar únicament aprenentatges factuals (fets i dades), evocar engloba una varietat de pràctiques. En cada acte d’evocació es produeix una nova oportunitat per integrar el que hem aprés.</p>
 
-<h5 id="mètodes-per-a-practicar-levocació">
-<a class="anchor" href="#m%C3%A8todes-per-a-practicar-levocaci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mètodes per a practicar l’evocació</h5>
+<h5 id="mètodes-per-a-practicar-levocació">Mètodes per a practicar l’evocació</h5>
 
 <p>El docent proporciona pistes que ajudaran a apreciar les connexions entre el que saben i la nova situació a abordar.</p>
 
@@ -661,47 +404,39 @@ que prefereixen que siga cert.
 
 <p>Les proves avaluatives ajuden a aprndre perquè es basen en l’evocació.</p>
 
-<h5 id="evocació-espaiada">
-<a class="anchor" href="#evocaci%C3%B3-espaiada" aria-hidden="true"><span class="octicon octicon-link"></span></a>Evocació espaiada</h5>
+<h5 id="evocació-espaiada">Evocació espaiada</h5>
 
 <p>Quan més temps transcorre entre evocacions major és la eficàcia a llarg termini.</p>
 
 <p>Millor estudiar una hora cada dia que cinc hores seguides.</p>
 
-<h5 id="evocació-entrellaçada">
-<a class="anchor" href="#evocaci%C3%B3-entrella%C3%A7ada" aria-hidden="true"><span class="octicon octicon-link"></span></a>Evocació entrellaçada</h5>
+<h5 id="evocació-entrellaçada">Evocació entrellaçada</h5>
 
 <p>La pràctica entrellaçada produeix aprenentatges més flexibles i duradors.</p>
 
-<h5 id="repetició">
-<a class="anchor" href="#repetici%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Repetició</h5>
+<h5 id="repetició">Repetició</h5>
 
 <p>La repetició no genera aprenentatge més duradors, ja que cal tenir en compte les connexions de significats per tal de fer-los duradors.</p>
 
 <p>La repetició és important per a consolidar l’aprenentatge, però no val qualsevol repetició ni és necessari repetir res massivament, ja que resulta millor dosificar-lo, espaiar-lo i entrellaçar-lo.</p>
 
-<h5 id="loblit-pèrdua-dinformació-o-incapacitat-per-evocar-la">
-<a class="anchor" href="#loblit-p%C3%A8rdua-dinformaci%C3%B3-o-incapacitat-per-evocar-la" aria-hidden="true"><span class="octicon octicon-link"></span></a>L’oblit: ¿Pèrdua d’informació o incapacitat per evocar-la?</h5>
+<h5 id="loblit-pèrdua-dinformació-o-incapacitat-per-evocar-la">L’oblit: ¿Pèrdua d’informació o incapacitat per evocar-la?</h5>
 
 <p>La fragilitat dels aprenentatges escolars depén de que els alumnes vinculen molt esquemes a molts pocs contextos.</p>
 
-<h5 id="la-memòria-no-és-un-múscul">
-<a class="anchor" href="#la-mem%C3%B2ria-no-%C3%A9s-un-m%C3%BAscul" aria-hidden="true"><span class="octicon octicon-link"></span></a>La memòria no és un múscul</h5>
+<h5 id="la-memòria-no-és-un-múscul">La memòria no és un múscul</h5>
 
 <p>La memòria no és una habilitat que millora de manera general en executar-la, sinó que el seu fortaleiment depén de l’obtenció de coneixements. Aquest coneixements han d’estar dotats de significats.</p>
 
-<h4 id="24-la-reorganització-de-la-memòria">
-<a class="anchor" href="#24-la-reorganitzaci%C3%B3-de-la-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.4. La reorganització de la memòria</h4>
+<h4 id="24-la-reorganització-de-la-memòria">2.4. La reorganització de la memòria</h4>
 
-<h5 id="persistència-de-les-idees">
-<a class="anchor" href="#persist%C3%A8ncia-de-les-idees" aria-hidden="true"><span class="octicon octicon-link"></span></a>Persistència de les Idees</h5>
+<h5 id="persistència-de-les-idees">Persistència de les Idees</h5>
 
 <p>Es va fer un estudi a la universitat de Hardvard, després de la ceremònia de graduació preguntant: ¿Per què existeixen les estacions de l’any? 21 dels 23 entrevistats van donar respostes incorrectes.</p>
 
 <p>Això reflecteix que, la manera amb la qual els alumnes s’aproximen al conexiement en l’escola no comporta un aprenentatge significatiu, que transforme les seues preconcepcions. Els alumnes es centre en passar examens.</p>
 
-<h5 id="aprendre-fet-i-aprendre-conceptes">
-<a class="anchor" href="#aprendre-fet-i-aprendre-conceptes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprendre Fet i Aprendre Conceptes</h5>
+<h5 id="aprendre-fet-i-aprendre-conceptes">Aprendre Fet i Aprendre Conceptes</h5>
 
 <p>Cal diferenciar que, per avançar en el coneixement, hem de distingir:</p>
 
@@ -714,15 +449,13 @@ que prefereixen que siga cert.
 
 <p>Les idees dels alumnes xoquen amb les explicacions o procediments formals que els tractem d’ensenyar. El que dificulta l’aprenentatge no és tant el que no sabem com el que ja saben.</p>
 
-<h5 id="aprendre-nous-conceptes">
-<a class="anchor" href="#aprendre-nous-conceptes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprendre nous conceptes</h5>
+<h5 id="aprendre-nous-conceptes">Aprendre nous conceptes</h5>
 
 <p>La forma més habitual d’aprenentatge és per <strong>transmisió</strong>. Els conceptes arriben a la ment de l’alumne i per a retenir-los ha de connectar-lso amb les seues xarxes de coneixements previs per mig de relacions semàntiques. D’aquest mode s’amplien amb més dades, que es fortaleixen i flexibilitzen.</p>
 
 <p>L’ensenyament de nous conceptes no és tasca senzilla, requereix un <strong>recablejat</strong>, necessita temps, múltiples oportunitats i motivació per part dels alumnes.</p>
 
-<h5 id="tipus-de-canvi-conceptual">
-<a class="anchor" href="#tipus-de-canvi-conceptual" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tipus de Canvi Conceptual</h5>
+<h5 id="tipus-de-canvi-conceptual">Tipus de Canvi Conceptual</h5>
 
 <p>Quan un canvi conceptual que requereix d’una <strong>reestructuració</strong>, els conceptes existents implicats deixen de tenir validesa. <strong>No canvien perquè s’amplien sinó perquè modifiquen el seu singificat</strong>.</p>
 
@@ -732,27 +465,23 @@ que prefereixen que siga cert.
 
 <p>Cal tenir en compte que, en aquest cas, funciona el <strong>biaix de confirmació</strong>.</p>
 
-<h5 id="el-canvi-conceptual-i-la-classe-expositiva">
-<a class="anchor" href="#el-canvi-conceptual-i-la-classe-expositiva" aria-hidden="true"><span class="octicon octicon-link"></span></a>El Canvi Conceptual i la Classe Expositiva</h5>
+<h5 id="el-canvi-conceptual-i-la-classe-expositiva">El Canvi Conceptual i la Classe Expositiva</h5>
 
 <p>Quan les dades que rep l’alumne són consistents amb els seus coneixements previs, pot resultat senzill que incorporen les xarxes de conceptes existents.</p>
 
-<h5 id="promoure-el-canvi-conceptual-a-laula">
-<a class="anchor" href="#promoure-el-canvi-conceptual-a-laula" aria-hidden="true"><span class="octicon octicon-link"></span></a>Promoure el Canvi Conceptual a l’aula</h5>
+<h5 id="promoure-el-canvi-conceptual-a-laula">Promoure el Canvi Conceptual a l’aula</h5>
 
 <p>El canvi conceptual implica refer idees sobre les quals l’estudiant basa la seua comprensió del món.</p>
 
 <p>És fonamental que el nou model resulte intel·ligible i coherent per l’alumne i que tinga capacitat predictiva, que permeta explicar amb èxit noves situacions inicialment no considerades.</p>
 
-<h5 id="guiar-els-alumnes-cap-al-canvi-conceptual">
-<a class="anchor" href="#guiar-els-alumnes-cap-al-canvi-conceptual" aria-hidden="true"><span class="octicon octicon-link"></span></a>Guiar els alumnes cap al canvi conceptual</h5>
+<h5 id="guiar-els-alumnes-cap-al-canvi-conceptual">Guiar els alumnes cap al canvi conceptual</h5>
 
 <p>El paper del docent no sols serà el d’aportar nous coneixements i experiències, sinó també orientar els alumnes en la seua reconstrucció conceptual i establir les condicions que els motiven.</p>
 
 <p>Així, proporcionar als alumnes experiències en contextos significatius que els permeten externalitzar, compartir i discutir les seues idees al voltant de temes concrets, demanant que argumenten els seus raonaments, és una estratègia didàctica que facilita el canvi conceptual.</p>
 
-<h5 id="autoexplicacions">
-<a class="anchor" href="#autoexplicacions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Autoexplicacions</h5>
+<h5 id="autoexplicacions">Autoexplicacions</h5>
 
 <p>Un dels mètodes per a practicar l’evocació que contribuiex a l’aprenentatge conceptual és l’autoexplicació: la pràctica en la qual l’estudiant tracta d’explicar-se a sí mateix el que ha aprés.</p>
 
@@ -760,11 +489,9 @@ que prefereixen que siga cert.
 
 <p>L’autoexplicació resulta més robusta quan l’estudiant tracta de connectar explícitament els que està aprenent amb el que ja sap.</p>
 
-<h4 id="25-la-transferència-de-laprenentatge">
-<a class="anchor" href="#25-la-transfer%C3%A8ncia-de-laprenentatge" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.5. La Transferència de l’Aprenentatge</h4>
+<h4 id="25-la-transferència-de-laprenentatge">2.5. La Transferència de l’Aprenentatge</h4>
 
-<h5 id="aprendre-per-a-transferir">
-<a class="anchor" href="#aprendre-per-a-transferir" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprendre per a transferir</h5>
+<h5 id="aprendre-per-a-transferir">Aprendre per a transferir</h5>
 
 <p>L’<strong>educació formal</strong> té el propòsit, entre d’altres, de proporcionar als alumnes uns coneixements i habilitats per a afrontar les diverses situaciosn que els depare la vida, ja siga en benefici per al seu desenvolupament personal, social, acadèmic o professional.</p>
 
@@ -772,8 +499,7 @@ que prefereixen que siga cert.
 
 <p>La <strong>transferència de l’aprenentatge</strong> no ocòrre de manera tan espotània com podriem creure. Més bé al contrari: transferir l’aprenentatge d’un context a altre és realment complicat i, per tant, infreqüent.</p>
 
-<h5 id="la-doctrina-de-la-disciplina-formal">
-<a class="anchor" href="#la-doctrina-de-la-disciplina-formal" aria-hidden="true"><span class="octicon octicon-link"></span></a>La doctrina de la disciplina formal</h5>
+<h5 id="la-doctrina-de-la-disciplina-formal">La doctrina de la disciplina formal</h5>
 
 <p>A principis del segle XX, existia la noció de que algunes assignatures escolars, com el llatí o el grec, eren fonamentals per a l’educació perquè ajudaven a <em>disciplinar la ment</em>, permetien desenvolupar una sèria dhabilitats cognitives generals (atenció, raonament o memòria) que repercutien positivament en l’acompliment dels estudiants en qualsevol assignatura.</p>
 
@@ -784,10 +510,8 @@ que prefereixen que siga cert.
 <p>En aquest sentit va diferenciar:</p>
 
 <ul>
-  <li>
-<strong>Transferència propera</strong>. Es dóna entre activitats o contextos idèntics o molt pareguts.</li>
-  <li>
-<strong>Transferència llunyana</strong>. Es dóna entre contextos o activitats aparentment distintes.</li>
+  <li><strong>Transferència propera</strong>. Es dóna entre activitats o contextos idèntics o molt pareguts.</li>
+  <li><strong>Transferència llunyana</strong>. Es dóna entre contextos o activitats aparentment distintes.</li>
 </ul>
 
 <p>La primera no seria massa rara, la segon seria extremadament infreqüent.</p>
@@ -815,8 +539,7 @@ que prefereixen que siga cert.
 
 <p>La transferència llunyana es fa més probable si s’acomplixen determinades condicions.</p>
 
-<h5 id="factors-que-facilien-la-trasferència">
-<a class="anchor" href="#factors-que-facilien-la-trasfer%C3%A8ncia" aria-hidden="true"><span class="octicon octicon-link"></span></a>Factors que facilien la trasferència</h5>
+<h5 id="factors-que-facilien-la-trasferència">Factors que facilien la trasferència</h5>
 
 <p>La millor manera de transferir els coneixements és <strong>combinar</strong> l’ensenyament d’<strong>exemples concrets</strong> i d’<strong>abstracció amb categorització</strong>.</p>
 
@@ -828,8 +551,7 @@ que prefereixen que siga cert.
   <p>La manera en que l’alumne s’aproxime a l’aprenentatge determina el grau en que aquest anirà acompanyat de comprensió, el que, al mateix temps, repercutirà en el seu potencia per aprendre el que és transferit (Mayer, 2002).</p>
 </blockquote>
 
-<h5 id="aprenentatge-amb-comprensió-1">
-<a class="anchor" href="#aprenentatge-amb-comprensi%C3%B3-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprenentatge amb comprensió</h5>
+<h5 id="aprenentatge-amb-comprensió-1">Aprenentatge amb comprensió</h5>
 
 <p>Definim <strong>aprenentatge</strong> com <strong>adquisició de coneixements i habilitats</strong>.</p>
 
@@ -897,8 +619,7 @@ que prefereixen que siga cert.
 
 <p>Dues activitats d’aprenentatge podem semblar igual d’efectives quan sols avaluem la capacitat de reproduir conexiemtnes o habilitats; però poden revelar-se ben distinges si avaluem la capacitat de trasnferència. (Bransgord i Schwrtz, 1999).</p>
 
-<h5 id="aprendre-és-transferir">
-<a class="anchor" href="#aprendre-%C3%A9s-transferir" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprendre és transferir</h5>
+<h5 id="aprendre-és-transferir">Aprendre és transferir</h5>
 
 <p>Aprendre requereix aplicar el que ja sabem a una nova situació que planteja l’activitat d’aprenentatge. La transferència també ens ajuda a aprendre noves coses.</p>
 
@@ -906,28 +627,23 @@ que prefereixen que siga cert.
 
 <p>L’acte d’aprendre és un acte de trasferència d’aprenentatges previs.</p>
 
-<h4 id="26-la-memòria-de-treball">
-<a class="anchor" href="#26-la-mem%C3%B2ria-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.6. La Memòria de Treball</h4>
+<h4 id="26-la-memòria-de-treball">2.6. La Memòria de Treball</h4>
 
-<h5 id="más-allá-de-una-memoria-a-corto-plazo">
-<a class="anchor" href="#m%C3%A1s-all%C3%A1-de-una-memoria-a-corto-plazo" aria-hidden="true"><span class="octicon octicon-link"></span></a>Más allá de una memoria a corto plazo</h5>
+<h5 id="más-allá-de-una-memoria-a-corto-plazo">Más allá de una memoria a corto plazo</h5>
 
 <p>En psicologia, s’emplea el terme de <strong>memòria de treball</strong> o <strong>memòria operaitiva</strong> per a descriure la capacitat que tenim per a mantenir i manipular mentalment i d’una forma conscient una quantintat limitada d’informació durant curs periodes de temps (Baddeley i Hitch, 1974).</p>
 
 <p>La <strong>memòria de treball</strong> ens permet mentenir informació important mentre la processem de manera conscient.</p>
 
-<h5 id="les-limitacions-de-la-memòria-de-treball">
-<a class="anchor" href="#les-limitacions-de-la-mem%C3%B2ria-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>Les limitacions de la memòria de treball</h5>
+<h5 id="les-limitacions-de-la-memòria-de-treball">Les limitacions de la memòria de treball</h5>
 
 <p>Per a manternir una informació en la mèmpòria de treball no podem deixar deprestar-li atenció.</p>
 
-<h5 id="els-compoents-de-la-memòria-de-treball">
-<a class="anchor" href="#els-compoents-de-la-mem%C3%B2ria-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>Els compoents de la memòria de treball</h5>
+<h5 id="els-compoents-de-la-memòria-de-treball">Els compoents de la memòria de treball</h5>
 
 <p><strong>Teoria de la codificación dual</strong>: quan es combina una explicació verbal (oral o textual) amb imatges el seu aprenentatge és significativament major.</p>
 
-<h5 id="la-teoria-de-la-càrrega-cognitiva">
-<a class="anchor" href="#la-teoria-de-la-c%C3%A0rrega-cognitiva" aria-hidden="true"><span class="octicon octicon-link"></span></a>La Teoria de la Càrrega Cognitiva</h5>
+<h5 id="la-teoria-de-la-càrrega-cognitiva">La Teoria de la Càrrega Cognitiva</h5>
 
 <p>Per aprendre és important no saturar la memòria de treball.</p>
 
@@ -940,18 +656,14 @@ que prefereixen que siga cert.
 <p>Per tant, segons la càrrega dognitiva considerem:</p>
 
 <ul>
-  <li>
-<strong>Intrínseca</strong>. Informació pròpia.</li>
-  <li>
-<strong>Aliena</strong>. Informació supèrflua.</li>
-  <li>
-<strong>Rellevant</strong>. Manipulació de la informació que resulta necessària per a dotar-la de sentit.</li>
+  <li><strong>Intrínseca</strong>. Informació pròpia.</li>
+  <li><strong>Aliena</strong>. Informació supèrflua.</li>
+  <li><strong>Rellevant</strong>. Manipulació de la informació que resulta necessària per a dotar-la de sentit.</li>
 </ul>
 
 <p>Si la càrrega cognitiva supera la capacitat de memòria de treball, l’aprenentatge es vorà compromés.</p>
 
-<h5 id="la-capacitat-de-la-memòria-de-treball-com-a-característica-de-lalumne">
-<a class="anchor" href="#la-capacitat-de-la-mem%C3%B2ria-de-treball-com-a-caracter%C3%ADstica-de-lalumne" aria-hidden="true"><span class="octicon octicon-link"></span></a>La capacitat de la memòria de treball com a característica de l’alumne</h5>
+<h5 id="la-capacitat-de-la-memòria-de-treball-com-a-característica-de-lalumne">La capacitat de la memòria de treball com a característica de l’alumne</h5>
 
 <p>El 70% dels xiquets amb dificultats d’aprenentatge en lectura obtenen puntuacions molt baixes en proves de memòria de treball (Daneman i Carpenter, 1980).</p>
 
@@ -973,15 +685,13 @@ que prefereixen que siga cert.
 
 <p>Quan més aprenem sobre alguna cosa, més efectiva es torna la nostra memòria de treball en eixe domini.</p>
 
-<h5 id="la-memòria-de-treball-i-laprenentatge-en-lescola">
-<a class="anchor" href="#la-mem%C3%B2ria-de-treball-i-laprenentatge-en-lescola" aria-hidden="true"><span class="octicon octicon-link"></span></a>La memòria de treball i l’aprenentatge en l’escola</h5>
+<h5 id="la-memòria-de-treball-i-laprenentatge-en-lescola">La memòria de treball i l’aprenentatge en l’escola</h5>
 
 <p>Quan la memòria de treball es veu sobrepassada, la reacció immediata és la d’abandonar el que s’està tractant amb ella.</p>
 
 <p>Si de repent, observem que l’alumne, que havia començat estupendament, es bloqueja i no sap com seguir. En realitat, simplment es va perdre en el procés i necessita tornar a començar, una cosa que, sens dubte, afecta a la seua motivació.</p>
 
-<h5 id="mesurar-la-memòria-de-treball">
-<a class="anchor" href="#mesurar-la-mem%C3%B2ria-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mesurar la memòria de treball</h5>
+<h5 id="mesurar-la-memòria-de-treball">Mesurar la memòria de treball</h5>
 
 <p>Els mètodes més senzills consisteixen en recitar o mostrar seqüències de números, lletres, u objectes, cada vegada més llargs, i demanar a les persones que eles reciten en el mateix ordre o en ordre contrari. Quan més llarga siga la seqüència que l’individu siga capaç de retornar, major serà la seua capacitat de memòria de treball.</p>
 
@@ -989,11 +699,9 @@ que prefereixen que siga cert.
 
 <p>Els alumnes amb poca capacitat de memòria de treball tenen dificultats perque`no poden mantenir la informació suficient que els permeta completar la tasca. Així la seua memòria de treball es veu sobrecarregada i perden informació crucial.</p>
 
-<h5 id="gestionar-la-càrrega-cognitiva-en-laula">
-<a class="anchor" href="#gestionar-la-c%C3%A0rrega-cognitiva-en-laula" aria-hidden="true"><span class="octicon octicon-link"></span></a>Gestionar la càrrega cognitiva en l’aula</h5>
+<h5 id="gestionar-la-càrrega-cognitiva-en-laula">Gestionar la càrrega cognitiva en l’aula</h5>
 
-<h6 id="a-reduir-la-càrrega-cognitiva-aliena">
-<a class="anchor" href="#a-reduir-la-c%C3%A0rrega-cognitiva-aliena" aria-hidden="true"><span class="octicon octicon-link"></span></a>a. Reduir la càrrega cognitiva aliena</h6>
+<h6 id="a-reduir-la-càrrega-cognitiva-aliena">a. Reduir la càrrega cognitiva aliena</h6>
 
 <ul>
   <li>Evitar promorcionar informació adicional.</li>
@@ -1004,8 +712,7 @@ que prefereixen que siga cert.
   <li>Evitar la redundància cognitiva.</li>
 </ul>
 
-<h6 id="b-regular-la-càrrega-cognitiva-intrínseca">
-<a class="anchor" href="#b-regular-la-c%C3%A0rrega-cognitiva-intr%C3%ADnseca" aria-hidden="true"><span class="octicon octicon-link"></span></a>b. Regular la càrrega cognitiva intrínseca</h6>
+<h6 id="b-regular-la-càrrega-cognitiva-intrínseca">b. Regular la càrrega cognitiva intrínseca</h6>
 
 <ul>
   <li>Minimitzar la quantitat d’objectes d’aprenentatge que persegueix simultàniament una activitat.</li>
@@ -1016,8 +723,7 @@ que prefereixen que siga cert.
   <li>Fomentar l’ús d’instruments i estratègies.</li>
 </ul>
 
-<h6 id="c-optimitzar-la-càrrega-cognitiva-rellevant">
-<a class="anchor" href="#c-optimitzar-la-c%C3%A0rrega-cognitiva-rellevant" aria-hidden="true"><span class="octicon octicon-link"></span></a>c. Optimitzar la càrrega cognitiva rellevant</h6>
+<h6 id="c-optimitzar-la-càrrega-cognitiva-rellevant">c. Optimitzar la càrrega cognitiva rellevant</h6>
 
 <ul>
   <li>Fer explícites les relacions entre el que s’aprén i els coneixements previs dels alumnes.</li>
@@ -1027,30 +733,25 @@ que prefereixen que siga cert.
   <li>Fomentar l’ús d’instruments i estratègies que els alliberen part de la càrrega cognitva.</li>
 </ul>
 
-<h4 id="27-laprenentatge-profund">
-<a class="anchor" href="#27-laprenentatge-profund" aria-hidden="true"><span class="octicon octicon-link"></span></a>2.7. L’aprenentatge profund</h4>
+<h4 id="27-laprenentatge-profund">2.7. L’aprenentatge profund</h4>
 
-<h5 id="talent-o-pràctica">
-<a class="anchor" href="#talent-o-pr%C3%A0ctica" aria-hidden="true"><span class="octicon octicon-link"></span></a>Talent o pràctica?</h5>
+<h5 id="talent-o-pràctica">Talent o pràctica?</h5>
 
 <p>La majoria de perones que assoleixen un domini destacada en un àmbit concret no compte inicialment amb cap avantatge fora del que seria comú. Són persones normals que van traure partir a un do que tots tenim: la capacitat per aprendre (Ericcson et al., 1993).</p>
 
-<h5 id="què-diferencia-els-experts-dels-novells">
-<a class="anchor" href="#qu%C3%A8-diferencia-els-experts-dels-novells" aria-hidden="true"><span class="octicon octicon-link"></span></a>Què diferencia els experts dels novells?</h5>
+<h5 id="què-diferencia-els-experts-dels-novells">Què diferencia els experts dels novells?</h5>
 
 <blockquote>
   <p>Els <strong>experts</strong> no es diferencien dels principiants per tenir dons innats extraordinaris. Destaquen per comptar amb una enorme quantitat de coneixements sobre la seua disciplina que estan ben estructurats i organitzats al voltant de grans principis que els donen <strong>sentit</strong>, <strong>coherència</strong> i <strong>flexibilitat</strong>. Aquests coneixements els permeten <strong>percebre</strong>, <strong>interepretar</strong> i <strong>processar</strong> la informaicó de manera diferent, el que repercuteix en la seua <strong>capacitat d’aprendre</strong>, <strong>raonar</strong> i <strong>resoldre problemes amb major eficiència</strong>. L’expert no sols té coneixment extensos, sinoó sobre tot, <strong>profunds</strong>.</p>
 </blockquote>
 
-<h5 id="percepció">
-<a class="anchor" href="#percepci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Percepció</h5>
+<h5 id="percepció">Percepció</h5>
 
 <p>Els coneixements profunds o altament significatius (dotant de significat, ben organitzats i connectats entre ells, i associats a múltiples contextos d’aplicabilitat) proporcionen als experts diverses avantatges cognitives en la seua àrea d’especialitat.</p>
 
 <p>Els <strong>experts</strong> poden detectar patrons que els novells no poden percebre. Els experts han integrat coneguts de dades en unitats majors que per a ells tenen significat.</p>
 
-<h5 id="raonament">
-<a class="anchor" href="#raonament" aria-hidden="true"><span class="octicon octicon-link"></span></a>Raonament</h5>
+<h5 id="raonament">Raonament</h5>
 
 <p>La riquesa i l’organització dels coneixements previs dels experts també els fa més eficaços a l’hora de raonar sobre problemes o situacions relacionades amb la seua disciplina. El fet d’organitzar els coneixements al voltant de grans conceptes e idees els permet usar la seua memòria de treball de manera més eficient.</p>
 
@@ -1066,8 +767,7 @@ que prefereixen que siga cert.
   <p>La millor manera d’optimitzar la capacitat de la memòria de treball quan el fa servir en una tasca concreta és obtenint coneixements significatius relacionats amb dita tasca. El cas extrem es produeix quan automatitzem els processos cognitius que estan implicats en dita tasca.</p>
 </blockquote>
 
-<h5 id="resolució-de-problemes">
-<a class="anchor" href="#resoluci%C3%B3-de-problemes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Resolució de Problemes</h5>
+<h5 id="resolució-de-problemes">Resolució de Problemes</h5>
 
 <p>Els coneixements amplis i significatius del experts també tenen repercussió en quant a la seua capacitat per a resoldre problemes i crear solucions en contextos diversos.</p>
 
@@ -1077,20 +777,17 @@ que prefereixen que siga cert.
 
 <p>Els experts analitzen les diferents possibilitats i les conseqüències que se’n deriven. Malgrat això redueixen el seu anàlisi immediatament i de manera espontània a les jugades de major qualitat.</p>
 
-<h5 id="anàlisi-crític">
-<a class="anchor" href="#an%C3%A0lisi-cr%C3%ADtic" aria-hidden="true"><span class="octicon octicon-link"></span></a>Anàlisi Crític</h5>
+<h5 id="anàlisi-crític">Anàlisi Crític</h5>
 
 <p>El coneixement d’experts és fonamental per a desenvolupar l’anàlisi crític.</p>
 
-<h5 id="creativitat">
-<a class="anchor" href="#creativitat" aria-hidden="true"><span class="octicon octicon-link"></span></a>Creativitat</h5>
+<h5 id="creativitat">Creativitat</h5>
 
 <blockquote>
   <p>La creativitat és l’habilitat d generar solucions que són noves per a la persona que les desenvolupa a patir de combinar coneixements que posseeix de una forma distinta. La capacitat d’identificar problemes i oportunitats és un dels passos més importants del procés creatiu.</p>
 </blockquote>
 
-<h5 id="com-sassoleix-la-condició-dexpert">
-<a class="anchor" href="#com-sassoleix-la-condici%C3%B3-dexpert" aria-hidden="true"><span class="octicon octicon-link"></span></a>Com s’assoleix la condició d’expert?</h5>
+<h5 id="com-sassoleix-la-condició-dexpert">Com s’assoleix la condició d’expert?</h5>
 
 <p>No podem menysprear la necessitat d’adquirir coneixements, doncs no és possible desenvolupar habilitats sense ells.</p>
 
@@ -1110,8 +807,7 @@ que prefereixen que siga cert.
 
 <p>En la capacitat de trasferir coneixements trobem una important diferència entre <strong>aprenentatge profund</strong> i <strong>aprenentatge superficial</strong>.</p>
 
-<h5 id="la-pràctica-fa-al-mestre">
-<a class="anchor" href="#la-pr%C3%A0ctica-fa-al-mestre" aria-hidden="true"><span class="octicon octicon-link"></span></a>La pràctica fa al mestre</h5>
+<h5 id="la-pràctica-fa-al-mestre">La pràctica fa al mestre</h5>
 
 <p>Per dominar una disciplina cal practicar, però no de qualsevol manera, al fer-ho de forma conscient i amb intencionalitat, desenvolupant el que Anders Ericsson anomena <strong>pràctica deliberada</strong>. (Ericsson et al. 1993).</p>
 
@@ -1123,8 +819,7 @@ que prefereixen que siga cert.
 
 <p>Així que és convenient descompondre, dosificar i seqüenciar oportunament l’objecte d’aprenentatge per facilitar el seu domini.</p>
 
-<h5 id="descompondre-i-integrar">
-<a class="anchor" href="#descompondre-i-integrar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Descompondre i integrar</h5>
+<h5 id="descompondre-i-integrar">Descompondre i integrar</h5>
 
 <p>Amb freqüència els experts no són conscients de descompondre l’aprenentatge perquè ho apliquen de manera automàtica.</p>
 
@@ -1142,18 +837,15 @@ que prefereixen que siga cert.
   <li>Integrar</li>
 </ul>
 
-<h5 id="la-pràctica-escolar">
-<a class="anchor" href="#la-pr%C3%A0ctica-escolar" aria-hidden="true"><span class="octicon octicon-link"></span></a>La pràctica escolar</h5>
+<h5 id="la-pràctica-escolar">La pràctica escolar</h5>
 
 <ul>
   <li>Posar en pràctica en diversos contextos els coneixements adquirits per afiançar la seua comprensió i flexibilitat (capacitat de transferència).</li>
   <li>Dirigir la pràctica ha de dirigir-se a desenvolupar la fluïdesa en alguns procediments concrets d’una disciplina.</li>
-  <li>
-<strong>Automatitzitat</strong>. L’objectiu seria assolir el domini en un camp per tal que ens permeta usar aquests coneixements sense esforç.</li>
+  <li><strong>Automatitzitat</strong>. L’objectiu seria assolir el domini en un camp per tal que ens permeta usar aquests coneixements sense esforç.</li>
 </ul>
 
-<h3 id="3-els-factors-socioemocionals-de-laprenentatge">
-<a class="anchor" href="#3-els-factors-socioemocionals-de-laprenentatge" aria-hidden="true"><span class="octicon octicon-link"></span></a>3. Els Factors Socioemocionals de l’Aprenentatge</h3>
+<h3 id="3-els-factors-socioemocionals-de-laprenentatge">3. Els Factors Socioemocionals de l’Aprenentatge</h3>
 
 <p>La psicologia i la neurologia va posar el focus en els processos cognitius de l’aprenentatge, en com el cervell obté informació del nostre entor, i com la manupula, emmagatzema, recupera i utilitza (Lachman et al, 1979).</p>
 
@@ -1165,16 +857,13 @@ que prefereixen que siga cert.
   <li>Les investigacions van começar a revelar que els mecanismes de l’emoció juguen un paper molt rellevant cada vegada que realitzem qualsevol tasca de procesament de la informació: des de la percepcií fins el raonament.</li>
 </ol>
 
-<h4 id="31-el-paper-de-les-emocions-en-lapenentatge">
-<a class="anchor" href="#31-el-paper-de-les-emocions-en-lapenentatge" aria-hidden="true"><span class="octicon octicon-link"></span></a>3.1. El Paper de les Emocions en l’Apenentatge</h4>
+<h4 id="31-el-paper-de-les-emocions-en-lapenentatge">3.1. El Paper de les Emocions en l’Apenentatge</h4>
 
-<h5 id="aprenentatge-i-emocions">
-<a class="anchor" href="#aprenentatge-i-emocions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aprenentatge i Emocions</h5>
+<h5 id="aprenentatge-i-emocions">Aprenentatge i Emocions</h5>
 
 <p>Juntar raó i emoció ens pot portar al biaix de confirmació.</p>
 
-<h5 id="a-què-ens-referim-quan-parlem-democions-en-educació">
-<a class="anchor" href="#a-qu%C3%A8-ens-referim-quan-parlem-democions-en-educaci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>A què ens referim quan parlem d’emocions en educació?</h5>
+<h5 id="a-què-ens-referim-quan-parlem-democions-en-educació">A què ens referim quan parlem d’emocions en educació?</h5>
 
 <p>L’emoció modula l’aprenentatge. Les emocions poden fer que una experiència d’aprenentatge resulte més o menys memorable.</p>
 
@@ -1186,8 +875,7 @@ que prefereixen que siga cert.
 
 <p>Les emocions influeixen en la consolidació del record.</p>
 
-<h5 id="què-són-les-emocions">
-<a class="anchor" href="#qu%C3%A8-s%C3%B3n-les-emocions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Què són les emocions</h5>
+<h5 id="què-són-les-emocions">Què són les emocions</h5>
 
 <p>Les <strong>emocions</strong> són respostes conductuals i fisiològiques que el nostre organisme ofereix de manera automàtica davant determinats estímuls, externs o interns que se perceben com una amenaça o una oportunitat (Shuman i Scherer, 2015).</p>
 
@@ -1199,8 +887,7 @@ que prefereixen que siga cert.
 
 <p>La <strong>valència</strong> diferenciaria les emocions agradables o positives (alegria, curiositat, sorpresa) de les emocions desagradable o negatives (por, ansietat, tristesa).</p>
 
-<h5 id="com-modula-lemoció-laprenentatge-i-la-memòria">
-<a class="anchor" href="#com-modula-lemoci%C3%B3-laprenentatge-i-la-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>Com modula l’emoció l’aprenentatge i la memòria</h5>
+<h5 id="com-modula-lemoció-laprenentatge-i-la-memòria">Com modula l’emoció l’aprenentatge i la memòria</h5>
 
 <p>Els esdeveniments de gran intensitat emocional deien una <em>cicatriu</em> al cervell.</p>
 
@@ -1218,39 +905,17 @@ que prefereixen que siga cert.
 
 <p>Les emocions poden incrementar la nostra capacitat de recordar les experiències que vivim, però no són indispensables per fer-ho.</p>
 
-<h5 id="lefecte-sorpresa-i-la-curiositat-de-la-memòria">
-<a class="anchor" href="#lefecte-sorpresa-i-la-curiositat-de-la-mem%C3%B2ria" aria-hidden="true"><span class="octicon octicon-link"></span></a>L’Efecte Sorpresa i la Curiositat de la Memòria</h5>
+<h5 id="lefecte-sorpresa-i-la-curiositat-de-la-memòria">L’Efecte Sorpresa i la Curiositat de la Memòria</h5>
 
 <p>Aprenem per connexions entre els nostres coneixements previs i els nous coneixements. Quan més connexions tenim més connexions podem fer amb qualsevol nova dada o idea relacionada amb ells, el que implica records més sòlids i mes fàcils d’evocar.</p>
 
-<h5 id="emocions-per-a-aprendre">
-<a class="anchor" href="#emocions-per-a-aprendre" aria-hidden="true"><span class="octicon octicon-link"></span></a>Emocions per a Aprendre</h5>
+<h5 id="emocions-per-a-aprendre">Emocions per a Aprendre</h5>
 
 <p>Les emocions a classe, especialment si són intenses, solen provocar càrrega cognitiva aliena, és a dir, distraccions i dificultats per concentrar-se en l’objecte d’aprenentatge.</p>
 
-<h5 id="emocions-i-assoliment">
-<a class="anchor" href="#emocions-i-assoliment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Emocions i Assoliment</h5>
+<h5 id="emocions-i-assoliment">Emocions i Assoliment</h5>
 
 <p>El rendiment serà òptim quan el nivell d’Arousal és moderat.</p>
 
 <p>No es deu considerar estranyar que la capacitat per a gestionar els emocions es correlacione positivament amb el nivell d’assoliment acadèmic.</p>
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
-  </div>
-
-</footer>
-
-
-  </body>
-
-</html>
+:ET
