@@ -43,7 +43,7 @@ Per tal de generar el codi del fitxer que conté aquesta informació, que anomen
 
 D'aquesta manera obtindrem un fitxer en pdf, amb una formatació `standalone` bàsica.
 
-En cas de que vullguerem utilitzar una [template](http://pandoc.org/demo/mytemplate.tex), en aquest cast de [latex](https://latex-project.org/intro.html) caldria primer obtenir-la i modificar-la al nostre gust. Podeu veure un exemple a l'[exemple número 14 de la pàgina de pandoc](http://pandoc.org/demos.html#examples). Primer obtindriem la *template*.
+En cas de que vullguerem utilitzar una [template](https://pandoc.org/demo/mytemplate.tex), en aquest cast de [latex](https://latex-project.org/intro.html) caldria primer obtenir-la i modificar-la al nostre gust. Podeu veure un exemple a l'[exemple número 14 de la pàgina de pandoc](https://pandoc.org/demos.html#examples). Primer obtindriem la *template*.
 
 > Cal baixar la plantilla (template) i posar-la en el mateix directori on anem a generar el document final.
 
