@@ -40,7 +40,7 @@
 
 <p>D’aquesta manera obtindrem un fitxer en pdf, amb una formatació <code class="language-plaintext highlighter-rouge">standalone</code> bàsica.</p>
 
-<p>En cas de que vullguerem utilitzar una <a href="http://pandoc.org/demo/mytemplate.tex">template</a>, en aquest cast de <a href="https://latex-project.org/intro.html">latex</a> caldria primer obtenir-la i modificar-la al nostre gust. Podeu veure un exemple a l’<a href="http://pandoc.org/demos.html#examples">exemple número 14 de la pàgina de pandoc</a>. Primer obtindriem la <em>template</em>.</p>
+<p>En cas de que vullguerem utilitzar una <a href="https://pandoc.org/demo/template.tex">template</a>, en aquest cast de <a href="https://latex-project.org/intro.html">latex</a> caldria primer obtenir-la i modificar-la al nostre gust. Podeu veure un exemple a l’<a href="https://pandoc.org/demos/example14.pdf">exemple número 14 de la pàgina de pandoc</a>. Primer obtindriem la <em>template</em>.</p>
 
 <blockquote>
   <p>Cal baixar la plantilla (template) i posar-la en el mateix directori on anem a generar el document final.</p>
