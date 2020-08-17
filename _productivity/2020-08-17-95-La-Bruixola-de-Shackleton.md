@@ -1,6 +1,6 @@
 ---
 layout: post # 
-title: 95 La Brúixola de Shakleton # Generat automàticament
+title: 95 La Brúixola de Shackleton # Generat automàticament
 date: 2020-08-17 # Data
 description:  # Argument
 keywords:  # Paraules clau
