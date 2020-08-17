@@ -1,0 +1,24 @@
+I"<p>Els diversos procediments per gestionar un equip GNU/Linux en quan a encentre i apagar serien els següents</p>
+
+<p><strong>Suspendre el sistema</strong>: <code class="language-plaintext highlighter-rouge">systemctl suspend</code>. Es mantenen els procesos en RAM, quan s’alça el sistema tot corre com abans. Cal tenir en compte que no s’ha de tallar el corrent elèctric.</p>
+
+<p><strong>Hivernar el sistema</strong>: <code class="language-plaintext highlighter-rouge">systemctl hivernate</code>. Es crea una còpia imatge al disc dur. Quan tornem a alçar el sistema volca aquesta còpia en RAM reprenent els processos hivernats.</p>
+
+<p><strong>Apagar el sistema inmediatament</strong>: <code class="language-plaintext highlighter-rouge">poweroff</code></p>
+
+<p><strong>Apagar el sistema ràpidament</strong>: <code class="language-plaintext highlighter-rouge">halt</code></p>
+
+<p><strong>Apagar el sistema immediatament</strong>: <code class="language-plaintext highlighter-rouge">shutdown -h now</code></p>
+
+<p><strong>Apagar el sistema en 5 minuts</strong>: <code class="language-plaintext highlighter-rouge">shutdown -h +5</code></p>
+
+<p><strong>Apagar el sistema a les 23:45 h</strong>: <code class="language-plaintext highlighter-rouge">shutdown -h 23:55</code></p>
+
+<p><strong>Reiniciar el sistema immediatament</strong>: <code class="language-plaintext highlighter-rouge">reboot</code></p>
+
+<p><strong>Reiniciar el sistema immediatament</strong>: <code class="language-plaintext highlighter-rouge">shutdown -r now</code></p>
+
+<p><strong>Reiniciar el sistema en 5 minuts</strong>: <code class="language-plaintext highlighter-rouge">shutdown -r +5</code></p>
+
+<p><strong>Cancel·lar ordre shutdown</strong>: <code class="language-plaintext highlighter-rouge">shutdown -c</code></p>
+:ET

@@ -1,0 +1,323 @@
+I"<p>ZSH es una utilitat que incorpora molts alias de teclat per facilitar la feina en la terminal.</p>
+
+<p>Ubuntu/Debian te aquest paquet:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>zsh - shell with lots of features
+</code></pre></div></div>
+
+<p>D’aquesta manera d’un colp podem incorporar moltes facilitats al nostre sistema.</p>
+
+<p>Una vegada instal·la aquest paquet podem incorporar <strong>themes</strong> i noves funcionalitats instal·lant-nos la utilitat <strong>ohmyzsh</strong> que no és més que seguint amb la mateixa filosofia de facilitar el fluxe de feina teclejant més incorporta no sols noves funcionalitats sinó que també un repertori de <strong>themes</strong> adaptats per diversos usuaris.</p>
+
+<p>Referència del projecte <a href="http://ohmyz.sh/">ohmyz.sh</a>.</p>
+
+<p>Per gaudir d’aquestes funcionalitats cal primer instal·lar des del repositori <code class="language-plaintext highlighter-rouge">zsh</code> i després executar aquesta línia:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>sh <span class="nt">-c</span> <span class="s2">"</span><span class="si">$(</span>curl <span class="nt">-fsSL</span> https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh<span class="si">)</span><span class="s2">"</span>
+</code></pre></div></div>
+
+<p>Com què roman a GITHub seria es pot mirar el codi abans d’executar.</p>
+
+<p>La configuració d’aquest sistema es pot customitzar al directori:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.oh-my-zsh
+</code></pre></div></div>
+
+<h3 id="afegir-nous-alias">Afegir nous alias</h3>
+
+<p>Per tal d’arrancar un programa com <code class="language-plaintext highlighter-rouge">Emacs</code> amb una funcionalita concreta com que òbriga un arxiu concret caldrà editar l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code> escrivint:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>alias bujo="emacs ~/Documents/bulletjournal.org"
+</code></pre></div></div>
+
+<h3 id="programari-que-funciona-amb-bash">Programari que funciona amb Bash</h3>
+
+<p>Hi ha certs programes que necessiten <code class="language-plaintext highlighter-rouge">bash</code> per arrancar.</p>
+
+<p>Quan passa això, cal executar <code class="language-plaintext highlighter-rouge">bash</code> en terminal, cal escriure la paraula <code class="language-plaintext highlighter-rouge">bash</code> i després el programa.</p>
+
+<h3 id="ruby-en-ohmyzsh">Ruby en .ohmyzsh</h3>
+
+<p>Si instal·lem <code class="language-plaintext highlighter-rouge">Ruby</code> des de <a href="https://rvm.io/">https://rvm.io/</a> cal incloure aquestes línies al final de l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Thanks for the awesome idea batasrki
+function gemdir {
+  if [[ -z "$1" ]] ; then
+    echo "gemdir expects a parameter, which should be a valid RVM Ruby selector"
+  else
+    rvm "$1"
+    cd $(rvm gemdir)
+    pwd
+  fi
+}
+
+# RVM
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+</code></pre></div></div>
+
+<h3 id="activar-els-plugins">Activar els plugins</h3>
+
+<p>La font de la informació l’hem treta d’aquest artícle <a href="[https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins">https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins</a></p>
+
+<p>Per tal d’activar els plugins anirem a l’arxiu <code class="language-plaintext highlighter-rouge">.zshrc</code>. On posarem tots els plugins que volem utilitzar així:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>plugins=(git debian ruby rails)
+</code></pre></div></div>
+
+<p>Com què el plugin <code class="language-plaintext highlighter-rouge">debian</code> està activat descriurem el procés d’actualització d’un sistema Debian/Ubuntu:</p>
+
+<p>Sense alies ho feiem així:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt upgrade -y
+</code></pre></div></div>
+
+<p>Ara ho farem així:</p>
+
+<p><code class="language-plaintext highlighter-rouge">sudo apt update</code> → <code class="language-plaintext highlighter-rouge">ad</code> y me pide la contraseña de superusuario</p>
+
+<p><code class="language-plaintext highlighter-rouge">sudo apt upgrade</code> → <code class="language-plaintext highlighter-rouge">ag</code></p>
+
+<p>D’aquesta manera s’executarà així:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ad &amp;&amp; ag
+</code></pre></div></div>
+
+<p>Per tal de consultar els plugins i els alies caldrà anar al directori <code class="language-plaintext highlighter-rouge">.ohmyzsh/plugins/</code> on mirarem l’arxiu.</p>
+
+<h3 id="llistat-de-plugins">Llistat de plugins</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>adb
+ant
+apache2-macports
+arcanist
+archlinux
+asdf
+autoenv
+autojump
+autopep8
+aws
+battery
+bbedit
+bgnotify
+boot2docker
+bower
+branch
+brew
+bundler
+bwana
+cabal
+cake
+cakephp3
+capistrano
+cargo
+cask
+catimg
+celery
+chruby
+chucknorris
+cloudapp
+codeclimate
+coffee
+colemak
+colored-man-pages
+colorize
+command-not-found
+common-aliases
+compleat
+composer
+copybuffer
+copydir
+copyfile
+cp
+cpanm
+debian
+dircycle
+dirhistory
+dirpersist
+django
+dnf
+docker
+docker-compose
+dotenv
+droplr
+emacs
+ember-cli
+emoji
+emoji-clock
+emotty
+encode64
+extract
+fabric
+fancy-ctrl-z
+fasd
+fastfile
+fbterm
+fedora
+firewalld
+forklift
+fossil
+frontend-search
+gas
+gb
+geeknote
+gem
+git
+git-extras
+gitfast
+git-flow
+git-flow-avh
+github
+git-hubflow
+gitignore
+git-prompt
+git-remote-branch
+glassfish
+globalias
+gnu-utils
+go
+golang
+gpg-agent
+gradle
+grails
+grunt
+gulp
+heroku
+history
+history-substring-search
+httpie
+iwhois
+jake-node
+jhbuild
+jira
+jruby
+jsontools
+jump
+kate
+kitchen
+knife
+knife_ssh
+kubectl
+laravel
+laravel4
+laravel5
+last-working-dir
+lein
+lighthouse
+lol
+macports
+man
+marked2
+mercurial
+meteor
+mix
+mix-fast
+mosh
+mvn
+mysql-macports
+n98-magerun
+nanoc
+ng
+nmap
+node
+nomad
+npm
+nvm
+nyan
+osx
+pass
+paver
+pep8
+per-directory-history
+perl
+perms
+phing
+pip
+pj
+pod
+postgres
+pow
+powder
+powify
+profiles
+pyenv
+pylint
+python
+rails
+rake
+rake-fast
+rand-quote
+rbenv
+rbfu
+react-native
+rebar
+redis-cli
+repo
+rsync
+ruby
+rust
+rvm
+safe-paste
+sbt
+scala
+scd
+screen
+scw
+sfffe
+shrink-path
+singlechar
+spring
+sprunge
+ssh-agent
+stack
+sublime
+sudo
+supervisor
+suse
+svn
+svn-fast-info
+swiftpm
+symfony
+symfony2
+systemadmin
+systemd
+taskwarrior
+terminalapp
+terminitor
+terraform
+textastic
+textmate
+thefuck
+themes
+thor
+tig
+tmux
+tmux-cssh
+tmuxinator
+torrent
+tugboat
+ubuntu
+urltools
+vagrant
+vault
+vim-interaction
+vi-mode
+virtualenv
+virtualenvwrapper
+vundle
+wakeonlan
+wd
+web-search
+wp-cli
+xcode
+yarn
+yii
+yii2
+yum
+z
+zeus
+zsh-navigation-tools
+zsh_reload
+</code></pre></div></div>
+:ET
