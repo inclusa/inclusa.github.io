@@ -14,7 +14,7 @@ coments:  # Comentaris
 
 ![](/img/shackleton.png)
 
-### Brújula de Shaketon
+### La Brúixola d'en Shacketon
 
 #### Rumb
 
