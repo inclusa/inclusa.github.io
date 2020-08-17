@@ -12,7 +12,7 @@ coments:  # Comentaris
 - Editorial: Alianza
 - Any: 2014
 
-![La Brúixola de Shakleton](/img/shakleton.png)
+![](/img/shackleton.png)
 
 ### Brújula de Shaketon
 
