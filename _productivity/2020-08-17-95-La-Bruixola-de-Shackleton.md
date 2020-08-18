@@ -59,9 +59,20 @@ Les persones assolim els nostres objectius quan prèviament hem resolt els detal
 
 **Definició**: Capacitat de redefinició.
 
-Conceptes
+> La **resiliència** ens permet regenerar-nos després d'un problema greu i tornar a enfocar-nos sobre els nostres objectius.
 
-- Resiliència
+Siebert al seu llibre *The REsilicency Advantatge*. Diu que la resilicència es pot aprendre. Menciona 8 principis:
+
+1. Quan un individu s'enfrenta a una **dificultat greu** cal acceptar que **mai tornarà a ser el mateix**. La resiliència implica **capacitat d'adaptació**.
+2. Quan una persona lluïta contra l'adversitat, tant la seua ment com els seus hàbits construeixen bé **barreres** o bé **ponts** capa a un futur millor. Les dificultats situen a la persona en el rol de víctima, el que impedeix portar a terme accions resilients.
+3. L'**estat mental** en el que es troba una persona que sofreix una adversistat és tan important com el que passa després, unes formes d'enfocar el que ocòrre condueixen a resultats millors que altres formes d'enfocar-ho.
+4. Acceptar els **aconteciments adversos** predisposa per lluitar contra ells.
+5. La fortaleza de la resiliència es troba en l'**automotivació** i l'**autoaprenentatge**.
+6. Cada persona ha desenvolupar una capacitat de resiliència de forma **particular** i **única**. Cadascú veu les desgràcies de forma significativament diferent, basant-se en les seues fortaleses i debilitats.
+7. Les persones **poden elegir la manera en que volen interactuar amb el món**. Aquesta capacitat d'elecció genera un sentiment de llibertat, independència i control sobre la pròpia vida, que movilitza recursos i predisposa a l'acció.
+8. Una persona que es va tornant més resilient li resulta més fàcil i més ràpid enfrentar les adversistat. Potser que d'ahí es derive que hi haja persones que no es detenen davant res.
+
+**Creixement Postraumàtic**. Enfrontar i superar problemes pot fer-nos més forts i més feliços. Al·lusió al seguiment dels immegrants de Polònia a Israel a bans de 1939, que no havien patit els horrors de la guerra i aquells que havien vingut entre 1945 a 1950, els quals sí els havien patit.
 
 #### 3. Enfoc
 
@@ -94,94 +105,66 @@ Procrastinació. Tendància a posposar indefinidament aquelles coses que no ens 
 
 #### 5. Constància
 
-##### A. Definició
+**Definició**. Capacitat per continuar endavant generant impuls constant.
 
-- Capacitat per continuar endavant generant impuls constant
+**Hàbit**. Acció recurrent. Estructura: Estímul-Conducta-Recompensa.
 
-##### B. Conceptes
+**Rutines**. Conjunt d'hàbits, sovint es realitzen de forma inconscient.
 
-- Rutines
+**Relentless Forward** (moviment implacable).
+
+**Pràctica Deliberada**. Podem definir-la a partir d'aquests trets:
+- Dissenyada per incrementar el rendiment
+- Repetició
+- Feedback
+- Implica esforç incòmode
+- 10.000 hores
 - Hàbits
-- Relentless Forward (moviment implacable)
-- Pràctica Deliberada
-	- Dissenyada per incrementar el rendiment
-	- Repetició
-	- Feedback
-	- Implica esforç incòmode
-	- 10.000 hores
-	- Hàbits
-
-- Hàbits
-
-	- Estímul-Conducta-Recompensa
 
 #### 6. Energia
 
-##### A. Definició
+**Definició**. Poder de transformació
+
+Tipus:
 
 - Física
 - Mental
 - Emocional
 - Espiritual
 
-##### B. Conceptes
-
-- Rendiment
-
-	- No està en la gestió del temps sino de l'energia
+**Rendiment**: *No està en la gestió del temps sino de l'energia*.
 
 #### 7. Mentalitat
 
-##### A. Definició
+**Definició**. *Atribució de les nostres capacitats.*
 
-- Atribució de les nostres capacitats
+**Emocions**. Teràpia Racional Emotiva
 
-##### B. Conceptes
+**Percepció**. Metàrores:
+	- Ens predisposen a l'acció
+	- Resulten limitants
 
-- Emocions
-
-	- Teràpia Racional Emotiva
-
-- Percepció
-
-	- Metàrores
-
-		- Ens predisposen a l'acció
-		- Resulten limitants
-
-- Mindset
-
-	- Mentalitat Fixa
+**Mindset**
+    - Mentalitat Fixa
 	- Mentalitat de Creixement
 
-- Optimisme
-
+**Optimisme**
 	- Diferències joves/adults
 	- Locus Control
 
 #### 8. Connexió
 
-##### A. Definició
+**Definició**. Creació de vincles
 
-- Creació de vincles
+**Lleialtat**.
 
-##### B. Conceptes
-
-- Vincles
-- Lleialtat
-- Apego
-
+**Apego**. Tipus:
 	- Segur
-
 		- Vincles forts
 		- Acceptació de l'autoritat delegada
-
 	- El·lusiu
-
 		- Dificultat per formar vincles forts
 		- Patró evitador
-
 	- Ansiós
-
 		- Inseguretat en les relacions
 
