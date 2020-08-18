@@ -125,8 +125,6 @@ Procrastinació. Tendància a posposar indefinidament aquelles coses que no ens 
 
 **Definició**. Poder de transformació
 
-Tipus:
-
 - Física
 - Mental
 - Emocional
@@ -136,21 +134,21 @@ Tipus:
 
 #### 7. Mentalitat
 
-**Definició**. *Atribució de les nostres capacitats.*
+**Definició**. Atribució de les nostres capacitats.
 
 **Emocions**. Teràpia Racional Emotiva
 
 **Percepció**. Metàrores:
-	- Ens predisposen a l'acció
-	- Resulten limitants
+- Ens predisposen a l'acció
+- Resulten limitants
 
 **Mindset**
-    - Mentalitat Fixa
-	- Mentalitat de Creixement
+- Mentalitat Fixa
+- Mentalitat de Creixement
 
 **Optimisme**
-	- Diferències joves/adults
-	- Locus Control
+- Diferències joves/adults
+- Locus Control
 
 #### 8. Connexió
 
@@ -158,13 +156,14 @@ Tipus:
 
 **Lleialtat**.
 
-**Apego**. Tipus:
-	- Segur
-		- Vincles forts
-		- Acceptació de l'autoritat delegada
-	- El·lusiu
-		- Dificultat per formar vincles forts
-		- Patró evitador
-	- Ansiós
-		- Inseguretat en les relacions
+**Apego**.
+
+- Segur
+	- Vincles forts
+	- Acceptació de l'autoritat delegada
+- El·lusiu
+	- Dificultat per formar vincles forts
+	- Patró evitador
+- Ansiós
+	- Inseguretat en les relacions
 
