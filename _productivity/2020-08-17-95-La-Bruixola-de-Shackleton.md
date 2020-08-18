@@ -14,61 +14,91 @@ coments:  # Comentaris
 
 ![](/img/shackleton.png)
 
+[Visualitza-ho en format PDF](/files/pdf/shackleton.pdf)
+
+### Introducció ###
+
+Durant el viatge esclata la Primera Guerra Mundial.
+
+> El nivell d'exigència, risc, preparació, esforç, compromís o grau d'expossició, serien insasumibles hui per la societat que ha fet del *risc zero* la màsima aspriració, i del confort i l'apariència enlluernant i efímeroa, un model de desenvoluament políticament correcte.
+
+**Endurance** és símbol de resistència i d'optimisme. En aquest vaixell el treball en equip, el bon humor, la capacitat de lluïta i sacrifici i especialment el lideratge de Shacleton foren determinants per aque, al final, es salvaren tots deprés de gairebé dos anys de supervivència al límit.
+
+### Cronologia ###
+
+Succés                                               | Data                   | Dies 
+:----------------------------------------------------|:-----------------------|-----:
+L'Endurance ix d'Anglaterra                          | 1 agost 1914           |   0
+L'Endurance salpa de Geòrgia del Sur                 | 5 de desembre de 1914  | 126
+L'Endurance és atrapat pel gel                       | 18 de gener de 1915    | 170 
+El gel aplasta l'Endurance                           | 27 d'octubre de 1915   | 452
+L'Endurance s'afona                                  | 21 de novembre de 1915 | 477
+Eixen els vaixels cap a illa Elefant                 | 9 d'abril de 1916      | 617
+El vaixell *James Caird* salpa cap a Georgia del Sud | 24 d'abril de 1916     | 632
+Shackleton, Worsley i Crean arriben Stromness        | 20 de maig de 1916     | 617
+La tripulació és rescatada a illa Elefant            | 30 d'agost de 1916     | 760
+
+
+
 ### La Brúixola d'en Shacketon
 
-#### Rumb
+#### 1. Rumb
 
-##### Definició
+**Definició**: Direcció en les accions que prenem.
 
-- Direcció
+1. **Objectius i Plans** sempre eren amplis i significatius, suficientment per donar sentit a la seua vida i mantenir-la en tensió dinàmica fins que els materialitzava.
+2. Capacitat per **aliniar esforços** en la consecució de les seues metes perseverant per assolir-los.
 
-##### Conceptes
+L'**autoconeixement** no és una cosa que vinga donat des del començament del camí.
 
-- Objectius i Plans
-- Aliniar esforços
+> El problema de la gestió d'objectius és transformar-los en accions.
 
-#### Regeneració
+Les persones assolim els nostres objectius quan prèviament hem resolt els detalls pràctics que impliquen.
 
-##### Definició
+#### 2. Regeneració
 
-- Capacitat de redefinició
+**Definició**: Capacitat de redefinició.
 
-##### Conceptes
+Conceptes
 
 - Resiliència
 
-#### Enfoc
+#### 3. Enfoc
 
-##### Definició
+**Definició**: Capacitat de centrar-se en un objectiu, de prendre consciència de la situació que s'encara i elegir el camí més conveient independentment de com siga de fàcil o difícil.
 
-- Capacitat de centrar-se en un objectiu, de prendre consciència de la situació que s'encara i elegir el camí més conveient independentment de com siga de fàcil o difícil.
+La **consicència** és una activitat humana que no es pot desconnectar.
 
-##### Conceptes
+El cervell tendeix a crear patrons a partir del que percibeix de la realitat. Quan percebem un fenòmen, eixa informació es codifica creant connexions que utilitzen els impulsos electroquímics que les neurones produeixen. Per això les accions tenen exactament la mateixa freqüència. No podem evitar prestar atenció a estímuls d'un patró establert.
 
-- Patrons
-- Multitasca
-- Atenció Plena
+Multitasca. El cervell no té l'habilitat de processar informació de forma simultània, no pot fer conscient dues informacions paral·leles.
 
-#### Duresa
+Atenció Plena. Cal enfocar l'atenció de forma conscient en aquelles coses que són importants per a nosaltres.
 
-##### Definició
+#### 4. Duresa
 
-- Consistència de la dificultat mantenida
+**Definició**. Consistència de la dificultat mantenida.
 
-##### Conceptes
+La duresa és una qualitat que es pot desenvolupar.
 
-- Procrastinació
-- Condicionament
-- Ego Depletion: Reserva d'autocontrol que utilitzem per a resistir tentacions
-- Força de Voluntat i Glucosa
+Procrastinació. Tendància a posposar indefinidament aquelles coses que no ens ve de gust fer. L'ésser humà fuig d'aquelles coses que li produeixen incomoditats. Factors:
 
-#### Constància
+1. Expectativa que tenim de fer alguna cosa
+2. Com siga la tasca de fàcil 
+3. Quan més temps passe, més fàcil serà que ho demorem
+4. Autocontrol personal
 
-##### Definició
+**Ego Depletion**: Reserva d'autocontrol que utilitzem per a resistir tentacions. L'autodomini no és un recurs il·limitat.
+
+**Força de Voluntat i Glucosa**. Després de dinar es prenen decisions més magnànimes.
+
+#### 5. Constància
+
+##### A. Definició
 
 - Capacitat per continuar endavant generant impuls constant
 
-##### Conceptes
+##### B. Conceptes
 
 - Rutines
 - Hàbits
@@ -85,28 +115,28 @@ coments:  # Comentaris
 
 	- Estímul-Conducta-Recompensa
 
-#### Energia
+#### 6. Energia
 
-##### Definició
+##### A. Definició
 
 - Física
 - Mental
 - Emocional
 - Espiritual
 
-##### Conceptes
+##### B. Conceptes
 
 - Rendiment
 
 	- No està en la gestió del temps sino de l'energia
 
-#### Mentalitat
+#### 7. Mentalitat
 
-##### Definició
+##### A. Definició
 
 - Atribució de les nostres capacitats
 
-##### Conceptes
+##### B. Conceptes
 
 - Emocions
 
@@ -129,13 +159,13 @@ coments:  # Comentaris
 	- Diferències joves/adults
 	- Locus Control
 
-#### Connexió
+#### 8. Connexió
 
-##### Definició
+##### A. Definició
 
 - Creació de vincles
 
-##### Conceptes
+##### B. Conceptes
 
 - Vincles
 - Lleialtat
@@ -155,4 +185,3 @@ coments:  # Comentaris
 
 		- Inseguretat en les relacions
 
-*XMind - Trial Version*
