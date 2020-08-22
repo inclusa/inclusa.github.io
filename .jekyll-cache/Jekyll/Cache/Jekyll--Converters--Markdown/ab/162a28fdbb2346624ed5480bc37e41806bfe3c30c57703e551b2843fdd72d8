@@ -1,175 +1,6 @@
-<!DOCTYPE html>
-<html>
+I"�s<hr />
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>94 Deep Work</title>
-    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
-">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/productivity/2020-08-08-94-Deep-Work/">
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-
-
-  <body>
-
-    <header class="site-header">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- inclusa instead of blog -->
-        <a class="page-link" href="/">blog</a>
-
-        
-          
-          <a class="page-link" href="/about/">id</a>
-          
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/poetry/">sen</a>
-          
-        
-          
-          <a class="page-link" href="/portfolio/">por</a>
-          
-        
-          
-          <a class="page-link" href="/productivitat/">pro</a>
-          
-        
-          
-        
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">94 Deep Work</h1>
-    <p class="post-meta">August 8, 2020 — 00:00</p>
-  </header>
-
-  <article class="post-content">
-    <ul class="section-nav">
-<li class="toc-entry toc-h3"><a href="#dades-del-llibre">Dades del Llibre</a></li>
-<li class="toc-entry toc-h3"><a href="#introducció">Introducció</a></li>
-<li class="toc-entry toc-h3"><a href="#part-1-la-idea">Part 1. La Idea</a>
-<ul>
-<li class="toc-entry toc-h4"><a href="#capítol-1-deep-work-és-valuós">Capítol 1. Deep Work és valuós</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#a-els-treballadors-dalta-qualificació">A. Els treballadors d’alta qualificació</a></li>
-<li class="toc-entry toc-h5"><a href="#b-the-superestars">B. The Superestars</a></li>
-<li class="toc-entry toc-h5"><a href="#c-els-nostres">C. Els nostres</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#1-con-començar-a-guanyar-en-la-nova-economia">1. Con Començar a Guanyar en la Nova Economia</a></li>
-<li class="toc-entry toc-h6"><a href="#2-deep-work-ens-ajuda-a-aprendre-ràpidament-coses-difícils">2. Deep Work ens Ajuda a Aprendre Ràpidament Coses Difícils</a></li>
-<li class="toc-entry toc-h6"><a href="#3-deep-work-ajuda-a-produir-a-alt-nivell">3. Deep Work Ajuda a Produir a Alt Nivell</a></li>
-<li class="toc-entry toc-h6"><a href="#4-què-passa-amb-jack-dorsey">4. Què passa amb Jack Dorsey?</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#capítol-2-deep-work-és-rar">Capítol 2. Deep Work és rar</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#a-la-mesura-del-forat-negre">A. La Mesura del Forat Negre</a></li>
-<li class="toc-entry toc-h5"><a href="#b-el-principi-de-mínima-resistència">B. El Principi de Mínima Resistència</a></li>
-<li class="toc-entry toc-h5"><a href="#c-locupació-com-a-representant-de-la-productivitat">C. L’ocupació com a Representant de la Productivitat</a></li>
-<li class="toc-entry toc-h5"><a href="#d-el-culte-dinternet">D. El Culte d’Internet</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#3-capítol-3-deep-work-és-significatiu">3. Capítol 3. Deep Work és significatiu</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#a-argument-neurològic-per-a-la-profunditat">A. Argument neurològic per a la Profunditat</a></li>
-<li class="toc-entry toc-h5"><a href="#b-una-filosofia-argumental-per-al-deep-woork">B. Una Filosofia Argumental per al Deep Woork</a></li>
-<li class="toc-entry toc-h5"><a href="#c-homo-sapiens-deepensis">C. Homo Sapiens Deepensis</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toc-entry toc-h3"><a href="#part-2-les-regles">Part 2. Les Regles</a>
-<ul>
-<li class="toc-entry toc-h4"><a href="#regla-1-treballa-profundament">Regla 1. Treballa Profundament</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#a-decideix-la-teua-filosolfia-de-la-profunditat">A. Decideix la Teua Filosolfia de la Profunditat</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#1-la-filosofia-monàstica-agenda-de-treball">1. La Filosofia Monàstica agenda de treball</a></li>
-<li class="toc-entry toc-h6"><a href="#2-la-filosofia-bimodal-agenda-de-treball">2. La Filosofia Bimodal agenda de treball</a></li>
-<li class="toc-entry toc-h6"><a href="#3-la-filosofia-rímica-agenda-de-treball">3. La Filosofia Rímica agenda de treball</a></li>
-<li class="toc-entry toc-h6"><a href="#4-la-filosofia-periodística">4. La Filosofia Periodística</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h5"><a href="#b-ritualitza">B. Ritualitza</a></li>
-<li class="toc-entry toc-h5"><a href="#c-fes-grans-gestos">C. Fes Grans Gestos</a></li>
-<li class="toc-entry toc-h5"><a href="#d-no-treballes-sol">D. No treballes Sol</a></li>
-<li class="toc-entry toc-h5"><a href="#e-executa-com-un-negoci">E. Executa com un negoci</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#disciplina-01-enfocat-en-els-desitjos-importants">Disciplina #01. Enfocat en els Desitjos Importants</a></li>
-<li class="toc-entry toc-h6"><a href="#disciplina-02-actua-amb-mesures-directes-predictives">Disciplina #02. Actua amb Mesures Directes (Predictives)</a></li>
-<li class="toc-entry toc-h6"><a href="#disciplina-03-mantín-un-marcador-clar">Disciplina #03. Mantín un Marcador Clar</a></li>
-<li class="toc-entry toc-h6"><a href="#disciplina-04-crea-una-cadència-de-rendició-de-comptes">Disciplina #04. Crea una Cadència de Rendició de Comptes</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h5"><a href="#f-descansa">F. Descansa</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#raó--01-enregistra-la-informació-sobre-el-temps-dinactivitat">Raó  #01. Enregistra la informació sobre el temps d’inactivitat</a></li>
-<li class="toc-entry toc-h6"><a href="#raó--02-els-temps-morts-ajuden-a-recarregar-energia">Raó  #02. Els Temps Morts ajuden a recarregar energia</a></li>
-<li class="toc-entry toc-h6"><a href="#raó--03-el-treball-dútima-hora-normament-no-és-important">Raó  #03. El Treball d’Útima Hora normament no és important</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#regla-2-abraça-lavorriment">Regla 2. Abraça l’Avorriment</a>
-<ul>
-<li class="toc-entry toc-h5"><a href="#a-no-pares-per-distraccions-en-lloc-de-prendre-pauses-pel-focus">A. No pares per distraccions en lloc de prendre pauses pel focus</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#punt-1-aquesta-estratègia-de-treball-inclús-si-el-treball-requereix-molt-dinternet-usa-io-en-les-capçaleres-de-les-rèpliques-demail">Punt 1. Aquesta estratègia de treball, inclús si el treball requereix molt d’internet usa i/o en les capçaleres de les rèpliques d’email</a></li>
-<li class="toc-entry toc-h6"><a href="#punt-2-independenment-que-la-teua-agenda-dinternet-mantin-te-lliure-dinternet-per-als-teus-blocs-de-treball">Punt 2. Independenment que la teua agenda d’internet, mantin-te lliure d’internet per als teus blocs de treball</a></li>
-<li class="toc-entry toc-h6"><a href="#punt-3-utilitza-lagenda-dinternet-a-casa-com-a-millora-del-de-la-concentració-de-lentrenament-de-treball">Punt 3. Utilitza l’agenda d’internet a casa com a millora del de la concentració de l’entrenament de treball</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h5"><a href="#b-treballa-com-teddy-roosevelt">B. Treballa com Teddy Roosevelt</a></li>
-<li class="toc-entry toc-h5"><a href="#c-medita-productivament">C. Medita Productivament</a>
-<ul>
-<li class="toc-entry toc-h6"><a href="#suggeriment-1-desconfia-de-les-distraccions-i-dels-bucles">Suggeriment 1. Desconfia de les distraccions i dels bucles</a></li>
-<li class="toc-entry toc-h6"><a href="#suggeriment-2-estructura-el-teu-pensament-profund">Suggeriment 2. Estructura el teu Pensament Profund</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h5"><a href="#d-memoritza-una-baralla-de-cartes">D. Memoritza una Baralla de Cartes</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h4"><a href="#regla-3-evita-les-xarxes-socials">Regla 3. Evita les Xarxes Socials</a></li>
-<li class="toc-entry toc-h4"><a href="#regla-4-solta-lastre">Regla 4. Solta Lastre</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h3"><a href="#conclusió">Conclusió</a></li>
-</ul><hr>
-
-<h3 id="dades-del-llibre">
-<a class="anchor" href="#dades-del-llibre" aria-hidden="true"><span class="octicon octicon-link"></span></a>Dades del Llibre</h3>
+<h3 id="dades-del-llibre">Dades del Llibre</h3>
 
 <ul>
   <li>Autor: Cal Newport</li>
@@ -179,8 +10,7 @@
   <li>ISBN: 978-0-349-41190-3</li>
 </ul>
 
-<h3 id="introducció">
-<a class="anchor" href="#introducci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introducció</h3>
+<h3 id="introducció">Introducció</h3>
 
 <pre><code class="language-txt">Deep: profund
 Shallow: superficial
@@ -234,11 +64,9 @@ Shallow: superficial
   <p>Deep life is a good life.</p>
 </blockquote>
 
-<h3 id="part-1-la-idea">
-<a class="anchor" href="#part-1-la-idea" aria-hidden="true"><span class="octicon octicon-link"></span></a>Part 1. La Idea</h3>
+<h3 id="part-1-la-idea">Part 1. La Idea</h3>
 
-<h4 id="capítol-1-deep-work-és-valuós">
-<a class="anchor" href="#cap%C3%ADtol-1-deep-work-%C3%A9s-valu%C3%B3s" aria-hidden="true"><span class="octicon octicon-link"></span></a>Capítol 1. Deep Work és valuós</h4>
+<h4 id="capítol-1-deep-work-és-valuós">Capítol 1. Deep Work és valuós</h4>
 
 <p>Què fa que persones com David Heinemeier Hansson, creador de Ruby on Rails, els vaja tan bé?:</p>
 
@@ -251,13 +79,11 @@ Shallow: superficial
 
 <p>Per no quedar-se endarrerides caldrà comprar noves màquines i noves persones que, poden motivar la subcontractació el talent local quedar subempleat.</p>
 
-<h5 id="a-els-treballadors-dalta-qualificació">
-<a class="anchor" href="#a-els-treballadors-dalta-qualificaci%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>A. Els treballadors d’alta qualificació</h5>
+<h5 id="a-els-treballadors-dalta-qualificació">A. Els treballadors d’alta qualificació</h5>
 
 <p>La clau va a estar en com sigues de bo gestionant màquines intel·ligents on cal projectar un coneixement específic per avançar.</p>
 
-<h5 id="b-the-superestars">
-<a class="anchor" href="#b-the-superestars" aria-hidden="true"><span class="octicon octicon-link"></span></a>B. The Superestars</h5>
+<h5 id="b-the-superestars">B. The Superestars</h5>
 
 <p>La mediocritat no pot substituir la perfecció.</p>
 
@@ -265,15 +91,13 @@ Shallow: superficial
 
 <p>El ràpid auge de la comunicació i de les tecnologies la col·laboratives han transformat moltes de les formes locals de comerç dins d’una cosa similar a un bazar universal.</p>
 
-<h5 id="c-els-nostres">
-<a class="anchor" href="#c-els-nostres" aria-hidden="true"><span class="octicon octicon-link"></span></a>C. Els nostres</h5>
+<h5 id="c-els-nostres">C. Els nostres</h5>
 
 <p>Sols uns grups de persones ho estan fent bé. La combinació d’inversió de capital i treball és el que està retornant.</p>
 
 <p>Com unir-nos als guanyadors?</p>
 
-<h6 id="1-con-començar-a-guanyar-en-la-nova-economia">
-<a class="anchor" href="#1-con-comen%C3%A7ar-a-guanyar-en-la-nova-economia" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Con Començar a Guanyar en la Nova Economia</h6>
+<h6 id="1-con-començar-a-guanyar-en-la-nova-economia">1. Con Començar a Guanyar en la Nova Economia</h6>
 
 <blockquote>
   <p>Dos habilitats per a prosperar en la Nova Economia</p>
@@ -305,8 +129,7 @@ Shallow: superficial
 
 <p>La dependència d’estes habilitats sobre Deep Work no és immediatament obvi; requereix una mirada des de més prop de la ciència de l’aprenentatge, concentració i productivitat.</p>
 
-<h6 id="2-deep-work-ens-ajuda-a-aprendre-ràpidament-coses-difícils">
-<a class="anchor" href="#2-deep-work-ens-ajuda-a-aprendre-r%C3%A0pidament-coses-dif%C3%ADcils" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. Deep Work ens Ajuda a Aprendre Ràpidament Coses Difícils</h6>
+<h6 id="2-deep-work-ens-ajuda-a-aprendre-ràpidament-coses-difícils">2. Deep Work ens Ajuda a Aprendre Ràpidament Coses Difícils</h6>
 
 <p>Aprendre requereix intensa concentració.</p>
 
@@ -329,8 +152,7 @@ Shallow: superficial
 
 <p>Si creus que aprofondir és incòmode i la distracció ubíqua, les habilitats necessàries per aprendre seran fàcils per a tu.</p>
 
-<h6 id="3-deep-work-ajuda-a-produir-a-alt-nivell">
-<a class="anchor" href="#3-deep-work-ajuda-a-produir-a-alt-nivell" aria-hidden="true"><span class="octicon octicon-link"></span></a>3. Deep Work Ajuda a Produir a Alt Nivell</h6>
+<h6 id="3-deep-work-ajuda-a-produir-a-alt-nivell">3. Deep Work Ajuda a Produir a Alt Nivell</h6>
 
 <blockquote>
   <p>High-Quality Work Produced = (Time Spent) x (Intensity of Focus)</p>
@@ -348,8 +170,7 @@ Shallow: superficial
   <p>El tipos de treball optimitza el desenrrotllament del Deep Work.</p>
 </blockquote>
 
-<h6 id="4-què-passa-amb-jack-dorsey">
-<a class="anchor" href="#4-qu%C3%A8-passa-amb-jack-dorsey" aria-hidden="true"><span class="octicon octicon-link"></span></a>4. Què passa amb Jack Dorsey?</h6>
+<h6 id="4-què-passa-amb-jack-dorsey">4. Què passa amb Jack Dorsey?</h6>
 
 <p>Els alts executius que es dispersen en reunions, no fan Deep Work.</p>
 
@@ -357,8 +178,7 @@ Shallow: superficial
 
 <p>Deep Work no és sols una habilitat valorable a la nostra economia, i és possible que no s’aculla bé, però en certs nínxols és recomanable.</p>
 
-<h4 id="capítol-2-deep-work-és-rar">
-<a class="anchor" href="#cap%C3%ADtol-2-deep-work-%C3%A9s-rar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Capítol 2. Deep Work és rar</h4>
+<h4 id="capítol-2-deep-work-és-rar">Capítol 2. Deep Work és rar</h4>
 
 <p>Hi ha una tedència d’augmentar els procediments de missatgeria instantània.</p>
 
@@ -374,15 +194,13 @@ Shallow: superficial
   <p>L’objectiu d’aquest capítol és explicar la paradoxa de com és de rar Deep Work i com, sobint, s’acaba abraçant la distracció per pensar que així s’incrementa la productibitat.</p>
 </blockquote>
 
-<h5 id="a-la-mesura-del-forat-negre">
-<a class="anchor" href="#a-la-mesura-del-forat-negre" aria-hidden="true"><span class="octicon octicon-link"></span></a>A. La Mesura del Forat Negre</h5>
+<h5 id="a-la-mesura-del-forat-negre">A. La Mesura del Forat Negre</h5>
 
 <p>Atlantic Media gastava un milió de dólars en processar-emails. El valor de processament de cada missatge era de 95 centaus de coste de treball.</p>
 
 <p>Aquesta metodologia suposa un impacte molt important en la línia base de la productivitat empresarial.</p>
 
-<h5 id="b-el-principi-de-mínima-resistència">
-<a class="anchor" href="#b-el-principi-de-m%C3%ADnima-resist%C3%A8ncia" aria-hidden="true"><span class="octicon octicon-link"></span></a>B. El Principi de Mínima Resistència</h5>
+<h5 id="b-el-principi-de-mínima-resistència">B. El Principi de Mínima Resistència</h5>
 
 <p>Tenim una posició dominant en la <strong>cultura de la connectivitat</strong> on l’expectativa és que llisgues i respongues missatges ràpidament.</p>
 
@@ -400,8 +218,7 @@ Shallow: superficial
 
 <p>El <strong>Principi de Mínima Resistència</strong>, després d’analitzar el forat negre, que assumeixen les cultures de la <strong>connetivitat persistent</strong> dóna poc temps per a la <strong>concentració</strong> i la <strong>planificació</strong> a expenses de la <strong>satisfacció</strong> i la <strong>producció de valor real</strong>.</p>
 
-<h5 id="c-locupació-com-a-representant-de-la-productivitat">
-<a class="anchor" href="#c-locupaci%C3%B3-com-a-representant-de-la-productivitat" aria-hidden="true"><span class="octicon octicon-link"></span></a>C. L’ocupació com a Representant de la Productivitat</h5>
+<h5 id="c-locupació-com-a-representant-de-la-productivitat">C. L’ocupació com a Representant de la Productivitat</h5>
 
 <p>Ser professor d’universists et dóna claredat.</p>
 
@@ -415,15 +232,13 @@ Shallow: superficial
 
 <p>L’autor parla d’una periodista que no por realitzar treball de qualitat per mantenri un compte de Twitter, ja que aquesta acció li treu el focus constantment del la metodologia Deep Work.</p>
 
-<h5 id="d-el-culte-dinternet">
-<a class="anchor" href="#d-el-culte-dinternet" aria-hidden="true"><span class="octicon octicon-link"></span></a>D. El Culte d’Internet</h5>
+<h5 id="d-el-culte-dinternet">D. El Culte d’Internet</h5>
 
 <p>La idea és que es tendeix a associar tecnologia amb productivitat sense parar-se a valorar la qualitat del producte resultant.</p>
 
 <p>Morozov critica que Internet siga sinònim de revlució dels negocis del futur i de governança, però s’oblida que les companyies que impulsen aquest prductes extrauen profit d’aquests accions i no estan exentes d’intenticionaltat indeològica. Ràpidament s’ideologitzen aquests adorns i es magnifiquen com missatgers del nou món.</p>
 
-<h4 id="3-capítol-3-deep-work-és-significatiu">
-<a class="anchor" href="#3-cap%C3%ADtol-3-deep-work-%C3%A9s-significatiu" aria-hidden="true"><span class="octicon octicon-link"></span></a>3. Capítol 3. Deep Work és significatiu</h4>
+<h4 id="3-capítol-3-deep-work-és-significatiu">3. Capítol 3. Deep Work és significatiu</h4>
 
 <p>L’autor relata el procés artesà que segueix un ferrer dedicat a recrear espases vinkingues.</p>
 
@@ -439,8 +254,7 @@ Shallow: superficial
   <p>L’objectiu d’aques capítol és convéncer de que Deep Work pot generar multa satisfacció en una economia de la informació que clarament es transforma en artesania de la informació.</p>
 </blockquote>
 
-<h5 id="a-argument-neurològic-per-a-la-profunditat">
-<a class="anchor" href="#a-argument-neurol%C3%B2gic-per-a-la-profunditat" aria-hidden="true"><span class="octicon octicon-link"></span></a>A. Argument neurològic per a la Profunditat</h5>
+<h5 id="a-argument-neurològic-per-a-la-profunditat">A. Argument neurològic per a la Profunditat</h5>
 
 <p>Les nostres ments construeixen el món pagant amb atenció cap al focus que ens interessa. Si el focus és un diganòstic de càncer, tu i la teua vida comença a ser infeliç i fosca, però si el focus el posem sobre un martini, la vida comença a ser més amable, tot i que les circumstàncies continuen apuntant a un càncer.</p>
 
@@ -470,8 +284,7 @@ Shallow: superficial
   <p>La connexió entre Deep Work i Flow pot estar clara: Deep Work és una activitat adeqüada per a generar l’estat de Flow.</p>
 </blockquote>
 
-<h5 id="b-una-filosofia-argumental-per-al-deep-woork">
-<a class="anchor" href="#b-una-filosofia-argumental-per-al-deep-woork" aria-hidden="true"><span class="octicon octicon-link"></span></a>B. Una Filosofia Argumental per al Deep Woork</h5>
+<h5 id="b-una-filosofia-argumental-per-al-deep-woork">B. Una Filosofia Argumental per al Deep Woork</h5>
 
 <blockquote>
   <p>L’ofici de l’artesà, no és generar <strong>significat</strong>, més aviat es tracta de <strong>cultivar-se a sí mateix habilitats de discerniment del significat que ja té</strong>.</p>
@@ -486,16 +299,13 @@ Shallow: superficial
   <li>Cultivar el treball artesà implica aprofondir en les tasques, abraçar Deep Work.</li>
 </ol>
 
-<h5 id="c-homo-sapiens-deepensis">
-<a class="anchor" href="#c-homo-sapiens-deepensis" aria-hidden="true"><span class="octicon octicon-link"></span></a>C. Homo Sapiens Deepensis</h5>
+<h5 id="c-homo-sapiens-deepensis">C. Homo Sapiens Deepensis</h5>
 
 <p>Viure una vida profunda és la millor manera de viure.</p>
 
-<h3 id="part-2-les-regles">
-<a class="anchor" href="#part-2-les-regles" aria-hidden="true"><span class="octicon octicon-link"></span></a>Part 2. Les Regles</h3>
+<h3 id="part-2-les-regles">Part 2. Les Regles</h3>
 
-<h4 id="regla-1-treballa-profundament">
-<a class="anchor" href="#regla-1-treballa-profundament" aria-hidden="true"><span class="octicon octicon-link"></span></a>Regla 1. Treballa Profundament</h4>
+<h4 id="regla-1-treballa-profundament">Regla 1. Treballa Profundament</h4>
 
 <p><strong>Eudaimonia</strong>: Felicitat</p>
 
@@ -508,33 +318,27 @@ Shallow: superficial
 
 <p>La clau està en desenvopular <strong>hàbits</strong> de Deep Work més enllà de les intencions i afegir <strong>rutinies</strong> i <strong>rituals</strong> que minimitzen el manteniment i el trencament de la concentració.</p>
 
-<h5 id="a-decideix-la-teua-filosolfia-de-la-profunditat">
-<a class="anchor" href="#a-decideix-la-teua-filosolfia-de-la-profunditat" aria-hidden="true"><span class="octicon octicon-link"></span></a>A. Decideix la Teua Filosolfia de la Profunditat</h5>
+<h5 id="a-decideix-la-teua-filosolfia-de-la-profunditat">A. Decideix la Teua Filosolfia de la Profunditat</h5>
 
-<h6 id="1-la-filosofia-monàstica-agenda-de-treball">
-<a class="anchor" href="#1-la-filosofia-mon%C3%A0stica-agenda-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. La Filosofia Monàstica agenda de treball</h6>
+<h6 id="1-la-filosofia-monàstica-agenda-de-treball">1. La Filosofia Monàstica agenda de treball</h6>
 
 <p>Donald Knuth, creador de TeX. Ha substituit el correu electrònic per correu postal.</p>
 
 <p>Aquesta filolofia intenta reduir intents para maximitzar els esforços de produnditat eliminant o maximitzant les obligacions superficials.</p>
 
-<h6 id="2-la-filosofia-bimodal-agenda-de-treball">
-<a class="anchor" href="#2-la-filosofia-bimodal-agenda-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. La Filosofia Bimodal agenda de treball</h6>
+<h6 id="2-la-filosofia-bimodal-agenda-de-treball">2. La Filosofia Bimodal agenda de treball</h6>
 
 <p>Carl Jung. Traballa amb Deep Work unes hores al matí, i la resta del dia el passava a Zurich a la seua clínica. Es tracta d’aillar períodes de retir, potser part del dia. Cal deixar clars els límits.</p>
 
-<h6 id="3-la-filosofia-rímica-agenda-de-treball">
-<a class="anchor" href="#3-la-filosofia-r%C3%ADmica-agenda-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>3. La Filosofia Rímica agenda de treball</h6>
+<h6 id="3-la-filosofia-rímica-agenda-de-treball">3. La Filosofia Rímica agenda de treball</h6>
 
 <p>Seinfeld. Va encadenant dies en un calendari. A mesura que la cadena se fa més llarga és més difícil de trencar pel compromís establert amb ella.</p>
 
-<h6 id="4-la-filosofia-periodística">
-<a class="anchor" href="#4-la-filosofia-period%C3%ADstica" aria-hidden="true"><span class="octicon octicon-link"></span></a>4. La Filosofia Periodística</h6>
+<h6 id="4-la-filosofia-periodística">4. La Filosofia Periodística</h6>
 
 <p>Walter Isaacson. Tactar de treballar durant un període curt, com ara una hora tots els dies enfocat en un tema determinat.</p>
 
-<h5 id="b-ritualitza">
-<a class="anchor" href="#b-ritualitza" aria-hidden="true"><span class="octicon octicon-link"></span></a>B. Ritualitza</h5>
+<h5 id="b-ritualitza">B. Ritualitza</h5>
 
 <p>Charles Darwin. Tenia una estricta estructura de treball.</p>
 
@@ -557,8 +361,7 @@ Shallow: superficial
   <li>Assegura la teua ment amb suports, com ara començar amb un café</li>
 </ol>
 
-<h5 id="c-fes-grans-gestos">
-<a class="anchor" href="#c-fes-grans-gestos" aria-hidden="true"><span class="octicon octicon-link"></span></a>C. Fes Grans Gestos</h5>
+<h5 id="c-fes-grans-gestos">C. Fes Grans Gestos</h5>
 
 <p>J.K. Rowling, al gener del 2007, se’n va a anar a un hotel victorià per escriure el llibre final de la sèrie de Harry Potter <em>The Deathly Hallows</em>. Esra un hotel a prop del castell d’Edimburg on la seua estructura la inspirava per escriure.</p>
 
@@ -566,8 +369,7 @@ Shallow: superficial
 
 <p>Peter Shankman va muntar en un avió i va viatjar a Tokyo en primera classe per tal d’escriure. Quan va arribar al Japó va agavar el vol de tornada per concentrar-se de nou.</p>
 
-<h5 id="d-no-treballes-sol">
-<a class="anchor" href="#d-no-treballes-sol" aria-hidden="true"><span class="octicon octicon-link"></span></a>D. No treballes Sol</h5>
+<h5 id="d-no-treballes-sol">D. No treballes Sol</h5>
 
 <p>És mala idea construir oficines obertes tal com les concebeix Facebook, on molts treballadors tenen multitut d’estímuls que interfereixen el seu treball.</p>
 
@@ -610,8 +412,7 @@ Shallow: superficial
 
 <p><strong>Deep Work</strong> amb la col·laboració apropiada eleva els resultats a un nou nivell.</p>
 
-<h5 id="e-executa-com-un-negoci">
-<a class="anchor" href="#e-executa-com-un-negoci" aria-hidden="true"><span class="octicon octicon-link"></span></a>E. Executa com un negoci</h5>
+<h5 id="e-executa-com-un-negoci">E. Executa com un negoci</h5>
 
 <blockquote>
   <p>I know <strong>WHAT</strong> I need todo.
@@ -626,23 +427,19 @@ I just don’t know <strong>HOW</strong> todo it.</p>
 
 <p>Les 4 Disciplines de l’Execució.</p>
 
-<h6 id="disciplina-01-enfocat-en-els-desitjos-importants">
-<a class="anchor" href="#disciplina-01-enfocat-en-els-desitjos-importants" aria-hidden="true"><span class="octicon octicon-link"></span></a>Disciplina #01. Enfocat en els Desitjos Importants</h6>
+<h6 id="disciplina-01-enfocat-en-els-desitjos-importants">Disciplina #01. Enfocat en els Desitjos Importants</h6>
 
 <p>Dedica temps a treballar en la profunditat.</p>
 
 <p>The Art of Focus. David Brooks. <em>Si vols guanyar la guerra de l’atenció, no digues NO a les distraccions trivials, aconsegueix dir SÍ a les informacions que et desperten l’anhel d’aconseguir-la.</em></p>
 
-<h6 id="disciplina-02-actua-amb-mesures-directes-predictives">
-<a class="anchor" href="#disciplina-02-actua-amb-mesures-directes-predictives" aria-hidden="true"><span class="octicon octicon-link"></span></a>Disciplina #02. Actua amb Mesures Directes (Predictives)</h6>
+<h6 id="disciplina-02-actua-amb-mesures-directes-predictives">Disciplina #02. Actua amb Mesures Directes (Predictives)</h6>
 
 <p>Cal distingir dos tipus de mesures:</p>
 
 <ul>
-  <li>
-<strong>Històriques</strong> (Lag). Sobre les que no podem actuar però ens serviran per reflexionar, com a referència.</li>
-  <li>
-<strong>Predictives</strong> (Lead). Sobre les que podrem actuar per modificar el resultat.</li>
+  <li><strong>Històriques</strong> (Lag). Sobre les que no podem actuar però ens serviran per reflexionar, com a referència.</li>
+  <li><strong>Predictives</strong> (Lead). Sobre les que podrem actuar per modificar el resultat.</li>
 </ul>
 
 <p>Quan actuem sobre les mesures predictives prenem directament el control del nostre futur, ja que les nostres accions tindran un impacte real en el futur.</p>
@@ -654,89 +451,51 @@ I just don’t know <strong>HOW</strong> todo it.</p>
   <li>Mesures predictives: estudiar més temps i amb una estratègia determinada per tal d’intentar traure bons resultats acadèmics.</li>
 </ul>
 
-<h6 id="disciplina-03-mantín-un-marcador-clar">
-<a class="anchor" href="#disciplina-03-mant%C3%ADn-un-marcador-clar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Disciplina #03. Mantín un Marcador Clar</h6>
+<h6 id="disciplina-03-mantín-un-marcador-clar">Disciplina #03. Mantín un Marcador Clar</h6>
 
 <p>Cal mesurar els progressos per obtenir retroalimentació, per poder saber si estem avançant i per mantenir-nos connectats amb la situació correcta.</p>
 
-<h6 id="disciplina-04-crea-una-cadència-de-rendició-de-comptes">
-<a class="anchor" href="#disciplina-04-crea-una-cad%C3%A8ncia-de-rendici%C3%B3-de-comptes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Disciplina #04. Crea una Cadència de Rendició de Comptes</h6>
+<h6 id="disciplina-04-crea-una-cadència-de-rendició-de-comptes">Disciplina #04. Crea una Cadència de Rendició de Comptes</h6>
 
 <p>Un ritme regular i freqüent amb l’equip ens pot donar la informació sobre el nostre compromís amb el projecte i els resultats obtinguts.</p>
 
-<h5 id="f-descansa">
-<a class="anchor" href="#f-descansa" aria-hidden="true"><span class="octicon octicon-link"></span></a>F. Descansa</h5>
+<h5 id="f-descansa">F. Descansa</h5>
 
-<h6 id="raó--01-enregistra-la-informació-sobre-el-temps-dinactivitat">
-<a class="anchor" href="#ra%C3%B3--01-enregistra-la-informaci%C3%B3-sobre-el-temps-dinactivitat" aria-hidden="true"><span class="octicon octicon-link"></span></a>Raó  #01. Enregistra la informació sobre el temps d’inactivitat</h6>
+<h6 id="raó--01-enregistra-la-informació-sobre-el-temps-dinactivitat">Raó  #01. Enregistra la informació sobre el temps d’inactivitat</h6>
 
 <p>Aquest hàbit no reduirà necessàriament el temps de treball productiu, però diversificarà el treball de desplegament.</p>
 
-<h6 id="raó--02-els-temps-morts-ajuden-a-recarregar-energia">
-<a class="anchor" href="#ra%C3%B3--02-els-temps-morts-ajuden-a-recarregar-energia" aria-hidden="true"><span class="octicon octicon-link"></span></a>Raó  #02. Els Temps Morts ajuden a recarregar energia</h6>
+<h6 id="raó--02-els-temps-morts-ajuden-a-recarregar-energia">Raó  #02. Els Temps Morts ajuden a recarregar energia</h6>
 
 <p>L’atenció és un recurs limitat, per això cal descansar per optimitzar-la.</p>
 
-<h6 id="raó--03-el-treball-dútima-hora-normament-no-és-important">
-<a class="anchor" href="#ra%C3%B3--03-el-treball-d%C3%BAtima-hora-normament-no-%C3%A9s-important" aria-hidden="true"><span class="octicon octicon-link"></span></a>Raó  #03. El Treball d’Útima Hora normament no és important</h6>
+<h6 id="raó--03-el-treball-dútima-hora-normament-no-és-important">Raó  #03. El Treball d’Útima Hora normament no és important</h6>
 
 <p>Si cuides la teua agenda augmentaràs la capacitat de desenvolupar Deep Work.</p>
 
-<h4 id="regla-2-abraça-lavorriment">
-<a class="anchor" href="#regla-2-abra%C3%A7a-lavorriment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Regla 2. Abraça l’Avorriment</h4>
+<h4 id="regla-2-abraça-lavorriment">Regla 2. Abraça l’Avorriment</h4>
 
-<h5 id="a-no-pares-per-distraccions-en-lloc-de-prendre-pauses-pel-focus">
-<a class="anchor" href="#a-no-pares-per-distraccions-en-lloc-de-prendre-pauses-pel-focus" aria-hidden="true"><span class="octicon octicon-link"></span></a>A. No pares per distraccions en lloc de prendre pauses pel focus</h5>
+<h5 id="a-no-pares-per-distraccions-en-lloc-de-prendre-pauses-pel-focus">A. No pares per distraccions en lloc de prendre pauses pel focus</h5>
 
-<h6 id="punt-1-aquesta-estratègia-de-treball-inclús-si-el-treball-requereix-molt-dinternet-usa-io-en-les-capçaleres-de-les-rèpliques-demail">
-<a class="anchor" href="#punt-1-aquesta-estrat%C3%A8gia-de-treball-incl%C3%BAs-si-el-treball-requereix-molt-dinternet-usa-io-en-les-cap%C3%A7aleres-de-les-r%C3%A8pliques-demail" aria-hidden="true"><span class="octicon octicon-link"></span></a>Punt 1. Aquesta estratègia de treball, inclús si el treball requereix molt d’internet usa i/o en les capçaleres de les rèpliques d’email</h6>
+<h6 id="punt-1-aquesta-estratègia-de-treball-inclús-si-el-treball-requereix-molt-dinternet-usa-io-en-les-capçaleres-de-les-rèpliques-demail">Punt 1. Aquesta estratègia de treball, inclús si el treball requereix molt d’internet usa i/o en les capçaleres de les rèpliques d’email</h6>
 
-<h6 id="punt-2-independenment-que-la-teua-agenda-dinternet-mantin-te-lliure-dinternet-per-als-teus-blocs-de-treball">
-<a class="anchor" href="#punt-2-independenment-que-la-teua-agenda-dinternet-mantin-te-lliure-dinternet-per-als-teus-blocs-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>Punt 2. Independenment que la teua agenda d’internet, mantin-te lliure d’internet per als teus blocs de treball</h6>
+<h6 id="punt-2-independenment-que-la-teua-agenda-dinternet-mantin-te-lliure-dinternet-per-als-teus-blocs-de-treball">Punt 2. Independenment que la teua agenda d’internet, mantin-te lliure d’internet per als teus blocs de treball</h6>
 
-<h6 id="punt-3-utilitza-lagenda-dinternet-a-casa-com-a-millora-del-de-la-concentració-de-lentrenament-de-treball">
-<a class="anchor" href="#punt-3-utilitza-lagenda-dinternet-a-casa-com-a-millora-del-de-la-concentraci%C3%B3-de-lentrenament-de-treball" aria-hidden="true"><span class="octicon octicon-link"></span></a>Punt 3. Utilitza l’agenda d’internet a casa com a millora del de la concentració de l’entrenament de treball</h6>
+<h6 id="punt-3-utilitza-lagenda-dinternet-a-casa-com-a-millora-del-de-la-concentració-de-lentrenament-de-treball">Punt 3. Utilitza l’agenda d’internet a casa com a millora del de la concentració de l’entrenament de treball</h6>
 
-<h5 id="b-treballa-com-teddy-roosevelt">
-<a class="anchor" href="#b-treballa-com-teddy-roosevelt" aria-hidden="true"><span class="octicon octicon-link"></span></a>B. Treballa com Teddy Roosevelt</h5>
+<h5 id="b-treballa-com-teddy-roosevelt">B. Treballa com Teddy Roosevelt</h5>
 
-<h5 id="c-medita-productivament">
-<a class="anchor" href="#c-medita-productivament" aria-hidden="true"><span class="octicon octicon-link"></span></a>C. Medita Productivament</h5>
+<h5 id="c-medita-productivament">C. Medita Productivament</h5>
 
-<h6 id="suggeriment-1-desconfia-de-les-distraccions-i-dels-bucles">
-<a class="anchor" href="#suggeriment-1-desconfia-de-les-distraccions-i-dels-bucles" aria-hidden="true"><span class="octicon octicon-link"></span></a>Suggeriment 1. Desconfia de les distraccions i dels bucles</h6>
+<h6 id="suggeriment-1-desconfia-de-les-distraccions-i-dels-bucles">Suggeriment 1. Desconfia de les distraccions i dels bucles</h6>
 
-<h6 id="suggeriment-2-estructura-el-teu-pensament-profund">
-<a class="anchor" href="#suggeriment-2-estructura-el-teu-pensament-profund" aria-hidden="true"><span class="octicon octicon-link"></span></a>Suggeriment 2. Estructura el teu Pensament Profund</h6>
+<h6 id="suggeriment-2-estructura-el-teu-pensament-profund">Suggeriment 2. Estructura el teu Pensament Profund</h6>
 
-<h5 id="d-memoritza-una-baralla-de-cartes">
-<a class="anchor" href="#d-memoritza-una-baralla-de-cartes" aria-hidden="true"><span class="octicon octicon-link"></span></a>D. Memoritza una Baralla de Cartes</h5>
+<h5 id="d-memoritza-una-baralla-de-cartes">D. Memoritza una Baralla de Cartes</h5>
 
-<h4 id="regla-3-evita-les-xarxes-socials">
-<a class="anchor" href="#regla-3-evita-les-xarxes-socials" aria-hidden="true"><span class="octicon octicon-link"></span></a>Regla 3. Evita les Xarxes Socials</h4>
+<h4 id="regla-3-evita-les-xarxes-socials">Regla 3. Evita les Xarxes Socials</h4>
 
-<h4 id="regla-4-solta-lastre">
-<a class="anchor" href="#regla-4-solta-lastre" aria-hidden="true"><span class="octicon octicon-link"></span></a>Regla 4. Solta Lastre</h4>
+<h4 id="regla-4-solta-lastre">Regla 4. Solta Lastre</h4>
 
-<h3 id="conclusió">
-<a class="anchor" href="#conclusi%C3%B3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Conclusió</h3>
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
-  </div>
-
-</footer>
-
-
-  </body>
-
-</html>
+<h3 id="conclusió">Conclusió</h3>
+:ET

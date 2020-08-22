@@ -157,7 +157,7 @@ font-size: 22px;
     }
 h4 {
 font-size: 20px;
-color: indianred;
+color: darkred;
 margin-top: 0.83em;
 margin-bottom: 0.83em;
 @include media-query($on-laptop) {
@@ -166,7 +166,7 @@ font-size: 18px;
     }
 h5 {
 font-size: 18px;
-color: lightcoral;
+color: crimson;
 margin-top: 0.83em;
 margin-bottom: 0.83em;
 @include media-query($on-laptop) {
@@ -175,7 +175,7 @@ font-size: 16px;
     }
 h6 {
     font-size: 16px;
-    color: lightsalmon;
+    color: tomato;
     margin-top: 0.83em;
     margin-bottom: 0.83em;
     @include media-query($on-laptop) {
