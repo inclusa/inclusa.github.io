@@ -5,6 +5,7 @@ date: 2018-03-07 # Data
 description:  # Argument
 keywords:  # Paraules clau
 coments:  # Comentaris
+toc: true
 ---
 
 Llibre: David Allen. Haz que funcione. Alienta Editorial
@@ -58,9 +59,14 @@ Web: http://www.alientaeditorial.com
 
 ### 1. Introducció
 
-    > L'art dels avanços és preservar l'ordre en mig del canvi. Alfred North Whitehead.
-
-    > Gran part del que els més exigents anomenen despectivament **complexitat** del món real no és més que la inconsistència de les seues ments. Thomas Sowell.
+> L'art dels avanços 
+> és preservar l'ordre en mig del canvi.
+> -- Alfred North Whitehead.
+>
+> Gran part del que els més exigents 
+> anomenen despectivament **complexitat** del món real
+> no és més que la inconsistència de les seues ments. 
+> -- Thomas Sowell.
 
 Per a portar a terme una vida eficaç és necessari que podam fer que les coses **succeïsquen** i que **formem part del nostre món**, per a que aquest ens aporte les experiències i els resutats que busquem.
 
@@ -78,7 +84,7 @@ Quan les persones diuen que volen **organitzar-se**, el que volen dir és que **
 
 > **Bon disseny = eliminació de lastres**
 
-GTD es basa en principis simples fàcils d'implmentar.
+**GTD*** es basa en principis simples fàcils d'implementar.
 
 Tenim una necessitat desesperada d'**aprendre a gestionar-nos**, no d'obtenir informació, sinó més bé d'**entendre** què és el que **signifiquen** les coses i com es **relacionen** unes en altres.
 
@@ -88,7 +94,7 @@ El **canvi** sempre produeix algun tipus d'**estrés**, ja que el nostre món es
 
 Es necessita cal·librar de nou les relacions i la imatge que tenim de nosaltres mateixos, ja que transtornen les nostres estructures i pautes conegudes.
 
-Potser en tres dies probablement hages rebut més **inputs** que hauran provocat canvis, creant projectes i modificant prioritats que els que els teus pares rebien en un mes..., i alguns d'ells en un any. Tals **transtorns succeïen amb tan poca freqüència** el les seues èpoques que simplement **toleraven l'estrés**.
+Potser en tres dies probablement hages rebut més **inputs** que hauran provocat canvis, creant projectes i modificant prioritats que els que els teus pares rebien en un mes, i alguns d'ells en un any. Tals **transtorns succeïen amb tan poca freqüència** el les seues èpoques que simplement **toleraven l'estrés**.
 
 Tu, encanvi estàs en un constant estrés, ja que al conviure amb les noves tecnologies has permés que tot tipus d'elements apareguen en el teu correu electrònic.
 
@@ -124,29 +130,26 @@ La **inspiració** i la **innovació** són crucials. Si una companyia o un indi
 Tres models:
 
 1. Arribar a dominar el fluxe de treball
-
-    1.1. Recopil·lar
-    1.2. Processar
-    1.3. Organitzar
-    1.4. Revisar
-    1.5. Fer
+    - Recopil·lar
+    - Processar
+    - Organitzar
+    - Revisar
+    - Fer
 
 2. Planificar de forma natural
-
-    2.1. Propòsit i Principis
-    2.2. Objectius
-    2.3. Generalitzar pluja d'idees
-    2.4. Organitzar
-    2.5. Accions
+    - Propòsit i Principis
+    - Objectius
+    - Generalitzar pluja d'idees
+    - Organitzar
+    - Accions
 
 3. Els horitzons d'enfoc
-
-    3.1. Propòsit i principis
-    3.2. Visió
-    3.3. Objectius
-    3.4. Àrees d'enfoc
-    3.5. Projectes
-    3.6. Accions
+    - Propòsit i principis
+    - Visió
+    - Objectius
+    - Àrees d'enfoc
+    - Projectes
+    - Accions
 
 > El **secret del control** no radica en estar convençut de fer el que és correcte sempre, sino en **assegurar-te de que domines un procés que funciona**, per a descobrir la millor **elecció** possible i **compromentre't** amb ella.
 
