@@ -1,0 +1,24 @@
+I"<p>Per tal d’editar sempre amb l’editor que predeterminem al nostre sistema caldrà executar aquesta ordre:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>update-alternatives <span class="nt">--config</span> editor
+</code></pre></div></div>
+
+<p>La qual ens tornarà aquest text:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hi ha 4 possibilitats per a l<span class="s1">'alternativa editor (que proveeix /usr/bin/editor).
+
+  Selecció    Camí               Prioritat  Estat
+------------------------------------------------------------
+  0            /bin/nano            40        mode automàtic
+  1            /bin/ed             -100       mode manual
+  2            /bin/nano            40        mode manual
+* 3            /usr/bin/vim.basic   30        mode manual
+  4            /usr/bin/vim.tiny    15        mode manual
+
+Premeu retorn per a mantenir l'</span>opció per defecte[<span class="k">*</span><span class="o">]</span>, o introduïu un número de selecció: 
+</code></pre></div></div>
+
+<p>Caldrà introduir el nombre de l’editor que desitgem.</p>
+
+<p>Ara sempre que editem un text en terminal ho farem en el nostre editor predeterminat.</p>
+:ET

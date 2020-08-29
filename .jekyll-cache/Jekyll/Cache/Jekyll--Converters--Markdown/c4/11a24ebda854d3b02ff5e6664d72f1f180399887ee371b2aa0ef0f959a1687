@@ -1,0 +1,28 @@
+I"V<p>Amb la utilitat <code class="language-plaintext highlighter-rouge">dpkg</code> podem <strong>bloquejar</strong> o <strong>retenir</strong> paquets que ens interessa, per alguna raó, mantenir una versió concreta dels mateixos.</p>
+
+<p>Així amb l’extensió <code class="language-plaintext highlighter-rouge">dpkg get-selections</code> podem visualitzar i canviar l’estat dels mateixos.</p>
+
+<ol>
+  <li>Mirar l’estat dels paquets: <code class="language-plaintext highlighter-rouge">dpkg --get-selections</code>.</li>
+  <li>Filtrar directament el paquet que ens interessa: <code class="language-plaintext highlighter-rouge">dpkg --get-selections firefox</code></li>
+  <li>Evitar que s’actualitze el paquet, en aquest cas <strong>Firefox</strong>: <code class="language-plaintext highlighter-rouge">dpkg --get-selections firefox</code>. La qual cosa el marcarà com a <code class="language-plaintext highlighter-rouge">hold</code>, així, <code class="language-plaintext highlighter-rouge">firefox hold</code>.</li>
+  <li>Si fem una actualització pdrem veure que el sistema ens indica que no s’actualitzarà, amb aquest missatge: <code class="language-plaintext highlighter-rouge">The following packages have been kept back: firefox firefox-globalmenu</code>.</li>
+  <li>Per tornar a permetre la seua instal·lació: <code class="language-plaintext highlighter-rouge">echo "firefox install" | sudo dpkg --set-selections</code>.</li>
+</ol>
+
+<p>Exemple:</p>
+
+<p>Llistem paquets: <code class="language-plaintext highlighter-rouge">dpkg --get-selections</code></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>xournal                     hold
+xpra                        install
+xrdp                        install
+xsane                       install
+xsane-common                install
+xscreensaver                deinstall
+xscreensaver-data           deinstall
+xsel                        install
+</code></pre></div></div>
+
+<p>Font: <a href="https://www.taringa.net/posts/linux/16014894/Bloquear-la-actualizacion-de-paquetes-en-Debian-y-Ubuntu.html">Taringa</a></p>
+:ET
