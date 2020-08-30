@@ -14,7 +14,7 @@ L'autor comença el llibre citant un article d'Andrew Sullivan al *New York Time
 
 Cal Newport anomena **Minimalisme Digital** a la creença de que **menys és més** en la nostra relació amb les ferramentes digitals.
 
-**Henry David Thoreau exclama **simplifica, simplifica, simplifica**.
+**Henry David Thoreau** recomana **simplifica, simplifica, simplifica**.
 
 **Marco Aurelio** diu **mira quantes coses has de fer per viure una vida satisfactòria i reverent?**.
 
@@ -41,3 +41,5 @@ L'autor manté que no es acceptar la filosofia de la nova tecnologia, per què �
 #### 5. Recuperar l'oci ####
 
 #### 6. Unir-se a la Resistència Atencional ####
+
+### Conclusió ###
