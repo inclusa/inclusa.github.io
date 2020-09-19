@@ -1,4 +1,4 @@
----
+G---
 layout: post # Sustituye el layout si lo usas uno diferente
 title: 96 Digital Minimalism # Nombre generado automáticament
 date: 2020-08-30 # Data
@@ -52,6 +52,15 @@ Dues coses han de quedar-nos clares:
 2. Tristan Harris afirma que aquestes tecnologies no són accidentals, estan dissenyades amb cura per enginyers amb aquesta finalitat.
 
 Tant és així que el seu disseny té un patró: **reforçament intermitent i dirigit a l'aprovació social**. Aquests patró és molt potent.
+
+En el Paleolític era important cuidar la relació social amb els membres de la tribu, perquè d'això depenia supervivència. En el segle XXI han segrestat aquest impuls profund per crear una profitosa conducta adictiva.
+
+La indústria tecnològica resalta l'adepció a l'instint d'aprovació social. Tristan Harris resalta el fet d'etiquetar les fotografies. Aquest fet t'envia una notificació que no podem inhibir.
+
+Es tracta de disparadors designats a optindre una conducta adictiva. En aquest context no es considera un defecte, però insta a la realització massiva d'un profitós pla de negoci.
+
+Necessitem un pla que es defenga d'aquesta situació Digital Minimalism és una estratègia per dirigir el nostre pla d'acció.
+
 
 #### 2. Minimalisme Digital ####
 
