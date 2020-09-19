@@ -1,4 +1,4 @@
-G---
+---
 layout: post # Sustituye el layout si lo usas uno diferente
 title: 96 Digital Minimalism # Nombre generado automáticament
 date: 2020-08-30 # Data
