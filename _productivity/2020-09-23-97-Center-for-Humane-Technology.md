@@ -1,0 +1,73 @@
+---
+layout: post # Sustituye el layout si lo usas uno diferente
+title: 97 Center for Humane Technology # Nombre generado automáticamente
+---
+
+Font: https://ledger.humanetech.com/
+
+Sota una immensa pressió per prioritzar el compromís i el creixement, les plataformes tecnològiques han creat una carrera per a l’atenció humana que desencadena danys invisibles a la societat. Aquests són alguns dels costos que no apareixen als seus balanços.
+
+#### 1. Donant sentit al món ####
+
+Desinformació, teories de la conspiració i fake news.
+
+Per què importa?
+
+Una ecologia de la informació trencada soscava la nostra capacitat per comprendre i actuar davant dels complexos desafiaments globals, des del canvi climàtic fins al COVID 19.
+
+#### 2. Atenció i Cognició ####
+
+Pèrdua d’habilitats crucials, inclosa la memòria i l’enfocament.
+
+Per què importa?
+
+Les interrupcions constants de la tecnologia i les distraccions dirigides amb precisió estan afectant la nostra capacitat de pensar, enfocar-nos, resoldre problemes i estar presents els uns amb els altres.
+
+#### 3. Salut Física i Mental ####
+
+Estrès, solitud, sentiment i addicció, comportament de salut de risc incremental.
+
+Per què importa?
+
+A mesura que la tecnologia impregna cada vegada més la nostra vigília, la investigació mostra una àmplia gamma d’efectes sobre la nostra felicitat, la nostra imatge de nosaltres mateixos i la nostra salut mental.
+
+#### 4. Relació Social ####
+
+Menys empatia, més confusió i mala interpretació.
+
+Per què importa?
+
+Tot i que les xarxes socials afirmen que ens connecten, massa sovint ens distreuen de connectar-nos amb els que tenim al davant, de manera que molts se senten connectats i aïllats socialment.
+
+#### 5. Política i Eleccions ####
+
+Propaganda, diàleg distorsionat i disrupció en el procés democràtic.
+
+Per què importa?
+
+Les plataformes de xarxes socials s’incentiven per amplificar el contingut més atractiu, inclinant l’atenció del públic cap al contingut polaritzador i sovint enganyós. En vendre la microorientació al millor postor, permeten pràctiques manipulatives que soscaven les democràcies de tot el món.
+
+#### 6. Opressió Sistèmica ####
+
+Amplificació del racisme, sexisme, homofobia i habilitat.
+
+Per què importa?
+
+La tecnologia integra i sovint amplifica el racisme, el sexisme, l’habilitat i l’homofòbia, creant una economia d’atenció que treballa contra les comunitats marginades.
+
+#### 7. Les Noves Generacions ####
+
+Des dels retards en el desenvolupament fins al suïcidi, els nens s’enfronten a una sèrie de reptes físics, mentals i socials.
+
+Per què importa?
+
+L’exposició a nivells sense restriccions de tecnologia digital pot tenir greus conseqüències a llarg termini per al desenvolupament dels nens, creant canvis permanents en l’estructura cerebral que afecten la manera com els nens pensaran, se sentiran i actuaran al llarg de la seva vida.
+
+#### 8. Fes amb els altres ####
+
+Molta gent que treball en tecnologia, inclús és CEO, limita la tecnologia que s'usa a sa casa.
+
+Per què importa?
+
+Molts líders tecnològics no permeten que els seus propis fills facin servir els productes que construeixen, la qual cosa implica que són molt conscients que els productes dels quals obtenen tants diners representen riscos, especialment per als usuaris joves.
+
