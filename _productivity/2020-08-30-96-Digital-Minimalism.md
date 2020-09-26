@@ -61,8 +61,25 @@ Es tracta de disparadors designats a optindre una conducta adictiva. En aquest c
 
 Necessitem un pla que es defenga d'aquesta situació Digital Minimalism és una estratègia per dirigir el nostre pla d'acció.
 
-
 #### 2. Minimalisme Digital ####
+
+L'autor descobreix que la relació entre les ferramentes digitals és disfuncional.
+
+> **Minimalisme Digital**
+> Filosofia de la tecnologia que utilitza el focus del teu temps en un xicotet nombre d'activitats seleccionades i optimitzades amb molta cura, desestimant qualsevol cosa contrària.
+
+Aquessta filosofia segueix constantment la implicació cost-benefici.
+
+El maximalisme és molt descoratjador ja que segueix la idea de que et pots perdre alguna cosa.
+
+Els minimalistes digitals són adeptes a despullar qualsevol tipus de trets supèrfluos de les noves tecnologies per habilitar l'accés a les funcions importants mentre eviten les distraccions innecessàries.
+
+##### Els principis del Minimalisme Digital #####
+
+> 1. El desordre és costós
+> 2. L'optimització és importants
+> 3. La intencionalitat és satisfactòria
+
 
 #### 3. Ordenat Digital ####
 
