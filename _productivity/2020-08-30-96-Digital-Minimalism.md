@@ -89,10 +89,11 @@ En Març de 1845 Henry David Thoreau va anar als boscos per per viure durant dos
 Thoureau va escriure el llibre Walden, on descrivia la motivació que el va portar als boscos:
 
 > Vaig anar als boscos
-> perquè volia viure a consciència,
+> perquè volia viure a deliberadament,
 > abordar sols les accions essencials de la vida,
-> deixar de costat tot que no tinguera valor per ser d'ensenyat,
-> per descobrir en el moment de la mort que no he viscut.
+> i veure si podia aprendre el que la vida havia d'ensenyar-me,
+> no fora que en el moment de la mort
+> descobrira que no havia viscut.
 
 #### 3. Ordenat Digital ####
 
