@@ -36,8 +36,8 @@ Al 2004 aparèix Facebook. En 2007 aparèix l'iPhone. Hem anat afegint tecnologi
 
 Tristan Harris va ser formador a Google. Defén que la tecnologia no és neutral, està dissenyada per guanyar diners. Harris va treballar a l'equip de GMail.
 
-> Philip Moors volia els nostres pulmons.
-> Apple Store vol la nostra ànima.
+> Philip Moors volia els nostres pulmons.  
+> Apple Store vol la nostra ànima.  
 > -- Bill Maher
 
 Harris afirma que les tecnologies estan dissenyades per aprofitar els biaixos cognitius de les nostres ments. Harris té el coratge d'advertir-nos sobre els perills que amaguen els nostres dispositius.
@@ -80,6 +80,19 @@ Els minimalistes digitals són adeptes a despullar qualsevol tipus de trets sup�
 > 2. L'optimització és importants
 > 3. La intencionalitat és satisfactòria
 
+###### 2.1. Un argument per al principi #01: Thoureau és la nova economia ######
+
+> El desordre és costós
+
+En Març de 1845 Henry David Thoreau va anar als boscos per per viure durant dos anys. Estava treballant sobre el concepte d'una nova economia. Cada dia talava arbres, fins que al juliol va tenir preparada una cabana prop dels boscos de Walden Pond.
+
+Thoureau va escriure el llibre Walden, on descrivia la motivació que el va portar als boscos:
+
+> Vaig anar als boscos
+> perquè volia viure a consciència,
+> abordar sols les accions essencials de la vida,
+> deixar de costat tot que no tinguera valor per ser d'ensenyat,
+> per descobrir en el moment de la mort que no he viscut.
 
 #### 3. Ordenat Digital ####
 
