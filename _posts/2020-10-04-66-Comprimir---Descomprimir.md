@@ -1,6 +1,6 @@
 ---
 layout: post # Sustituye el layout si lo usas uno diferente
-title: 66 Comprimir   Descomprimir # Nombre generado automáticamente
+title: 66 Comprimir - Descomprimir # Nombre generado automáticamente
 ---
 
 Comprimir

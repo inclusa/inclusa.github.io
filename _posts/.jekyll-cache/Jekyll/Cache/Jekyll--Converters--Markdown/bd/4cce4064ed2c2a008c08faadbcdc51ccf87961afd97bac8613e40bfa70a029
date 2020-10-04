@@ -1,0 +1,120 @@
+I""<p><strong>Duplicity</strong> és una utilitat què ens permet fer un backup xifrat de la nostra informació amb aquestes característiques:</p>
+
+<p>Per què utilitzar <code class="language-plaintext highlighter-rouge">duplicity</code> i no <code class="language-plaintext highlighter-rouge">rsync</code>?</p>
+
+<p>Les dues opcions són bones.</p>
+
+<p><strong>Duplicity</strong> xifra els arxius amb <strong>GnuPG</strong>, mentre que <strong>Rsync</strong> no els xifra.</p>
+
+<p>Per xifrar-los et demana la contrasenya en el moment de fer l’acció, però es pot automatitzar incloent un arxiu de text que dispose de la contrasenya de xifratge.</p>
+
+<p>Com vaig arribar a <strong>Duplicity</strong>?</p>
+
+<p>Feia servir <code class="language-plaintext highlighter-rouge">deja-dup</code>, utilitat que ve per defecte a Ubuntu. Aquesta utilitat és genial perquè et xifra els arxius amb un password que se li pot incloure.</p>
+
+<p>El problema apareixia a l’hora d’automatitzar aquesta tasca amb <code class="language-plaintext highlighter-rouge">cron</code>, ja que <code class="language-plaintext highlighter-rouge">deja-dup</code> necessita un entorn gràfic per fer la feina.</p>
+
+<p>Amb <code class="language-plaintext highlighter-rouge">duplicity</code> es pot programar un <code class="language-plaintext highlighter-rouge">cron</code> per fer-ho automàticament.</p>
+
+<p>A més es pot verificar que no han hagut errades en el procés, mitjançant un comandament. Tot i que sempre es pot restaurar on vulguem.</p>
+
+<p>Per si encara no fora prou, es pot restaurar un arxiu concret i es pot especificar els dies que fa que l’arxiu romania correctament.</p>
+
+<ol>
+  <li>Creem el nostre primer backup
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity full txt file:///backup/tmp/
+</code></pre></div>    </div>
+    <p>A la terminanal ens apareix:</p>
+  </li>
+</ol>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Last full backup <span class="nb">date</span>: none
+GnuPG passphrase <span class="k">for </span>decryption: 
+Retype passphrase <span class="k">for </span>decryption to confirm: 
+<span class="nt">--------------</span><span class="o">[</span> Backup Statistics <span class="o">]</span><span class="nt">--------------</span>
+StartTime 1518977840.70 <span class="o">(</span>Sun Feb 18 19:17:20 2018<span class="o">)</span>
+EndTime 1518977840.71 <span class="o">(</span>Sun Feb 18 19:17:20 2018<span class="o">)</span>
+ElapsedTime 0.01 <span class="o">(</span>0.01 seconds<span class="o">)</span>
+SourceFiles 4
+SourceFileSize 4117 <span class="o">(</span>4.02 KB<span class="o">)</span>
+NewFiles 4
+NewFileSize 4117 <span class="o">(</span>4.02 KB<span class="o">)</span>
+DeletedFiles 0
+ChangedFiles 0
+ChangedFileSize 0 <span class="o">(</span>0 bytes<span class="o">)</span>
+ChangedDeltaSize 0 <span class="o">(</span>0 bytes<span class="o">)</span>
+DeltaEntries 4
+RawDeltaSize 21 <span class="o">(</span>21 bytes<span class="o">)</span>
+TotalDestinationSizeChange 284 <span class="o">(</span>284 bytes<span class="o">)</span>
+Errors 0
+<span class="nt">-------------------------------------------------</span>
+
+</code></pre></div></div>
+<p>Així ens demana el password, que caldrà posar.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>GnuPG passphrase <span class="k">for </span>decryption:
+Retype passphrase <span class="k">for </span>decryption to confirm:
+</code></pre></div></div>
+<p>En cas d’automatitzar el procés podem posar le password a mà així:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity <span class="nt">--encrypt-key</span> password_key_from_GPG <span class="nt">--exclude</span> files_to_exclude <span class="nt">--include</span> files_to_include /home/inclusa sftp://inclusa@192.168.0.200//backup_remot/2018
+</code></pre></div></div>
+<ol>
+  <li>Copia un fitxer d’una carpeta local a una altra carpeta local
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity arxiu.txt file:///backup/
+</code></pre></div>    </div>
+  </li>
+  <li>Copia un directori local a un altre directori local
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity directori file:///backup/directori
+</code></pre></div>    </div>
+    <p>Utilitzant aquesta opció, la segon vegada que fem el backup ho farà de forma incremental.</p>
+  </li>
+  <li>Còpia tot el directori forçant la còpia <strong>no incremental</strong> sino total
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity full directori file:///backup/directori
+</code></pre></div>    </div>
+    <p>Aquesta opció copiarà tots els arxius del directori de forma no incremental, ja que l’opció <strong>full</strong> vol dir que aquesta vegada no ho farà de forma incremental.</p>
+  </li>
+  <li>Afegint arxius de forma incremental, en cas de no trobar els arxius vells es pararà la còpia.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity incr directori file:///backup/directori
+</code></pre></div>    </div>
+  </li>
+  <li>Restaurar la còpia
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity restore file:///backup/directori directori
+</code></pre></div>    </div>
+    <p>Així restaurarem la còpia en una carpeta anomenada <code class="language-plaintext highlighter-rouge">directori</code>.</p>
+  </li>
+  <li>Backup de forma remota
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity /home/inclusa sftp://inclusa@192.168.1.200/backup/2018/
+</code></pre></div>    </div>
+  </li>
+  <li>Forzando una còpia remota cada més
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity <span class="nt">--full-if-older-than</span> 1M /home/inclusa sftp://inclusa@192.168.1.200/backup/2018/
+</code></pre></div>    </div>
+    <p>On <code class="language-plaintext highlighter-rouge">1M</code> indica el temps que transcorrerà fins tornar a fer la següent còpia.</p>
+  </li>
+  <li>Restaurant un directori <code class="language-plaintext highlighter-rouge">Mail/article</code> que teniem fa 3 dies
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity <span class="nt">-t</span> 3D <span class="nt">--file-to-restore</span> Mail/article sftp://uid@other.host/some_dir /home/me/restored_file
+</code></pre></div>    </div>
+  </li>
+  <li>Excloure directoris en el backup
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity <span class="nt">--exclude</span> /mnt <span class="nt">--exclude</span> /tmp <span class="nt">--exclude</span> /proc / file:///usr/local/backup
+</code></pre></div>    </div>
+  </li>
+  <li>Reorganitzar directoris en un mateix directori
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity <span class="nt">--exclude</span> /mnt <span class="nt">--exclude</span> /tmp <span class="nt">--exclude</span> /proc / file:///usr/local/backup
+</code></pre></div>    </div>
+  </li>
+  <li>Incloure i excloure directoris en el backup
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>duplicity <span class="nt">--include</span> /home <span class="nt">--include</span> /etc <span class="nt">--exclude</span> ’<span class="k">**</span>’ / file:///usr/local/backup
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h3 id="fonts">Fonts</h3>
+
+<p><a href="http://duplicity.nongnu.org/docs.html">Duplicity - Documentation</a></p>
+
+<p><a href="http://duplicity.nongnu.org/duplicity.1.html#sect3">Duplicity - Examples</a></p>
+
+<p><a href="https://www.digitalocean.com/community/tutorials/how-to-use-duplicity-with-gpg-to-securely-automate-backups-on-ubuntu#automate-backups">Duplicity - Automate backups</a></p>
+
+<p><a href="https://hefistion.github.io/backups-nextcloud/">Backup bases de dades de Nextcloud</a></p>
+:ET

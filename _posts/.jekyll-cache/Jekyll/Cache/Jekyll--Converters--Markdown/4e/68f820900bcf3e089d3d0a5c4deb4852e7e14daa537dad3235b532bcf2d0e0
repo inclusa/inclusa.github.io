@@ -1,0 +1,49 @@
+I"�<p>Utilitats per accedir de forma remota a sistemes Android. Aquesta utilitat ve a ser una menera d’implementació per accedir a un altre sistema com accedim mitjançant el protocol <em>ssh</em>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>android-tools-adb - Android Debug Bridge CLI tool
+android-tools-fastboot - Android Fastboot protocol CLI tool
+</code></pre></div></div>
+
+<p>Per accedir al telèfon cal punxar-lo a l’ordinador via USB, però la cosa no funciona perquè cal desinstal·lar aquesta utilitat:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>modemmanager - D-Bus service for managing modems
+</code></pre></div></div>
+
+<p>Desinstal·la a nivell de kernel.</p>
+
+<p>Podria ser que <code class="language-plaintext highlighter-rouge">cdc_acm</code> deixara de funcionar…</p>
+
+<p>Per assegurar-nos:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lsmod | grep cdc_acm
+</code></pre></div></div>
+
+<p>Si ho torna buit, caldrà posar-ho en marxa:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo modprobe cdc_acm
+</code></pre></div></div>
+
+<p>Així, cal desinstal·lar aquesta utilitat per poder accedir d’aquesta manera:</p>
+
+<ol>
+  <li>
+    <p>Confirmem que el sistema el reconeix:</p>
+
+    <p>$ adb devices
+ List of devices attached
+ device_ip_address:5555 device</p>
+  </li>
+  <li>
+    <p>Accedim</p>
+
+    <p>$ adb connect device_ip_address</p>
+  </li>
+</ol>
+
+<h3 id="fonts">Fonts</h3>
+
+<p><a href="http://www.mibqyyo.com/articulos/2015/05/28/instalacion-android-ubuntu/#/vanilla/discussion/embed/?vanilla_discussion_id=0">Foros de bq</a></p>
+
+<p><a href="https://developer.android.com/studio/command-line/adb.html">https://developer.android.com/studio/command-line/adb.html</a></p>
+
+:ET

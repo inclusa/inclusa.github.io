@@ -1,0 +1,10 @@
+I"V<p>AlsaMixer és ua utilitat per gestinar el mesclador de sons des del terminal.</p>
+
+<p><img src="/img/alsamixer.png" alt="alsamixer" /></p>
+
+<p>Utilitzarem la tecla <code class="language-plaintext highlighter-rouge">tabulador</code> per menejar-nos per les pantalles del control. Amb les tecles de les fletxes laterals també funciona.</p>
+
+<p>Utilizarem les tecles de les fetxes cap a dalt o cap a baix per tal de pujar o baixar els valors.</p>
+
+<p>D’aquesta manera controlarem el so de qualsevol equip siga local o remot per <code class="language-plaintext highlighter-rouge">ssh</code>.</p>
+:ET
