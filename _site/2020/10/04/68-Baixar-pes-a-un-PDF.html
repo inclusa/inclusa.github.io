@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>CastePalabras</title>
+    <title>68 Baixar pes a un PDF</title>
     <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
 ">
 
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/portfolio/14_project/">
+    <link rel="canonical" href="/2020/10/04/68-Baixar-pes-a-un-PDF.html">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
@@ -69,12 +69,20 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">CastePalabras</h1>
-    <p class="post-meta">October 4, 2020 — 20:45</p>
+    <h1 class="post-title">68 Baixar pes a un PDF</h1>
+    <p class="post-meta">October 4, 2020 — 00:00</p>
   </header>
 
   <article class="post-content">
-    
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">!</span><span class="c">#/bash/bin</span>
+
+<span class="nb">echo</span> <span class="s2">"Utilitat per reduir PDF de pes"</span>
+<span class="nb">echo</span> <span class="s2">"Introdueix el nom de l'arxiu amb l'extensió"</span>
+<span class="nb">read </span>ARXIU
+
+pdf2ps <span class="nv">$ARXIU</span> <span class="nv">$ARXIU</span>.ps
+ps2pdf <span class="nv">$ARXIU</span>.ps <span class="nv">$ARXIU</span><span class="nt">-red</span>.pdf
+</code></pre></div></div>
 
   </article>
 

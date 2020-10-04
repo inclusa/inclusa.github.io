@@ -4,7 +4,7 @@ title: 68 Baixar pes a un PDF # Nombre generado automáticamente
 ---
 
 ```bash
-!#/bash/bin
+#!/bin/bash
 
 echo "Utilitat per reduir PDF de pes"
 echo "Introdueix el nom de l'arxiu amb l'extensió"

@@ -1,0 +1,10 @@
+I"D<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">!</span><span class="c">#/bash/bin</span>
+
+<span class="nb">echo</span> <span class="s2">"Utilitat per reduir PDF de pes"</span>
+<span class="nb">echo</span> <span class="s2">"Introdueix el nom de l'arxiu amb l'extensió"</span>
+<span class="nb">read </span>ARXIU
+
+pdf2ps <span class="nv">$ARXIU</span> <span class="nv">$ARXIU</span>.ps
+ps2pdf <span class="nv">$ARXIU</span>.ps <span class="nv">$ARXIU</span><span class="nt">-red</span>.pdf
+</code></pre></div></div>
+:ET
