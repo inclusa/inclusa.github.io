@@ -1,0 +1,9 @@
+I"�<p>Manera senzilla de fer un backup</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<span class="nv">BACK</span><span class="o">=</span>backup_<span class="si">$(</span><span class="nb">date</span> +%Y%m%d<span class="si">)</span>.tar.gz
+<span class="nb">cd</span> /home/usuari/backup/directori_destí          <span class="c"># Sitúat al directori on vols deixar el backup</span>
+<span class="nb">tar</span> <span class="nt">-czf</span> <span class="nv">$BACK</span> /home/usuari/Documents/treball   <span class="c"># Executa el backup</span>
+</code></pre></div></div>
+
+:ET

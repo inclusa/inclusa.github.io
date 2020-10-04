@@ -8,7 +8,7 @@ Manera senzilla de fer un backup
 ```bash
 #!/bin/bash
 BACK=backup_$(date +%Y%m%d).tar.gz
-cd /home/usuari/backup/directori_destí          # Sitúat al directori on vols deixar el backup
+cd /home/usuari/backup/directori_destí          # Destí backup
 tar -czf $BACK /home/usuari/Documents/treball   # Executa el backup
 ```
 
