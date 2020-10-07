@@ -89,11 +89,47 @@ En Març de 1845 Henry David Thoreau va anar als boscos per per viure durant dos
 Thoureau va escriure el llibre Walden, on descrivia la motivació que el va portar als boscos:
 
 > Vaig anar als boscos
-> perquè volia viure a deliberadament,
+> perquè volia viure deliberadament,
 > abordar sols les accions essencials de la vida,
 > i veure si podia aprendre el que la vida havia d'ensenyar-me,
 > no fora que en el moment de la mort
 > descobrira que no havia viscut.
+
+Thoureau estableix que *el cost de les coses és la quantitat amb la qual requereix que siga canviat, immediatament o a llarg termini.*
+
+Thoreau defensa la producció estrictament necessària per sobreviure. La nova economia ens fa pagar molt per produir al màxim.
+
+Posa l'exemple de que si una granja necessita un acre de terra per sobreviure, i, aquest acre li dóna 1$ a l'any de guanys. Si tinguerem 60 acres, donaria 60$ de guanys a l'any. Amb això caldria treballar molt més per guanyar aquests diners. Això vol dir que si treballem per guanyar 59$ estem obligats a treballar molt més del que necessitem en profit de l'acumulació de diners.
+
+Thoureau planteja que és possible cobrir el cost d'una setmana treballant un dia.
+
+El desordre és perillós, ja que ens fa perdre la perspectiva del que realment perseguim.
+
+La conclusió de Thoureau és que la acumulació de costos de coses no crucials desordenen la vida podent pesar més que els xicotetes beneficis individuals que cada pesa del desordre prometen.
+
+###### 2.2. Un argument per al principi #02: El retorn de la corba ######
+
+Si fem una gràfica amb on els eixos són: valor i benefici podriem obtenir una corba ascendent, que arriba a un punt òptim i que, a partir d'ahí decreix. Això vol dir que a mesura que incorporem tecnologia a les nostres vides això fa que guanye valor però arriba un moment on la corba decreix i comencem a perdre efectivitat.
+
+La idea no és la quantitat de tecnologia incorporada sino com la utilitzem.
+
+Cal començar veient les tecnologies simplement com a ferramentes que pots desplegar selectivament, per abraçar el segon principi del minimalisme i començar furisament l'optimització, valorant les avantatges del valor del retorn de la corba.
+
+Els beneficis retornaran si fem un bon ús de la tecnologia.
+
+###### 2.3. Un argument per al principi #03: La lliçó dels hackers Amish ######
+
+Els amish són sorprendentment pro-tecnològics.
+
+Els amish prioritzen els beneficis generats per accions intencionals sobre la tecnologia que els decideixen no usar.
+
+D'aquesta manera no es mantenen l'objectiu principal sobre les ferramentes a usar, per tal de no desviar l'atenció.
+
+##### Una nova mirada als vells arguments #####
+
+> La idea central del minimalisme és fer menys per produir més.
+
+Els nous serveis emergents de Silicon Valley s'oposen a la llibertat i degraden la individualitat.
 
 #### 3. Ordenat Digital ####
 
