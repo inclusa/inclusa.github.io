@@ -95,6 +95,7 @@ Thoureau va escriure el llibre Walden, on descrivia la motivació que el va port
 > no fora que en el moment de la mort
 > descobrira que no havia viscut.
 
+<<<<<<< HEAD
 Thoureau estableix que *el cost de les coses és la quantitat amb la qual requereix que siga canviat, immediatament o a llarg termini.*
 
 Thoreau defensa la producció estrictament necessària per sobreviure. La nova economia ens fa pagar molt per produir al màxim.
@@ -130,6 +131,34 @@ D'aquesta manera no es mantenen l'objectiu principal sobre les ferramentes a usa
 > La idea central del minimalisme és fer menys per produir més.
 
 Els nous serveis emergents de Silicon Valley s'oposen a la llibertat i degraden la individualitat.
+=======
+Claus:
+
+1. El desordre digital s'enfoca primàriament sobre les noves tecnologies.
+2. Pren-te 30 dies sense tecnologia per estimar quina tecnologia necessites.
+3. Fes una llista de tecnologies rellevants per utilitzar sols aquestes.
+
+###### 2.2. Argumen per al Principi #02: Prente 30 dies de descans tecnològic ######
+
+Claus:
+
+1. Lluita per identificar les tecnologia no rellevants per a tu.
+2. L'objectiu del desordre digital no és simplement fer-te gaudir del temps sinó és una tecnologia intrusiva.
+3. Quan arribes al final hauràs descobert quines activitats et generen valor.
+
+###### 2.3. Argument per al Principi #03: Redueix la tecnologia ######
+
+The Minalist Technology Screen. Fes-te aquests preduntes:
+
+1. T'aporten valor profund.
+2. Són la millor tecnologia per aportar-te valor profund.
+3. Constrenyen la teua vida: quan i com.
+
+Claus:
+
+1. Deixa la tecnologia durant un mes.
+2. El procés t'ajudarà a cultivar noves tecnologies que et serveixen profundament oposant-se subverteixen sense el teu permís.
+>>>>>>> 27ef03a8... Newport. Digital Minimalist. Final de la primera part.
 
 #### 3. Ordenat Digital ####
 
