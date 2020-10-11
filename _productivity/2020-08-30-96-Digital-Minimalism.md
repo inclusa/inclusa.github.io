@@ -1,4 +1,4 @@
----
+GGggG---
 layout: post # Sustituye el layout si lo usas uno diferente
 title: 96 Digital Minimalism # Nombre generado automáticament
 date: 2020-08-30 # Data
@@ -95,7 +95,6 @@ Thoureau va escriure el llibre Walden, on descrivia la motivació que el va port
 > no fora que en el moment de la mort
 > descobrira que no havia viscut.
 
-<<<<<<< HEAD
 Thoureau estableix que *el cost de les coses és la quantitat amb la qual requereix que siga canviat, immediatament o a llarg termini.*
 
 Thoreau defensa la producció estrictament necessària per sobreviure. La nova economia ens fa pagar molt per produir al màxim.
@@ -131,7 +130,6 @@ D'aquesta manera no es mantenen l'objectiu principal sobre les ferramentes a usa
 > La idea central del minimalisme és fer menys per produir més.
 
 Els nous serveis emergents de Silicon Valley s'oposen a la llibertat i degraden la individualitat.
-=======
 Claus:
 
 1. El desordre digital s'enfoca primàriament sobre les noves tecnologies.
@@ -158,13 +156,16 @@ Claus:
 
 1. Deixa la tecnologia durant un mes.
 2. El procés t'ajudarà a cultivar noves tecnologies que et serveixen profundament oposant-se subverteixen sense el teu permís.
->>>>>>> 27ef03a8... Newport. Digital Minimalist. Final de la primera part.
 
-#### 3. Ordenat Digital ####
-
-### Part 2. Pràctiques ###
+### Segona Part. Pràctiques ####
 
 #### 4. Passar el temps assoles ####
+
+##### 4.1. Quan la soletat salva la nació #####
+
+Abraham Lincoln passava temps sol a la casa de camp prop de la Casa Blanca. Allí solia anar una cementri militar on podia pensar. Després escrivia diversos esborranys de les coses que volian fer.
+
+La idea és que disposava d'un entorn per pensar. Així, donar a la teua ment dosis de quietud requereix el suport necessari per a un vida amb molta qualitat.
 
 #### 5. Recuperar l'oci ####
 
