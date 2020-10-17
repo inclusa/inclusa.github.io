@@ -174,8 +174,6 @@ Claus:
 1. Deixa la tecnologia durant un mes.
 2. El procés t'ajudarà a cultivar noves tecnologies que et serveixen profundament oposant-se subverteixen sense el teu permís.
 
-#### 3. Ordenat Digital ####
-
 ### Segona Part. Pràctiques ####
 
 #### 4. Passar el temps assoles ####
@@ -185,6 +183,16 @@ Claus:
 Abraham Lincoln passava temps sol a la casa de camp prop de la Casa Blanca. Allí solia anar una cementri militar on podia pensar. Després escrivia diversos esborranys de les coses que volian fer.
 
 La idea és que disposava d'un entorn per pensar. Així, donar a la teua ment dosis de quietud requereix el suport necessari per a un vida amb molta qualitat.
+
+##### 4.2. El valor de la solitud #####
+
+La solitud requereix passar de reaccionar a partir de la informació creada per altres a enfocar-nos en els nostres pensaments i experiències.
+
+La solitud pot ser important per la felicitat i la productivitat.
+
+Virginia Woolf afirma que la solitud no és una agradable diversió, en canvi és una forma d'alliberament de l'opressió cognitiva en la seua absència.
+
+##### 4.3. Solitud dreprivada #####
 
 #### 5. Recuperar l'oci ####
 
