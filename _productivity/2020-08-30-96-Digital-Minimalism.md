@@ -157,6 +157,8 @@ Claus:
 1. Deixa la tecnologia durant un mes.
 2. El procés t'ajudarà a cultivar noves tecnologies que et serveixen profundament oposant-se subverteixen sense el teu permís.
 
+#### 3. Ordenat Digital ####
+
 ### Segona Part. Pràctiques ####
 
 #### 4. Passar el temps assoles ####
