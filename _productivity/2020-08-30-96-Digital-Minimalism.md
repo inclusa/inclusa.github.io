@@ -125,6 +125,8 @@ Els amish prioritzen els beneficis generats per accions intencionals sobre la te
 
 D'aquesta manera no es mantenen l'objectiu principal sobre les ferramentes a usar, per tal de no desviar l'atenció.
 
+#### 3. Ordenat Digital ####
+
 ##### Una nova mirada als vells arguments #####
 
 > La idea central del minimalisme és fer menys per produir més.
@@ -135,6 +137,21 @@ Claus:
 1. El desordre digital s'enfoca primàriament sobre les noves tecnologies.
 2. Pren-te 30 dies sense tecnologia per estimar quina tecnologia necessites.
 3. Fes una llista de tecnologies rellevants per utilitzar sols aquestes.
+
+
+###### 2.1. Un argument per al principi #01: Thoureau és la nova economia ######
+
+> El desordre és costós
+En Març de 1845 Henry David Thoreau va anar als boscos per per viure durant dos anys. Estava treballant sobre el concepte d'una nova economia. Cada dia talava arbres, fins que al juliol va tenir preparada una cabana prop dels boscos de Walden Pond.
+
+Thoureau va escriure el llibre Walden, on descrivia la motivació que el va portar als boscos:
+
+> Vaig anar als boscos
+> perquè volia viure a consciència,
+> abordar sols les accions essencials de la vida,
+> deixar de costat tot que no tinguera valor per ser d'ensenyat,
+> per descobrir en el moment de la mort que no he viscut.
+
 
 ###### 2.2. Argumen per al Principi #02: Prente 30 dies de descans tecnològic ######
 
