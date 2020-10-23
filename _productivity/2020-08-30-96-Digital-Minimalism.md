@@ -192,7 +192,15 @@ La solitud pot ser important per la felicitat i la productivitat.
 
 Virginia Woolf afirma que la solitud no és una agradable diversió, en canvi és una forma d'alliberament de l'opressió cognitiva en la seua absència.
 
-##### 4.3. Solitud dreprivada #####
+##### 4.3. Deprivació de la Solitud#####
+
+David Thoureau, en Walden, va escriure *nosaltres en vam construir un telegraf magnètic de Maine a Texas; però Maine i Texas, potser, no tenen res important que comunicar-se*.
+
+Els walkman de Sony, i més trad dels iPod, van contribuir a plenar de soroll les vides de tots.
+
+**Deprivació de la Solitutd**: Estat amb el quan no gastem temps algú ema bel nostres pensament i deixem lliure els inputs d'altres ments.
+
+El fet de patir deprivació de solitud fa que la vida de les persones es degrade.
 
 #### 5. Recuperar l'oci ####
 
