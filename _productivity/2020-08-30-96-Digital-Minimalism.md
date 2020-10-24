@@ -198,9 +198,21 @@ David Thoureau, en Walden, va escriure *nosaltres en vam construir un telegraf m
 
 Els walkman de Sony, i més trad dels iPod, van contribuir a plenar de soroll les vides de tots.
 
-**Deprivació de la Solitutd**: Estat amb el quan no gastem temps algú ema bel nostres pensament i deixem lliure els inputs d'altres ments.
+> **Deprivació de la Solitud**: Estat amb el quan no gastem temps algú ema bel nostres pensament i deixem lliure els inputs d'altres ments.
 
 El fet de patir deprivació de solitud fa que la vida de les persones es degrade.
+
+##### 4.4. La cabina connectada #####
+
+Thoureau descriu a *Walden* llargs passatges sol i observant el ritme lent de la natura.
+
+Thoureau emfatitza el fet de que no hi ha res de mal amb connectar-se, cal equilibrar la solitud regular, en cas contrari els beneficis es veuran mermats.
+
+Pràctica:
+
+1. Practica deixar el telèfon a casa
+2. Fes grans passejades
+3. Escriu-te cartes a tu mateix
 
 #### 5. Recuperar l'oci ####
 
