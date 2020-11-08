@@ -215,7 +215,7 @@ Pràctica:
 3. Escriu-te cartes a tu mateix
 
 #### 5. Recuperar l'oci ####
-
+.
 #### 6. Unir-se a la Resistència Atencional ####
 
 ### Conclusió ###
