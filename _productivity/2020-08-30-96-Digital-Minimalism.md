@@ -214,8 +214,37 @@ Pràctica:
 2. Fes grans passejades
 3. Escriu-te cartes a tu mateix
 
-#### 5. Recuperar l'oci ####
-.
-#### 6. Unir-se a la Resistència Atencional ####
+#### 5. No faces 'Clic' a Like #####
+
+##### 5.1. L'animal social #####
+
+L'home és un *animal social*.
+
+El psicòleg Matthew Lieberman resumeix al seu llibre (2013), *Social*. El seu equip va descobrir que hi ha una part de la ment que conscientment desactivem primer en parar atenció a una cosa específica.
+
+La nostra ment, per defecte, pensa en la nostra xarxa social. Quan no interaccionem, durant el temps d'inactivitat, la ment analitza les interaccions que hem tingut abans.
+
+Lieberman també va descobrir que la ment dedica importants recursos a dos diferents xarxes que dirigeixen el treball cap a l'objectiu de la **mentalització**: ajudant a entendre les ments d'altres persones incloent com senten i com són les seues intencions.
+
+Les noves tecnologies de la comunicació acaben carregant-nos de missatges socials, però no ens deixen temps per processar-los.
+
+##### 5.2. La paradoxa dels medis socials #####
+
+Quan més interaccionem socialment menys temps de soletat tenim. Això té un impacte negatiu perquè no ens deixa el temps necessari de reflexió sobre les interaccions socials per donar significat i valor a les mateixes.
+
+##### 5.3. Reclamant la conversa #####
+
+La conversa entre persones és necessària. Els nous medis tecnològics fan que tinguem interaccions superficials.
+
+Cal orientar-se cap a converses de qualitat. Per tal de fer això cal buscar el moment en el qual es puga desenvolupar aquesta situació. Cal quedar en moments concrets per parlar.
+
+El missatge és eliminar la conversa superficial que ens introdueixen soroll de les noves tecnologies.
+
+Cal educar el nostre entorn social per tal que respecte el nostre treball oferint la comunicació fora del temps que hem establit pel treball.
+
+#### 6. Recuperar l'oci ####
+
+
+#### 7. Unir-se a la Resistència Atencional ####
 
 ### Conclusió ###
