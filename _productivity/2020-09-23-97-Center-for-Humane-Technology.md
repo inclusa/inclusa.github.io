@@ -3,7 +3,7 @@ layout: post # Sustituye el layout si lo usas uno diferente
 title: 97 Center for Humane Technology # Nombre generado automáticamente
 ---
 
-Font: https://ledger.humanetech.com/
+Font: [Human Tech](https://ledger.humanetech.com/)
 
 Sota una immensa pressió per prioritzar el compromís i el creixement, les plataformes tecnològiques han creat una carrera per a l’atenció humana que desencadena danys invisibles a la societat. Aquests són alguns dels costos que no apareixen als seus balanços.
 
