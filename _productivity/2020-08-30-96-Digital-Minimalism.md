@@ -244,6 +244,26 @@ Cal educar el nostre entorn social per tal que respecte el nostre treball oferin
 
 #### 6. Recuperar l'oci ####
 
+Aristòtil en *Ética a Nicómaco* compila com viure una bona vida. Diu que la vida més agradable és la vida de l'intel·lecte. /Aquesta vida deu ser per tant la felicitat/.
+
+Un vida plena amb profunditat de pensament és feliç perquè a contemplació és apreciada com el nostre motiu, res és guanyat excepte l'acte de la contemplació.
+
+Una vida ben viscuda requereix activitats que no servisquen a altre propòsit que la satisfacció de l'activitat que genera.
+
+En aquest capítol tractarem activitat d'oci d'alta qualitat.
+
+##### Els principis de Bennett #####
+
+1. Prioritza l'activitat exigent per sobre del consum passiu.
+2. Usa hàbits productius per a produir coses en el món físic
+3. Mantín activitats que requerisquen món al, relacions estructurades
+
+Consells:
+
+- Practica construir alguna cosa cada setmana.
+- Agenda el teu temps d'oci de baixa qualitat
+- Uneixte a alguna causa
+- Busca plans d'oci
 
 #### 7. Unir-se a la Resistència Atencional ####
 
