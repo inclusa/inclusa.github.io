@@ -265,6 +265,22 @@ Consells:
 - Uneixte a alguna causa
 - Busca plans d'oci
 
-#### 7. Unir-se a la Resistència Atencional ####
+#### 7. Unix-te a la Resistència Atencional ####
+
+L'economia de l'atenció s'ha convertit en un problema d'economia de l'atenció digital.
+
+Aquestes pràctiques busquen diferents tàctiques.
+
+El minimalisme digital requereix compromís amb serveis que trenquen amb les noves webs. És important reconèixer que aquestes són activitats de suma zero. Vols donar-li valor a les teues xarxes, però t'estan determinant l'autonomia explocant-te. Cal viure la resistència!
+
+Practica:
+
+1. Esborrat de la xarxa social el teu telèfon.
+2. Amb els teus dispositius practica els propòsit simple. Simplifica i desactiva internet. No necessites fer diverses coses al mateix temps.
+3. Usa el social media com ho faria un professional, com un expert amb un propòsit concret.
+4. Abraça l'slow media. Low information diet.
+5. Neteja els teu smart phone, és un trojano de l'atenció
 
 ### Conclusió ###
+
+Utilitzar la tecnologia ens ajuda a ser millors persones però cal concretar amb quines condiciones volem fer servir aquesta tecnologia.
