@@ -259,7 +259,7 @@ Els dos ingredients per a fer que tot funcione són:
 
 Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu mateix, llavors probablement et donaràs compte que no queda molt de marge de millora. El teu món estarà en ordre i tu estaràs centrat exactament en el que és correcte. Sols quan uno o els dos ingredients disminueixen algo va malament, i es necessita una correcció.
 
-##### 1. **Víctima**. Síndrome: **El que respon**
+##### 1. Víctima. Síndrome: El que respon
 
 - Poc control.
 - Poca perspectiva.
@@ -279,7 +279,7 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 - Solució: recalibrar.
 
 
-#### 2. **Microgestor**. Síndrome: **Implementador**
+#### 2. Microgestor. Síndrome: Implementador
 
 - S'opera amb un factor d'alt control però baixa perspectiva.
 - Es posa èmfasi excessiu en l'estructura, el procés i els elements del sistema.
@@ -288,7 +288,7 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 
 - La clau aquí és mantenir la capacitat per a desconnectar-te i/o modificar la forma o estructura que et guia, tan prompte com hages complit amb el seu propòsit.
 
-#### 3. **Creador boig**. Síndrome: **Visionari**
+#### 3. Creador boig. Síndrome: Visionari
 
 - Alt component de perspectiva, però factor baix de control.
 - Massa idees en proporció a la quantitat de fets que han de portar a terme.
@@ -299,7 +299,7 @@ Si pots mantenir el nivell suficient de cadadascú d'aquests dos factors en tu m
 - Prometre molt a molta gent.
 - Fer-te càrrec de massa coses.
 
-#### 4. **Comandant en cap**
+#### 4. Comandant en cap
 
 - Combinació de **perspectiva** i **estructura**, amb energia i enfoc conduits per **preferències internes** en lloc de per una font externa.
 - Condueixen el vaixell a través de l'oleatge, el vent i la marea amb un lleuger toc de timó i la vista posada en l'horitzó.
