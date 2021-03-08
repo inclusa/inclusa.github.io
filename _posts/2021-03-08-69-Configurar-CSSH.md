@@ -51,4 +51,6 @@ Si ens volem connectar als tres servidors escriurem:
 cssh -l usuari groc blau verd
 ```
 
+A on `usuari` seria el nom de l'usuari en cada servidor, per ser pràctics, cal tenir el mateix usuari a tots els servidors.
+
 No descriurem el que es pot fer al fitxer tags, al vídeo es pot veure la seua funcionalitat.
