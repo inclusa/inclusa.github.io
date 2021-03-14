@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>70 youtube dl</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2021/03/08/70-youtube-dl.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+          
+        
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">70 youtube dl</h1>
+    <p class="post-meta">March 8, 2021 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Per tal de baixar videos  del YouTube elegint el format de baixada cal seguir aquest camí.</p>
+
+<p>Primer mirem en quin format podem baixar el vídeo:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>➜  video youtube-dl <span class="nt">-F</span> <span class="s1">'https://youtu.be/3S3_hsqpYg4'</span>
+<span class="o">[</span>youtube] 3S3_hsqpYg4: Downloading webpage
+<span class="o">[</span>youtube] 3S3_hsqpYg4: Downloading MPD manifest
+<span class="o">[</span>info] Available formats <span class="k">for </span>3S3_hsqpYg4:
+format code  extension  resolution note
+139          m4a        audio only DASH audio   50k , m4a_dash container, mp4a.40.5 <span class="o">(</span>22050Hz<span class="o">)</span>, 3.44MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2 <span class="o">(</span>44100Hz<span class="o">)</span>, 9.12MiB
+251          webm       audio only DASH audio  137k , webm_dash container, opus  <span class="o">(</span>48000Hz<span class="o">)</span>, 6.55MiB
+278          webm       256x144    DASH video   95k , webm_dash container, vp9, 30fps, video only
+160          mp4        256x144    DASH video  108k , mp4_dash container, avc1.4d400b, 30fps, video only
+242          webm       426x240    DASH video  220k , webm_dash container, vp9, 30fps, video only
+133          mp4        426x240    DASH video  242k , mp4_dash container, avc1.4d400c, 30fps, video only
+134          mp4        640x360    DASH video  364k , mp4_dash container, avc1.4d401e, 30fps, video only, 7.85MiB
+243          webm       640x360    DASH video  405k , webm_dash container, vp9, 30fps, video only
+244          webm       854x480    DASH video  752k , webm_dash container, vp9, 30fps, video only
+135          mp4        854x480    DASH video 1155k , mp4_dash container, avc1.4d4014, 30fps, video only
+247          webm       1280x720   DASH video 1505k , webm_dash container, vp9, 30fps, video only
+137          mp4        1920x1080  DASH video 2017k , mp4_dash container, avc1.640028, 30fps, video only, 46.69MiB
+136          mp4        1280x720   DASH video 2310k , mp4_dash container, avc1.4d4016, 30fps, video only
+248          webm       1920x1080  DASH video 2646k , webm_dash container, vp9, 30fps, video only
+18           mp4        640x360    360p  327k , avc1.42001E, 30fps, mp4a.40.2 <span class="o">(</span>44100Hz<span class="o">)</span>, 23.03MiB
+22           mp4        1280x720   720p  638k , avc1.64001F, 30fps, mp4a.40.2 <span class="o">(</span>44100Hz<span class="o">)</span> <span class="o">(</span>best<span class="o">)</span>
+</code></pre></div></div>
+
+<p>Ara elegim baixar el vídeo en <code class="language-plaintext highlighter-rouge">mp4</code> per tant el format <code class="language-plaintext highlighter-rouge">22</code>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>➜  video youtube-dl <span class="nt">-f</span> 22 <span class="s1">'https://youtu.be/3S3_hsqpYg4'</span>
+<span class="o">[</span>youtube] 3S3_hsqpYg4: Downloading webpage
+<span class="o">[</span>youtube] 3S3_hsqpYg4: Downloading MPD manifest
+<span class="o">[</span>download] Destination: Cluster SSH - Manage Multiple Linux Servers Simultaneously-3S3_hsqpYg4.mp4
+<span class="o">[</span>download] 100% of 44.98MiB <span class="k">in </span>00:09
+</code></pre></div></div>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

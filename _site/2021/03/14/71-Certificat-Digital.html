@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>71 Certificat Digital</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2021/03/14/71-Certificat-Digital.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+          
+        
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">71 Certificat Digital</h1>
+    <p class="post-meta">March 14, 2021 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Per tal de signar amb certificat digital mirar aquest post de l’<a href="https://www.atareao.es/como/firma-digital-en-ubuntu/">Atareao</a>.</p>
+
+<p>Per signar per terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>AutoFirma sign <span class="nt">-i</span> entrada.pdf <span class="nt">-o</span> eixida.pdf <span class="nt">-store</span> pkcs12:/home/usuari/Escriptori/certificat.p12 <span class="nt">-alias</span> firma <span class="nt">-password</span> lameuacontrasenya
+</code></pre></div></div>
+<p>Si volem signar més d’un document utilitzarem aquest script:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for </span>i <span class="k">in </span>entrada_<span class="k">*</span>.pdf<span class="p">;</span> <span class="k">do </span>AutoFirma sign <span class="nt">-i</span> <span class="nv">$i</span> <span class="nt">-o</span> <span class="k">${</span><span class="nv">i</span><span class="p">/.pdf/</span><span class="k">}</span>_signed.pdf <span class="nt">-store</span> pkcs12:/home/usuari/Escriptori/certificat.p12 <span class="nt">-alias</span> firma <span class="nt">-password</span> lameuacontrasenya<span class="p">;</span> <span class="k">done</span>
+</code></pre></div></div>
+
+<p>Per tal de comprovar la signatura per terminal, des de Debian, Ubuntu, cal instal·lar el paquet:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt <span class="nb">install </span>poppler-utils
+</code></pre></div></div>
+
+<p>Dins d’aquest paquet s’inclou la utilitat <code class="language-plaintext highlighter-rouge">pdfsig</code>, la utilitzarem per tal de visualitzar si el documen en PDF ha estat signat.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pdfsig arxiu.pdf
+</code></pre></div></div>
+
+<p>Això ens dóna aquesta informació:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Digital Signature Info of: arxiu.pdf
+Signature <span class="c">#1:</span>
+  - Signer Certificate Common Name: PEPITO GRILLO GRILLO - NIF:00000000A
+  - Signer full Distinguished Name: <span class="nv">C</span><span class="o">=</span>ES,O<span class="o">=</span>ACCV,OU<span class="o">=</span>CIUDADANOS,SN<span class="o">=</span>GRILLO GRILLO,givenName<span class="o">=</span>PEPITO,serialNumber<span class="o">=</span>00000000A,CN<span class="o">=</span>PEPITO GRILLO GRILLO - NIF:00000000A
+  - Signing Time: Mar 10 2021 09:54:29
+  - Signing Hash Algorithm: SHA-256
+  - Signature Type: ETSI.CAdES.detached
+  - Signed Ranges: <span class="o">[</span>0 - 51775], <span class="o">[</span>70945 - 133946]
+  - Total document signed
+  - Signature Validation: Signature is Valid.
+  - Certificate Validation: Certificate is Trusted.
+</code></pre></div></div>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
