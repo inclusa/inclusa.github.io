@@ -10,6 +10,12 @@ Per signar per terminal:
 ```bash
 AutoFirma sign -i entrada.pdf -o eixida.pdf -store pkcs12:/home/usuari/Escriptori/certificat.p12 -alias firma -password lameuacontrasenya
 ```
+Si volem signar més d'un document utilitzarem aquest script:
+
+```bash
+for i in entrada_*.pdf; do AutoFirma sign -i $i -o ${i/.pdf/}_signed.pdf -store pkcs12:/home/usuari/Escriptori/certificat.p12 -alias firma -password lameuacontrasenya; done
+```
+
 
 Per tal de comprovar la signatura per terminal, des de Debian, Ubuntu, cal instal·lar el paquet:
 
