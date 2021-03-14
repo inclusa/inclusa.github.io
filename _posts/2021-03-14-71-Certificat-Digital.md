@@ -38,7 +38,7 @@ Signature #1:
   - Signer full Distinguished Name: C=ES,O=ACCV,OU=CIUDADANOS,SN=GRILLO GRILLO,givenName=PEPITO,serialNumber=00000000A,CN=PEPITO GRILLO GRILLO - NIF:00000000A
   - Signing Time: Mar 10 2021 09:54:29
   - Signing Hash Algorithm: SHA-256
-  - Signature Type: adbe.pkcs7.detached
+  - Signature Type: ETSI.CAdES.detached
   - Signed Ranges: [0 - 51775], [70945 - 133946]
   - Total document signed
   - Signature Validation: Signature is Valid.
