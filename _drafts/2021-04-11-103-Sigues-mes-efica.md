@@ -10,9 +10,9 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Any: 2003
 - ISBN: 987-84-15320-70-8
 
-### PRIMERA PART. Buida la teua ment. Com fer que els teus temes pendents et deixen tranquil
+### PRIMERA PART. Buida la teua ment. Com fer que els teus temes pendents et deixen tranquil ### 
 
-##### 1. Fer neteja obri noves perspectives
+##### 1. Fer neteja obri noves perspectives #####
 
 > Preparat per a allò desconegut?
 
@@ -22,7 +22,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Posa ordre a la teua vida cada setmana.
 - Porta la teua llista de projectes amb tu a qualsevol part.
 
-##### 2. Sols et pots sentir bé amb els que estàs fent quan saps que no ho estàs fent
+##### 2. Sols et pots sentir bé amb els que estàs fent quan saps que no ho estàs fent #####
 
 > Per què l'intent d'organitzar-se ha estat quasisempre un fracàs?
 
@@ -40,7 +40,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 	4. Executar. Criteris: temps, energia, context, prioritats.
 	5. Revisar. Mirar si ha anat bé, si ho hem fet tot.
 
-##### 3. Saber quins són els teus compromisos et permet escollir millor els teus nous compromisos
+##### 3. Saber quins són els teus compromisos et permet escollir millor els teus nous compromisos #####
 
 > Quan el centre és la perifèria.
 
@@ -48,14 +48,14 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - La concentració és la clau del poder.
 - La cooperació és el lubricant per tal que l'energia fluisca.
 
-##### 4. Per arribar on vols, primer has de saber on estàs
+##### 4. Per arribar on vols, primer has de saber on estàs #####
 
 > Olvída't del futur: busca sols les referències en el present.
 
 - Un mapa no serveix de res fins que saps quina és la teua posició en ell.
 - Saber ubicar-te en l'espai i el temps et proporcionar una referència per a determinar quan has de moure't i en quina direcció.
 
-##### 5. Le infinites oportunitats s'aprofiten a través de possibilitats infinites
+##### 5. Le infinites oportunitats s'aprofiten a través de possibilitats infinites #####
 
 > Assessoria de gestió de treball en un minut.
 
@@ -63,46 +63,46 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - És precís dividir l'infinit en troços factibles i tangibles.
 - L'autolimitació conscient resulta sostenible.
 
-##### 6. Tenir dos compromisos distints en la ment porta a l'estrés i al fracàs
+##### 6. Tenir dos compromisos distints en la ment porta a l'estrés i al fracàs #####
 
 > Organitza't amb eficàcia: reactiu o productiu.
 
 - Reactivitat: Reaccionar segons va sorgint la informació.
 - Proactivitat: Preparar-se, sensibilitzar-se per a ser capaç d'avaluar i despatxar adequadament qualsevol assumpte, augmenta la teua maduresa, els teus resultats milloren amb cada iteració.
 
-##### 7. Les prioritats sols funcionen en l'àmbit conscient
+##### 7. Les prioritats sols funcionen en l'àmbit conscient #####
 
 > El perill dels projectes 'no tant importants'.
 
 - Mantenir un inventari complet, actualitzat i revisable de totes les qüestions obertes és un prerrequisit per establir prioritats fiables.
 
-##### 8. Tancar temes pendents allibera energia
+##### 8. Tancar temes pendents allibera energia #####
 
 > La màgia del que és mundà.
 
 - No importa com siguen d'importants, els compromisos psíquics consumeixen energia.
 
-##### 9. Si ho tens a la ment, provablement no ho estàs fent
+##### 9. Si ho tens a la ment, provablement no ho estàs fent #####
 
 > ABC de la RAM psiquica.
 
 - Les coses no deixen d'incordiar-te fins que has **clarificat** les teues intencions (resultat), has **decidit** el que vas a fer per a realitzar-les (pròxima acció), situat els recordatoris.
 
-##### 10. La creativitat apareix quan se li deixa espai
+##### 10. La creativitat apareix quan se li deixa espai #####
 
 > Això és el que hi ha?
 
 - L'univers avorreix el buit.
 - Quan hi ha massa distraccions i acords desatesos en l'espai mental, el fluxe és limitat.
 
-##### 11. Quan més profund és el canal, major és el fluxe
+##### 11. Quan més profund és el canal, major és el fluxe #####
 
 > Estas preparat pe a més?
 
 - Netejar i racionalitzar tots els sistems de la vida i del treball augmental la capacitat per a assumir la major implicació en el món, i en consequûència activa forces invisibles per a plenar els canals oberts.
 - Les qüestions no resoltes i els sistemes vulnerables tendiran a progegir-se bloquejarnt de form aautomàtica e inconscient els nous inputs.
 
-##### 12. Preocupar-se és una pèrdua de temps
+##### 12. Preocupar-se és una pèrdua de temps #####
 
 > Dixiar de pensar en el present.
 
@@ -112,7 +112,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - L'enfoc més productiu consisteix en pensar tan cpo com pugues permetre, pero tant com ho necessites.
 - Si no fas la revisió setmanal, sempre t'inquietarà la sensació de que hauries d'estar pensant en alguna cosa.
 
-##### 13. Tu no ets el teu treball
+##### 13. Tu no ets el teu treball #####
 
 > El gran secret de les llistes.
 
@@ -120,9 +120,9 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Fer explícits els temes pendents et dona poder sobre ells.
 - La via més productiva per fer el teu treball és ser elseu amo, no el seu esclau.
 
-### SEGONA PART. Enfoca la teua atenció de forma productiva. Quina és la utilitat d'un punt de vista?
+### SEGONA PART. Enfoca la teua atenció de forma productiva. Quina és la utilitat d'un punt de vista? ###
 
-##### 14. Per obtenir més claredat, mira des de més amunt
+##### 14. Per obtenir més claredat, mira des de més amunt #####
 
 > El joc del moment.
 
@@ -130,7 +130,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - La claredat no es troba mai en alguna cosa confusa. Jas de deixar de pensar en el que estaves pensant i elevar el teu punt de vista.
 - Cal aclarir la meta, establir la propera acció en eixa direcció i executar-la.
 
-##### 15. No voràs el mode de fer-ho fins que et veiges fent-ho
+##### 15. No voràs el mode de fer-ho fins que et veiges fent-ho #####
 
 > Comenzar de zero altra vegada.
 
@@ -138,7 +138,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Primer veus el resultat, després incosncientment et tornes conscient de la informció.
 - Si no ets capaç de voret a tu mateix fent o tnin alfuna cosas que veus el mode de fer-o, mai identificaràs els mètodes per aconseguir-ho.
 
-##### 16. Treballar suficient és impossible
+##### 16. Treballar suficient és impossible #####
 
 > Quan s'acaben les hores extra?
 
@@ -148,7 +148,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - La *trampa d'estar ocupat*: 'Mentre puga fer alguna cosa que semble una ocupació, no he d'enfrontar-me a l'angoixa de totes les demés coses que probablement hauira d'estar fent.
 - Cal no deixar-se absorvir pel treball pendent, en lloc de sentir-se millor prenent decisions.
 
-##### 17. L'energia segueix al pensament
+##### 17. L'energia segueix al pensament #####
 
 > Què és el que estàs posant davant la porta?
 
@@ -157,7 +157,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Tenir un pensament és una cosa. Alimentar-lo conscientment és una altra.
 - L'*atenció* i la  *intenció* et donen un enorme poder. La qüestió és cap a on difigir aquest poder.
 
-##### 18. Quan més clara esté la teua meta, més medis tindràs per assolir-la
+##### 18. Quan més clara esté la teua meta, més medis tindràs per assolir-la #####
 
 > Quan de temps estàs a la teua sala d'estar?
 
@@ -165,7 +165,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Si no sabem per què fem alguna cosa, la nostra activitat no té sentit, claredat ni direcció.
 - Quan sabem quin és el propòsit tenim un criteri per prendre decisions i per a determinar en què consistiria l'èxit en eixes tasques, a més la motivació necessària per a superar creativament els obstàcles que podem trobar en el nostre camí.
 
-##### 19. Millor és preferible a bo
+##### 19. Millor és preferible a bo #####
 
 > Com convertir-se en invencible?
 
@@ -179,7 +179,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Responent a la pregunta: Què és el que put fer ara mateix? Quan estic disposat a escoltar la resposta i a actuar amb conseqüència, em convertisc en invulnerable als dards dels meus dubtes, vacil·lacions i recriminacions.
 - Em concentre en fer-ho el millor que puc, oblide i perdone el passat, i deixe de costat les ports sobre el futur.
 
-##### 20. Canvi d'enfoc igual a canvi de resultat
+##### 20. Canvi d'enfoc igual a canvi de resultat #####
 
 > Estàs preparat per estar preparat?
 
@@ -189,7 +189,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - En el moment de contractar a algú cal fixar-se en la capacitat per a recuperar el control amb rapidessa. Aquest comportament serà més avant valorat i propocionat per l'organització.
 - Relaxa't i reenfoca.
 
-##### 21. La perspectiva és la mercaderia més valuosa del món
+##### 21. La perspectiva és la mercaderia més valuosa del món #####
 
 > Ascendir a una cosa millor.
 
@@ -198,7 +198,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Posar les coses en un context diferent pot contribuir a generar idees i solucions noves.
 - Hi ha un nnombre infinit de coses de l'univers que t'estan vetades sols per la teua pròpia altitut i actitud.
 
-##### 22. Has de pensar més en els teus assumptes
+##### 22. Has de pensar més en els teus assumptes #####
 
 > La productivitat no es dóna per sí mateixa.
 
@@ -211,20 +211,20 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 	- Consultar els recordatoris.
 - Cal preparar-se per aplicar el nostre poder mental en saber què és exactament el que tenim davant de nosaltres, i per tant, com hem de resoldre-ho.
 
-##### 23. No has de témer tant pensar en els teus assumptes
+##### 23. No has de témer tant pensar en els teus assumptes #####
 
 > Sigues complet amb l'incomplet.
 
 - Tot i que has de reflexionar sobre els teus assumptes, no requereix tant d'esforç com puguera parèixer.
 - No sóc el meu treball, perquè he objectivat i revisat en què consisteix. Cal establir molt clarament aquesta diferència.
 
-##### 24. Si saps el que estàs fent, la eficiència és la teua única oportunitat de millorar
+##### 24. Si saps el que estàs fent, la eficiència és la teua única oportunitat de millorar #####
 
 > Trascendir l'estrés.
 
 - Una vegada has establer un propòsit, una meta o un criteri, el millor que pots fer és complir amb ell i fer-ho amb el mínim esforç possible.
 
-##### 25. Estar 'en la zona' consisteix en tenir sols una cosa en la ment
+##### 25. Estar 'en la zona' consisteix en tenir sols una cosa en la ment #####
 
 > Quina importància por tenir qualsevol cosa que no siga el més important?
 
@@ -237,7 +237,7 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - L'estil ideal del executiu: aparèixer, integrar, pensar, decidir i resoldre, des d'una perspectiva intel·ligent e informada per la internalització de resultats, visions i criteris. Una acció clara, precisa, neta, sense residu.
 - La teua ment sols pot ser conscient en un nombre relativament escàs de coses a la vegada, la resta està aparcat en alguna prestatgeria psicològica.
 
-##### 26. El valor d'una meta en el futur és el canvi que promou en el present
+##### 26. El valor d'una meta en el futur és el canvi que promou en el present #####
 
 > Ser o fer? Eixa és la qüestió?
 
@@ -248,8 +248,59 @@ title: 103 Sigues més eficaç # Nombre generado automáticamente
 - Quan algú està seré i medita, l'únic que fa és reduir  les distraccions del món exterioor per a fer possible la percepció de nivells molt més sutils d'experiència interior.
 - La qüestió no és SER o FER, sinó: 'Quina classe d'acció connecta millor amb la meua forma de ser?'.
 
-### TERCERA PART. Crea estrcutrues funcionals. És difícil mantenir-se en les vies quan no hi ha rails
+### TERCERA PART. Crea estrcutrues funcionals. És difícil mantenir-se en les vies quan no hi ha rails ###
 
-##### 27. L'estabilitat a un nivell fa possible la creativitat a altre
+##### 27. L'estabilitat a un nivell fa possible la creativitat a altre #####
 
-##### 28. Forma i Funció han d'estar coordinadres per a obtenir la màxima productivitat
+> Organització i Creativitat: ¿amics o enemics?
+
+- Vivim i treballem al mateix temps en molts nivells distints.
+- Quan sorgeixen problemes en un nivell, aquest desvia l'energia i atenció dels demés nivells fins que els problemes es resolen.
+- Quan hi ha un equilibri es produeix un fluxe natural i sostenible d'energia creativa entre etots els nostres nivell d'activitat.
+- Vols llibertat? Organitza't.
+- Vols organitzar-te? Sigues creatiu.
+
+##### 28. Forma i Funció han d'estar coordinadres per a obtenir la màxima productivitat #####
+
+> El Visionari i l'Operatiu: una divisió personal del treball.
+
+- La diferència entre les estructures que recolzen i les que limiten és simplement l'adequació a la seua finalitat.
+- La clau de l'excel·lència consisteix en esbrinar quina ferramenta és milllor per a cada tasca.
+- El millor mode per a aconseguir que funcione la societat:
+    1. Safata d'entrada. Operari. Recull les idees i pregunta: Quina és la pròxima acció?
+    2. Llista de projectes i Algun dia. Visionari.
+    3. Llista de pròximes accions. Operari.
+    4. Revisió setmanal. Visionari i Operari.
+
+##### 29. El teu sistema ha de millorar que la teua ment puga desconnectar #####
+
+> Pot conservar el nou treball la teua ment?
+
+- No pots enganyar a la teua ment.
+- Si no decideixes la propera acció davant una tasca que et ve a la consciència, la teua ment no et deixarà en pau.
+- Cal traure-ho tot de la teua ment i prendre decisions.
+- La teua ment sols pot mantenir-se en el nou horitzó si els nivells inferiors segueixen sent gestionats de manera efectiva.
+- Es fa precís mantenir les teues llistes.
+
+##### 30. La capacitat de resposta millora la viabilitat #####
+
+> La droga del desordre
+
+- Qualsevol cosa que puga augmentar la teua receptivitat cap allò que et rodeja t'aportarà un avantatge competitiu i millorarà el teu rendiment.
+- La sensibilitat als inputs combinada amb la capacitat d'adaptació als canvis contribueix a la supervivència d'una espècie, d'un pilot de combat i també d'una línia de producte.
+- La majoria de les drogues ens protegeixen temporalment de la realitat.
+- Deixar que les coses es queden sense processar pot resultar més incómode que donar una resposta.
+
+##### 31. El teu sistema és tan bo com el seu eslavó més feble #####
+
+> Com funcionen les teues connexions?
+
+- El valor d'un sistema de gestió personal resideix en la seua capacitat d'alliberar recursos per a un treball millor i de major nivell, gràcies a la seguretat que aporta a la psique.
+- Els autèntics sistemes han de ser prou sòlids per aguantar en les condicions més adverses: quan menys estem menys predisposats a de mantenir-los.
+- El sistema no elimina els problemes ni els desafiaments, simplement fa que es tinguen en consideració abans i puguen ser negociats amb més facilitat i bon criteri.
+
+##### 32. L'efectvitat del teu sistema és infersament proporcional a l'atenció que li dediques #####
+
+> L'èxit d'un sistema consisteix en el seu funcionament silenciós
+
+- Has de crear per tu mateix un sistema de gestió del fluxe de treball que et resulte cómode i automàtic.
