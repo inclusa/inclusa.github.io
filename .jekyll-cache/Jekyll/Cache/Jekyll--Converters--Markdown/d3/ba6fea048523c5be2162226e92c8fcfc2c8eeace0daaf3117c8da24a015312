@@ -1,0 +1,23 @@
+I"�<p>Comprimir</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">tar</span> <span class="nt">-czvf</span> directori.tar.gz directori
+</code></pre></div></div>
+
+<p>Descomprimir</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">tar</span> <span class="nt">-xzvf</span>
+</code></pre></div></div>
+
+<p>Explicació</p>
+
+<p><code class="language-plaintext highlighter-rouge">-c</code>: Comprimeix</p>
+
+<p><code class="language-plaintext highlighter-rouge">-x</code>: Extrau, descomprimeix</p>
+
+<p><code class="language-plaintext highlighter-rouge">-z</code>: Gzip, utilitza aquesta algoritme</p>
+
+<p><code class="language-plaintext highlighter-rouge">-v</code>: Verbose, recurrència</p>
+
+<p><code class="language-plaintext highlighter-rouge">-f</code>: Fitxer, treballa amb aquest fitxer</p>
+
+:ET

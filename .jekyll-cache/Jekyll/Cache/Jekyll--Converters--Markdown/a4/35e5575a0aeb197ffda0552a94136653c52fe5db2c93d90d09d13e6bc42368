@@ -1,0 +1,11 @@
+I"�<p>Compartir arxius ja no es sols cosa de <em>Dropbox</em> o <em>Google Drive</em>, les quals són molt bones solucions. Podem fer-ho de manera senzilla amb Pyhton, així:</p>
+
+<ol>
+  <li>Creem una carpeta, per exemple, li posem de nom <code class="language-plaintext highlighter-rouge">share</code></li>
+  <li>Dins d’aquesta carpeta podem posar arxius</li>
+  <li>Ens situem dins d’aquest directori, el directori que anomenat <code class="language-plaintext highlighter-rouge">share</code> i llancem aquest comandament <code class="language-plaintext highlighter-rouge">python -m http.server 8090</code></li>
+  <li>Obrim el navegador amb l’adreça <code class="language-plaintext highlighter-rouge">localhost:8090</code>. Si l’obrim des d’un altre ordinador de la xarxa local cal cambiar <code class="language-plaintext highlighter-rouge">localhost</code>per la <code class="language-plaintext highlighter-rouge">ip</code> de l’ordinador que conté la carpeta <code class="language-plaintext highlighter-rouge">share</code>.</li>
+</ol>
+
+<p>Font: <a href="https://techpickup.wordpress.com/2017/06/25/how-to-share-files-in-network/">TECHBASICS</a></p>
+:ET
