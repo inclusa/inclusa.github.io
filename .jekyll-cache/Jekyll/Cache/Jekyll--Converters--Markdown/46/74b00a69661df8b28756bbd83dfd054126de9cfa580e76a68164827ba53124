@@ -1,0 +1,27 @@
+I"<p><a href="http://www.vim.org/">Vim</a> processador de textos minimalista, present en molts contextos, admet plugins tan útils com ara els <strong>snippets</strong>.</p>
+
+<p>Els <a href="https://en.wikipedia.org/wiki/Snippet_%28programming%29">snippets</a> no és més con mòduls de codi definit per tal d’escriure’s quan es crida. Es tracta de codi que escrivim prèviament i que cridem mitjançat una paraula clau i el tabulador.</p>
+
+<p>Així podem definir <strong>snippets</strong> per cada llenguatge, de forma que segons l’extensió de cada arxiu tindrem disponibles uns <strong>snippets</strong> o altres.</p>
+
+<p>Per tal de tenir presents alguns podem seguir les instruccions que incorporen snippets pel framework <a href="https://github.com/bonsaiben/bootstrap-snippets">bootstrap</a>.</p>
+
+<p>Passos per tindre-ho disponible:</p>
+
+<ol>
+  <li>Clonar el repositori de GITHub.</li>
+  <li>Copiar la carpeta <strong>snippets</strong> a <strong>.vim/snippets</strong></li>
+</ol>
+
+<p>Per utiltizar-los cal posar l’extensió correcta al document que editem i escriure el <code class="language-plaintext highlighter-rouge">nom del snippet + TAB</code>.</p>
+
+<p>Per instal·lar els snippets es form fer des de diversoa mètodes: VAM, Pathogen, Vundle, etc.</p>
+
+<p>Per aconseguir engegar cal seguir aquestes instruccions:</p>
+
+<ul>
+  <li><a href="https://github.com/garbas/vim-snipmate">https://github.com/garbas/vim-snipmate</a></li>
+  <li><a href="https://github.com/VundleVim/Vundle.vim">https://github.com/VundleVim/Vundle.vim</a></li>
+</ul>
+
+:ET
