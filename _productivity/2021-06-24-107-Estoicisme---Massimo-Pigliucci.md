@@ -1,6 +1,6 @@
 ---
 layout: post # 
-title: 107 Estoicisme   Massimo Pigliucci # Generat automàticament
+title: 107 Estoicisme, entrevista a Massimo Pigliucci # Generat automàticament
 date: 2021-06-24 # Data
 description:  # Argument
 keywords:  # Paraules clau
