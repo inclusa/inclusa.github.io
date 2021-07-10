@@ -18,17 +18,44 @@ ISBN: 978-607-557-142-3
 
 ### 0. Introducció ###
 
+L'estoicisme ens ensenya que no podem controlar ni dependre de res, excepte del que Epicteto va denominar *lliure albedrio*, es a dir, la nostra capacitat per a emplear la raó per a elegir com classifiquem, responem i ens adaptem als successos.
+
+Els exercicis que es proposen al llibre versone sobre tres disciplines:
+
+- **Disciplina de la percepció**. Com veiem i percebem el món que ens rodeja.
+- **Discipona de l'acció**. Decisions i accions que prenem i amb quin fin.
+- **Disciplona de la voluntat**. Com fer front a les coses que no podem canviar, com desenvolupar una opinió clara i convincent, com entendre realment el nostre lloc en el món.
+
 ### 1. Primera Part: La Disciplina de la Percepció ###
 
 #### Gener: Claredat ####
 
 - 01 - Control i elecció
+    - La pràctica més important en la filosofia estoica és diferenciar entre el que podem canviar del que no podem canviar.
+    - Oració de la serenitat. *Senyor, dona'm la serenitat d'acceptar les coses que no puc canviar, el valor de canviar les coses que sí ho puc fer i la saviessa per distingir-les*.
 - 02 - L'educació és llibertat
+    - Sols els instruïts són lliures
 - 03 - Mostrat implaclable amb les coses que no importen
-- 04 - Les tres grans: Percepció, Acció i Voluntat
+    - Una de les coses més difícils en la vida és aprendre a dir NO.
+    - En no tenir cura d'això et consumirà la vida.
+    - Quan més neguem les coses que no són importants, més podrem dir sí a les que importen.
+- 04 - Les tres grans
+    - Controla les teues percepcions
+    - Dirigeix les teues accions
+    - Accepta la voluntat que escapa al teu control
 - 05 - Aclareix les teues intencions
+    - Quan planeges alguna cosa no t'agobiaran les circumstàncies, sabràs quan acabar
+    - Comença amb un fi a la teua ment
 - 06 - A on, Qui, Què i Per què
-- 07 - Set funcions clares de la ment: impulsos, aversions, desitjar, rebutjar, preparar-se, intentar, assentir
+    - Identitat
+- 07 - Set funcions clares de la ment
+    - Impulsos
+    - Aversions
+    - Desitjar
+    - Rebutjar
+    - Preparar-se
+    - Intentar
+    - Assentir
 - 08 - Reconèixer les nostres addiccions
 - 09 - El que controlem i el que no
 - 10 - Si vols ser constant

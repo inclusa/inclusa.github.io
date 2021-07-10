@@ -1,0 +1,16 @@
+I"<p>Aprendre a programar no és una tasca fàcil. El primer que hem de decidir és el llenguatge amb el qual volem aprendre a programar.</p>
+
+<p>Deixem una llista de diferents llenguates interessants i diferents pàgines on es pot aprender a programar amb ells:</p>
+
+<ul>
+  <li><a href="https://www.gnu.org/software/bash/">Bash</a></li>
+  <li><a href="https://golang.org/">Go</a></li>
+  <li><a href="https://www.haskell.org/">Haskell</a></li>
+  <li><a href="https://go.java/index.html">Java</a></li>
+  <li><a href="http://lisp-lang.org/">Lisp</a></li>
+  <li><a href="https://www.lua.org/">Lua</a></li>
+  <li><a href="https://www.python.org/">Python</a></li>
+  <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  <li><a href="https://www.rust-lang.org/en-US/">Rust</a></li>
+</ul>
+:ET
