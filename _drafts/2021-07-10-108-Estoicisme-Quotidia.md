@@ -122,12 +122,174 @@ ISBN: 978-607-557-142-3
 
 #### Abril: Pensament imparcial ####
 
+- 01 - El color dels teus pensaments
+- 02 - Vigila a què permets l'entrada
+- 03 - Enganya i dividit
+- 04 - No permetes que se te puge al cap
+- 05 - Confia, però comprova
+- 06 - Prepàrat per a la negativitat
+- 07 - Espera canviar d'opinió
+- 08 - El preu d'acceptar falsificacions
+- 09 - Verifica les teues impressions
+- 10 - Els judicis provoquen molèstia
+- 11 - Si vols aprendre, fer-ho amb humilitat
+- 12 - Rebutja els regals temptadors
+- 13 - Menys és més
+- 14 - Sigues expert el que siga important
+- 15 - Paga impostos
+- 16 - Observa la causa i l'efecte
+- 17 - No hi ha pena sense delicte
+- 18 - Les opinions són...
+- 19 - Mostra esfera d'impulsos
+- 20 - El verdaderament bo és senzill
+- 21 - No et distragues
+- 22 - Els indicis d'una persona racional
+- 23 - La ment és tota teua
+- 24 - Un ús productiu per a l'odi
+- 25 - No té res de roïn equivocar-se
+- 26 - En l'entrenament passen coses
+- 27 - Dóna-li la volta
+- 28 - Les necessitats et converteixen en servent
+- 29 - Esposa't la pols de la vida
+- 30 - Què coincideix amb el teu caràcter?
+
 ### 2. Segona Part: La Disciplina de l'Acció ###
 
 #### Maig: Accions concretes ####
+
+- 01 - Que el teu caràcter siga la teua dedicaació de principis
+- 02 - Sigues la persona que vols ser
+- 03 - Demostra el que saps, no ho contes
+- 04 - El verdaderament impressionant
+- 05 - Tú ets el projecte
+- 06 - La rectitut és hermosa
+- 07 - Com tenir un bon dia
+- 08 - El bé i el mal? Fixa't en les teues eleccions
+- 09 - Carpe diem
+- 10 - No t'inspires, sigues la inspiració
+- 11 - La culpa és pitjor que la pressó
+- 12 - La bontat sempre és la resposta adequada
+- 13 - Alimenta la fogata de l'hàbit
+- 14 - El nostre benestar radica en les nostres accions
+- 15 - Agraeix el que tens
+- 16 - El mètode en cadena
+- 17 - L'estoic és una obra en curs
+- 18 - Com fas qualsevol cosa, ho fas tot
+- 19 - Aprén, practica, prepara't
+- 20 - Qualitat, no quantitat
+- 21 - Quina classe de boxejador ets?
+- 22 - Hui és el dia
+- 23 - Ensenya'm a viure
+- 24 - Llaura la teua pròpia sort
+- 25 - On trobar l'alegria
+- 26 - Que no t'importe el que pensen els demés
+- 27 - Preocúpa't pels detalls
+- 28 - Les primeres dues coses que fer abans d'actuar
+- 29 - El treball és teràpia
+- 30 - Treballar molt o nores?
+- 31 - Sols tenim una obligació
+
+
 #### Juny: Resolució de problemes ####
+
+- 01 - Sempre tin la clàusula mental inversa
+- 02 - La perspectiva de Plantón
+- 03 - És bo ser flexible
+- 04 - Per això estem ací
+- 05 - Neteja't el nas
+- 06 - Quan seguir i quan renunciar
+- 07 - Troba els mentors indicats
+- 08 - Una rejola a la vegada, encara que siga avorrit
+- 09 - Resol els problemes amb antelació
+- 10 - Tu pots
+- 11 - No empijores les coses
+- 12 - La ment preparada és millor que qualsevol guió
+- 13 - La vida és un camp de batalla
+- 14 - Prova l'altra assa
+- 15 - Escoltar dóna més fruits que parlar
+- 16 - No t'avergonyeixes per demanar ajuda
+- 17 - Ofensa o defensa?
+- 18 - Disposats o diligents
+- 19 - Concéntra't en el present
+- 20 - La calma és contagiosa
+- 21 - Dona't la volta
+- 22 - La definició de la insensatesa
+- 23 - El camí més llarg
+- 24 - Els verdaderament educats no són conflictius
+- 25 - Els savis no tenen 'problemes'
+- 26 - Intenta el contrari
+- 27 - Les adversitats són reveladores
+- 28 - No fa falta flagel·lar-se
+- 29 - Sense pretextos
+- 30 - L 0bstacle és el camí
+
 #### Juliol: Deure ####
+
+- 01 - Fes el que et toca
+- 02 - Sobre el deure i les circumstàncies
+- 03 - Canvia 'haver de' per 'voler'
+- 04 - Protegeix la flama
+- 05 - Ningú no va dir que fora fàcil
+- 06 - Desperta
+- 07 - El nostre deure d'aprendre
+- 08 - Deixa de perdre el temps
+- 09 - El rei filòsof
+- 10 - Venera l'art humil
+- 11 - La teua pròpia empresa emergent
+- 12 - Unes regles senzilles
+- 13 - Un líder lidera
+- 14 - Un poc de coneixement és perillós
+- 15 - Hi ha prou amb fer el que és correcte
+- 16 - El progrés de l'ànima
+- 17 - No abandones als demés... ni a tu mateix
+- 18 - Cada un és mestre al seu propi camp
+- 19 - Perdona'ls per què no saben el que fan
+- 20 - Fer per a la justícia
+- 21 - Fets per funcionar en conjunt
+- 22 - Ningú t'obliga a fer res
+- 23 - Rep els honors i els desaires de la mateixa forma
+- 24 - En algun lloc està morint
+- 25 - Què diu el teu epitafi
+- 26 - Quan els homes de be no fan res
+- 27 - A on són millors les coses?
+- 28 - Reconeix els teus privilegis
+- 29 - Un antídot per l'esperit
+- 30 - El goig estoic
+- 31 - La teua carrera no és una cadena perpètua
+
 #### Agost: Pragmatisme ####
+
+- 01 - No aspires a la perfecció
+- 02 - Pdem ptreballa com siga
+- 03 - La bona vida es troba a totes les parts
+- 04 - Sin excuses, sols concentra't
+- 05 - El silenci és fortalesa
+- 06 - Sempre hi ha més oportunitat que maniobra de la que creus
+- 07 - Pragmàtic i amb principis
+- 08 - Parteix del món en el seu estat actual
+- 09 - Apega't als fets
+- 10 - La perfecció és l'enemic de l'acció
+- 11 - No hi ha temps de teories, sols de resultats
+- 12 - Que les teues paraules són teues
+- 13 - Pren el control i posa fi als teus problemes
+- 14 - No és per diversió, és per a la vida
+- 15 - La Suprema Cort de la teua ment
+- 16 - Qualsevol cosa pot ser un avantatge
+- 17 - Em faig responsable
+- 18 - Sols els tontos es precipiten
+- 19 - Prescendeix del que siga innecessari
+- 20 - El que compta
+- 21 - No et sentes abatut abans de temps
+- 22 - No et preocupes per les coses insignificants
+- 23 - Pel teu propi interés
+- 24 - Saquig des de tots els fronts
+- 25 - Respecta el passat, però acull el futur
+- 26 - En la certa de naufragis
+- 27 - Riure o plorar?
+- 28 - L'estoic opulent
+- 29 - Aspira a res = Tin-ho tot
+- 30 - Quan et sentes fluix
+- 31 - També observa les teues faltes
 
 ### 3. Tercera Part: La Disciplina de la Voluntat ###
 
