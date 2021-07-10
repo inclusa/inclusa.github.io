@@ -1,0 +1,49 @@
+I"W<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>uzbl - Lightweight Webkit browser following the UNIX philosophy
+</code></pre></div></div>
+
+<p><a href="https://wiki.archlinux.org/index.php/UZBL-Browser">Uzbl</a> es un navegador molt lleuger, de format minimalista, on es necessari coneixer les tecles ràpides per poder navegar.</p>
+
+<h1 id="navegació">Navegació</h1>
+
+<p>o  = enter url</p>
+
+<p>O  = edit url</p>
+
+<p>b  = back</p>
+
+<p>m  = forward</p>
+
+<p>S  = stop</p>
+
+<p>r  = reload</p>
+
+<p>R  = reload ignoring cache 
+fl = spawn numbers next to each hyperlink. Type the number after typing fl to follow the link.</p>
+
+<p>gh = go home</p>
+
+<h1 id="cerca">Cerca</h1>
+
+<p>ddg    = search term in DuckDuckGo</p>
+
+<p>gg     = search term in Google</p>
+
+<p>\wiki  = search term in Wikipedia</p>
+
+<h1 id="altres">Altres</h1>
+
+<p>t        = show/hide status bar</p>
+
+<p>w        = open new window</p>
+
+<dl>
+  <dt>ZZ       = exit</dt>
+  <dd>
+    <p>= enter command</p>
+  </dd>
+</dl>
+
+<p>Esc      = back to normal mode</p>
+
+<p>ctrl+[   = back to normal mode</p>
+:ET

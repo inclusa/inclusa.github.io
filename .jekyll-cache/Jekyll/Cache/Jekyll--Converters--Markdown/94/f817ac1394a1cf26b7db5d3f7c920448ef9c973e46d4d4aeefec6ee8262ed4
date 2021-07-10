@@ -1,0 +1,108 @@
+I"�<p>En aquest post explicarem com crear una <code class="language-plaintext highlighter-rouge">man page</code> per a shell o python script sobre GNU Linux/Unix.</p>
+
+<h3 id="troff-i-groff-macro">Troff i Groff Macro</h3>
+
+<p><code class="language-plaintext highlighter-rouge">Troff</code> és un sistema de processament de document desenvolupat per AT&amp;T per al sistema operatiu Unix. Troff inclou comandaments anomenats macros que corren abans de posar en marxa el document. Aquests documents inclouen capçaleres i peus de pàgina, definits amb comandaments i generalment influint en el seu format. Els manuals de GNU/Linux estan formatats amb el paquet <code class="language-plaintext highlighter-rouge">groff</code>. <code class="language-plaintext highlighter-rouge">Groff</code> (GNU troff) es un software que llegeix text pla amb formats i comandaments.</p>
+
+<h3 id="estructrura">Estructrura</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>NAME
+    Nom del comandament, funció i descripció.
+SYNOPSIS
+    Descripció del comentadament, quin és el seu objectiu.
+DESCRIPTION
+    Descripció e les funcionalitats.
+EXAMPLES
+    Alguns dels exemples d'ús.
+SEE ALSO
+    Llista de comandaments relatant les seues funcions.
+BUGS
+    Llista de bugs coneguts.
+AUTHOR
+    Especificant la informació de contacte.
+COPYRIGHT
+    Especificar la informació de la llicència.
+</code></pre></div></div>
+
+<p>Es poden afegir altres seccions com EXIT STATUS, ENVIRONMENT, FILES, HISTORY, etc. La tabla que mostra les seccions es pot accedir amb el comandament <code class="language-plaintext highlighter-rouge">man man</code>.</p>
+
+<h3 id="localització">Localització</h3>
+
+<p>El sistema manté les pàgines dels manuals en aquest directori <code class="language-plaintext highlighter-rouge">/usr/share/man/</code>.</p>
+
+<p>Es pot accedir així:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cp /usr/share/man/man1
+ls -l
+zcat ls.1.gz
+</code></pre></div></div>
+
+<h3 id="adaptació-de-la-localització-de-pàgines-man">Adaptació de la localització de pàgines Man</h3>
+
+<p>Es recomana que les pàgines man romanguen al directori <code class="language-plaintext highlighter-rouge">/usr/local/man</code>. Pots configurar el camí de la cerca a l’arxiu <code class="language-plaintext highlighter-rouge">/etc/man.config</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>MANPATH /usr/man
+MANPATH /usr/share/man
+MANPATH /usr/local/man
+MANPATH /usr/local/share/man
+MANPATH /usr/X11R6/man
+</code></pre></div></div>
+
+<p>Els detalls es poden consultar a <code class="language-plaintext highlighter-rouge">man manpath</code>.</p>
+
+<h3 id="crear-man-pages">Crear Man Pages</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim nuseradd
+</code></pre></div></div>
+
+<p>Escrivim:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.\" Manpage for nuseradd.
+.\" Contact vivek@nixcraft.net.in to correct errors or typos.
+.TH man 8 "06 May 2010" "1.0" "nuseradd man page"
+.SH NAME
+nuseradd \- create a new LDAP user 
+.SH SYNOPSIS
+nuseradd [USERNAME]
+.SH DESCRIPTION
+nuseradd is high level shell program for adding users to LDAP server.  On Debian, administrators should usually use nuseradd.debian(8) instead.
+.SH OPTIONS
+The nuseradd does not take any options. However, you can supply username.
+.SH SEE ALSO
+useradd(8), passwd(5), nuseradd.debian(8) 
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Vivek Gite (vivek@nixcraft.net.in)
+</code></pre></div></div>
+
+<p>Per visualitzar:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>man ./nuseradd
+</code></pre></div></div>
+
+<p>El codi de macro <code class="language-plaintext highlighter-rouge">.TH</code> introdueix un manual, per exemple, títol o secció. Així sabent això podem accedir a la descripció dels macros:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>man 7 mdoc
+</code></pre></div></div>
+
+<h3 id="installar-man-page">Instal·lar Man Page</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cp nuseradd /usr/local/man/man8/nuseradd.1
+gzip /usr/local/man/man8/nuseradd.1
+man nuseradd
+</code></pre></div></div>
+
+<p>També es pot instal·lar amb aquests scripts:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>install -g 0 -o 0 -m 0644 nuseradd.1 /usr/local/man/man8/
+gzip /usr/local/man/man8/nuseradd.1
+</code></pre></div></div>
+
+<h3 id="referències">Referències</h3>
+
+<ul>
+  <li><a href="https://www.cyberciti.biz/faq/linux-unix-creating-a-manpage/">nixCraft</a></li>
+  <li><a href="https://www.gnu.org/software/groff/">GNU Troff (Groff)</a></li>
+</ul>
+:ET
