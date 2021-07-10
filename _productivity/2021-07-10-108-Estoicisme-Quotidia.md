@@ -221,7 +221,7 @@ ISBN: 978-607-557-142-3
 - 27 - Les adversitats són reveladores
 - 28 - No fa falta flagel·lar-se
 - 29 - Sense pretextos
-- 30 - L 0bstacle és el camí
+- 30 - L'obstacle és el camí
 
 #### Juliol: Deure ####
 
@@ -294,6 +294,136 @@ ISBN: 978-607-557-142-3
 ### 3. Tercera Part: La Disciplina de la Voluntat ###
 
 #### Setembre: Fortalesa i Resiliència ####
+
+- 01 - L'ànima es millor que la bona sort
+- 02 - L'escola del filòsof és un hospital
+- 03 - Primer, un entrenament rigorós a l'hivern
+- 04 - Com saber si mai t'has posat a prova
+- 05 - Centrar-te als teus assumptes
+- 06 - Et poden encadenar, però...
+- 07 - El nostre poder ocult
+- 08 - No et deixes enganyar per la sort
+- 09 - A l'única cosa que hem de témer és al temor
+- 10 - Prepara't en bones condicions
+- 11 - Com seria tenir menys?
+- 12 - Sigues modest o algú t'ho recordarà
+- 13 - Com protegir el nostre fort intern de la port
+- 14 - Una forma diferent d'orar
+- 15 - Un jardí no és per a presumir-lo
+- 16 - Qualsevol pot córrer amb sort, no tots persegueixen
+- 17 - Com lidiar amb els hostils
+- 18 - Com lidiar amb el dolor
+- 19 - La flexibilitat de la voluntat
+- 20 - La vida no és un ball
+- 21 - Manté la postura, manté el control
+- 22 - Sense dolor no hi ha èxit
+- 23 - La fortalesa més segura
+- 24 - Podria passar-te a tu
+- 25 - La vulnerabilitat de la dependència
+- 26 - Per a què són les vacances
+- 27 - Què revelarà la prosperitat?
+- 28 - Tens la carta de triomf
+- 29 - Les teues necessitats reals són mínimes
+- 30 - No pots tocar-me
+
 #### Octubre: Virtud i Bondat ####
-#### Novembre: Acceptació ####
+
+- 01 - Dóna-li renda solta a la virtut
+- 02 - El més actiu més valuós
+- 03 - Un mantra d'interdependència mútua
+- 04 - Un per a tots i tots per a un
+- 05 - Les paraules no es poden retirar
+- 06 - Cuide'm-nos els uns dels altres
+- 07 - Un motiu egoista per a ser bo
+- 08 - Un plaer superior
+- 09 - Estableix pautes i segueix-les
+- 10 - Reverència i justícia
+- 11 - Honestitat per defecte
+- 12 - Sempre l'amor
+- 13 - La venjança és un plat què és millor no servir
+- 14 - No t'enfades, ajuda
+- 15 - Atorga el benefici del dubte
+- 16 - Passa la veu
+- 17 - El benefici de la bondat
+- 18 - Amics i enemics
+- 19 - Els bons hàbits eradiquen els roïns
+- 20 - Els indicis de la bona vida
+- 21 - Herois, ací i ara
+- 22 - És fàcil millorar, però, en què?
+- 23 - Demostra les teues qualitats
+- 24 - La font del bé
+- 25 - Dues tasques
+- 26 - Tres parts, un objectiu
+- 27 - Conreem el que cultivem
+- 28 - Som un per a l'altre
+- 29 - El caràcter és el destí
+- 30 - Qui es lleva millor tros?
+- 31 - Vas nàixer bo
+
+#### Novembre: Acceptació / Amor Fati ####
+
+- 01 - Accepta les coses com son
+- 02 - Subordina els teus desitjos al que serà
+- 03 - Segueix les recomanacions del doctor
+- 04 - Ni be, ni mal
+- 05 - Un poder superior
+- 06 - Algú fila les herbes de la vida
+- 07 - Com ser poderós
+- 08 - Actors en una obra
+- 09 - Tot flueix
+- 10 - Sempre igual
+- 11 - No és l'objecte, sinó el que fem amb ell
+- 12 - Els forts accepten la responsabilitat
+- 13 - Mai et deixes, mai dones explicacions
+- 14 - Tu elegeixes el resultat
+- 15 - Tot és canvi
+- 16 - L'esperança i la por són el mateix
+- 17 - No jutges a menys que...
+- 18 - Quatre hàbits de la ment estoica
+- 19 - Aforismes de tres homes savis
+- 20 - Observa, ara com sempre
+- 21 - Una vegada és suficient, una vegada és per a sempre
+- 22 - El cristall ja està trencat
+- 23 - L'inclinació és l'enemic
+- 24 - Aprèn a desprendre del que no és teu
+- 25 - És curiós com resulten les coses
+- 26 - L'altar indiferent
+- 27 - El plaer d'ignorar el que és negatius
+- 28 - No és responsabilitat dels demés, sino teua
+- 29 - Vas a estar bé
+- 30 - Segueix el logos
+
 #### Desembre: Meditació sobre la Mortalitat ####
+
+- 01 - Aparenta que hui és el fin
+- 02 - No em pares atenció, estic morint lent
+- 03 - El filòsof com artesà de la vida i la mort
+- 04 - No et pertany
+- 05 - Els beneficis d'albergar pensaments serens
+- 06 - L'esperança depèn de tu
+- 07 - La mà que ens va tocar
+- 08 - No t'amagues dels teus sentiments
+- 09 - Balafiadors de temps
+- 10 - No et vengues tan barat
+- 11 - Dignitat i valor
+- 12 - La vida segueix
+- 13 - És sols una xifra
+- 14 - El que hauríem de saber cap al final
+- 15 - Una fórmula senzilla per a mesurar els dies
+- 16 - Salut duradora
+- 17 - Coneix-te a tu mateixa abans de que siga massa tard
+- 18 - A tots ens arriba
+- 19 - Escala humana
+- 20 - Tem el temor de la mort
+- 21 - Què has fet aquests anys?
+- 22 - Reclama el teu dret
+- 23 - Què tant tems perdre?
+- 24 - Sense sentit... com vi fi
+- 25 - No cremes l'espelma pels dos extrems
+- 26 - La vida és llarga si saps aprofitar-la
+- 27 - No permetes que la teua ànima se'n vaja abans
+- 28 - Sobre ser recordat
+- 29 - Agraeix
+- 30 - Moderació
+- 31 - Participa en el teu propi rescat
+
