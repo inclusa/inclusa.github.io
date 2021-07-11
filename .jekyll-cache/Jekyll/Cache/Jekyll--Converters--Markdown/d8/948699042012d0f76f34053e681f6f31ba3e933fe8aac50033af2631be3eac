@@ -17,7 +17,7 @@
 
 <span class="c1">// Show just the module information.</span>
 <span class="c1">// phpinfo(8) yields identical results.</span>
-<span class="nb">phpinfo</span><span class="p">(</span><span class="nx">INFO_MODULES</span><span class="p">);</span>
+<span class="nb">phpinfo</span><span class="p">(</span><span class="no">INFO_MODULES</span><span class="p">);</span>
 
 <span class="cp">?&gt;</span>
 </code></pre></div></div>
