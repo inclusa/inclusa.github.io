@@ -31,48 +31,80 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 #### Gener: Claredat ####
 
 - 01 - Control i elecció
-    - La pràctica més important en la filosofia estoica és diferenciar entre el que podem canviar del que no podem canviar.
-    - Oració de la serenitat. *Senyor, dona'm la serenitat d'acceptar les coses que no puc canviar, el valor de canviar les coses que sí ho puc fer i la saviessa per distingir-les*.
+  - La pràctica més important en la filosofia estoica és diferenciar entre el que podem canviar del que no podem canviar.
+  - Oració de la serenitat. *Senyor, dona'm la serenitat d'acceptar les coses que no puc canviar, el valor de canviar les coses que sí ho puc fer i la saviessa per distingir-les*.
 - 02 - L'educació és llibertat
-    - Sols els instruïts són lliures
+  - Sols els instruïts són lliures
 - 03 - Mostrat implaclable amb les coses que no importen
-    - Una de les coses més difícils en la vida és aprendre a dir NO.
-    - En no tenir cura d'això et consumirà la vida.
-    - Quan més neguem les coses que no són importants, més podrem dir sí a les que importen.
+  - Una de les coses més difícils en la vida és aprendre a dir NO.
+  - En no tenir cura d'això et consumirà la vida.
+  - Quan més neguem les coses que no són importants, més podrem dir sí a les que importen.
 - 04 - Les tres grans
-    - Controla les teues percepcions
-    - Dirigeix les teues accions
-    - Accepta la voluntat que escapa al teu control
+  - Controla les teues percepcions
+  - Dirigeix les teues accions
+  - Accepta la voluntat que escapa al teu control
 - 05 - Aclareix les teues intencions
-    - Quan planeges alguna cosa no t'agobiaran les circumstàncies, sabràs quan acabar
-    - Comença amb un fi a la teua ment
+  - Quan planeges alguna cosa no t'agobiaran les circumstàncies, sabràs quan acabar
+  - Comença amb un fi a la teua ment
 - 06 - A on, Qui, Què i Per què
-    - Identitat
+  - Identitat
 - 07 - Set funcions clares de la ment
-    - Impulsos
-    - Aversions
-    - Desitjar
-    - Rebutjar
-    - Preparar-se
-    - Intentar
-    - Assentir
+  - Impulsos
+  - Aversions
+  - Desitjar
+  - Rebutjar
+  - Preparar-se
+  - Intentar
+  - Assentir
 - 08 - Reconèixer les nostres addiccions
+  - Xicotetes compulsions socaven el nostra llibertat i sobirarina, nuvolen la nostra claredat.
+  - Creguem tenir el control. Exemple: Missatgeria.
 - 09 - El que controlem i el que no
+  - No controlem la situació, però sí el que pensem sobre ella.
 - 10 - Si vols ser constant
+  - Si vols ser constant has d'emprar el judici adequat.
 - 11 - Si vols ser inconstant
+  - Epicteto et recorda que la serenitat i l'estabilitat són resultat del teu albedrio i judici, no del teu entorn.
 - 12 - L'únic camí per a la serenitat
+  - Considerar què no depén de l'albedrio i no considerar res com a propi.
 - 13 - El cercle de control
+  - Segons els estoics, el cercle de control conté una sola cosa: LA TEUA MENT.
+  - La simplicitat implica claredat.
+  - Sols has de fer-te càrrec d'una cosa: les teues decisions, la teua voluntat, la teua ment.
 - 14 - Talla els fils que manipulen la teua ment
+  - Víctor Frankl: 'A l'home l'animen els impulsos, però els valors el restringeixen'.
+  - Aquests valors i la cosciència d'un mateix eviten que siguem titelles.
 - 15 - Mantenir-se encaminat produeix pau
+  - Séneca utilitza la paraula grega *euhymia*, la qual defineix com a *tenir confiança en tu mateix i creure que va pel bon camí, sense deixar-te desviar en absolut per les petjades creuades de molts que corren per totes parts*.
+  - Tenir un punt de vista clar ens permet albergar aquesta creença.
+  - La tranquilitat i la pau es troben quan identifiquem el nostre camí i l'acatem, quan seguim el rumb i ignorem les sirenes distractores que ens criden cap a les roques.
 - 16 - Mai faces res per costum
+  - Reflexiona sobre el que fas, fes-ho per les raons correctes.
 - 17 - Reinicia el treball de veritat
+  - No deixes que el treball t'intimide.
+  - El professor et demana sols una cosa: comença a treballar, la resta ocorrerà com a conseqüència.
 - 18 - Mira el món com a poeta i artista
+  - Veure el que els demés no poden veure implica claredat i alegria.
 - 19 - On vages conserves el teu albedrio
+  - En totes les circumstàncies cal diferenciar què tenim sota el nostre control i què no.
 - 20 - Reviva els teus pensaments
+  - El que va passar ahir està en el passat, podem tornar a començar quan vulguem.
 - 21 - Un ritual matutí
+  - Escriure un diari.
+  - La idea és trobar temps per a u mateix i examinar-se.
 - 22 - El dia avaluat
+  - Séneca planteja un exercici: a l'acabar el dia cal plantejar-se les següents preguntes:
+    - Quin mal he esquivat hui?
+    - He millorat d'algun mode?
+    - Les meues accions han estat justes?
+    - Com puc millorar?
 - 23 - La veritat sobre els diners
+  - Els diners apenes canvien la vida.
+  - No resolen els problemes com les persones que no el tenen creuen que ho fan.
+  - Cap possessió material ho farà.
+   Les coses externes no poden solucionar problemes interns.
 - 24 - Aspira a entendre les coses a fons
+  - Marco Aurelio agraeix a Junio Rústico, un professor que va inculcar en el seua alumne l'amor per la claredat i la comprensió a fons, el desig e no detenir-se en la superfície quan es tracta d'aprendre.
 - 25 - L'únic premi
 - 26 - El poder d'un mantra
 - 27 - Lres àrees de l'exercici
