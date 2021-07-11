@@ -106,13 +106,32 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 24 - Aspira a entendre les coses a fons
   - Marco Aurelio agraeix a Junio Rústico, un professor que va inculcar en el seua alumne l'amor per la claredat i la comprensió a fons, el desig e no detenir-se en la superfície quan es tracta d'aprendre.
 - 25 - L'únic premi
+  - Les coses importants són barates.
+  - Quantes més coses anhelem i quant més tinguem que fer per guanyar-nos o assolir eixes fites, menys gaudirem de la nostra vida, menys lliures serem.
 - 26 - El poder d'un mantra
+  - Mantra significa 'enunciació sagrada'.
+  - S'utilitza per bloquejar l'atenció.
+  - Cal desenvolupar un mantra per trobar claredat.
 - 27 - Lres àrees de l'exercici
-- 28 - Observa els sabis
+  - Desitjos i rebutjos. Perseguir el que és bo i evitar el que no ho és.
+  - Judici. La raó.
+  - Motius. Impulsos a l'actuar.
+  - Les tres àrees estan inevitablement unides.
+  - Cal dedicar temps a la reflexió i energia a cada aspecte per obtenir claredat i èxit.
+- 28 - Observa els savis
+  - Per a Séneca: 'Si no és conforme a un patró, no corregiràs els defectes.
+  - Elegeix un savi i pregunta't què faria en determinada situació.
 - 29 - Opta per la senzillesa
+  - Fer el que hages de fer de forma precisa, procurant no distraure't.
+  - S'aconsegueix si es considera cada acció com si fora l'última que podem fer a la vida.
 - 30 - No has de saber-ho tot
+  - No pretengues que et consideren expert en res.
+  - Si arribes a aquesta sensació, desconfia de tu.
 - 31 - La filosofia com a medecina de l'ànima
-
+  - Quan més treballem, més ens distraguem.
+  - Quan ens distraguem cal xafar el fre i tornar a l'essencial.
+  - L'objectiu de l'estoïcisme és ser la medecina de l'ànima.
+  
 #### Febrer: Passions i emocions ####
 
 - 01 - Per a l'home impulsitu
