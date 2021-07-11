@@ -134,8 +134,12 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
   
 #### Febrer: Passions i emocions ####
 
-- 01 - Per a l'home impulsitu
+- 01 - Per a l'home impulsiu
+  - Els atletes s'insulten per provocar una reacció, per distraure.
+  - L'ira és una debilitat.
+  - La fortalesa és la capacitat per a controlar-se.
 - 02 - Un estat mental adient
+  - 
 - 03 - L'origen de la teua ansietat
 - 04 - A propòsit de ser invencible
 - 05 - Assossega els teus impulsos
