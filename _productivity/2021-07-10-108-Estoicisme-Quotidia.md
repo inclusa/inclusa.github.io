@@ -139,12 +139,20 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
   - L'ira és una debilitat.
   - La fortalesa és la capacitat per a controlar-se.
 - 02 - Un estat mental adient
-  - 
+  - Som individus independents, ens valem per nosaltres mateixos.
+  - No permetem que ens manipulen, com permetem que ens manipulen els nostres impulsos.
+  - Hauríem de tenir el control, no cedir-lo a les nostres emocions, ja que som independents i autònoms.
 - 03 - L'origen de la teua ansietat
+  - L'origen en l'ansietat resideix en voler prendre el control d'una cosa que no podem controlar.
 - 04 - A propòsit de ser invencible
+  - Reaccionar a les emocions empitjora la situació.
+  - Elegir no reaccionar als impulsos ens fa invencibles.
 - 05 - Assossega els teus impulsos
+  - Pensa abans d'actuar
+  - Quins principis em guien?
 - 06 - No busques conflictes
-- 07 - La por és una profecia que per la seua naturaleza es compleix
+  - Sols cal lluitar per motius concrets.
+- 07 - La por és una profecia que per la seua naturalesa es compleix
 - 08 - T'ha fet sentir millor er això?
 - 09 - No has de tenir una opinió
 - 10 - L'ira és combustible nociu
