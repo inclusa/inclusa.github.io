@@ -153,23 +153,47 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 06 - No busques conflictes
   - Sols cal lluitar per motius concrets.
 - 07 - La por és una profecia que per la seua naturalesa es compleix
+  - Si no controles els teus impulsos, si perds el control, et pots convertir en la causa del teu propi desastre
 - 08 - T'ha fet sentir millor er això?
+  - La pròxima vegada que estigues perdent el control pregunta't: M'estic sentint millor?
 - 09 - No has de tenir una opinió
+  - No prestes atenció a les coses que no t'interessen, així restaràs influència.
 - 10 - L'ira és combustible nociu
+  - L'ira és una càrrega massa pesada, dia Martin Luther King.
+  - Quan l'ira detonant s'acaba requereix més per mantenir el motor.
 - 11 - Heroi o Neró?
-- 12 - Protegeix la teua tranquilitat
-- 13 - El plaer pot convertirse en càstic
+  - No està clar que el poder corrompa, un exemple està en Adriano, que va ajudar Marco Aurelio a arribar al trono.
+  - En molts casos depén de la fortalesa interior i la consciència dels individus, del que valoren, què desitjos controlen, si comprenen que la justícia i imparcialitat són capaces de contrarrestar les tentacions que suposa la riquesa il·limitada i el respecte.
+- 12 - Protegeix la teua tranquil·litat
+  - Pregunta't: De veritat és la vida que vull?
+- 13 - El plaer pot convertir-se en càstig
+  - Entendre que els càstigs poden convertir-se en una experiència pitjor que resistir-se, la necessitat comença a perdre el seu atractiu.
+  - El control d'un mateix es converteix en plaer i la tentació en arrepentiment.
 - 14 - Pensa abans d'actuar
+  - Assegura't de que la teua ment està al càrrec, no les teues emocions.
 - 15 - Sols són malsons
+  - Moltes de les coses que ens molesten són productes de la imaginació, no de la realitat.
 - 16 - No compliques les coses més del necessari
+  - Cal no permetre que les emocions s'interposen en les accions senzilles i apropiades que es condueixen a la virtut.
 - 17 - L'enemic de la felicitat
-- 18 - Prepara't per la tormenta
+  - Felicitat condicional: 'quan me titule seré feliç'.
+  - Identifica aquest desig de tenir més, millor, algun dia i considera-ho com enemic de la felicitat.
+- 18 - Prepara't per la tempesta
+  - Si no tenim un pla, si mai aprenem a assegurar les finestres, dependrem d'aquells elements interns i externs.
 - 19 - El banquet de la vida
+  - Quan et sorprenguen les emocions, llest per a qualsevol cosa, cal pensar que estem en un banquet i hem d'esperar el nostre torn.
 - 20 - El gran desfile del desig
+  - Anne Lamott: "Alguna vegada algú s'ha preguntat què pensa Deu dels diners? Sols cal mirar què els passa a les persones que els hi concedeix aquest desig".
 - 21 - No desitges res, no vulgues res
+  - No voler res ens fa invencibles, així tenim el control sobre tot.
+  - Quan es tracta de metes i esforços, pregunta't. Controles les teues metes o elles et controlen a tu?
 - 22 - El que és millor que no es diga
-- 23 - A les circumstàncies n els importen els nostres centiments
+  - És fàcil actuar.
+  - El més difícil és no reaccionar a les teues emocions i esperar a actuar quan realment estigues preparat per fer-ho.
+- 23 - A les circumstàncies no els importen els nostres sentiments
+  - Per què molestar-se per causes i forces superiors a nosaltres?
 - 24 - La verdadera font del prejudici
+  - 
 - 25 - Els artificis del mite
 - 26 - Sobre gustos no hi ha res escrit
 - 27 - Cultiva la indiferència allà on els demés cullen passió
