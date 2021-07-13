@@ -193,12 +193,24 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 23 - A les circumstàncies no els importen els nostres sentiments
   - Per què molestar-se per causes i forces superiors a nosaltres?
 - 24 - La verdadera font del prejudici
-  - 
+  - No hi ha un succés objectivament bo o roïn.
+  - Necessitem de la nostra interpretació, de la nostra participació, context i categorització per classificar com a acció *roïn*.
+  - Si ens controlem podrem decidir *no* reaccionar.
 - 25 - Els artificis del mite
+  - Amb el temps tots morirem.
+  - No hem de deixar que ens esclavitzen les emocions, les quals ens fan sentir miserables i insatisfets.
 - 26 - Sobre gustos no hi ha res escrit
+  - Quan t'enfades amb algú pensa: Quin va ser el resultat? Va haver benefici?
 - 27 - Cultiva la indiferència allà on els demés cullen passió
+  - Hi ha tres categories de coses: bones (virtut), roïns (maldat), indiferents (riquesa, salud, vida, mort, plaer, dolor).
+  - En tractar les coses neutrals com indiferents no els atorguem poder o preferència.
 - 28 - Quan perds el control
+  - La turbulència del moment no afecta les ferramentes o els objectius.
+  - Recupera la calma i torna a la filosofia que segueixes.
 - 29 - No sempre pots tenir (o crear) el que vols
+    - No desitges molt, centra't i prioritza.
+    - Preguntat: Necessite açò? Què passaria si no ho tinc? Puc arreglar-me-les sense això?
+    - Les respostes a les preguntes t'ajudaran a relaxar-te, a prescindir de les coses innecessàries que et mantenen massa ocupat, aclaparat per mantenir una vida equilibrada i feliç.
 
 ### Març: Consciència ####
 
