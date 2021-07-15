@@ -215,7 +215,10 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 ### Març: Consciència ####
 
 - 01 - El començament de la filosofia
+  - Epicteto afirma que ens convertim en filòsofs quan comencem a exercitar la nostra raó rectora i a qüestionar les emocions, principis, inclús el llenguatge que els demés donen per assentat.
+  - Comencem el viatge de la filosofia quan som conscients de la capacitat d'analitzar les nostres ments.
 - 02 - Una valoració pròpia precisa
+  - Mira en el teu interior per a determinar de què eres capaç i què es requereix per a alliberar eixe potencial.
 - 03 - (Des)integració
 - 04 - La consciència és llibertat
 - 05 - Limita el que siga costós
