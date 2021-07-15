@@ -220,14 +220,34 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 02 - Una valoració pròpia precisa
   - Mira en el teu interior per a determinar de què eres capaç i què es requereix per a alliberar eixe potencial.
 - 03 - (Des)integració
+  - Si no ens centrem en la nostra integració interna correm el risc de desintegrar-nos per fora.
 - 04 - La consciència és llibertat
+  - Fes, de tant en tant, una llista d'obligacions. 
+  - Quines són autoimposades? 
+  - Son necessàries? 
+  - Ets tan lliure com creus?
 - 05 - Limita el que siga costós
+  - Inclús el que és gratuït té un preu.
+  - Pregunta't: Necessite açò?
+  - És superflu?
+  - Quan val?
+  - Què m'està costant?
 - 06 - No t'inventes contes
+  - No parles dels teus propis actes, no complaurà la teua audiència.
 - 07 - No confies en els sentits
+  - La consciència d'un mateix és la capacitat per avaluar-se objectivament.
+  - La capacitat per a qüestionar els nostres instints, patrons i suposicions.
 - 08 - No renuncies a la teua llibertat sense voler
+  - Hem de protegir la ment i les nostres percepcions.
 - 09 - Troba el teu grup
+  - Les coses bones les aprendràs dels bons.
+  - Dis-me amb qui vas i et diré qui ets.
+  - Sobre la gent que coneixes preguntat: M'estan fent millor?
 - 10 - Troba't un Catón
+  - Adam Smith parlava d'un expectador indiferent que ens puga reprendre, en silenci.
 - 11 - Viu sense restriccions
+  - Observa les persones més poderoses.
+  - Van haver de donar a canvi la llibertat.
 - 12 - Posat en les sabates de qui s'equivoca
 - 13 - Tot el dia tindrà sentit
 - 14 - La satisfacció pròpia és un enemic
