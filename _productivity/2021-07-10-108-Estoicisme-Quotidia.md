@@ -249,8 +249,11 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
   - Observa les persones més poderoses.
   - Van haver de donar a canvi la llibertat.
 - 12 - Posat en les sabates de qui s'equivoca
+  - Sócrates: *ningú actua mal deliberadament*.
 - 13 - Tot el dia tindrà sentit
+  - Hi ha una raó que regeix les coses, encara que no sempre la puguem veure.
 - 14 - La satisfacció pròpia és un enemic
+  - L'ego i la satisfacció pròpia són els enemics de l'aprenentatge.
 - 15 - Els tenim el present
 - 16 - La teua part sagrada
 - 17 - La bellesa d'elegir
