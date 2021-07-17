@@ -255,10 +255,21 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 14 - La satisfacció pròpia és un enemic
   - L'ego i la satisfacció pròpia són els enemics de l'aprenentatge.
 - 15 - Els tenim el present
+  - Posseïm el present, però té data de caducitat.
 - 16 - La teua part sagrada
+  - Tens la capacitat d'emprar la lògica i la raó per gestionar les circumstàncies.
+  - Això atorga un poder indispensable per a alterar les circumstàncies dels demés.
+  - Recorda que el poder implica responsabilitat.
 - 17 - La bellesa d'elegir
+  - Es estoics ens conviden a reflexionar no sobre les aparences de les coses, sino sobre l'esforç, l'activitat i les eleccions de les que són resultat.
 - 18 - Impossible sense el teu consentiment
+  - El treball no pot ser agobiant perquè són objectes externs i no tenen accés a la nostra ment.
+  - Les emocions provenen de dins no de fora.
+  - El que genera la ment per voluntat pròpia, és la nostra responsabilitat.
 - 19 - Saviesa intemporal
+  - Recorda que cada indicidu pot elegir.
+  - Sempre tens el control.
+  La causa d'una molèstia sorgeix de nosaltres, de les nostres etiquetes i expectatives.
 - 20 - Llest i a casa
 - 21 - El millor és aquí, no allà fora
 - 22 - L'inici de la verdadera educació
