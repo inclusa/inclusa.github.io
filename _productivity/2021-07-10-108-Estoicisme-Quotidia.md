@@ -271,17 +271,35 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
   - Sempre tens el control.
   La causa d'una molèstia sorgeix de nosaltres, de les nostres etiquetes i expectatives.
 - 20 - Llest i a casa
+  - Cal no elegir les dificultats, si venen cal estar preparats
 - 21 - El millor és aquí, no allà fora
+  - On vages allí estàs, no cal esperar o fugir cap a ningun costat, sols cal calmar-se en eixe moment.
 - 22 - L'inici de la verdadera educació
+  - Cal caminar cada segon, tots els dies, els títols no solucionen els problemes, cal afrontar-los
 - 23 - L'ànima encadenada
+  - L'enfermetat és un judici obstinat en el mal.
 - 24 - La filosofia està en tot
+  - Els actes són la millor prova de que has entés la filosofia que has estudiat.
 - 25 - La riquesa i la llibertat són gratuïtes
+  - La llibertat no s'aconsegueix amb la sacietat del desig, sinó amb la superació del mateix.
 - 26 - Què regeix la teu facultat rectora?
+  - Qui vigila al vigilant?
+  - Entén la teua facultat rectora, també a qui i què la regeix.
 - 27 - Paga el valor de les coses
+  - Un tema persistent en Marco Aurelio és el valor, *axia*, de les coses.
+  - Les coses bones de la vida valen el que valen.
+  - Les coses innecessàries de la vida no valen la pena, sense importar el preu.
+  - La clau és apreciar la diferència.
 - 28 - La covardia és un problema de disseny
+  - La clau de controlar la situació està en tenir un plan abans de començar.
 - 29 - Per què has d'impressionar a eixes persones?
+  - Quan ens tornem cap a les coses exteriors estem desviant-nos del nostre camí.
+  - No es pot tenir contents a tots, cal concentrar-nos en el que volem.
 - 30 - Raona en tot moment
+  - Cal avaluar si les decisions que prenem són correctes.
+  - Cal utilitzar la raó per comprovar-ho.
 - 31 - Eres el producte de la teua formació
+  - Has de recórrer a la formació e instaurar hàbits per tal de substituir la ignorància i la falta de disciplina.
 
 #### Abril: Pensament imparcial ####
 
