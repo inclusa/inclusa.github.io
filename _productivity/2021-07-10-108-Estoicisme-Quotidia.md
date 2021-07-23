@@ -304,15 +304,27 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 #### Abril: Pensament imparcial ####
 
 - 01 - El color dels teus pensaments
+  - Si plenem la ment amb pensaments negatius la nostra vida serà del mateix color.
 - 02 - Vigila a què permets l'entrada
-- 03 - Enganya i dividit
+  - Tenim la capacitat de permetre a qui deixem entrar a la nostra casa.
+- 03 - Enganyat i dividit
+  - Cal aclarir-nos pregntant-nos: En el fons què vols?
 - 04 - No permetes que se te puge al cap
+  - Quan tenim èxit hem d'assegurar-nos que no ens canvie.
 - 05 - Confia, però comprova
+  - Les percepcions ens enganyen, cal aprofundir per tal d'assegurar el concepte.
 - 06 - Prepàrat per a la negativitat
+  - Tenir en compte que les demés, de vegades es comporten amb egoisme i ignorància ens prepara per acceptar-ho.
+  - Preparar-se és anticipar la conducta per poder reaccionar amb control.
 - 07 - Espera canviar d'opinió
+  - Em de lluitar contra les nostres propensions i idees preconcebudes, per què són una càrrega.
 - 08 - El preu d'acceptar falsificacions
+  - En empenyem en comprovar si els diners són verdaders, acceptem idees i suposicions que podrien canviar-nos la vida.
 - 09 - Verifica les teues impressions
+  - Els nostres sentits ens enganyen.
+  - L'estoicisme consisteix en cultivar la consciència i tenir perspectiva per a analitzar els teus sentits, qüestionar la seua precisió i procedir sols amb els positius i constructius.
 - 10 - Els judicis provoquen molèstia
+  - Cal diferenciar el que són les coses i el significat que tenen per a nosaltres, aquesta última característica és la que ens fa patir.
 - 11 - Si vols aprendre, fer-ho amb humilitat
 - 12 - Rebutja els regals temptadors
 - 13 - Menys és més
