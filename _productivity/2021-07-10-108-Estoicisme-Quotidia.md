@@ -326,14 +326,23 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 10 - Els judicis provoquen molèstia
   - Cal diferenciar el que són les coses i el significat que tenen per a nosaltres, aquesta última característica és la que ens fa patir.
 - 11 - Si vols aprendre, fer-ho amb humilitat
+  - Els alumnes busquen mestres però pensen que ja ho saben tot.
 - 12 - Rebutja els regals temptadors
+  - L'atracció per allò nou i ostentós ens pot portar problemes.
 - 13 - Menys és més
+  - Els escriptors que admirem solen ser mestre de economia i brevetat del llenguatge.
 - 14 - Sigues expert el que siga important
+  - Quan arribem al final de la vida cal preguntar-nos: Quins coneixements són més valuosos?
 - 15 - Paga impostos
+  - Pots pagar-los i gaudir dels seus fruits.
 - 16 - Observa la causa i l'efecte
+  - Identificant patrons conductuals negatius es pot arribar a millores en la vida real.
 - 17 - No hi ha pena sense delicte
+  - Si infereixes el que és correcte en les accions d'algú o en successos externs, serà molt més probable que tengues la reacció correcta.
 - 18 - Les opinions són...
+  - Les opinions són interpretacions del món, cal no jutjar el món per tal que les interpretacions sols siguen.
 - 19 - Mostra esfera d'impulsos
+  - Cal estar dispostos a aprendre de qualsevol, sense importar quina siga la situació en la vida.
 - 20 - El verdaderament bo és senzill
 - 21 - No et distragues
 - 22 - Els indicis d'una persona racional
