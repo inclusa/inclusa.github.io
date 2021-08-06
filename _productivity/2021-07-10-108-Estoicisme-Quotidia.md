@@ -344,8 +344,16 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 19 - Mostra esfera d'impulsos
   - Cal estar dispostos a aprendre de qualsevol, sense importar quina siga la situació en la vida.
 - 20 - El verdaderament bo és senzill
+  - El "bé" que defén l'estoïcisme és senzill: saviesa, templança (control d'un mateix), justícia i fortalesa (valor).
+  - Les riqueses no aporten aquests valors per si mateixa.
 - 21 - No et distragues
+  - Einstein no va formular la teoria de la relativitat distret en l'oficina de patents, va ser després, quan va poder estudiar i reflexionar.
+  - Epicteto diu que l'atenció és un hàbit i que la distracció fomenta hàbits roïns i dóna peu a errades.
 - 22 - Els indicis d'una persona racional
+  - Ser racional hui suposa:
+    - Mirar a l'interior.
+    - Examinar-nos amb judici crític.
+    - Prendre les nostres pròpies decisions.
 - 23 - La ment és tota teua
 - 24 - Un ús productiu per a l'odi
 - 25 - No té res de roïn equivocar-se
