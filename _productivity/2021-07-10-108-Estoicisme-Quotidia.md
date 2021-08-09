@@ -367,8 +367,13 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
   - Mira les coses des de diverses perspectives.
   - En mirar les coses des de dins ens poden intimidar o influir menys.
 - 28 - Les necessitats et converteixen en servent
+  - Accepartar diners et converteix en servent.
+  - Séneca. La indiferència anula el poder suprem, al menys en el que respecta a la vida.
 - 29 - Esposa't la pols de la vida
+  - Contemplar l'univers ens dóna idea d'immensitat front a les preocupacions terrenals.
 - 30 - Què coincideix amb el teu caràcter?
+  - Les idees pròpies ens van a donar la clau per jutjar les accions.
+  - Quan més sotetem a rigorosa prova la nostra educació més idees firmes, pròpies tindrem.
 
 ### 2. Segona Part: La Disciplina de l'Acció ###
 
