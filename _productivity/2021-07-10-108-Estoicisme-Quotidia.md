@@ -355,10 +355,17 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
     - Examinar-nos amb judici crític.
     - Prendre les nostres pròpies decisions.
 - 23 - La ment és tota teua
+  - El cos i l'esperit ens venen donats.
+  - La ment és nostra, cal cuidar-la, és la part més important.
 - 24 - Un ús productiu per a l'odi
+  - Visualització negativa
 - 25 - No té res de roïn equivocar-se
+  - Quan algú et critique, t'està presentant una millor alternativa, considera-la.
 - 26 - En l'entrenament passen coses
+  - Si considerem que la nostra activitat diària és una mena d'exercici podrem augmentar la nostra resiliència baixant el compromís de fer les coses bé a la primera.
 - 27 - Dóna-li la volta
+  - Mira les coses des de diverses perspectives.
+  - En mirar les coses des de dins ens poden intimidar o influir menys.
 - 28 - Les necessitats et converteixen en servent
 - 29 - Esposa't la pols de la vida
 - 30 - Què coincideix amb el teu caràcter?
