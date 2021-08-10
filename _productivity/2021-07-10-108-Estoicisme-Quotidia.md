@@ -392,8 +392,14 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 05 - Tú ets el projecte
   - La ment és el bé que més has de treballar.
 - 06 - La rectitut és hermosa
+  - Els nostres estandards són antiestoics.
+  - Coses com guanyar la loteria són un exemple.
+  - Actuar amb justicia, mantenir l'estabilitat, controlar-se, inclús si això implica dedicació i sacrifici són valors estoics.
 - 07 - Com tenir un bon dia
+  - Si vols tenir un bon dia: fes coses bones.
+  - Mantín el control del que depén sols de tu.
 - 08 - El bé i el mal? Fixa't en les teues eleccions
+  - La decisió correcta sempre probé del lliure albir, no de la recompensa ni de l'èxit que implique, sino del lliure albir.
 - 09 - Carpe diem
 - 10 - No t'inspires, sigues la inspiració
 - 11 - La culpa és pitjor que la pressó
