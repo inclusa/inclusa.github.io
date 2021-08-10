@@ -379,11 +379,18 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 
 #### Maig: Accions concretes ####
 
-- 01 - Que el teu caràcter siga la teua dedicaació de principis
+- 01 - Que el teu caràcter siga la teua dedicació de principis
+  - Els estoics no visten de forma estereotipada, l'única forma de reconèixer-los és pel seu caràcter.
 - 02 - Sigues la persona que vols ser
+  - Cal plantejar primer els objectius.
+  - Les accions ens dicten si ho aconseguirem o no.
+  - Has d'actuar i fer-ho adequadament.
 - 03 - Demostra el que saps, no ho contes
+  - La filosofia tracta de transformar les paraules en obres.
 - 04 - El verdaderament impressionant
+  - El que realment importa és no centrar-se en la reputació per agradar als demés.
 - 05 - Tú ets el projecte
+  - La ment és el bé que més has de treballar.
 - 06 - La rectitut és hermosa
 - 07 - Com tenir un bon dia
 - 08 - El bé i el mal? Fixa't en les teues eleccions
