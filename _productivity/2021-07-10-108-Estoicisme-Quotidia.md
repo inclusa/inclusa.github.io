@@ -401,12 +401,19 @@ Els exercicis que es proposen al llibre versone sobre tres disciplines:
 - 08 - El bé i el mal? Fixa't en les teues eleccions
   - La decisió correcta sempre probé del lliure albir, no de la recompensa ni de l'èxit que implique, sino del lliure albir.
 - 09 - Carpe diem
+  - Què faràs hui abans que el dia se t'escape?
 - 10 - No t'inspires, sigues la inspiració
-- 11 - La culpa és pitjor que la pressó
+  - Hem de procurar ser dignes pels nostres actes no per les nostres paraules.
+- 11 - La culpa és pitjor que la presó
+  - La nostra seguretat radica en no fer cap injustícia.
 - 12 - La bontat sempre és la resposta adequada
+  - L'amabilitat, en els casos en els quals s'espera que reacciones amb odi, sols és possible si ets una persona de fortalesa impecable.
 - 13 - Alimenta la fogata de l'hàbit
+  - Som el que fem, així que l'excel·lència no és un acte, sinó un hàbit.
 - 14 - El nostre benestar radica en les nostres accions
+  - No hem de centrar-nos en el que succeïx sinó en com responem.
 - 15 - Agraeix el que tens
+  - Resisteix la necessitat d'acumular, permet que la gratitud guie els teus passos.
 - 16 - El mètode en cadena
 - 17 - L'estoic és una obra en curs
 - 18 - Com fas qualsevol cosa, ho fas tot
