@@ -1,4 +1,4 @@
-I"hZ<p>Llibre: David Allen. Haz que funcione. Alienta Editorial</p>
+I"DZ<p>Llibre: David Allen. Haz que funcione. Alienta Editorial</p>
 
 <p>Web: http://www.alientaeditorial.com</p>
 
@@ -48,10 +48,16 @@
 
 <h3 id="1-introducció">1. Introducció</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; L'art dels avanços és preservar l'ordre en mig del canvi. Alfred North Whitehead.
+<blockquote>
+  <p>L’art dels avanços 
+és preservar l’ordre en mig del canvi.
+– Alfred North Whitehead.</p>
 
-&gt; Gran part del que els més exigents anomenen despectivament **complexitat** del món real no és més que la inconsistència de les seues ments. Thomas Sowell.
-</code></pre></div></div>
+  <p>Gran part del que els més exigents 
+anomenen despectivament <strong>complexitat</strong> del món real
+no és més que la inconsistència de les seues ments. 
+– Thomas Sowell.</p>
+</blockquote>
 
 <p>Per a portar a terme una vida eficaç és necessari que podam fer que les coses <strong>succeïsquen</strong> i que <strong>formem part del nostre món</strong>, per a que aquest ens aporte les experiències i els resutats que busquem.</p>
 
@@ -73,7 +79,7 @@
   <p><strong>Bon disseny = eliminació de lastres</strong></p>
 </blockquote>
 
-<p>GTD es basa en principis simples fàcils d’implmentar.</p>
+<p><strong>GTD</strong>* es basa en principis simples fàcils d’implementar.</p>
 
 <p>Tenim una necessitat desesperada d’<strong>aprendre a gestionar-nos</strong>, no d’obtenir informació, sinó més bé d’<strong>entendre</strong> què és el que <strong>signifiquen</strong> les coses i com es <strong>relacionen</strong> unes en altres.</p>
 
@@ -85,7 +91,7 @@
 
 <p>Es necessita cal·librar de nou les relacions i la imatge que tenim de nosaltres mateixos, ja que transtornen les nostres estructures i pautes conegudes.</p>
 
-<p>Potser en tres dies probablement hages rebut més <strong>inputs</strong> que hauran provocat canvis, creant projectes i modificant prioritats que els que els teus pares rebien en un mes…, i alguns d’ells en un any. Tals <strong>transtorns succeïen amb tan poca freqüència</strong> el les seues èpoques que simplement <strong>toleraven l’estrés</strong>.</p>
+<p>Potser en tres dies probablement hages rebut més <strong>inputs</strong> que hauran provocat canvis, creant projectes i modificant prioritats que els que els teus pares rebien en un mes, i alguns d’ells en un any. Tals <strong>transtorns succeïen amb tan poca freqüència</strong> el les seues èpoques que simplement <strong>toleraven l’estrés</strong>.</p>
 
 <p>Tu, encanvi estàs en un constant estrés, ja que al conviure amb les noves tecnologies has permés que tot tipus d’elements apareguen en el teu correu electrònic.</p>
 
@@ -131,33 +137,33 @@
 <p>Tres models:</p>
 
 <ol>
-  <li>
-    <p>Arribar a dominar el fluxe de treball</p>
-
-    <p>1.1. Recopil·lar
- 1.2. Processar
- 1.3. Organitzar
- 1.4. Revisar
- 1.5. Fer</p>
+  <li>Arribar a dominar el fluxe de treball
+    <ul>
+      <li>Recopil·lar</li>
+      <li>Processar</li>
+      <li>Organitzar</li>
+      <li>Revisar</li>
+      <li>Fer</li>
+    </ul>
   </li>
-  <li>
-    <p>Planificar de forma natural</p>
-
-    <p>2.1. Propòsit i Principis
- 2.2. Objectius
- 2.3. Generalitzar pluja d’idees
- 2.4. Organitzar
- 2.5. Accions</p>
+  <li>Planificar de forma natural
+    <ul>
+      <li>Propòsit i Principis</li>
+      <li>Objectius</li>
+      <li>Generalitzar pluja d’idees</li>
+      <li>Organitzar</li>
+      <li>Accions</li>
+    </ul>
   </li>
-  <li>
-    <p>Els horitzons d’enfoc</p>
-
-    <p>3.1. Propòsit i principis
- 3.2. Visió
- 3.3. Objectius
- 3.4. Àrees d’enfoc
- 3.5. Projectes
- 3.6. Accions</p>
+  <li>Els horitzons d’enfoc
+    <ul>
+      <li>Propòsit i principis</li>
+      <li>Visió</li>
+      <li>Objectius</li>
+      <li>Àrees d’enfoc</li>
+      <li>Projectes</li>
+      <li>Accions</li>
+    </ul>
   </li>
 </ol>
 
@@ -303,7 +309,7 @@
 
 <p>Si pots mantenir el nivell suficient de cadadascú d’aquests dos factors en tu mateix, llavors probablement et donaràs compte que no queda molt de marge de millora. El teu món estarà en ordre i tu estaràs centrat exactament en el que és correcte. Sols quan uno o els dos ingredients disminueixen algo va malament, i es necessita una correcció.</p>
 
-<h5 id="1-víctima-síndrome-el-que-respon">1. <strong>Víctima</strong>. Síndrome: <strong>El que respon</strong></h5>
+<h5 id="1-víctima-síndrome-el-que-respon">1. Víctima. Síndrome: El que respon</h5>
 
 <ul>
   <li>Poc control.</li>
@@ -326,7 +332,7 @@
   <li>Solució: recalibrar.</li>
 </ul>
 
-<h4 id="2-microgestor-síndrome-implementador">2. <strong>Microgestor</strong>. Síndrome: <strong>Implementador</strong></h4>
+<h4 id="2-microgestor-síndrome-implementador">2. Microgestor. Síndrome: Implementador</h4>
 
 <ul>
   <li>S’opera amb un factor d’alt control però baixa perspectiva.</li>
@@ -339,7 +345,7 @@
   <li>La clau aquí és mantenir la capacitat per a desconnectar-te i/o modificar la forma o estructura que et guia, tan prompte com hages complit amb el seu propòsit.</li>
 </ul>
 
-<h4 id="3-creador-boig-síndrome-visionari">3. <strong>Creador boig</strong>. Síndrome: <strong>Visionari</strong></h4>
+<h4 id="3-creador-boig-síndrome-visionari">3. Creador boig. Síndrome: Visionari</h4>
 
 <ul>
   <li>Alt component de perspectiva, però factor baix de control.</li>
@@ -352,7 +358,7 @@
   <li>Fer-te càrrec de massa coses.</li>
 </ul>
 
-<h4 id="4-comandant-en-cap">4. <strong>Comandant en cap</strong></h4>
+<h4 id="4-comandant-en-cap">4. Comandant en cap</h4>
 
 <ul>
   <li>Combinació de <strong>perspectiva</strong> i <strong>estructura</strong>, amb energia i enfoc conduits per <strong>preferències internes</strong> en lloc de per una font externa.</li>
