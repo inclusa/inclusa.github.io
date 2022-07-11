@@ -1,80 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <title>81 L'art de la guerra</title>
-    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
-">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="/productivity/2019-03-19-81-Lart-de-la-guerra/">
-
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-</head>
-
-
-  <body>
-
-    <header class="site-header">
-
-  <div class="wrapper">
-
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- inclusa instead of blog -->
-        <a class="page-link" href="/">blog</a>
-
-        
-          
-          <a class="page-link" href="/about/">id</a>
-          
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/poetry/">sen</a>
-          
-        
-          
-          <a class="page-link" href="/portfolio/">por</a>
-          
-        
-          
-          <a class="page-link" href="/productivitat/">pro</a>
-          
-        
-          
-        
-          
-        
-
-      </div>
-    </nav>
-
-  </div>
-
-</header>
-
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">81 L'art de la guerra</h1>
-    <p class="post-meta">March 19, 2019 — 00:00</p>
-  </header>
-
-  <article class="post-content">
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Llibre: L'art de la guerra
+I"�<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Llibre: L'art de la guerra
 Autor: Sun Tzu
 </code></pre></div></div>
 
@@ -92,7 +16,7 @@ Autor: Sun Tzu
   <li>Si vols fingir cobardia per a conèixer l’estratègia dels adversaris, primer has de ser extremadament valent, perquè sols llavors podràs actuar de forma tímida de manera artificial.</li>
   <li>Fes que els adversaris vegen com a extraordinari el que és ordinari per a tu; fes que veges com a ordinari el que és extraordinari per a tu.</li>
   <li>Les regles militars són cinc: medició, valoració, càlcul, comparació i victòria.</li>
-  <li>Si les teues forces són déu vegades superiors a les de l’adversaris, rodeja’l; si són cinc vegades superiors ataca’l; si són dues vegades superiors dividix-lo.</li>
+  <li>Si les teues forces són déu vegades superiors a les de l’adversaris, rodéja’l; si són cinc vegades superiors atàca’l; si són dues vegades superiors dividix-lo.</li>
   <li>El que és suprem en l’art de la guerra consisteix en sotmetre l’enemic sense donar-li batalla.</li>
   <li>Quan els adversaris estan en posició favorable, has de cansar-los. Quan estan ben alimentats, tallar els suminiestres. Quan estan descansant, fer que es posen en moviment.</li>
   <li>Maniobrar amb un exércit és avantajós. Maniobrar amb una multitud indisciplinada, és perillós.</li>
@@ -100,23 +24,4 @@ Autor: Sun Tzu
   <li>Un general sabi s’ocupa d’avastir-se del seu enemic.</li>
   <li>No presiones a un enemic desesperat. Un animal esgotat seguirà lluitant, doncs eixa és la llei de la natura.</li>
 </ol>
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
-  </div>
-
-</footer>
-
-
-  </body>
-
-</html>
+:ET
