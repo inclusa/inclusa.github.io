@@ -1,0 +1,13 @@
+I"�<p>Per tal de desenvolupar una pàgina web ràpidament amb Bootstrap ens ajudarem de Node JS, npm, Bootstrap i Grunt.</p>
+
+<p>El primer que caldrà fer és instal·lar-lo en una distro derivadea de Debian, com ara Ubuntu.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="nb">sudo </span>apt <span class="nb">install </span>nodejs <span class="o">&amp;&amp;</span>
+<span class="nb">sudo </span>apt <span class="nb">install </span>npm <span class="o">&amp;&amp;</span>
+npm <span class="nb">install </span>boobstrap
+npm update <span class="nt">-g</span> npm
+npm <span class="nb">install</span> <span class="nt">-g</span> grunt-cli
+</code></pre></div></div>
+
+:ET
