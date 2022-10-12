@@ -13,7 +13,7 @@ Les ciències de la complexitat naixen a partir dels anys 50 del segle XX, a par
 
 El món està ple de sistemes caòtics molt depenents de les condicions inciials. El paradigma científic no és capaç de donar solució a aques tema.
 
-	Els sistemes complexos tenen molt components que actuen entre sí. Quants més coponents i major siga la varietat dels seux comportaments, major serà la seua complexitat.
+> Els sistemes complexos tenen molt components que actuen entre sí. Quants més coponents i major siga la varietat dels seux comportaments, major serà la seua complexitat.
 
 
 ### 1. Característiques dels sistemes complexos
@@ -107,4 +107,6 @@ Fonts:
 - Dave Snowden. [Cynefin framework[(https://en.wikipedia.org/wiki/Cynefin_framework). 
 - Polymatas. 12 Palancas para influir en un sistema complejo. [1º Part](https://www.polymatas.com/12-palancas-influir-sistema-complejo-1/) i [2ª Part](https://www.polymatas.com/12-palancas-influir-sistema-complejo-2/)
 - [Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
-
+- Sergio Rodríguez. [¿Qué es Cynefin framework?](https://www.scrumio.com/blog/cynefin-framework/)
+- Kurtz, C.F. & Snowden, D.J. [The new dynamics of strategy: Sense-making in a coomplex amd complicated work](https://alumni.media.mit.edu/~brooks/storybiz/kurtz.pdf)
+- Snowden, David J. andy Boone, Mary E. [A Learder's Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
