@@ -1,0 +1,37 @@
+I"p<p>Per tal de convertir fitxers TXT a PDF des del terminal cal utilitzar les següents ferrramentes:</p>
+
+<ul>
+  <li>lowriter</li>
+  <li>cupsfilter</li>
+  <li>pandoc</li>
+  <li>wkhtml</li>
+</ul>
+
+<h4 id="libreoffice">LibreOffice</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lowriter <span class="nt">--convert-to</span> pdf foo.txt
+</code></pre></div></div>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lowriter <span class="nt">--convert-to</span> pdf <span class="k">*</span>.odt
+</code></pre></div></div>
+
+<h4 id="cups">Cups</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cupsfilter foo.txt <span class="o">&gt;</span> foo.pdf
+</code></pre></div></div>
+
+<h4 id="pandoc">Pandoc</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pandoc <span class="nt">-t</span> txt <span class="nt">-t</span> pdf foo.txt
+</code></pre></div></div>
+
+<p>Utilitza una <code class="language-plaintext highlighter-rouge">template</code> de LaTeX, per la qual cosa genera un format específic.</p>
+
+<h4 id="wkhtmltopdf">wkhtmltopdf</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wkhtmltopdf <span class="nt">--encoding</span> utf8 foo.txt foo.pdf
+</code></pre></div></div>
+
+<p>Després de veure el resultat cal tenir en compte que el l’opció <code class="language-plaintext highlighter-rouge">lowriter</code> sembla la més equilibrada tenint en compte el format de lletra que genera.</p>
+
+:ET

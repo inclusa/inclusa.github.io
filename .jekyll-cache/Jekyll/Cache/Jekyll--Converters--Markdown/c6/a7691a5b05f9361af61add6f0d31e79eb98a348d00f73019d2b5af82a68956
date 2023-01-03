@@ -1,0 +1,23 @@
+I"�<p>Imprimim des de terminal tenint en compte que utilitzem CUPS.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lp fitxer.pdf</code> Imprimeix l’arxiu en la impressora per defecte.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lpstat -p -d</code> Mostra les impressores disponibles.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lp -d Brother_HL_2250DN_series</code> Envia l’arxiu a una impressora específica.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lpoptions -d Brother_HL_2250_series</code> Defineix per defecte aquesta impressora.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lp -o landscape -o media=A4 -n 3 arxiu.pdf</code> S’imprimiran 3 còpies en format horitzontal.</p>
+
+<p><code class="language-plaintext highlighter-rouge">cancel ID-arxiu</code> Cancel·la el treball.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lpmove ID-arxiu Brother_HL_2250_series</code> Mou el treball a la imprissora indicada.</p>
+
+<p><code class="language-plaintext highlighter-rouge">cupsenable Brother_HL_2250_series</code> Habilita aquesta impressora.</p>
+
+<p><code class="language-plaintext highlighter-rouge">cupsdisable Brother_HL_2250_series</code> Deshabilita aquesta impressora.</p>
+
+<p><code class="language-plaintext highlighter-rouge">lp -o landscape -o media=A4 -n 3 *.pdf</code> Imprimeix 3 vegades, de forma apaisada tots els documents en pdf del directori.</p>
+
+:ET

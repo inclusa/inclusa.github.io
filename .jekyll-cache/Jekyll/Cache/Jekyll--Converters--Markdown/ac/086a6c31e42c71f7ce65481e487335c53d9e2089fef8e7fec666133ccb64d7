@@ -1,0 +1,9 @@
+I"¦<p>Per tal dâ€™agrupar PDFs en un sol document podem fer-ho amb pdftk.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pdftk 01.pdf 02.pdf 03.pdf output eixida.pdf
+</code></pre></div></div>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pdftk <span class="k">*</span>.pdf output eixida.pdf
+</code></pre></div></div>
+
+:ET

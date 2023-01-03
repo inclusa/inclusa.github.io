@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>74 TXT to PDF</title>
+    <meta name="description" content="A simple, whitespace, helvetica based portfolio theme.
+">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="/2022/07/25/74-TXT-to-PDF.html">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        <!-- inclusa instead of blog -->
+        <a class="page-link" href="/">blog</a>
+
+        
+          
+          <a class="page-link" href="/about/">id</a>
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/poetry/">sen</a>
+          
+        
+          
+          <a class="page-link" href="/portfolio/">por</a>
+          
+        
+          
+          <a class="page-link" href="/productivitat/">pro</a>
+          
+        
+          
+        
+          
+        
+          
+        
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">74 TXT to PDF</h1>
+    <p class="post-meta">July 25, 2022 — 00:00</p>
+  </header>
+
+  <article class="post-content">
+    <p>Per tal de convertir fitxers TXT a PDF des del terminal cal utilitzar les següents ferrramentes:</p>
+
+<ul>
+  <li>lowriter</li>
+  <li>cupsfilter</li>
+  <li>pandoc</li>
+  <li>wkhtml</li>
+</ul>
+
+<h4 id="libreoffice">LibreOffice</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lowriter <span class="nt">--convert-to</span> pdf foo.txt
+</code></pre></div></div>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>lowriter <span class="nt">--convert-to</span> pdf <span class="k">*</span>.odt
+</code></pre></div></div>
+
+<h4 id="cups">Cups</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cupsfilter foo.txt <span class="o">&gt;</span> foo.pdf
+</code></pre></div></div>
+
+<h4 id="pandoc">Pandoc</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pandoc <span class="nt">-t</span> txt <span class="nt">-t</span> pdf foo.txt
+</code></pre></div></div>
+
+<p>Utilitza una <code class="language-plaintext highlighter-rouge">template</code> de LaTeX, per la qual cosa genera un format específic.</p>
+
+<h4 id="wkhtmltopdf">wkhtmltopdf</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wkhtmltopdf <span class="nt">--encoding</span> utf8 foo.txt foo.pdf
+</code></pre></div></div>
+
+<p>Després de veure el resultat cal tenir en compte que el l’opció <code class="language-plaintext highlighter-rouge">lowriter</code> sembla la més equilibrada tenint en compte el format de lletra que genera.</p>
+
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

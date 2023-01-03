@@ -1,6 +1,6 @@
 ---
 layout: post # 
-title: 114 76 Imprimir des de terminal # Generat automàticament
+title: 76 Imprimir des de terminal # Generat automàticament
 date: 2023-01-03 # Data
 description:  # Argument
 keywords:  # Paraules clau

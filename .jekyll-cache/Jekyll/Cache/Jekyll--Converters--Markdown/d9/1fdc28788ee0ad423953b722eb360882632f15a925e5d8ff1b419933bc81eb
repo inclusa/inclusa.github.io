@@ -1,0 +1,24 @@
+I"�<p>Per tal de copiar una imatge a un pendrive seguirem aquest procediment.</p>
+
+<p>Primer caldrà identificar la unitat del pendrive, això serà crític, ja que una errada en aquest pas podria portar-nos a formatar un disc senser per error.</p>
+
+<p>Per identifiar-ho:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>dmesg | <span class="nb">grep</span> <span class="nt">-i</span> <span class="s1">'attached'</span> 
+</code></pre></div></div>
+
+<p>Això ens donarà la següent informació:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">[</span><span class="nb">sudo</span><span class="o">]</span> contrasenya per a lliurex: 
+<span class="o">[</span> 2167.098710] sd 3:0:0:0: <span class="o">[</span>sdd] Attached SCSI removable disk
+<span class="o">[</span>11682.594403] sd 3:0:0:0: <span class="o">[</span>sdd] Attached SCSI removable disk
+</code></pre></div></div>
+
+<p>Identifiquem el pendrive com a [sdd] en aquest cas.</p>
+
+<p>En cas de dubte executar <code class="language-plaintext highlighter-rouge">sudo gparted</code> i identificar molt clarament la unitat en qüestió.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">dd </span><span class="k">if</span><span class="o">=</span>/home/lliurex/Baixades/lliurex.iso <span class="nv">of</span><span class="o">=</span>/dev/sdd <span class="nv">bs</span><span class="o">=</span>16M <span class="nv">oflag</span><span class="o">=</span>direct <span class="nv">status</span><span class="o">=</span>progress
+
+</code></pre></div></div>
+:ET
