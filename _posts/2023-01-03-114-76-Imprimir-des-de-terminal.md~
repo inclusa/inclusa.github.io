@@ -1,0 +1,16 @@
+---
+layout: post # 
+title: 114 76 Imprimir des de terminal # Generat automàticament
+date: 2023-01-03 # Data
+description:  # Argument
+keywords:  # Paraules clau
+coments:  # Comentaris
+---
+
+Imprimim des de terminal tenint en compte que utilitzem CUPS.
+
+`lp fitxer.pdf` Imprimeix l'arxiu en la impressora per defecte.
+
+`lpstat -p -d` Mostra les impressores disponibles.
+
+`lp -d Brother`
