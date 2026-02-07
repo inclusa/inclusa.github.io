@@ -1,6 +1,6 @@
 ---
 layout: post # Disseny
-title: 72 NodeJS, npm, Bootstrat i Grunt # Generat de forma automàtica
+title: 72 NodeJS, npm, Bootstrap i Grunt # Generat de forma automàtica
 date: 2022-07-17 # Data
 description:  # Argument
 keywords:  # Paraules clau
